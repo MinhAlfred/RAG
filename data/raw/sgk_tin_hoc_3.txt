@@ -1,0 +1,1440 @@
+### TRANG 1
+
+KẾT NỐI TRỊ THỨC VỚI CUỘC SỐNG
+NGUYỄN CHÍ CÔNG (Tổng Chủ biên)
+HOÀNG THỊ MAI (Chủ biên)
+PHAN ANH - NGUYỄN THU HIỀN – NGUYỄN BÁ TUẤN
+HÀ ĐẶNG CAO TÙNG – ĐẶNG BÍCH VIỆT
+TIN HỌC 3
+NHÀ XUẤT BẢN GIÁO DỤC VIỆT NAM
+
+--------------------------------------------------
+
+### TRANG 2
+
+NGUYỄN CHÍ CÔNG (Tổng Chủ biên)
+HOÀNG THỊ MAI (Chủ biên)
+PHAN ANH - NGUYỄN THU HIỀN – NGUYỄN BÁ TUẤN
+HÀ ĐẶNG CAO TÙNG – ĐẶNG BÍCH VIỆT
+TIN HỌC 3
+KẾT NỐI TRỊ THỨC VỚI CUỘC SỐNG
+NHÀ XUẤT BẢN GIÁO DỤC VIỆT NAM
+
+--------------------------------------------------
+
+### TRANG 3
+
+HƯỚNG DẪN SỬ DỤNG SÁCH
+Mục tiêu: Giúp em biết sẽ đạt được gì sau bài học. 
+KHỞI ĐỘNG: Giúp em nhận biết ý nghĩa của bài học bằng cách kết nối những tình huống xuất hiện trong cuộc sống với nội dung bài học. 
+NỘI DUNG BÀI HỌC
+* Các hoạt động: Giúp lớp học tích cực, bài học dễ tiếp thu, em chủ động hơn trong quá trình nhận thức. 
+* Kiến thức mới: Cung cấp nội dung chính của bài học, giúp em bổ sung kiến thức nhằm đạt được mục tiêu của bài học. 
+* Hộp kiến thức: Chứa những phát biểu ngắn gọn, dễ ghi nhớ, giúp em thuận tiện trong việc ôn tập và củng cố kiến thức. 
+* Câu hỏi: Giúp em kiểm tra xem mình đã hiểu bài chưa. 
+LUYỆN TẬP: Gồm những câu hỏi, bài tập để củng cố kiến thức, kĩ năng trong bài học. 
+VẬN DỤNG: Gồm những câu hỏi, bài tập yêu cầu em dựa vào kiến thức, kĩ năng đã học để giải quyết tình huống thực tiễn. 
+Ba bạn Minh, An, Khoa sẽ đồng hành cùng em trong cuốn sách này. 
+Hãy bảo quản, giữ gìn sách giáo khoa để dành tặng các em học sinh lớp sau! 
+
+--------------------------------------------------
+
+### TRANG 4
+
+LỜI NÓI ĐẦU
+Các em học sinh yêu quý!
+Năm học này, các em được học một môn học mới – môn Tin học.  Môn học sẽ giúp em khám phá nhiều điều kì thú về thế giới tự nhiên và cuộc sống con người bằng cách sử dụng máy tính. 
+Cuốn sách này sẽ giúp em biết về thông tin xung quanh chúng ta, hướng dẫn em cách sắp xếp thông tin và dữ liệu một cách hợp lí để dễ tìm kiếm. 
+Các em sẽ được làm quen với máy tính và biết sử dụng một số phần mềm máy tính để giải quyết nhiệm vụ học tập.  Sách giáo khoa Tin học 3 hướng tới việc rèn kĩ năng sử dụng máy tính một cách an toàn.  Em sẽ biết bảo vệ sức khoẻ khi sử dụng máy tính và có ý thức bảo vệ thông tin cá nhân và gia đình khi giao tiếp qua máy tính. 
+Mỗi bài học của cuốn sách đều được viết thật dễ hiểu.  Những ví dụ, bài tập hay tình huống trong sách được trình bày sinh động, hấp dẫn và gần gũi, giúp em nuôi dưỡng niềm vui khi học tập môn Tin học. 
+Chúc các em học tập chăm chỉ và thành công! 
+CÁC TÁC GIẢ 
+
+--------------------------------------------------
+
+### TRANG 5
+
+MỤC LỤC
+* Chủ đề 1. Máy tính và em, Trang 5
+    * Bài 1. Thông tin và quyết định, Trang 5
+    * Bài 2. Xử lí thông tin, Trang 9
+    * Bài 3. Máy tính và em, Trang 13
+    * Bài 4. Làm việc với máy tính, Trang 18
+    * Bài 5. Sử dụng bàn phím, Trang 25
+* Chủ đề 2. Mạng máy tính và Internet, Trang 30
+    * Bài 6. Khám phá thông tin trên Internet, Trang 30
+* Chủ đề 3. Tổ chức lưu trữ, tìm kiếm và trao đổi thông tin, Trang 34
+    * Bài 7. Sắp xếp để dễ tìm, Trang 34
+    * Bài 8. Sơ đồ hình cây. Tổ chức thông tin trong máy tính, Trang 38
+    * Bài 9. Thực hành với tệp và thư mục trong máy tính, Trang 42
+* Chủ đề 4. Đạo đức, pháp luật và văn hoá trong môi trường số, Trang 46
+    * Bài 10. Bảo vệ thông tin khi dùng máy tính, Trang 46
+* Chủ đề 5. Ứng dụng tin học, Trang 50
+    * Bài 11. Bài trình chiếu của em, Trang 50
+    * Bài 12. Tìm hiểu về thế giới tự nhiên, Trang 55
+    * Bài 13. Luyện tập sử dụng chuột, Trang 59
+* Chủ đề 6. Giải quyết vấn đề với sự trợ giúp của máy tính, Trang 63
+    * Bài 14. Em thực hiện công việc như thế nào?, Trang 63
+    * Bài 15. Công việc được thực hiện theo điều kiện, Trang 67
+    * Bài 16. Công việc của em và sự trợ giúp của máy tính, Trang 71
+* Bảng giải thích thuật ngữ, Trang 75
+
+--------------------------------------------------
+
+### TRANG 6
+
+CHỦ ĐỀ 1. MÁY TÍNH VÀ EM
+BÀI 1: THÔNG TIN VÀ QUYẾT ĐỊNH
+Sau bài này em sẽ:
+* Nêu được ví dụ đơn giản minh hoạ cho vai trò quan trọng của thông tin thu nhận hằng ngày đối với việc ra quyết định của con người. 
+* Nhận biết được thông tin và quyết định trong ví dụ cụ thể. 
+* Nhận biết được ba dạng thông tin thường gặp là chữ, âm thanh, hình ảnh. 
+
+KHỞI ĐỘNG
+Mỗi sáng, khi tiếng chuông đồng hồ báo thức reo lên, Minh quyết định thức dậy, rời khỏi giường để vệ sinh cá nhân, ăn sáng và đi học. 
+
+1. THÔNG TIN VÀ QUYẾT ĐỊNH
+HOẠT ĐỘNG 1: Tìm hiểu thông tin và quyết định
+Câu hỏi 1: Trong Hoạt động khởi động, tiếng chuông cho bạn Minh biết điều gì? Từ những điều đó, bạn Minh đã ra những quyết định gì? [cite: 66, 67]
+Đáp án: Tiếng chuông cho bạn Minh biết đã đến giờ thức dậy để đi học.  Từ đó, bạn Minh quyết định thức dậy, rời khỏi giường, vệ sinh cá nhân, ăn sáng và đi học. 
+
+Câu hỏi 2: Em hãy kể một vài quyết định của em trong cuộc sống. 
+Đáp án: (Câu hỏi mở, học sinh tự trả lời)
+
+--------------------------------------------------
+
+### TRANG 7
+
+Dự định Minh muốn thực hiện khi ra khỏi nhà là thông tin giúp Minh quyết định chọn trang phục phù hợp. 
+* Thông tin: Ra khỏi nhà để đi đá bóng. Quyết định: Mặc bộ quần áo thể thao và đi đôi giày yêu thích. 
+* Thông tin: Ra khỏi nhà để đi học. Quyết định: Mặc đồng phục. 
+
+Những điều em biết là thông tin. Từ thông tin thu được, sau khi suy nghĩ, em sẽ đưa ra quyết định của mình. 
+
+Câu hỏi 1: Trong lớp, Minh thấy An vui vẻ, hoà đồng, dễ nói chuyện, Minh muốn kết bạn với An. Em hãy cho biết câu nào sau đây là thông tin, câu nào là quyết định.
+A. Minh thấy An vui vẻ, hoà đồng, dễ nói chuyện. 
+B. Minh muốn kết bạn với An. 
+Đáp án: A là thông tin, B là quyết định.
+
+Câu hỏi 2: Mẹ chuẩn bị đi làm. Thấy trời mưa, Khoa đưa áo mưa cho mẹ. Em hãy chỉ ra thông tin và quyết định trong tình huống trên.
+Đáp án: Thông tin là "trời mưa". Quyết định của Khoa là "đưa áo mưa cho mẹ". 
+
+2. VAI TRÒ CỦA THÔNG TIN TRONG QUYẾT ĐỊNH
+HOẠT ĐỘNG 2: Vai trò của thông tin
+Câu hỏi: Theo thời khoá biểu, hôm nay có tiết Giáo dục thể chất nên Minh mang giày thể thao đi học để thuận tiện cho việc tập đội hình, đội ngũ.
+a) Bạn Minh đã quyết định điều gì?
+b) Dựa trên thông tin nào Minh đã quyết định điều đó?
+Đáp án:
+a) Minh quyết định đi giày thể thao đi học. 
+b) Minh quyết định dựa trên thông tin "hôm nay có tiết Giáo dục thể chất". 
+
+--------------------------------------------------
+
+### TRANG 8
+
+Cần phải có thông tin để ra quyết định. 
+
+Câu hỏi 1: Đã 12 giờ trưa. Mẹ nhắc Minh: "Hãy ngủ đi một lát, con sẽ thấy khoẻ khoắn cả buổi chiều". Nghe lời mẹ, Minh nằm và nhắm mắt lại.
+a) Minh đã ra quyết định gì? 
+b) Điều gì giúp Minh ra quyết định ấy? 
+Đáp án:
+a) Minh đã ra quyết định đi ngủ. 
+b) Lời khuyên của mẹ đã giúp Minh ra quyết định. 
+
+Câu hỏi 2: Em hãy nêu một ví dụ về quyết định của mình. Thông tin nào giúp em có quyết định đó? 
+Đáp án: (Câu hỏi mở, học sinh tự trả lời)
+
+3. BA DẠNG THÔNG TIN THƯỜNG GẶP
+HOẠT ĐỘNG 3: Thế giới quanh ta
+Câu hỏi: Quan sát tình huống Minh và An đến trường ở Hình 1. Em hãy cho biết hai bạn có thể nhìn thấy và nghe thấy gì?
+Đáp án: Hai bạn có thể nhìn thấy dòng chữ tên trường, hình vẽ trên bức tranh. Hai bạn có thể nghe thấy tiếng chim hót. [cite: 110, 111]
+
+Ba dạng thông tin thường gặp là dạng chữ, dạng hình ảnh và dạng âm thanh. 
+
+--------------------------------------------------
+
+### TRANG 9
+
+Câu hỏi: ở hành lang lớp học có một tấm biển như Hình 2: "Muốn biết thì hỏi, Muốn giỏi thì học".
+a) Thông tin em nhận được từ tấm biển là gì? 
+b) Thông tin đó thuộc dạng thông tin nào? 
+Đáp án:
+a) Thông tin nhận được là lời khuyên "Muốn biết thì hỏi, muốn giỏi thì học". 
+b) Thông tin đó thuộc dạng chữ. 
+
+LUYỆN TẬP
+Câu hỏi 1: Đi học về, An xem trước bài hôm sau để đến lớp hiểu bài tốt hơn. Câu nào sau đây là thông tin, câu nào là quyết định?
+A. Xem trước bài cho ngày hôm sau sẽ giúp em hiểu bài tốt hơn. 
+B. An xem trước bài hôm sau khi đi học về. 
+Đáp án: A là thông tin, B là quyết định.
+
+Câu hỏi 2: Có ba loại thùng rác như Hình 3 (RÁC HỮU CƠ, GIẤY LOẠI, RÁC KHÁC).
+a) Điều gì giúp em bỏ rác vào đúng thùng? 
+b) Đó là thông tin thuộc dạng nào? 
+Đáp án:
+a) Các dòng chữ và hình ảnh trên thùng rác giúp em bỏ rác vào đúng thùng. [cite: 125, 126, 127]
+b) Đó là thông tin dạng chữ và dạng hình ảnh. 
+
+--------------------------------------------------
+
+### TRANG 10
+
+BÀI 2: XỬ LÍ THÔNG TIN
+Sau bài này em sẽ:
+* Nhận biết được thông tin thu nhận và được xử lí, kết quả của xử lí là hành động hay suy nghĩ. 
+* Nêu được ví dụ minh hoạ cho thấy bộ não của con người là một bộ phận xử lí thông tin. 
+* Nêu được ví dụ cho thấy có những máy móc cũng tiếp nhận thông tin để quyết định hành động. 
+* Nhận biết được máy móc đã xử lí thông tin gì và kết quả xử lí ra sao. 
+
+KHỞI ĐỘNG
+HOẠT ĐỘNG 1: Hát theo video
+Câu hỏi: Hãy hình dung một người hát theo video.
+1. Tai và mắt của người đó làm nhiệm vụ gì trong lúc hát? 
+2. Bộ não của người đó làm nhiệm vụ gì trong lúc hát? 
+Đáp án:
+1. Mắt theo dõi lời bài hát, tai nghe tiếng nhạc. 
+2. Bộ não kết hợp chúng lại, xử lí thông tin và chuyển thành hành động (hát). [cite: 151, 153]
+
+1. CON NGƯỜI XỬ LÍ THÔNG TIN
+Quá trình xử lí thông tin của con người: Thu nhận thông tin -> Xử lí thông tin -> Quyết định. [cite: 154, 155, 157]
+
+--------------------------------------------------
+
+### TRANG 11
+
+Bộ não là nơi xử lí thông tin, tạo ra quyết định, điều khiển các suy nghĩ và hành động của con người. 
+
+Câu hỏi 1: Bộ phận nào của con người làm nhiệm vụ xử lí thông tin?
+A. Chân tay.
+B. Đôi tai.
+C. Bộ não.
+D. Đôi mắt.
+Đáp án đúng là: C. Bộ não. 
+
+Câu hỏi 2: Quan sát một người đang thả diều. Khi dây diều bị chùng, diều không lên cao, người đó quyết định chạy ngược chiều gió để dây diều căng ra. Em hãy ghép mỗi mục ở cột A với một mục thích hợp ở cột B.
+Cột A
+1) Thông tin được thu nhận và xử lí
+2) Kết quả của việc xử lí thông tin
+Cột B
+a) Chạy ngược chiều gió để dây diều căng ra.
+b) Dây diều bị chùng, diều không lên cao.
+Đáp án: 1 ghép với b, 2 ghép với a.
+
+2. MÁY XỬ LÍ THÔNG TIN
+HOẠT ĐỘNG 2: Thiết bị điều khiển được
+Câu hỏi: Hãy kể tên một số thiết bị điện trong gia đình có thể điều khiển được. Em hãy cho biết những thiết bị đó được điều khiển như thế nào? 
+Đáp án: Các thiết bị như ti vi, máy giặt, điều hoà nhiệt độ. Con người điều khiển chúng bằng cách cung cấp thông tin (ví dụ: bấm nút trên điều khiển). 
+
+--------------------------------------------------
+
+### TRANG 12
+
+Có nhiều thiết bị tiếp nhận thông tin để quyết định hành động. 
+
+Câu hỏi 1: Minh chụp ảnh cánh đồng lúa bằng điện thoại thông minh. Khi đó, thông tin được điện thoại thu nhận thuộc dạng gì? Sau khi xử lí, kết quả là gì? 
+Đáp án: Thông tin được thu nhận thuộc dạng hình ảnh. Sau khi xử lí, kết quả là một tệp ảnh được lưu trong điện thoại.
+
+Câu hỏi 2: Em hãy nêu ví dụ về một hoạt động của chiếc quạt điện có điều khiển từ xa. Trong hoạt động đó thông tin tiếp nhận là gì? Chiếc quạt quyết định hành động thế nào? 
+Đáp án: Ví dụ: Bấm nút "Tăng tốc độ" trên điều khiển. Thông tin tiếp nhận là tín hiệu "tăng tốc độ". Chiếc quạt quyết định hành động bằng cách quay nhanh hơn.
+
+--------------------------------------------------
+
+### TRANG 13
+
+LUYỆN TẬP
+Câu hỏi 1: Bố vừa kể cho Minh nghe một câu chuyện hay. Minh nghĩ là sẽ kể lại cho An và Khoa. Em hãy ghép mỗi mục ở cột A với một mục thích hợp ở cột B.
+Cột A
+1) Câu chuyện hay mà Minh được bố kể cho nghe.
+2) Minh quyết định sẽ kể lại cho An và Khoa.
+Cột B
+a) Thông tin bộ não tiếp nhận.
+b) Kết quả xử lí thông tin của bộ não.
+Đáp án: 1 ghép với a, 2 ghép với b.
+
+Câu hỏi 2: Khi nhấn vào nút dấu cộng (+) của bếp từ, bếp đã tiếp nhận được thông tin gì và đã quyết định hành động như thế nào? 
+Đáp án: Bếp đã tiếp nhận thông tin "tăng nhiệt độ" và quyết định hành động là làm mặt bếp nóng hơn.
+
+--------------------------------------------------
+
+### TRANG 14
+
+BÀI 3: MÁY TÍNH VÀ EM
+Sau bài này em sẽ:
+* Nhận diện và phân biệt được hình dạng của máy tính thông dụng cùng các bộ phận cơ bản. 
+* Nêu được sơ lược về chức năng của thân máy, bàn phím, chuột, màn hình và loa. 
+* Nhận biết được màn hình cảm ứng cũng là thiết bị tiếp nhận thông tin vào. 
+* Biết thực hiện quy tắc an toàn về điện. 
+
+1. CÁC BỘ PHẬN CƠ BẢN CỦA MÁY TÍNH ĐỂ BÀN
+HOẠT ĐỘNG 1: Các bộ phận cơ bản của máy tính để bàn
+Câu hỏi: Em hãy gọi tên các bộ phận cơ bản của máy tính để bàn được đánh số trong Hình 8. 
+Đáp án: 1. Màn hình; 2. Thân máy; 3. Bàn phím; 4. Chuột.
+
+--------------------------------------------------
+
+### TRANG 15
+
+Các bộ phận cơ bản của máy tính:
+* Thân máy: Là bộ phận quan trọng nhất, có bộ xử lí điều khiển mọi hoạt động. [cite: 228, 229]
+* Màn hình: Hiển thị kết quả làm việc của máy tính. 
+* Bàn phím: Dùng để gửi tín hiệu vào máy tính khi gõ phím. 
+* Chuột máy tính: Giúp điều khiển máy tính thuận tiện hơn. 
+
+Máy tính để bàn có các bộ phận cơ bản là thân máy, màn hình, bàn phím và chuột.  Ngoài ra còn có loa để phát âm thanh. 
+
+Câu hỏi 1: Các bộ phận cơ bản của máy tính để bàn là:
+A. Màn hình, máy in, bàn phím.
+B. Màn hình, bàn phím, thân máy, chuột.
+C. Thân máy, loa, bàn phím.
+Đáp án đúng là: B. Màn hình, bàn phím, thân máy, chuột. 
+
+Câu hỏi 2: Bộ phận nào sau đây của máy tính dùng để nhập thông tin?
+A. Màn hình.
+B. Bàn phím.
+C. Thân máy.
+Đáp án đúng là: B. Bàn phím. 
+
+--------------------------------------------------
+
+### TRANG 16
+
+2. MỘT SỐ LOẠI MÁY TÍNH THÔNG DỤNG KHÁC
+HOẠT ĐỘNG 2: Nhận biết các bộ phận của máy tính xách tay
+Câu hỏi: Em hãy quan sát Hình 14 và ghép các cụm từ thân máy, màn hình, chuột, bàn phím tương ứng với các bộ phận được đánh số của máy tính xách tay. Em hãy chỉ ra hai đặc điểm khác so với máy tính để bàn. [cite: 254, 255]
+Đáp án: 1. Màn hình; 2. Bàn phím; 3. Thân máy (nằm bên dưới bàn phím); 4. Chuột (vùng cảm ứng chuột).
+Hai đặc điểm khác: các bộ phận được gắn liền với nhau và chuột là vùng cảm ứng. [cite: 261, 262]
+
+Điện thoại thông minh, máy tính bảng có màn hình cảm ứng vừa là chuột vừa là bàn phím. 
+
+Câu hỏi: Bộ phận nào của điện thoại thông minh thực hiện chức năng của chuột và bàn phím? 
+Đáp án: Màn hình cảm ứng. 
+
+--------------------------------------------------
+
+### TRANG 17
+
+3. AN TOÀN VỀ ĐIỆN KHI SỬ DỤNG MÁY TÍNH
+HOẠT ĐỘNG 3: An toàn về điện
+Câu hỏi: Hành động của mỗi bạn trong hình sau đúng hay sai? Giải thích tại sao? 
+Đáp án:
+* Hình a: Sai. Bạn nhỏ tự ý cắm dây vào máy tính, có thể gây nguy hiểm về điện. 
+* Hình b: Đúng. Bạn nhỏ báo cho người lớn khi phát hiện phích cắm bị lỏng, đây là hành động an toàn. 
+
+Để tránh tai nạn về điện, cần tuân thủ các quy tắc an toàn. 
+NÊN:
+* Hỏi người lớn khi muốn bật/tắt máy tính. 
+* Thông báo cho người lớn khi dây điện có vấn đề. 
+* Dùng khăn mềm, chổi để vệ sinh máy tính. 
+* Giữ khu vực máy tính sạch sẽ. 
+* Sạc đầy pin trước khi sử dụng. 
+KHÔNG NÊN:
+* Tự cắm hoặc rút dây điện. 
+* Dùng vật nhọn cắm vào nguồn điện. 
+* Dùng khăn ướt để lau máy tính. 
+* Ăn uống gần máy tính. 
+* Vừa sạc pin vừa sử dụng thiết bị. 
+
+--------------------------------------------------
+
+### TRANG 18
+
+Câu hỏi 1: Trong phòng thực hành, khi phát hiện dây của chuột máy tính không được cắm vào máy tính, em sẽ làm gì?
+A. Cắm lại.
+B. Thông báo với thầy cô.
+C. Lấy ra chơi.
+Đáp án đúng là: B. Thông báo với thầy cô. 
+
+Câu hỏi 2: Để vệ sinh bàn phím máy tính, em nên sử dụng công cụ nào?
+A. Bình xịt.
+B. Khăn ướt.
+C. Chổi phủi bụi.
+Đáp án đúng là: C. Chổi phủi bụi. 
+
+LUYỆN TẬP
+Câu hỏi 1: Em hãy ghép mỗi mục ở cột A với một mục thích hợp ở cột B.
+Cột A
+1) Màn hình
+2) Bộ xử lí trong thân máy
+3) Chuột
+4) Bàn phím
+Cột B
+a) dùng để nhập thông tin vào máy tính.
+b) giúp em điều khiển máy tính thuận lợi hơn.
+c) hiển thị kết quả làm việc của máy tính.
+d) điều khiển mọi hoạt động của máy tính.
+Đáp án: 1-c, 2-d, 3-b, 4-a.
+
+Câu hỏi 2: Trong máy tính bảng và điện thoại thông minh, bộ phận nào tiếp nhận thông tin vào?
+A. Thân máy.
+C. Màn hình cảm ứng.
+Đáp án đúng là: C. Màn hình cảm ứng. 
+
+Câu hỏi 3: Minh đang sử dụng máy tính trong phòng thì phát hiện có mùi khét từ dây điện, theo em Minh nên làm gì?
+A. Tiếp tục công việc của mình.
+B. Mở cửa to cho bớt mùi khét.
+C. Chạy ra ngoài báo với người lớn.
+D. Rút dây cắm điện.
+Đáp án đúng là: C. Chạy ra ngoài báo với người lớn. 
+
+--------------------------------------------------
+
+### TRANG 19
+
+BÀI 4: LÀM VIỆC VỚI MÁY TÍNH
+Sau bài này em sẽ:
+* Biết và ngồi đúng tư thế khi làm việc với máy tính. 
+* Nêu được tác hại của việc ngồi sai tư thế. 
+* Biết cầm chuột đúng cách và thực hiện được các thao tác cơ bản. 
+* Khởi động và tắt máy tính đúng cách. [cite: 326, 327]
+
+1. TƯ THẾ NGỒI KHI SỬ DỤNG MÁY TÍNH
+HOẠT ĐỘNG 1: Tìm hiểu về tư thế ngồi khi sử dụng máy tính
+Câu hỏi: Tư thế ngồi khi sử dụng máy tính của bạn nào sau đây chưa đúng? Vì sao?
+Đáp án:
+* Bạn a): Chưa đúng. Tay đặt quá cao so với bàn phím.
+* Bạn b): Chưa đúng. Lưng gù, mắt quá gần màn hình.
+* Bạn c): Đúng tư thế.
+
+--------------------------------------------------
+
+### TRANG 20
+
+Khi sử dụng máy tính, em ngồi thẳng lưng, tư thế thoải mái. Mắt hướng ngang tầm màn hình và cách xa khoảng 50 – 80 cm. Tay đặt ngang tầm với bàn phím. [cite: 343, 344, 345]
+Ngồi đúng tư thế giúp em tránh được các bệnh về cột sống và mắt. 
+Không nên sử dụng máy tính trong thời gian dài, nên nghỉ ngơi sau khoảng 30 phút. [cite: 351, 352, 353]
+Khi sử dụng máy tính cần ngồi đúng tư thế và giữ đúng khoảng cách để bảo vệ sức khoẻ. 
+
+Câu hỏi 1: Tư thế ngồi khi sử dụng máy tính đúng sẽ giúp em tránh nguy cơ mắc những bệnh nào sau đây?
+A. Vẹo cột sống.
+B. Đau tai.
+C. Cận thị.
+D. Đau chân.
+Đáp án đúng là: A. Vẹo cột sống và C. Cận thị. [cite: 359, 360]
+
+Câu hỏi 2: Tư thế nào sau đây là đúng khi sử dụng máy tính?
+Đáp án: Tư thế C (ngồi thẳng lưng, mắt ngang tầm màn hình).
+
+2. CHUỘT MÁY TÍNH
+HOẠT ĐỘNG 2: Tìm hiểu về chuột máy tính
+Câu hỏi: Em hãy quan sát Hình 20 và ghép các cụm từ nút trái, nút phải, nút cuộn tương ứng với các bộ phận được đánh số của chuột máy tính.
+Đáp án: 1. Nút trái; 2. Nút phải; 3. Nút cuộn.
+
+### TRANG 21
+
+Chuột thường có nút trái, nút phải và nút cuộn.
+Cách cầm chuột: Cầm chuột bằng tay phải, ngón trỏ đặt vào nút trái chuột, ngón giữa đặt vào nút phải chuột, ngón cái và các ngón còn lại giữ hai bên thân chuột.
+Các thao tác cơ bản với chuột: Thao tác với chuột chính là thao tác để điều khiển con trỏ chuột trên màn hình. Các thao tác với chuột gồm có:
+* Di chuyển chuột: Thay đổi vị trí của chuột đến vị trí khác.
+* Nháy chuột: Dùng ngón trỏ nhấn nút trái chuột một lần.
+* Nháy nút phải chuột: Dùng ngón giữa nhấn nút phải chuột một lần.
+* Nháy đúp chuột: Dùng ngón trỏ nhấn nút trái chuột nhanh hai lần liên tiếp.
+* Kéo thả chuột: Nhấn giữ nút trái chuột, di chuyển con trỏ chuột đến vị trí mới thì thả ngón tay.
+
+Câu hỏi: Khi điều khiển chuột cũng là điều khiển con trỏ chuột trên màn hình?
+A. Đúng.
+B. Sai.
+Đáp án đúng là: A. Đúng.
+
+--------------------------------------------------
+
+### TRANG 22
+
+#### 3. THỰC HÀNH LÀM VIỆC VỚI MÁY TÍNH
+
+NHIỆM VỤ 1: Ngồi đúng tư thế khi sử dụng máy tính và cầm chuột đúng cách.
+HƯỚNG DẪN
+Bước 1: Em ngồi vào máy tính đúng tư thế như mô tả ở Hình 19. Chú ý giữ đúng khoảng cách giữa mắt với màn hình.
+Bước 2: Em cầm chuột đúng như mô tả ở Hình 21.
+
+NHIỆM VỤ 2: Bật máy tính, quan sát sự thay đổi trên màn hình.
+HƯỚNG DẪN
+Bước 1: Quan sát để đảm bảo máy tính đã kết nối với nguồn điện, nhấn nút công tắc trên thân máy và màn hình máy tính. Chờ để máy tính khởi động xong.
+Bước 2: Sau khi khởi động xong, quan sát màn hình máy tính (màn hình nền).
+
+--------------------------------------------------
+
+### TRANG 23
+
+NHIỆM VỤ 3: Thực hiện các thao tác với chuột trên màn hình nền: di chuyển chuột, nháy chuột để chọn biểu tượng, kéo thả chuột để di chuyển một biểu tượng đến vị trí khác, nháy đúp chuột để khởi động phần mềm, nháy chuột để thoát khỏi phần mềm.
+HƯỚNG DẪN
+* Di chuyển chuột máy tính trên mặt bàn, quan sát sự di chuyển của con trỏ chuột trên màn hình nền.
+* Nháy chuột vào một biểu tượng trên màn hình nền, quan sát sự thay đổi của biểu tượng trên màn hình nền (Hình 26.a).
+* Nháy nút phải chuột vào một biểu tượng trên màn hình nền, quan sát sự thay đổi trên màn hình nền (Hình 26.b).
+* Nháy chuột vào một biểu tượng trên màn hình nền, kéo thả chuột để di chuyển biểu tượng đó đến vị trí khác (Hình 27).
+
+--------------------------------------------------
+
+### TRANG 24
+
+* Nháy đúp chuột vào biểu tượng W trên màn hình nền. Cửa sổ phần mềm Microsoft Word được mở ra tương tự Hình 28.
+* Nháy chuột vào nút ở góc trên, bên phải cửa sổ để đóng phần mềm.
+
+NHIỆM VỤ 4: Tắt máy tính đúng cách và một số thao tác cần lưu ý khi làm việc với máy tính.
+HƯỚNG DẪN
+Các bước tắt máy tính:
+* Bước 1: Nháy chuột vào nút Start ở góc dưới, bên trái màn hình nền để mở bảng chọn như Hình 29.
+* Bước 2: Nháy chuột vào Power.
+* Bước 3: Nháy chuột vào Shut down để tắt máy.
+* Bước 4: Nhấn nút công tắc để tắt màn hình (đối với máy tính để bàn).
+
+--------------------------------------------------
+
+### TRANG 25
+
+MỘT SỐ LƯU Ý KHI LÀM VIỆC VỚI MÁY TÍNH
+* Không nhấn nút công tắc trên thân máy để tắt máy tính.
+* Không ngắt điện khi máy tính đang hoạt động.
+* Trước khi tắt máy tính cần đóng các phần mềm đang mở.
+* Không tự ý xoá các biểu tượng trên màn hình nền.
+* Không di chuyển màn hình, thân máy khi máy tính để bàn đang hoạt động.
+
+LUYỆN TẬP
+Câu hỏi 1: Thao tác nào đúng khi tắt máy tính?
+A. Rút phích cắm điện.
+B. Nhấn nút công tắc trên thân máy tính.
+C. Đóng các phần mềm đang mở và chọn Start > Power > Shut down.
+Đáp án đúng là: C. Đóng các phần mềm đang mở và chọn Start > Power > Shut down.
+
+Câu hỏi 2: Em sử dụng thao tác nào để di chuyển biểu tượng Recycle Bin từ vị trí này sang vị trí khác trên màn hình nền?
+A. Nháy chuột.
+B. Nháy đúp chuột.
+C. Kéo thả chuột.
+Đáp án đúng là: C. Kéo thả chuột.
+
+--------------------------------------------------
+
+### TRANG 26
+
+BÀI 5: SỬ DỤNG BÀN PHÍM
+Sau bài này em sẽ:
+* Chỉ ra được khu vực chính của bàn phím và gọi được tên các hàng phím.
+* Biết vị trí đặt các ngón tay trên hàng phím cơ sở và thực hiện được thao tác gõ các phím ở hàng phím cơ sở, hàng phím trên, hàng phím dưới đúng quy định.
+
+1. BÀN PHÍM MÁY TÍNH
+HOẠT ĐỘNG 1: Tìm hiểu về bàn phím máy tính
+Câu hỏi: Quan sát bàn phím và các khu vực của bàn phím ở Hình 31, em hãy chỉ ra khu vực nào có nhiều phím nhất?
+Đáp án: Khu vực số 2 ở Hình 31 là khu vực chính của bàn phím và có nhiều phím nhất.
+
+--------------------------------------------------
+
+### TRANG 27
+
+Khu vực chính của bàn phím gồm: hàng phím số, hàng phím trên, hàng phím cơ sở, hàng phím dưới và hàng phím chứa phím dấu cách.
+Hai phím có gờ là F và J nằm trên hàng phím cơ sở.
+Cách đặt tay trên bàn phím: Khi gõ bàn phím em đặt tay ở vị trí xuất phát trên hàng phím cơ sở. Hai ngón trỏ đặt lên hai phím có gờ (F và J), hai ngón cái đặt vào phím cách, các ngón khác đặt tương ứng các phím trên hàng phím cơ sở. Để gõ nhanh và chính xác mỗi ngón tay chỉ gõ một số phím nhất định. Mỗi khi gõ xong, em đưa ngón tay về vị trí xuất phát trên hàng phím cơ sở.
+
+--------------------------------------------------
+
+### TRANG 28
+
+Câu hỏi 1: Các phím F, J thuộc hàng phím nào?
+A. Hàng phím trên.
+B. Hàng phím cơ sở.
+C. Hàng phím dưới.
+Đáp án đúng là: B. Hàng phím cơ sở.
+
+Câu hỏi 2: Khi gõ xong, các ngón tay của em phải đặt ở hàng phím nào?
+A. Hàng phím trên.
+B. Hàng phím cơ sở.
+C. Hàng phím dưới.
+Đáp án đúng là: B. Hàng phím cơ sở.
+
+2. THỰC HÀNH SỬ DỤNG BÀN PHÍM
+NHIỆM VỤ 1: Em hãy đặt tay đúng cách trên bàn phím.
+NHIỆM VỤ 2: Tập gõ 10 ngón với phần mềm Kiran's Typing Tutor.
+
+--------------------------------------------------
+
+### TRANG 29
+
+Để luyện tập với Kiran's Typing Tutor em thực hiện các bước sau:
+Bước 1: Nhập tên vào ô User Name để bắt đầu luyện gõ.
+Bước 2: Chọn Typing Practice để luyện tập gõ với các hàng phím.
+Bước 3: Để chọn hàng phím luyện tập, em nháy chuột vào tam giác nhỏ trong mục Course rồi chọn một mục:
+* HomeKeys-Qwerty: Hàng phím cơ sở
+* LowerKeys-Qwerty: Hàng phím dưới
+* UpperKeys-Qwerty: Hàng phím trên
+* NumericKeys-Qwerty: Hàng phím số
+
+Nhiệm vụ của em là sử dụng đúng ngón tay khi gõ phím. Lưu ý, phím cần gõ sẽ được tô màu và ở góc dưới màn hình có gợi ý ngón tay gõ phím.
+
+--------------------------------------------------
+
+### TRANG 30
+
+Các thông tin bên phải màn hình cho biết kết quả luyện tập:
+* Lesson Number: Bài luyện tập số
+* Accuracy: Độ chính xác
+* Time Taken: Thời gian luyện tập
+* Word per Minute: Số từ gõ trong một phút
+* Key per Minute: Số phím gõ trong một phút
+
+Bước 4: Luyện tập nhiều lần và so sánh các kết quả luyện tập.
+
+LUYỆN TẬP
+Câu hỏi 1: Trong hình sau, ngón tay nào đã đặt sai vị trí xuất phát trên hàng phím cơ sở?
+Đáp án: Ngón trỏ của bàn tay phải đã đặt sai vị trí (đúng ra phải đặt trên phím J có gờ).
+
+--------------------------------------------------
+
+### TRANG 31
+
+CHỦ ĐỀ 2. MẠNG MÁY TÍNH VÀ INTERNET
+BÀI 6: KHÁM PHÁ THÔNG TIN TRÊN INTERNET
+Sau bài này em sẽ:
+* Nêu được ví dụ về tin tức và chương trình giải trí có thể xem được khi truy cập Internet.
+* Nêu được ví dụ về thông tin không có sẵn trong máy tính đang sử dụng nhưng có thể tìm thấy trên Internet.
+* Biết được không phải thông tin nào trên Internet cũng phù hợp với lứa tuổi.
+
+1. THÔNG TIN TRÊN INTERNET
+HOẠT ĐỘNG 1: Thông tin trên Internet
+Câu hỏi: Em hãy theo dõi câu chuyện của bạn Khoa và cho biết các thành viên trong gia đình Khoa nhận được những thông tin gì từ Internet?
+Đáp án: Khoa tìm hiểu về đội bóng đá, bố đọc tin tức trong nước và thế giới, mẹ và chị gái tìm công thức nấu ăn.
+
+--------------------------------------------------
+
+### TRANG 32
+
+Khi truy cập Internet, em có thể xem tin tức và các chương trình giải trí như phim hoạt hình, phim truyện, ca nhạc,...
+
+Câu hỏi: Em có thể xem những tin tức hay chương trình giải trí nào dưới đây trên Internet?
+A. Lịch thi đấu bóng đá.
+B. Phim hoạt hình dành cho thiếu nhi.
+C. Video giới thiệu các danh lam thắng cảnh, điểm du lịch nổi tiếng.
+D. Cả A, B và C.
+Đáp án đúng là: D. Cả A, B và C.
+
+2. KHÁM PHÁ THÔNG TIN TRÊN INTERNET
+HOẠT ĐỘNG 2: Thông tin trong máy tính và trên Internet
+Câu hỏi: Em hãy quan sát Hình 38 và cho biết thông tin An tìm là gì? Thông tin đó có sẵn trong máy tính không?
+Đáp án: Thông tin An tìm là "Cách quàng khăn quàng đỏ". Thông tin đó không có sẵn trong máy tính.
+
+--------------------------------------------------
+
+### TRANG 33
+
+Có những thông tin không có sẵn trong máy tính nhưng có thể tìm thấy trên Internet. Internet là kho thông tin khổng lồ và được cập nhật thường xuyên.
+
+Câu hỏi: Hình 39 là thông tin dự báo thời tiết tuần tới ở địa phương của An trên Internet. Em hãy quan sát và cho biết: Ngày thứ Hai, lớp bạn An nên tổ chức lễ Kết nạp Đội viên ở trong lớp hay ngoài sân trường? Vì sao?
+Đáp án: Lớp bạn An nên tổ chức lễ ở trong lớp, vì dự báo thời tiết ngày thứ Hai có mây, có mưa rào và dông.
+
+3. THÔNG TIN PHÙ HỢP TRÊN INTERNET
+HOẠT ĐỘNG 3: Chọn thông tin phù hợp trên Internet
+Câu hỏi: Em hãy theo dõi câu chuyện của hai bạn Minh, Khoa và cho biết tại sao các bạn cần sự hướng dẫn, trợ giúp của người lớn khi sử dụng Internet?
+Đáp án: Các bạn cần sự trợ giúp của người lớn vì trên Internet có những nội dung khó hiểu, cần người lớn giúp để tìm được trang thông tin phù hợp.
+
+--------------------------------------------------
+
+### TRANG 34
+
+Thông tin trên Internet rất đa dạng và phong phú nhưng cũng có những thông tin không chính xác hoặc khó hiểu với các em. Một số thông tin còn có nội dung xấu hoặc doạ nạt. Vì vậy, khi sử dụng Internet, các em phải được thầy cô hoặc bố mẹ cho phép, hướng dẫn.
+
+Câu hỏi: Trong những trang thông tin sau, trang nào có nội dung không phù hợp với các em?
+A. Trang thông tin về các trò chơi dân gian.
+B. Trang thông tin về lịch sử, địa lí.
+C. Trang thông tin có nội dung bạo lực.
+Đáp án đúng là: C. Trang thông tin có nội dung bạo lực.
+
+LUYỆN TẬP
+Câu hỏi 1: Internet có thể giúp em trong những tình huống nào sau đây?
+A. Em muốn xem lại những bàn thắng đẹp mắt của đội bóng mà em yêu thích.
+B. Em muốn giúp mẹ quét nhà sau khi học bài xong.
+C. Em muốn biết kỉ lục xoay ru-bíc 3x3x3 hiện nay trên thế giới là bao nhiêu giây và tên người lập kỉ lục.
+D. Em muốn nói chuyện, hỏi thăm ông bà, người thân hay bạn bè ở xa.
+Đáp án đúng là: A, C, và D.
+
+Câu hỏi 2: Ý nào dưới đây không phải là đặc điểm của thông tin trên Internet?
+A. Đáng tin cậy, luôn chính xác.
+B. Được cập nhật thường xuyên.
+C. Đa dạng và phong phú.
+Đáp án đúng là: A. Đáng tin cậy, luôn chính xác.
+
+--------------------------------------------------
+
+### TRANG 35
+
+CHỦ ĐỀ 3. TỔ CHỨC LƯU TRỮ, TÌM KIẾM VÀ TRAO ĐỔI THÔNG TIN
+BÀI 7: SẮP XẾP ĐỂ DỄ TÌM
+Sau bài này em sẽ:
+* Giải thích được nếu sắp xếp những gì ta có một cách hợp lí thì khi cần sẽ tìm được nhanh hơn.
+* Sắp xếp được đồ vật hay dữ liệu hợp lí theo một số yêu cầu cụ thể.
+* Nêu được cách tìm đúng và nhanh đối tượng cần tìm dựa trên sự sắp xếp.
+
+1. SẮP XẾP HỢP LÍ
+HOẠT ĐỘNG 1: Sắp xếp đồ dùng học tập
+Câu hỏi: Theo em, khi An cần tìm cục tẩy thì cách để đồ ở hình nào dưới đây giúp An tìm nhanh hơn?
+Đáp án: Hình 42 (đồ dùng đã được sắp xếp) sẽ giúp An tìm nhanh hơn.
+
+--------------------------------------------------
+
+### TRANG 36
+
+Chúng ta nên sắp xếp các đồ vật hợp lí để dễ dàng hơn trong việc quản lí và tìm kiếm. Sắp xếp các đồ vật cùng loại thành một nhóm hợp lí, khi có nhu cầu tìm một đồ vật, ta chỉ cần tìm trong nhóm tương ứng đã được sắp xếp. Nhờ vậy, việc tìm kiếm sẽ nhanh hơn.
+
+Câu hỏi 1: Sắp xếp đồ vật hợp lí sẽ giúp chúng ta:
+A. Quản lí đồ vật dễ dàng hơn.
+B. Quản lí đồ vật để người khác khó tìm thấy.
+C. Tìm kiếm đồ vật nhanh hơn.
+D. Cả A và C đều đúng.
+Đáp án đúng là: D. Cả A và C đều đúng.
+
+Câu hỏi 2: Em hãy sắp xếp các thiết bị sau vào hai nhóm. Sau khi sắp xếp, muốn tìm đúng, nhanh chuột máy tính thì em sẽ tìm như thế nào?
+(Các thiết bị: 1. Màn hình, 2. Chuột, 3. Nồi cơm điện, 4. Máy sấy tóc, 5. Thân máy, 6. Tủ lạnh, 7. Bàn phím, 8. Quạt điện)
+Đáp án:
+* Nhóm 1 (Thiết bị máy tính): Màn hình, Chuột, Thân máy, Bàn phím.
+* Nhóm 2 (Thiết bị gia dụng): Nồi cơm điện, Máy sấy tóc, Tủ lạnh, Quạt điện.
+Để tìm đúng và nhanh chuột máy tính, em sẽ tìm trong nhóm "Thiết bị máy tính".
+
+--------------------------------------------------
+
+### TRANG 37
+
+2. SẮP XẾP THEO YÊU CẦU
+HOẠT ĐỘNG 2: Sắp xếp thẻ tên các con vật vào nhóm
+Câu hỏi 1: Hãy sắp xếp các thẻ tên con vật vào hai hộp tương ứng với môi trường sống của chúng (dưới nước và trên cạn). Sau khi sắp xếp, em hãy tìm thẻ con voi.
+Đáp án:
+* Các con vật sống dưới nước: CÁ MẬP, CÁ HE, TÔM.
+* Các con vật sống trên cạn: MÈO, NGỰA, CHÓ, VOI, SƯ TỬ.
+Để tìm thẻ con voi, em sẽ tìm trong hộp "Các con vật sống trên cạn".
+
+Câu hỏi 2: Với hộp các con vật sống trên cạn, em hãy phân loại các con vật sống trong rừng và các con vật nuôi trong gia đình. Sau khi sắp xếp, em hãy tìm lại thẻ con voi.
+Đáp án:
+* Sống trong rừng: VOI, SƯ TỬ.
+* Nuôi trong gia đình: MÈO, NGỰA, CHÓ.
+Để tìm lại thẻ con voi, em sẽ tìm trong nhóm "Các con vật sống trong rừng".
+
+Câu hỏi 3: Thảo luận với bạn cách em đã tìm thẻ con voi trong mỗi trường hợp trên. Theo em, cách nào tìm nhanh hơn? Vì sao?
+Đáp án: Cách thứ hai (phân loại chi tiết hơn) sẽ tìm nhanh hơn, vì nhóm tìm kiếm đã được thu hẹp lại, giúp việc tìm kiếm dễ dàng và nhanh chóng hơn.
+
+--------------------------------------------------
+
+### TRANG 38
+
+Câu hỏi 2: Trong mỗi nhóm dưới đây, bạn An đã sắp xếp một đồ chơi không phù hợp vào nhóm. Em hãy giúp bạn An chỉ ra đồ chơi đó nhé.
+Đáp án:
+* Nhóm 1: Vợt cầu lông (không phải phương tiện giao thông).
+* Nhóm 2: Xe đạp (không phải là quả bóng).
+* Nhóm 3: Tủ (không phải là ghế).
+
+LUYỆN TẬP
+Câu hỏi 1: Em hãy xếp các loại rau củ quả sau vào ba nhóm phù hợp:
+(Gồm: Nhãn, Dưa hấu, Su hào, Cà rốt, Mồng tơi, Mít, Nho, Khoai tây, Bắp cải, Cà tím)
+Đáp án:
+* Củ: Su hào, Cà rốt, Khoai tây.
+* Quả: Nhãn, Dưa hấu, Mít, Nho, Cà tím.
+* Rau: Mồng tơi, Bắp cải.
+
+Câu hỏi 2: An đố Minh: Sắp xếp các số từ 1 đến 20 vào hai nhóm sao cho mỗi nhóm có 10 số và các số trong cùng một nhóm phải có điểm chung. Em hãy giúp Minh thực hiện yêu cầu của An nhé.
+Đáp án:
+* Nhóm 1 (Số chẵn): 2, 4, 6, 8, 10, 12, 14, 16, 18, 20.
+* Nhóm 2 (Số lẻ): 1, 3, 5, 7, 9, 11, 13, 15, 17, 19.
+
+--------------------------------------------------
+
+### TRANG 39
+
+BÀI 8: SƠ ĐỒ HÌNH CÂY. TỔ CHỨC THÔNG TIN TRONG MÁY TÍNH
+Sau bài này em sẽ:
+* Biết được có thể biểu diễn một cách sắp xếp, phân loại cụ thể bằng sơ đồ hình cây.
+* Nhận biết được tệp, thư mục và ổ đĩa trong máy tính.
+* Mô tả được sơ lược vai trò của cấu trúc cây thư mục trong việc lưu các tệp và các thư mục.
+
+1. SƠ ĐỒ HÌNH CÂY
+HOẠT ĐỘNG 1: Trò chơi dán sở thích
+Đây là một hoạt động trong lớp học, yêu cầu học sinh viết sở thích của mình vào một chiếc lá giấy và dán vào cành phù hợp trên "Cây sở thích". Ví dụ, sở thích "Đá bóng" sẽ được dán vào cành "Thể thao". Cây sở thích sau đó được biểu diễn thành sơ đồ hình cây.
+
+--------------------------------------------------
+
+### TRANG 40
+
+Sơ đồ hình cây là một loại sơ đồ đơn giản, dễ sử dụng. Sơ đồ hình cây bắt đầu với một “gốc”, phân thành các nhánh. Mỗi nhánh lại phân thành các nhánh con hoặc lá. Có thể biểu diễn một cách sắp xếp, phân loại cụ thể bằng sơ đồ hình cây.
+
+Câu hỏi: Em hãy biểu diễn cách sắp xếp giá sách thành sơ đồ hình cây theo thông tin gợi ý trong bảng sau:
+Đáp án:
+Sơ đồ cây:
+- Gốc: Giá sách của em
+  - Nhánh 1: Truyện, thơ
+    - Nhánh con 1.1: Thơ học trò
+    - Nhánh con 1.2: Truyện
+      - Lá 1.2.1: Truyện cổ tích
+      - Lá 1.2.2: Truyện tranh
+  - Nhánh 2: Sách vở
+    - Nhánh con 2.1: Sách giáo khoa
+    - Nhánh con 2.2: Vở viết
+
+2. TỆP, THƯ MỤC, Ổ ĐĨA TRONG MÁY TÍNH
+HOẠT ĐỘNG 2: Nhận biết biểu tượng
+Câu hỏi: Em hãy đọc các thông tin về Tệp, Thư mục, Ổ đĩa ở trang 40, sau đó quan sát Hình 48 và cho biết biểu tượng nào là tệp, biểu tượng nào là thư mục?
+Đáp án:
+* Tệp: Bai tap du an.ppt, Ke hoach hoc tap.docx, Thoi khoa bieu.pdf.
+* Thư mục: Khoa hoc, Tieng Viet, Toan.
+
+--------------------------------------------------
+
+### TRANG 41
+
+Tệp: Thông tin trong máy tính được lưu trữ thành các tệp. Mỗi tệp đều có tên và biểu tượng.
+Thư mục: Các tệp được sắp xếp trong các thư mục để dễ quản lí và tìm kiếm. Mỗi thư mục có tên riêng và biểu tượng. Một thư mục có thể chứa các thư mục khác gọi là thư mục con.
+Ổ đĩa: Các thư mục và tệp được lưu trữ trong các ổ đĩa. Ổ đĩa thường được đặt tên là C, D, E,... Ổ đĩa còn gọi là thư mục gốc.
+
+Ổ đĩa, thư mục và tệp trong máy tính được tổ chức, sắp xếp dưới dạng sơ đồ hình cây.
+
+Câu hỏi 1: Câu nào sau đây là sai?
+A. Một ổ đĩa có thể chứa nhiều thư mục.
+B. Một thư mục có thể chứa nhiều tệp và thư mục con.
+C. Thư mục có thể chứa nhiều thư mục con cùng tên.
+D. Có thể có hai tệp cùng tên nằm ở hai thư mục khác nhau.
+Đáp án đúng là: C. Thư mục có thể chứa nhiều thư mục con cùng tên.
+
+Câu hỏi 2: Trong Hình 50, ổ đĩa tên là gì? Thư mục Truyen tranh chứa tệp và thư mục nào?
+Đáp án: Ổ đĩa tên là Du lieu (D:). Thư mục Truyen tranh chứa tệp Anh.jpg và các thư mục con Do-re-mon, Co-nan, Trang Quynh.
+
+--------------------------------------------------
+
+### TRANG 42
+
+LUYỆN TẬP
+Câu hỏi 1: Sơ đồ nào sau đây không phải là sơ đồ hình cây?
+A. Sơ đồ Môi trường sống của động vật.
+B. Sơ đồ vòng đời của bướm (Trứng sâu -> Sâu -> Kén -> Bướm -> Trứng sâu).
+C. Sơ đồ các môn học.
+Đáp án đúng là: B. Sơ đồ vòng đời của bướm (vì nó là một chu trình khép kín, không phải cấu trúc phân nhánh của cây).
+
+Câu hỏi 2: Trong Hình 50, thư mục Co-nan nằm trong thư mục nào?
+Đáp án: Thư mục Co-nan nằm trong thư mục Truyen tranh.
+
+--------------------------------------------------
+
+### TRANG 43
+
+BÀI 9: THỰC HÀNH VỚI TỆP VÀ THƯ MỤC TRONG MÁY TÍNH
+Sau bài này em sẽ:
+* Tìm hiểu được cấu trúc cây của một thư mục.
+* Thực hiện được việc tạo, xoá, đổi tên thư mục.
+* Tìm được tệp ở thư mục cho trước theo yêu cầu.
+
+NHIỆM VỤ 1: Mở và tìm hiểu cấu trúc của một thư mục.
+HƯỚNG DẪN
+Bước 1: Nháy đúp chuột vào biểu tượng This PC trên màn hình nền.
+Bước 2:
+* Nháy chuột vào This PC ở khung bên trái, quan sát khung bên phải.
+* Nháy đúp chuột vào ổ đĩa D: ở khung bên phải, quan sát để xem bên trong ổ đĩa D: chứa gì.
+
+--------------------------------------------------
+
+### TRANG 44
+
+(Hình 51: Cửa sổ làm việc với tệp và thư mục, chỉ dẫn các khung và cách nháy chuột để xem nội dung ổ đĩa D:)
+
+NHIỆM VỤ 2: Thực hiện thao tác với thư mục.
+a) Tạo thư mục mới theo cây thư mục ở Hình 52.
+b) Đổi tên thư mục Do-re-mon thành Hoang tu Ech.
+c) Xoá thư mục Co-nan.
+(Hình 52: Cây thư mục mẫu D: -> Truyen tranh -> (Do-re-mon, Co-nan, Trang Quynh) và D: -> Truyen co tich)
+
+HƯỚNG DẪN
+a) Tạo một thư mục mới.
+Bước 1: Trong khung bên trái của cửa sổ This PC, em nháy chuột vào ổ đĩa D:.
+
+--------------------------------------------------
+
+### TRANG 45
+
+Bước 2: Trong dải lệnh Home, chọn lệnh New folder.
+Bước 3: Thư mục mới có tên mặc định là New folder. Gõ tên thư mục, chẳng hạn là Truyen tranh. Nhấn phím Enter.
+Bước 4: Nháy đúp chuột vào thư mục Truyen tranh để mở thư mục. Tạo tiếp các thư mục mới là Do-re-mon, Trang Quynh và Co-nan.
+
+b) Đổi tên thư mục Do-re-mon thành Hoang tu Ech.
+Bước 1: Nháy chuột vào thư mục Do-re-mon để chọn.
+Bước 2: Trong dải lệnh Home, chọn lệnh Rename.
+Bước 3: Gõ tên mới Hoang tu Ech. Nhấn phím Enter.
+
+c) Xoá thư mục Co-nan.
+Bước 1: Nháy chuột vào thư mục Co-nan.
+Bước 2: Trong dải lệnh Home, chọn lệnh Delete.
+Lưu ý: Em hãy cân nhắc kĩ trước khi quyết định xoá thư mục.
+
+--------------------------------------------------
+
+### TRANG 46
+
+NHIỆM VỤ 3: Tìm tệp ở thư mục cho trước theo yêu cầu.
+HƯỚNG DẪN
+Bước 1: Mở cửa sổ This PC.
+Bước 2: Lần lượt mở các thư mục theo yêu cầu để đến được tệp cần tìm. Ví dụ, để tìm tệp Anh.jpg trong thư mục Truyen tranh như cây thư mục Hình 58.
+1. Trong khung bên trái của cửa sổ This PC, em nháy chuột vào ổ đĩa D:.
+2. Tìm thư mục Truyen tranh ở khung bên phải, nháy đúp chuột vào thư mục Truyen tranh để mở, ta sẽ thấy tệp Anh.jpg.
+
+LUYỆN TẬP
+1. Hãy tạo các thư mục theo sơ đồ hình cây, sau đó đổi tên thư mục Truyen co tich thành Truyen thieu nhi và xoá thư mục Vo viet.
+2. Em hãy tìm một tệp nằm trong một thư mục ở ổ đĩa C hoặc ổ đĩa D: của máy tính em đang thực hành.
+
+--------------------------------------------------
+
+### TRANG 47
+
+CHỦ ĐỀ 4. ĐẠO ĐỨC, PHÁP LUẬT VÀ VĂN HOÁ TRONG MÔI TRƯỜNG SỐ
+BÀI 10: BẢO VỆ THÔNG TIN KHI DÙNG MÁY TÍNH
+Sau bài này em sẽ:
+* Biết được thông tin cá nhân và gia đình có thể được lưu trữ và trao đổi nhờ máy tính.
+* Có ý thức bảo vệ thông tin cá nhân và gia đình khi giao tiếp qua máy tính.
+
+1. LƯU TRỮ, TRAO ĐỔI THÔNG TIN NHỜ MÁY TÍNH
+HOẠT ĐỘNG 1: Thông tin được lưu trữ, trao đổi nhờ máy tính
+Câu hỏi 1: Những thông tin nào của em và gia đình có thể được lưu trữ trong máy tính?
+Đáp án: Họ tên, địa chỉ, ngày sinh, và nhiều thông tin khác.
+
+Câu hỏi 2: Theo em, những thông tin lưu trữ trong máy tính có thể gửi cho người khác được không? Nếu có thì gửi bằng cách nào?
+Đáp án: Có thể gửi được, thông qua Internet hoặc các thiết bị lưu trữ như USB.
+
+--------------------------------------------------
+
+### TRANG 48
+
+Thông tin lưu trữ trong máy tính có thể gửi đến các máy tính khác thông qua Internet hoặc các thiết bị lưu trữ như USB, thẻ nhớ,...
+
+Thông tin của em và gia đình có thể được lưu trữ trong máy tính và được trao đổi nhờ thiết bị lưu trữ hoặc qua Internet.
+
+Câu hỏi 1: Mỗi phát biểu dưới đây là Đúng hay Sai?
+a) Máy tính có thể lưu trữ thông tin cá nhân. Khi cần thiết, chúng ta có thể gửi những thông tin đó đến máy tính khác.
+b) Chỉ có thể trao đổi thông tin giữa các máy tính khi có kết nối Internet.
+c) USB là thiết bị lưu trữ và trao đổi thông tin giữa các máy tính.
+d) Máy tính không có khả năng lưu trữ giọng nói của em.
+Đáp án: a) Đúng, b) Sai, c) Đúng, d) Sai.
+
+--------------------------------------------------
+
+### TRANG 49
+
+Câu hỏi 2: Em muốn gửi ảnh đã lưu trong máy tính cho bạn. Em có thể sử dụng cách nào sau đây?
+A. Nhờ người lớn gửi tệp ảnh qua thư điện tử.
+B. Nhờ người lớn sao chép tệp ảnh vào USB, rồi gửi USB cho bạn.
+C. Cả A và B.
+Đáp án đúng là: C. Cả A và B.
+
+2. BẢO VỆ THÔNG TIN KHI GIAO TIẾP QUA MÁY TÍNH
+HOẠT ĐỘNG 2: Làm gì để bảo vệ thông tin của em và gia đình?
+Nếu thông tin rơi vào tay kẻ xấu thì chúng có thể lợi dụng để thực hiện các mục đích đen tối như đe doạ, bắt nạt, lừa đảo,... Vì vậy, chúng ta cần có ý thức bảo vệ thông tin cá nhân và gia đình: không cung cấp tên và địa chỉ cho người lạ, không gửi và nhận tệp từ người không quen biết, bảo vệ mật khẩu khi dùng máy tính.
+
+--------------------------------------------------
+
+### TRANG 50
+
+Câu hỏi 1: Khi có thông tin cá nhân của em hoặc gia đình em thì người xấu có thể:
+A. Tìm đến em để thực hiện ý đồ xấu.
+B. Đăng tin nói xấu em hay gia đình em trên Internet.
+C. Mạo danh em hoặc các thành viên trong gia đình em để làm việc xấu.
+D. Tất cả các ý trên.
+Đáp án đúng là: D. Tất cả các ý trên.
+
+Câu hỏi 2: Em không nên chia sẻ rộng rãi trên Internet những thông tin nào sau đây?
+A. Họ tên, địa chỉ của nhà em.
+B. Bài thơ em thích.
+C. Số điện thoại của bố.
+D. Nơi làm việc của mẹ.
+Đáp án đúng là: A, C, và D.
+
+--------------------------------------------------
+
+### TRANG 51
+
+CHỦ ĐỀ 5. ỨNG DỤNG TIN HỌC
+BÀI 11: BÀI TRÌNH CHIẾU CỦA EM
+Sau bài này em sẽ:
+* Nhận biết được biểu tượng của phần mềm trình chiếu và khởi động được phần mềm.
+* Tạo được tệp trình chiếu, thêm trang chiếu mới, gõ văn bản, đưa hình ảnh vào trang chiếu, lưu và đặt tên cho tệp.
+
+NHIỆM VỤ 1: Nhận biết biểu tượng của phần mềm trình chiếu, khởi động phần mềm và quan sát các thành phần của màn hình làm việc.
+HƯỚNG DẪN
+Nháy đúp chuột vào biểu tượng P trên màn hình nền để khởi động phần mềm.
+Màn hình làm việc của phần mềm trình chiếu gồm: Dải lệnh, Trang chiếu thu nhỏ, Vùng soạn thảo, Các khung văn bản để chứa nội dung.
+
+--------------------------------------------------
+
+### TRANG 52
+
+NHIỆM VỤ 2: Nhập văn bản, tạo trang mới và thêm hình ảnh vào trang chiếu về chủ đề các loài hoa.
+HƯỚNG DẪN
+Bước 1: Nhập văn bản vào trang chiếu.
+Nháy chuột vào Khung văn bản để nhập nội dung. Trang đầu tiên thường để nhập tiêu đề và tên người trình bày.
+
+Bước 2: Thêm một trang chiếu.
+Trong dải lệnh Home, nháy chuột vào nút lệnh New Slide để tạo trang chiếu mới.
+
+--------------------------------------------------
+
+### TRANG 53
+
+Bước 3: Thêm hình ảnh minh hoạ.
+1. Trong dải lệnh Insert, nháy chuột vào nút lệnh Picture.
+Cửa sổ Insert Picture mở ra.
+2. Chọn thư mục chứa tệp hình ảnh.
+3. Chọn tệp hình ảnh muốn chèn.
+4. Nháy chuột vào nút Insert.
+
+Bước 4: Điều chỉnh kích thước và vị trí của hình ảnh trên trang chiếu.
+Để điều chỉnh kích thước:
+1. Nháy chuột để chọn hình ảnh.
+2. Di chuyển con trỏ chuột đến nút tròn ở góc đến khi con trỏ chuột có dạng mũi tên hai chiều thì kéo thả chuột để phóng to hoặc thu nhỏ hình ảnh.
+
+--------------------------------------------------
+
+### TRANG 54
+
+Để thay đổi vị trí của hình ảnh:
+1. Di chuyển con trỏ chuột vào hình ảnh đến khi con trỏ chuột có dạng mũi tên bốn chiều.
+2. Kéo thả chuột để di chuyển hình ảnh đến vị trí thích hợp.
+
+Nhập thêm văn bản.
+Lưu ý:
+Nhấn phím F5 để trình chiếu toàn màn hình. Nhấn phím Esc để tắt chế độ trình chiếu.
+Nếu gõ sai, em nhấn phím Backspace để xoá.
+
+--------------------------------------------------
+
+### TRANG 55
+
+NHIỆM VỤ 3: Lưu bài trình chiếu.
+HƯỚNG DẪN
+Trong bảng chọn File, chọn lệnh Save. Cửa sổ Save As hiện ra.
+1. Chọn thư mục lưu tệp.
+2. Nhập tên tệp.
+3. Nháy chuột vào nút Save để lưu.
+
+LUYỆN TẬP
+Em hãy tạo bài trình chiếu có 2 đến 3 trang để giới thiệu về trường em.
+
+--------------------------------------------------
+
+### TRANG 56
+
+BÀI 12: TÌM HIỂU VỀ THẾ GIỚI TỰ NHIÊN
+Sau bài này em sẽ:
+* Nhận thấy nhờ sử dụng máy tính mà con người quan sát được và biết thêm về thế giới tự nhiên.
+* Kể lại được những hiểu biết mới đã học được sau khi quan sát.
+
+NHIỆM VỤ 1: Mở phần mềm khám phá thế giới tự nhiên và tìm hiểu về Hệ Mặt Trời.
+HƯỚNG DẪN
+Bước 1: Nháy đúp chuột vào biểu tượng phần mềm Kids Games Learning Science. Màn hình của phần mềm mở ra.
+
+--------------------------------------------------
+
+### TRANG 57
+
+Bước 2: Nháy chuột vào biểu tượng Space Mission để tìm hiểu Hệ Mặt Trời.
+Bước 3: Nháy chuột vào hình tương ứng để chọn nhân vật.
+Bước 4: Kéo thả các bộ phận vào đúng vị trí để lắp ráp tên lửa.
+Bước 5: Nháy chuột vào hình Kim tinh trong Hệ Mặt Trời.
+Bước 6: Nháy chuột sang trái hoặc sang phải tên lửa để điều khiển tên lửa lấy sao hoặc tránh các thiên thạch.
+Bước 7: Quan sát hành tinh em đã chọn khi tên lửa về đích.
+
+--------------------------------------------------
+
+### TRANG 58
+
+Bước 8: Em hãy ghi lại một số đặc điểm của Kim tinh mà em quan sát và đọc được vào vở.
+
+NHIỆM VỤ 2: Khám phá vòng đời của động vật.
+HƯỚNG DẪN
+Bước 1: Nháy chuột vào biểu tượng vòng đời động vật.
+Bước 2: Chọn khám phá vòng đời của loài sâu bướm.
+Bước 3: Chọn hình ảnh và kéo thả vào vị trí tương ứng.
+Bước 4: Em hãy ghi lại các giai đoạn phát triển của loài sâu bướm vào vở.
+
+--------------------------------------------------
+
+### TRANG 59
+
+NHIỆM VỤ 3: Kể lại những gì em quan sát được khi sử dụng phần mềm.
+HƯỚNG DẪN
+Em hãy trao đổi với bạn và kể cho nhau về thế giới tự nhiên mà em vừa khám phá, cùng nhau trả lời một số câu hỏi sau:
+Câu hỏi 1: Nhờ sử dụng máy tính, em đã quan sát được Kim tinh trong Hệ Mặt Trời. Nó có đặc điểm gì?
+A. Kim tinh là hành tinh có kích thước lớn nhất.
+B. Kim tinh là hành tinh sáng nhất và nóng nhất.
+C. Kim tinh là hành tinh gần Mặt Trời nhất.
+Đáp án đúng là: B. Kim tinh là hành tinh sáng nhất và nóng nhất.
+
+Câu hỏi 2: Vòng đời của bướm gồm mấy giai đoạn phát triển? Đó là những giai đoạn nào?
+A. Ba giai đoạn: trứng, sâu bướm, bướm.
+B. Bốn giai đoạn: trứng, sâu bướm, kén, nhộng.
+C. Bốn giai đoạn: trứng, sâu bướm, nhộng, bướm.
+Đáp án đúng là: C. Bốn giai đoạn: trứng, sâu bướm, nhộng, bướm.
+
+--------------------------------------------------
+
+### TRANG 60
+
+BÀI 13: LUYỆN TẬP SỬ DỤNG CHUỘT
+Sau bài này em sẽ:
+* Cầm chuột đúng cách.
+* Thực hiện được các thao tác với chuột.
+* Nhận thấy phần mềm đã hướng dẫn thao tác đúng với chuột máy tính.
+
+KHỞI ĐỘNG
+Câu hỏi: Hình nào sau đây minh hoạ cách cầm chuột đúng?
+A. [Hình ảnh cầm sai]
+B. [Hình ảnh cầm sai]
+C. [Hình ảnh cầm đúng]
+Đáp án đúng là: C.
+
+NHIỆM VỤ 1: Thực hành đúng thao tác di chuyển chuột, kéo thả chuột, nháy chuột, nháy nút phải chuột, nháy đúp chuột.
+HƯỚNG DẪN
+Bước 1: Nháy đúp chuột vào biểu tượng Basic Mouse Skills trên màn hình nền.
+Bước 2: Khi màn hình phần mềm hiện ra, nhấn phím bất kì hoặc nháy chuột để bắt đầu.
+Bước 3: Trên màn hình sẽ xuất hiện một hình vuông, nhiệm vụ của em là di chuyển con trỏ chuột đến vị trí hình vuông đó và thực hiện thao tác tương ứng.
+
+### TRANG 61
+
+Phần mềm Basic Mouse Skills có các bài tập theo 5 mức:
+* Mức 1: Luyện thao tác di chuyển chuột.
+* Mức 2: Luyện thao tác nháy chuột.
+* Mức 3: Luyện thao tác nháy đúp chuột.
+* Mức 4: Luyện thao tác nháy nút phải chuột.
+* Mức 5: Luyện thao tác kéo thả chuột.
+
+Với mỗi mức, phần mềm quy định 10 lần luyện tập. Phần mềm sẽ tính điểm cho từng mức và thông báo tổng số điểm khi em hoàn thành xong cả 5 mức.
+Ở các mức 1, 2, 3, 4 trên màn hình sẽ xuất hiện một hình vuông. Các hình vuông sẽ xuất hiện ngẫu nhiên trên màn hình với kích thước ngày càng nhỏ. Kết thúc mỗi mức độ, em sẽ nhận được thông báo. Nhấn phím bất kì để chuyển sang mức tiếp theo.
+
+Ở mức 5, trên màn hình sẽ có một cửa sổ nhỏ và một biểu tượng. Nhiệm vụ của em là kéo thả biểu tượng vào trong cửa sổ nhỏ đó.
+
+--------------------------------------------------
+
+### TRANG 62
+
+* Nhấn phím N để chuyển sang mức tiếp theo.
+* Nhấn phím F2 để luyện tập lại từ đầu.
+* Nhấn phím Q để kết thúc luyện tập.
+
+Bước 4: Tổng kết.
+Khi kết thúc 5 mức luyện tập, phần mềm sẽ đưa ra tổng điểm của em.
+Hãy luyện tập ba lần, ghi kết quả vào vở theo mẫu dưới đây để theo dõi sự tiến bộ của mình:
+Lần luyện tập | 1 | 2 | 3
+--- | --- | --- | ---
+Tổng điểm ghi được | | |
+
+NHIỆM VỤ 2: Sử dụng nút cuộn chuột để chuyển giữa các trang chiếu của bài trình chiếu.
+HƯỚNG DẪN
+Bước 1: Tìm tệp trình chiếu mà em đã hoàn thành ở bài 11.
+Bước 2: Nháy đúp chuột vào tệp để mở bài trình chiếu đó.
+
+--------------------------------------------------
+
+### TRANG 63
+
+Bước 3: Đưa con trỏ chuột vào vùng soạn thảo, lăn nút cuộn tiến, lùi và theo dõi các thay đổi trên màn hình.
+Tự khám phá và ghép mỗi mục ở cột Thao tác với một mục thích hợp ở cột Tác dụng.
+
+Thao tác | Tác dụng
+--- | ---
+1) Lăn nút cuộn tiến | a) Chuyển tới trang chiếu sau trang chiếu hiện tại.
+2) Lăn nút cuộn lùi | b) Chuyển tới trang chiếu trước trang chiếu hiện tại.
+Đáp án: 1-a, 2-b.
+
+Bước 4: Đóng phần mềm trình chiếu khi kết thúc luyện tập.
+
+LUYỆN TẬP
+1. Tiếp tục thực hành các thao tác với chuột bằng phần mềm Basic Mouse Skills để ghi được số điểm cao nhất.
+2. Em có thể luyện tập các thao tác với chuột bằng các phần mềm trò chơi khác dưới sự hướng dẫn của thầy, cô giáo.
+
+VẬN DỤNG
+Câu hỏi 1: Em cần sử dụng thao tác nháy đúp chuột trong những tình huống nào sau đây?
+A. Khởi động một phần mềm trên màn hình nền.
+B. Chọn lệnh New Folder trên dải lệnh Home của cửa sổ làm việc với tệp và thư mục để tạo thư mục mới.
+C. Mở một thư mục trên máy tính.
+Đáp án đúng là: A và C.
+
+Câu hỏi 2: Hãy cho ví dụ về một tình huống mà em cần thao tác nháy nút phải chuột hoặc dùng nút cuộn chuột khi sử dụng máy tính.
+Đáp án: (Câu hỏi mở) Ví dụ: Nháy nút phải chuột vào một tệp để xem các tùy chọn như Đổi tên, Xoá. Dùng nút cuộn chuột để đọc một trang web dài.
+
+--------------------------------------------------
+
+### TRANG 64
+
+CHỦ ĐỀ 6. GIẢI QUYẾT VẤN ĐỀ VỚI SỰ TRỢ GIÚP CỦA MÁY TÍNH
+BÀI 14: EM THỰC HIỆN CÔNG VIỆC NHƯ THẾ NÀO?
+Sau bài này em sẽ:
+* Nêu được một số công việc hằng ngày có thể thực hiện theo từng bước.
+* Nhận biết được nên chia một việc thành những việc nhỏ hơn để dễ hiểu và dễ thực hiện.
+* Nêu được ví dụ về một việc có thể chia thành những việc nhỏ hơn.
+
+KHỞI ĐỘNG
+HOẠT ĐỘNG 1: Thực hiện công việc theo từng bước
+Câu hỏi 1: Mỗi buổi sáng, An thực hiện các công việc: Thay quần áo, Thức dậy, Vệ sinh cá nhân, Ăn sáng, Đi giày dép. Em hãy sắp thứ tự thực hiện những việc đó.
+Đáp án: Thức dậy -> Vệ sinh cá nhân -> Ăn sáng -> Thay quần áo -> Đi giày dép.
+
+Câu hỏi 2: Em hãy kể những việc em thường làm vào mỗi buổi sáng trước khi đi học theo đúng thứ tự mà em đã thực hiện?
+Đáp án: (Câu hỏi mở, học sinh tự trả lời).
+
+1. THỰC HIỆN CÔNG VIỆC THEO TỪNG BƯỚC
+Trong Hoạt động 1, mỗi buổi sáng bạn An thực hiện các việc theo từng bước, mỗi bước là một việc nhỏ. Các bước phải được thực hiện theo một thứ tự nhất định.
+
+--------------------------------------------------
+
+### TRANG 65
+
+Thực hiện theo đúng thứ tự đã sắp xếp thì công việc sẽ dễ dàng hoàn thành.
+Có nhiều công việc được thực hiện theo từng bước, mỗi bước là một việc nhỏ và các bước phải được sắp xếp theo một thứ tự nhất định.
+
+Câu hỏi 1: Em hãy xếp mỗi việc sau với một bước vẽ hình cho thích hợp:
+a) Vẽ cánh cửa ra vào.
+b) Vẽ hai cửa sổ.
+c) Vẽ khung và mái nhà.
+d) Vẽ khung cửa ra vào.
+Đáp án: Bước 1-c, Bước 2-d, Bước 3-a, Bước 4-b.
+
+Câu hỏi 2: Dựa vào các hình vẽ sau, em hãy nêu các bước thực hiện vẽ máy bay.
+Đáp án: a) Vẽ thân máy bay -> b) Vẽ cánh và đuôi -> c) Vẽ thêm chi tiết trên thân và cánh -> d) Hoàn thiện và tô màu.
+
+2. CHIA MỘT VIỆC THÀNH NHỮNG VIỆC NHỎ HƠN
+HOẠT ĐỘNG 2: Chia một việc thành những việc nhỏ hơn
+Câu hỏi: Em hãy giúp bạn An chia việc đánh răng thành các bước, mỗi bước là một việc nhỏ hơn.
+Đáp án: (Câu hỏi mở, học sinh tự trả lời, ví dụ: Lấy kem đánh răng, chải răng, súc miệng, rửa sạch bàn chải).
+
+--------------------------------------------------
+
+### TRANG 66
+
+Khi thực hiện một việc, chúng ta có thể chia việc đó thành những việc nhỏ hơn để dễ hiểu và dễ thực hiện.
+Ví dụ, việc Đánh răng có thể thực hiện theo năm bước:
+1. Chuẩn bị
+2. Lấy kem đánh răng
+3. Chải răng
+4. Súc miệng
+5. Rửa sạch bàn chải
+
+Việc Chải răng lại có thể chia thành các việc nhỏ hơn: Chải răng cửa, Chải răng hàm trái, Chải răng hàm phải.
+Một việc có thể chia thành những việc nhỏ hơn. Chia một việc thành những việc nhỏ giúp chúng ta dễ hiểu và dễ thực hiện.
+
+Câu hỏi 1: Hằng ngày, lớp em đều thực hiện việc trực nhật. Em hãy chia việc trực nhật lớp thành những việc nhỏ hơn để phân công cho mỗi bạn trong nhóm thực hiện.
+Đáp án: (Câu hỏi mở, ví dụ: Quét lớp, lau bảng, đổ rác).
+
+Câu hỏi 2: Em hãy nêu ví dụ về một việc có thể chia thành những việc nhỏ hơn.
+Đáp án: (Câu hỏi mở, ví dụ: Việc nấu cơm có thể chia thành: vo gạo, đong nước, cắm điện).
+
+--------------------------------------------------
+
+### TRANG 67
+
+LUYỆN TẬP
+Câu hỏi 1: Các bước sau đây mô tả công việc gì? Em hãy nêu việc được thực hiện ở mỗi bước.
+Đáp án: Công việc được mô tả là bơm mực cho bút máy.
+Bước 1: Mở bút.
+Bước 2: Cắm bút vào lọ mực.
+Bước 3: Hút mực lên.
+Bước 4: Lau sạch ngòi bút và đóng nắp.
+
+Câu hỏi 2: Rô-bốt có khả năng thực hiện các lệnh: tiến 1 ô, quay trái và quay phải.
+a) Rô-bốt đang ở vị trí như Hình 83a, em hãy chỉ dẫn để rô-bốt di chuyển về đích (ô có cờ).
+b) Rô-bốt đang ở vị trí như Hình 83b, nhiệm vụ của rô-bốt là đến ô có quyển sách, rồi di chuyển về đích. Rô-bốt phải thực hiện những việc gì? Em hãy đưa ra chỉ dẫn giúp rô-bốt thực hiện những việc đó.
+Đáp án: (Học sinh tự đưa ra chuỗi lệnh).
+
+VẬN DỤNG
+1. Em hãy chia việc chuẩn bị bài và đồ dùng học tập cho ngày hôm sau thành những việc nhỏ.
+2. Trò chơi: Chia mỗi tổ thành hai nhóm, một nhóm nêu tên một việc và nhóm còn lại đưa ra các bước thực hiện việc đó.
+
+--------------------------------------------------
+
+### TRANG 68
+
+BÀI 15: CÔNG VIỆC ĐƯỢC THỰC HIỆN THEO ĐIỀU KIỆN
+Sau bài này em sẽ:
+* Biết một việc có được thực hiện hay không tuỳ thuộc vào điều kiện.
+* Sử dụng được cách nói “Nếu ... thì...” để diễn đạt một việc có được thực hiện hay không tuỳ thuộc vào điều kiện.
+
+KHỞI ĐỘNG
+HOẠT ĐỘNG 1: Em sẽ làm gì?
+Câu hỏi 1: Chuẩn bị đi học, em thấy trời mưa, em sẽ chọn đồ vật nào trên móc treo?
+Đáp án: Em sẽ chọn áo mưa.
+
+Câu hỏi 2: Đèn giao thông dành cho người đi bộ màu gì thì em có thể sang đường?
+Đáp án: Đèn giao thông màu xanh.
+
+1. CÔNG VIỆC TUỲ THUỘC VÀO ĐIỀU KIỆN
+Trong cuộc sống, có những việc chúng ta chỉ thực hiện nếu một điều kiện nào đó xảy ra. Ví dụ, việc mặc áo mưa tuỳ thuộc vào điều kiện trời có mưa hay không.
+
+--------------------------------------------------
+
+### TRANG 69
+
+Có những việc được thực hiện hay không tuỳ thuộc vào một điều kiện nào đó có xảy ra hay không.
+
+Câu hỏi 1: Em hãy ghép mỗi mục ở cột A với một mục thích hợp ở cột B.
+Cột A
+1) Gặp cô giáo
+2) Giặt xong quần áo
+3) Bị sốt
+4) Bút bị hết mực
+Cột B
+a) bơm mực
+b) cặp nhiệt độ
+c) phơi quần áo
+d) em nói "Em chào cô ạ!"
+Đáp án: 1-d, 2-c, 3-b, 4-a.
+
+Câu hỏi 2: Mỗi việc sau đây được thực hiện nếu điều gì xảy ra?
+a) Gọi số điện thoại bảo vệ trẻ em 111.
+b) Gọi số điện thoại cứu nạn 112.
+c) Gọi số điện thoại cho cảnh sát 113.
+d) Gọi số điện thoại báo cháy 114.
+e) Gọi số điện thoại cấp cứu 115.
+Đáp án: Gọi khi gặp các tình huống khẩn cấp tương ứng.
+
+2. SỬ DỤNG CÁCH NÓI “NẾU .... THÌ ..."
+HOẠT ĐỘNG 2: Nếu ... thì...
+Câu hỏi: Hôm nay là Chủ nhật, Khoa dự định buổi chiều sẽ đá bóng cùng các bạn. Em hãy chọn cách nói “Nếu ... thì ..." để diễn đạt dự định của bạn Khoa cho phù hợp.
+Đáp án: Nếu trời không mưa thì Khoa sẽ đi đá bóng.
+
+--------------------------------------------------
+
+### TRANG 70
+
+Chúng ta sử dụng cách nói “Nếu ... thì ..." để diễn đạt một việc có được thực hiện hay không tuỳ thuộc vào một điều kiện có xảy ra hay không.
+Nếu <điều kiện xảy ra> thì <thực hiện việc>.
+
+Câu hỏi: Em hãy ghép mỗi mục ở cột A với một mục thích hợp ở cột B để được câu "Nếu ... thì ...".
+Cột A
+1) Nếu đồng hồ báo thức vào buổi sáng
+2) Nếu phát hiện phích cắm của máy tính bị lỏng hoặc tuột
+3) Nếu đèn giao thông chuyển sang màu đỏ
+4) Nếu máy tính bị bụi bẩn
+Cột B
+a) thì em phải thông báo cho người lớn biết.
+b) thì em phải dừng lại.
+c) thì em dùng khăn mềm hoặc chổi phủi bụi để vệ sinh máy tính.
+d) thì em sẽ thức dậy.
+Đáp án: 1-d, 2-a, 3-b, 4-c.
+
+LUYỆN TẬP
+1. Em hãy chuyển mỗi câu sau đây thành cách nói "Nếu ... thì ...":
+2. Em hãy cho ví dụ một số việc hằng ngày có thực hiện hay không tuỳ thuộc vào điều kiện.
+
+--------------------------------------------------
+
+### TRANG 71
+
+Câu hỏi 3: Rô-bốt có khả năng bước từng bước về phía trước, mỗi bước là một ô và có thể quay trái, quay phải. Nhiệm vụ của rô-bốt là di chuyển đến ô chứa sách hoặc quả cầu, sau đó di chuyển về ô đích (ô có cờ).
+a) Nếu đi đến ô chứa quyển sách rồi về ô đích thì rô-bốt đi như thế nào?
+b) Nếu đi đến ô chứa quả cầu rồi về ô đích thì rô-bốt đi thế nào?
+Đáp án: (Học sinh tự đưa ra chuỗi lệnh).
+
+VẬN DỤNG
+1. Em hãy hướng dẫn các bạn phân rác thành ba loại như Hình 85 bằng cách nói "Nếu ... thì ...".
+2. Trò chơi: "Nếu... thì..."
+
+--------------------------------------------------
+
+### TRANG 72
+
+BÀI 16: CÔNG VIỆC CỦA EM VÀ SỰ TRỢ GIÚP CỦA MÁY TÍNH
+Sau bài này em sẽ:
+* Phát biểu được nhiệm vụ đặt ra bằng cách xác định những gì đã cho trước, cần làm gì hay cần tạo ra sản phẩm số nào.
+* Chia được một công việc cụ thể thành những việc nhỏ hơn.
+* Thực hiện được nhiệm vụ do giáo viên đặt ra, có sử dụng máy tính.
+
+HOẠT ĐỘNG 1: Công việc cần làm
+Câu hỏi 1: Ba bạn An, Minh, Khoa cần tạo ra sản phẩm gì?
+Đáp án: Ba bạn cần tạo ra một bài trình chiếu.
+
+Câu hỏi 2: Các bạn dựa vào những gì để tạo ra sản phẩm đó?
+Đáp án: Dựa trên thông báo của nhà trường và kế hoạch của lớp.
+
+1. CÔNG VIỆC CỦA EM
+Để thực hiện tốt một việc, trước tiên chúng ta cần xác định những gì đã có và kết quả cần đạt được. Việc cần làm của nhóm An, Minh, Khoa là xây dựng bài trình chiếu để trình bày về kế hoạch trồng hoa.
+
+--------------------------------------------------
+
+### TRANG 73
+
+Để xây dựng bài trình chiếu, nhóm An, Minh, Khoa cần xác định các việc nhỏ hơn cần thực hiện:
+1. Lên ý tưởng
+2. Chuẩn bị nội dung
+3. Tạo bài trình chiếu
+4. Hoàn thiện sản phẩm
+
+Việc 1: Lên ý tưởng: Xây dựng bài trình chiếu về dự án trồng hoa.
+Việc 2: Chuẩn bị nội dung: Xác định nội dung, số trang, hình ảnh.
+Dự kiến bài trình chiếu có 6 trang:
+* Trang 1: Giới thiệu
+* Trang 2: Các việc cần làm
+* Trang 3: 1. Chuẩn bị
+* Trang 4: 2. Trồng hoa
+* Trang 5: 3. Chăm sóc
+* Trang 6: Cảm ơn
+
+--------------------------------------------------
+
+### TRANG 74
+
+Việc 3: Tạo bài trình chiếu: Sử dụng phần mềm trình chiếu để tạo các trang chiếu.
+Việc 4: Hoàn thiện sản phẩm: Xem lại bố cục, thêm hình ảnh, chỉnh sửa nội dung và lưu tệp.
+
+Công việc được chia thành những việc nhỏ hơn, có những việc được thực hiện trên máy tính.
+
+Câu hỏi: Trong các việc nhỏ để xây dựng bài trình chiếu ở trên, việc nào cần sử dụng máy tính?
+Đáp án: Việc 2 (sưu tầm hình ảnh), việc 3 (tạo bài trình chiếu) và việc 4 (hoàn thiện sản phẩm).
+
+2. THỰC HÀNH “GIẢI QUYẾT VẤN ĐỀ VỚI SỰ TRỢ GIÚP CỦA MÁY TÍNH”
+NHIỆM VỤ: Em hãy tạo bài trình chiếu trên máy tính theo nội dung ở mục 1 để trình bày ý tưởng trồng hoa trước cửa lớp.
+HƯỚNG DẪN
+Bước 1: Khởi động phần mềm trình chiếu.
+Bước 2: Tạo 6 trang chiếu theo gợi ý.
+Bước 3: Chèn thêm hình ảnh minh hoạ.
+Bước 4: Trình chiếu toàn màn hình và lưu tệp.
+
+--------------------------------------------------
+
+### TRANG 75
+
+LUYỆN TẬP
+Xây dựng bài trình chiếu để giới thiệu cảnh đẹp quê hương em.
+Câu hỏi 1: Em hãy ghép mỗi mục ở cột A với mục thích hợp ở cột B.
+Cột A
+1) Cần chuẩn bị
+2) Kết quả
+Cột B
+a) Nội dung giới thiệu
+b) Bài trình chiếu cảnh đẹp quê hương em
+c) Phần mềm tạo bài trình chiếu
+Đáp án: 1 ghép với a và c. 2 ghép với b.
+
+Câu hỏi 2: Em hãy chuẩn bị nội dung giới thiệu cảnh đẹp quê hương em.
+Câu hỏi 3: Em hãy tạo bài trình chiếu trên máy tính với nội dung đã chuẩn bị ở Câu 2.
+
+VẬN DỤNG
+Trò chơi: Em làm rô-bốt.
+(Mô tả luật chơi và cách chơi)
+
+--------------------------------------------------
+
+### TRANG 76
+
+BẢNG GIẢI THÍCH THUẬT NGỮ
+* Bài trình chiếu: Được tạo ra bởi phần mềm trình chiếu để giúp em trình bày ý tưởng.
+* Biểu tượng: Là hình ảnh nhỏ đại diện cho một phần mềm, một tệp, một thư mục,...
+* Bộ xử lí: Bộ phận của máy tính có chức năng xử lí thông tin.
+* Con trỏ chuột: Là hình ảnh nhỏ trên màn hình máy tính, thay đổi vị trí theo sự di chuyển của chuột.
+* Khởi động máy tính: Sau khi em nhấn nút công tắc, máy tính được bật và sẵn sàng cho em sử dụng.
+* Khởi động phần mềm: Sau khi em nháy đúp chuột vào biểu tượng, máy tính mở phần mềm để sẵn sàng cho em sử dụng.
+* Màn hình nền: Nơi các biểu tượng được sắp xếp trên màn hình máy tính.
+* Mật khẩu: Là một dãy kí tự bí mật để đăng nhập vào máy tính hoặc phần mềm.
+* Máy tính thông dụng: Bao gồm máy tính để bàn, máy tính xách tay, máy tính bảng, điện thoại thông minh,...
+* Thiết bị nhớ: Là vật lưu trữ thông tin như thẻ nhớ, USB,...
+
+--------------------------------------------------
+
+### TRANG 77
+
+(Trang này chứa thông tin xuất bản, tên các tác giả, biên tập viên, và thông tin bản quyền của Nhà xuất bản Giáo dục Việt Nam.)
+
+--------------------------------------------------
+
+### TRANG 78
+
+BỘ SÁCH GIÁO KHOA LỚP 3 – KẾT NỐI TRI THỨC VỚI CUỘC SỐNG
+(Liệt kê 14 đầu sách trong bộ sách giáo khoa lớp 3)
+Các đơn vị đầu mối phát hành
+* Miền Bắc
+* Miền Trung
+* Miền Nam
+* Cửu Long
+* Sách điện tử: http://hanhtrangso.nxbgd.vn

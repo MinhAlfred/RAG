@@ -1,7 +1,6 @@
 """Unit tests for DocumentProcessor"""
 
 import pytest
-from pathlib import Path
 from src.sgk_rag.core.document_processor import DocumentProcessor
 
 
@@ -43,7 +42,7 @@ class TestDocumentProcessor:
     def test_extract_topics(self, processor):
         """Test topic extraction"""
         text = "Thuật toán là một dãy hữu hạn các bước. Lập trình Python rất dễ học."
-        topics = processor._extract_topics(text, "THCS")
+        topics = processor._extract_topics(text, subject_key="tin_hoc", education_level="THCS")
 
         assert "thuật toán" in topics
         assert "lập trình" in topics
@@ -54,5 +53,5 @@ class TestDocumentProcessor:
         text_with_code = "def hello():\n    print('Hello')"
         text_without_code = "Đây là văn bản thông thường"
 
-        assert processor._detect_code(text_with_code) == True
-        assert processor._detect_code(text_without_code) == False
+        assert processor._detect_code(text_with_code) is True
+        assert processor._detect_code(text_without_code) is False
