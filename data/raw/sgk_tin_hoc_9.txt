@@ -1,0 +1,1992 @@
+--- TRANG 1 ---
+
+NHÀ XUẤT BẢN GIÁO DỤC VIỆT NAM
+BẢN MẪU
+Tháng 10 - 2023
+NGUYỄN CHÍ CÔNG (Tổng Chủ biên)
+HÀ ĐẶNG CAO TỪNG (Chủ biên)
+PHAN ANH - NGUYỄN HẢI CHÂU - HOÀNG THỊ MAI
+KẾT NỐI TRI THỨC VỚI CUỘC SỐNG
+TIN HỌC 9
+
+--- TRANG 2 ---
+
+HỘI ĐỒNG QUỐC GIA THẨM ĐỊNH SÁCH GIÁO KHOA
+Môn: Tin học - Lớp 9
+(Theo Quyết định số 1551/QĐ-BGDĐT ngày 05 tháng 6 năm 2023 của Bộ trưởng Bộ Giáo dục và Đào tạo)
+Chủ tịch: LÊ MẠNH THẠNH
+Phó Chủ tịch: NGUYỄN THANH BÌNH
+Uỷ viên, Thư kí: HỒ VĨNH THÁNG
+Các uỷ viên: TRẦN XUÂN SANG - ĐÀO HẢI TIỆP - NGUYỄN THÁI SƠN - NGUYỄN CÔNG HIỆP
+
+--- TRANG 3 ---
+
+NGUYỄN CHÍ CÔNG (Tổng Chủ biên) – HÀ ĐẶNG CAO TÙNG (Chủ biên)
+PHAN ANH - NGUYỄN HẢI CHÂU - HOÀNG THỊ MAI
+TIN HỌC 9
+KẾT NỐI TRI THỨC VỚI CUỘC SỐNG
+NHÀ XUẤT BẢN GIÁO DỤC VIỆT NAM
+Tháng 10-2023
+
+--- TRANG 4 ---
+
+HƯỚNG DẪN SỬ DỤNG SÁCH
+Sách giáo khoa Tin học 9 gồm 6 chủ đề với 22 bài học.
+Trong đó, chủ đề Ứng dụng tin học có hai chủ đề con để lựa chọn là Sử dụng bảng tính điện tử nâng cao (Bài 9a đến Bài 13a) và Làm quen với phần mềm làm video (Bài 9b đến Bài 13b).
+Các bài học được xây dựng với cấu trúc thống nhất.
+Sau đây là những hướng dẫn để em sử dụng sách hiệu quả hơn.
+- Mục tiêu: Giúp em biết cần đạt được gì sau bài học.
+- Khởi động: Giúp em nhận biết ý nghĩa của bài học bằng cách kết nối những tình huống xuất hiện trong cuộc sống với nội dung bài học.
+Nội dung bài học:
+Các hoạt động: Giúp lớp học tích cực, bài học dễ tiếp thu, giúp em chủ động hơn trong quá trình nhận thức.
+Kiến thức mới: Cung cấp cho em nội dung chính của bài học, giúp em bổ sung kiến thức nhằm đạt được mục tiêu của bài học.
+- Hộp kiến thức: Ghi ngắn gọn hoặc tóm tắt kiến thức mới.Em có thể dùng hộp kiến thức cùng với bảng giải thích thuật ngữ (ở cuối sách) để ôn tập hoặc tra cứu thuật ngữ mới.
+- Câu hỏi: Giúp em kiểm tra xem mình đã hiểu bài chưa.
+- Luyện tập: Gồm những câu hỏi, bài tập để củng cố kiến thức, kĩ năng trong bài học.
+- Vận dụng: Gồm những câu hỏi, bài tập yêu cầu em kết hợp kiến thức, kĩ năng đã học để giải quyết tình huống trong thực tiễn cuộc sống.
+Sách sử dụng các phần mềm Microsoft Excel, MindMaple Lite, Video Editor và ngôn ngữ lập trình trực quan Scratch để minh hoạ và hướng dẫn thực hành.
+Trong các đoạn hội thoại, có ba nhân vật là ba bạn học sinh lớp 9: An, Minh, Khoa.
+Mỗi bạn có một sở trường khác nhau, đại diện cho một trong ba mạch kiến thức của môn Tin học là Học vấn số hoá phổ thông, Công nghệ thông tin và truyền thông, Khoa học máy tính.
+An
+Minh
+Khoa
+Hãy bảo quản, giữ gìn sách giáo khoa để dành tặng các em học sinh lớp sau!
+
+--- TRANG 5 ---
+
+LỜI NÓI ĐẦU
+Các em học sinh yêu quý!
+Sách giáo khoa Tin học 9 tiếp nối các bài học của những năm học trước nhằm tiếp tục phát triển năng lực của các em trong lĩnh vực Tin học và rèn luyện cho các em những phẩm chất cần có để tham gia vào xã hội kĩ thuật số.
+Cuốn sách sẽ mở ra cánh cửa để các em bước vào thế giới kĩ thuật số với những thiết bị đa dạng, xuất hiện ở hầu hết mọi lĩnh vực trong đời sống của con người.Cuốn sách cũng giới thiệu phần mềm mô phỏng để em được học, được biết, được trải nghiệm và phát hiện ra những điều em chưa biết.
+Được biên soạn theo Chương trình Giáo dục phổ thông 2018, sách giáo khoa Tin học 9 còn từng bước hướng dẫn các em biết cách giải quyết vấn đề một cách khoa học, biết sử dụng thông tin một cách hiệu quả và tạo ra những sản phẩm kĩ thuật số, biết một số thông tin về ngành nghề làm cơ sở cho việc lựa chọn nghề nghiệp theo khả năng và sở thích của mình.
+Các ví dụ trong sách gần gũi với các em trong đời sống hằng ngày nhưng cũng ẩn giấu nhiều điều thú vị, thúc đẩy các em tìm hiểu, khám phá,... đưa các em vào thế giới kĩ thuật số có biết bao nhiêu điều kì thú.
+Chúc các em học tập chăm chỉ và thành công.
+
+--- TRANG 6 ---
+
+MỤC LỤC
+
+Chủ đề 1. Máy tính và cộng đồng, Trang 5
+Bài 1. Thế giới kĩ thuật số, 5
+
+Chủ đề 2. Tổ chức lưu trữ, tìm kiếm và trao đổi thông tin, 9
+Bài 2. Thông tin trong giải quyết vấn đề, 9
+Bài 3. Thực hành: Đánh giá chất lượng thông tin, 12
+
+Chủ đề 3. Đạo đức, pháp luật và văn hoá trong môi trường số, 15
+Bài 4. Một số vấn đề pháp lí về sử dụng dịch vụ Internet, 15
+
+Chủ đề 4. Ứng dụng tin học, 20
+Bài 5. Tìm hiểu phần mềm mô phỏng, 20
+Bài 6. Thực hành: Khai thác phần mềm mô phỏng, 23
+Bài 7. Trình bày thông tin trong trao đổi và hợp tác, 27
+Bài 8. Thực hành: Sử dụng công cụ trực quan trình bày thông tin trong trao đổi và hợp tác, 30
+a. Sử dụng bảng tính điện tử nâng cao, 34
+Bài 9a. Sử dụng công cụ xác thực dữ liệu, 34
+Bài 10a. Sử dụng hàm COUNTIF, 41
+Bài 11a. Sử dụng hàm SUMIF, 45
+Bài 12a. Sử dụng hàm IF, 48
+Bài 13a. Hoàn thiện bảng tính quản lí tài chính gia đình, 52
+b. Làm quen với phần mềm làm video, 55
+Bài 9b. Các chức năng chính của phần mềm làm video, 55
+Bài 10b. Chuẩn bị dữ liệu và dựng video, 60
+Bài 11b. Thực hành: Dựng video theo kịch bản, 65
+Bài 12b. Hoàn thành việc dựng video, 69
+Bài 13b. Biên tập và xuất video, 73
+
+Chủ đề 5. Giải quyết vấn đề với sự trợ giúp của máy tính, 76
+Bài 14. Giải quyết vấn đề, 76
+Bài 15. Bài toán tin học, 79
+Bài 16. Thực hành: Lập chương trình máy tính, 83
+
+Chủ đề 6. Hướng nghiệp với tin học, 87
+Bài 17. Tin học và thế giới nghề nghiệp, 87
+
+Bảng giải thích thuật ngữ, 91
+
+
+--- TRANG 7 ---
+
+CHỦ ĐỀ 1. MÁY TÍNH VÀ CỘNG ĐỒNG
+BÀI 1: THẾ GIỚI KĨ THUẬT SỐ
+Sau bài học này em sẽ:
+- Nhận biết được sự có mặt của các thiết bị có gắn bộ xử lí thông tin ở khắp nơi và nêu được ví dụ minh hoạ.
+- Nêu được khả năng của máy tính và chỉ ra được một số ứng dụng thực tế của nó trong khoa học kĩ thuật và đời sống.
+- Giải thích được tác động của công nghệ thông tin lên giáo dục và xã hội thông qua các ví dụ cụ thể.
+
+An: Bộ xử lí là thành phần quan trọng của máy tính, thường được gọi là "bộ não" của máy tính.Nhưng liệu có phải chỉ máy tính mới có bộ xử lí không?
+Khoa: Bộ xử lí không chỉ xuất hiện trong máy tính để bàn hoặc máy tính xách tay mà nhiều thiết bị điện tử khác cũng cần bộ xử lí để hoạt động như ti vi kĩ thuật số hay rô bốt quét nhà....
+An: Thế thì còn nhiều thiết bị nữa có gắn bộ xử lí ở xung quanh chúng ta.
+
+1. THẾ GIỚI KĨ THUẬT SỐ
+Hoạt động 1: Tìm hiểu ti vi kĩ thuật số
+Hầu hết ti vi được sử dụng hiện nay là ti vi kĩ thuật số (Hình 1.1).Em hãy tìm hiểu và cho biết:
+1. Thông tin đầu vào nào được ti vi tiếp nhận từ bộ điều khiển?
+2. Ti vi thể hiện sự thay đổi ở đầu ra như thế nào?
+3. Ti vi có thực hiện thao tác xử lí thông tin không?
+
+Khi em nhấn nút chuyển kênh ti vi trên bộ điều khiển từ xa, ti vi sẽ nhận được thông tin.Xử lí thông tin này, ti vi sẽ chuyển sang kênh mà em yêu cầu.Để làm việc đó, ti vi phải được gắn một bộ xử lí thông tin.
+Bộ xử lí thông tin (hay thường gọi là bộ xử lí) là thành phần quan trọng của máy tính.Bộ xử lí làm việc với dữ liệu được biểu diễn dưới dạng dãy bit.Tuy nhiên, bộ xử lí không chỉ xuất hiện trong máy tính hay điện thoại thông minh mà còn được gắn vào các thiết bị khác để hỗ trợ xử lí bất kì loại thông tin nào có thể số hoá được.
+- Trong nhà, nhiều thiết bị điện như ti vi, tủ lạnh, máy giặt.... được gắn bộ xử lí để có thêm nhiều tính năng và vận hành một cách linh hoạt.Hiện nay, nhiều thiết bị điện thông dụng như bếp điện, nồi cơm điện, thậm chí đèn, quạt,... cũng có thể được gắn bộ xử lí để có thêm nhiều tính năng tiện lợi hơn.
+
+--- TRANG 8 ---
+
+- Hệ thống nhận dạng khuôn mặt trong các cơ quan, tổ chức;máy chiếu trong lớp học, bảng điện tử hiển thị thông tin chuyến bay;máy rút tiền tự động (ATM) của ngân hàng; hệ thống thu phí tự động trên đường cao tốc;... là những ví dụ cho thấy thiết bị có gắn bộ xử lí thông tin xuất hiện trong mọi lĩnh vực của đời sống.
+- Hệ thống thanh toán trong siêu thị, hệ thống băng chuyền tự động trong công nghiệp chế biến, những cỗ máy lắp ráp tự động hay hệ thống phun tưới vận hành tự động ... là những ví dụ về thiết bị có gắn bộ xử lí trong thương mại, trong sản xuất công nghiệp và nông nghiệp hiện đại.
+Những thiết bị có gắn bộ xử lí hiện diện xung quanh ta và ngày càng trở nên quen thuộc.Chúng có thể là những vật dụng cá nhân, đồ dùng trong gia đình hay những thiết bị chuyên dụng trong hầu hết các lĩnh vực như công nghiệp, nông nghiệp, thương mại, giáo dục, y tế, giao thông.... Sự đa dạng của các thiết bị đó tạo nên thế giới kĩ thuật số.
+
+Thiết bị được gắn bộ xử lí hiện diện xung quanh ta.Chúng giúp con người tự động hoá một phần hoạt động xử lí thông tin và xuất hiện trong hầu hết các lĩnh vực kinh tế, xã hội và đời sống....
+
+1. Em hãy ghép mỗi cụm từ ô tô lái tự động, máy chụp cắt lớp, bảng điện tử, rô-bốt lắp ráp với một thiết bị có gắn bộ xử lí trong Hình 1.2.
+2. Những thiết bị trong Hình 1.2 thường xuất hiện ở nơi nào trong thực tế?
+
+2. ỨNG DỤNG THỰC TẾ CỦA MÁY TÍNH TRONG KHOA HỌC KĨ THUẬT VÀ ĐỜI SỐNG
+Hoạt động 2: Máy tính thật là cần thiết
+Em hãy nêu một số khả năng của máy tính mà nhờ đó máy tính có thể hỗ trợ con người một cách đắc lực trong cuộc sống.
+
+a) Khả năng của máy tính
+Máy tính là thiết bị điện tử có thể hỗ trợ tích cực nhiều hoạt động của con người do nó có khả năng tính toán nhanh, chính xác;lưu trữ dung lượng lớn; kết nối toàn cầu với tốc độ cao.
+- Máy tính có thể thực hiện hàng tỉ phép tính trong một giây một cách bền bỉ với độ chính xác cao, giúp con người giải quyết được những bài toán phức tạp.
+- Máy tính có thể lưu trữ và xử lí nhiều loại dữ liệu như văn bản, hình ảnh, âm thanh, video.... với dung lượng lớn và có thể truy xuất nhanh chóng khi cần thiết.
+
+--- TRANG 9 ---
+
+- Máy tính có thể kết nối với nhau, tạo thành mạng máy tính toàn cầu Internet và truy cập các nguồn thông tin, dịch vụ và giải trí phong phú trên môi trường đó.
+
+b) Ứng dụng của máy tính trong khoa học kĩ thuật và đời sống
+Sự phát triển nhanh của công nghệ máy tính làm cho nó trở thành công cụ đắc lực, hỗ trợ hoạt động của con người trong hầu hết các lĩnh vực.Ví dụ:
+- Máy tính hiệu năng cao được sử dụng để tính toán trong khoa học và kĩ thuật như mô phỏng dòng chảy của chất lỏng, chất khí.... mà việc nghiên cứu trong thực tế là rất khó.Siêu máy tính có thể được sử dụng để thực hiện những tính toán phức tạp trong hoá học, vật lí, công nghệ kết cấu hay dự báo thời tiết....
+- Công nghệ thông tin được ứng dụng trên các vệ tinh nhân tạo để nghiên cứu vũ trụ.Kính viễn vọng không gian Hubble (Hình 1.3) là một trong những cỗ máy xử lí thông tin đắt tiền nhất được tạo ra.
+- Trong y tế, bác sĩ sử dụng máy tính để hiểu cơ thể con người và chẩn đoán những rối loạn về thể chất và tinh thần.Bệnh viện sử dụng máy tính để quản lí dữ liệu người bệnh và bác sĩ.
+- Trong nghiên cứu, các nhà khoa học có thể tìm thấy tài liệu tham khảo từ kho dữ liệu được số hoá và được lưu trữ trên thiết bị lưu trữ hoặc Internet.
+- Trong lĩnh vực giao thông, máy tính được sử dụng để điều khiển xe tự động lái (Hình 1.4), điều khiển hệ thống đèn tín hiệu....
+Trong cuộc sống hằng ngày, hầu như mọi dịch vụ thiết yếu như gửi hàng, di chuyển, mua thực phẩm, đọc báo,... đều có thể tìm được bằng vài lần nháy chuột đơn giản.Nhiều người có thể làm việc tại nhà một cách hiệu quả với sự trợ giúp của máy tính.
+- Máy tính cung cấp nhiều lựa chọn giải trí nên được nhiều người sử dụng.Thông qua máy tính, em có thể nghe nhạc, xem phim cũng như trò chuyện với bạn bè của mình và chơi những trò chơi hấp dẫn.
+
+- Máy tính có khả năng tính toán nhanh, bền bỉ, chính xác;lưu trữ dữ liệu với dung lượng lớn; kết nối toàn cầu với tốc độ cao.
+- Máy tính được ứng dụng hiệu quả trong nhiều lĩnh vực của khoa học kĩ thuật và đời sống.
+
+3. TÁC ĐỘNG CỦA CÔNG NGHỆ THÔNG TIN LÊN GIÁO DỤC VÀ XÃ HỘI
+Hoạt động 3: Tác động của công nghệ thông tin
+Em hãy kể một số ví dụ cho thấy tác động của công nghệ thông tin lên giáo dục và xã hội.
+
+--- TRANG 10 ---
+
+Công nghệ thông tin được con người sử dụng để khám phá tri thức mới, kết nối cá nhân với thế giới, hỗ trợ họ trong học tập và lao động.Về khía cạnh xã hội, công nghệ thông tin mang lại phương tiện mới, giúp con người dễ dàng giao tiếp với nhau.Nếu chúng ta biết sử dụng công nghệ thông tin một cách tích cực, nguồn lực đó sẽ phát triển, làm cho cuộc sống của chúng ta trở nên dễ dàng hơn nhiều.
+- Công nghệ thông tin đem đến những phương tiện giao tiếp hiệu quả như: thư điện tử, tin nhắn, mạng xã hội,... giúp con người giảm bớt sự phụ thuộc vào không gian và thời gian.Ngày nay, mỗi người đều có thể trò chuyện và nhìn thấy người thân của mình một cách dễ dàng ngay cả khi họ ở rất xa nhau, thậm chí cả khi họ đang di chuyển.
+- Công nghệ thông tin còn giúp con người dễ dàng chuyển giao và tiếp cận thông tin.Trong giáo dục, công nghệ thông tin giúp con người chia sẻ kiến thức, kĩ năng và cổ vũ thái độ sống tích cực.Ngày nay, mọi người có thể bổ sung sự hiểu biết của mình về bất kì lĩnh vực nào, ở mọi nơi, vào mọi lúc bằng cách sử dụng Internet.Nhiều dữ liệu hiện có trên Internet là miễn phí.
+Tuy nhiên, việc sử dụng công nghệ không đúng cách và thiếu trách nhiệm có thể đem lại những tác động tiêu cực như ảnh hưởng xấu đến sức khoẻ thể chất và tinh thần của con người.Nói chung, công nghệ thông tin có tác động tích cực đến con người và xã hội nhiều hơn so với tác động tiêu cực.Tuy nhiên, cách chúng ta sử dụng công nghệ thông tin sẽ quyết định tác động của nó có lợi hay có hại cho xã hội.
+- Công nghệ thông tin có tác động mạnh mẽ, đem lại những thay đổi tích cực trong xã hội, trong đó có giáo dục.
+- Cần sử dụng công nghệ thông tin đúng cách để tránh những tác động tiêu cực đến cuộc sống.
+
+Em hãy:
+a) Kể về một ứng dụng của công nghệ thông tin mà em thường xuyên sử dụng.
+b) Nêu những tác động tích cực của ứng dụng đó và cách em sử dụng nó hằng ngày.
+
+LUYỆN TẬP
+1. Hãy tưởng tượng, các hoạt động xung quanh em sẽ thay đổi như thế nào khi một ngày các bộ xử lí biến mất, các thiết bị được gắn bộ xử lí không hoạt động nữa?
+2. Em hãy kể một ví dụ về kiến thức, kĩ năng hoặc nội dung thú vị, có nhiều ý nghĩa mà em học được từ nguồn thông tin trên Internet.
+
+VẬN DỤNG
+Em hãy tìm hiểu và trả lời các câu hỏi sau:
+a) Đồng hồ thông minh có những chức năng nào khác với đồng hồ thông thường?
+b) Tại sao đồng hồ thông minh cần có bộ xử lí?
+
+--- TRANG 11 ---
+
+CHỦ ĐỀ 2. TỔ CHỨC LƯU TRỮ, TÌM KIẾM VÀ TRAO ĐỔI THÔNG TIN
+BÀI 2: THÔNG TIN TRONG GIẢI QUYẾT VẤN ĐỀ
+Sau bài học này em sẽ:
+- Giải thích được sự cần thiết phải quan tâm đến chất lượng thông tin khi tìm kiếm, tiếp nhận và trao đổi thông tin. Nêu được ví dụ minh hoạ.
+- Giải thích được tính mới, tính chính xác, tính đầy đủ, tính sử dụng được của thông tin. Nêu được ví dụ minh hoạ.
+
+Minh: Chào An, bạn đã quyết định chọn trường nào sau khi tốt nghiệp THCS chưa?
+An: Chưa, tớ đang phân vân giữa hai lựa chọn: trường công lập hay trường dân lập.
+Minh: Trường công lập thì học phí thấp, trang thiết bị được Nhà nước đầu tư chắc là phải hơn chứ, bạn còn băn khoăn gì nữa?
+An: Nhưng trường dân lập cũng có ưu điểm: kế hoạch giáo dục linh hoạt hơn, lại có nhiều cơ hội hoạt động, tiếp xúc với các tổ chức, doanh nghiệp nữa.
+Minh: Ừ nhỉ, thế thì phải tìm hiểu thêm thông tin.Nhưng thông tin trên Internet thì mỗi người một ý kiến khác nhau, không phải ý kiến nào cũng đúng hoặc phù hợp với mình.Biết làm sao nhỉ?
+An: Vậy tớ sẽ cân nhắc thêm để chọn trường phù hợp với sở thích và khả năng của mình.
+
+Chúng ta hãy cùng hai bạn tìm hiểu về vai trò của thông tin và chất lượng thông tin trong việc giải quyết những vấn đề được đặt ra trong cuộc sống nhé!
+
+1. VAI TRÒ CỦA CHẤT LƯỢNG THÔNG TIN TRONG GIẢI QUYẾT VẤN ĐỀ
+Hoạt động 1: Chọn trường
+Minh đã tìm kiếm thông tin về các trường THPT trên Internet và gửi cho An địa chỉ trang web giới thiệu về một trường THPT.An xem trang web và thấy có nhiều chi tiết ấn tượng, phù hợp với mình (Hình 2.1).Không tìm hiểu thêm nữa, An quyết định chọn trường đó làm nguyện vọng duy nhất của mình.
+Em hãy cho biết việc Minh chia sẻ thông tin với An và An đã tin tưởng, sử dụng thông tin để chọn trường mà chưa tìm hiểu kĩ sẽ có thể xảy ra vấn đề gì?
+Năm học 2001-2002
+Tự do sáng tạo
+Nhiều câu lạc bộ
+Phát triển kĩ năng
+Ngoại khoá phong phú
+Gặp gỡ người nổi tiếng
+
+--- TRANG 12 ---
+
+Tìm được trang web có nhiều thông tin về một trường THPT, Minh đã gửi cho An.Thấy có những lời giới thiệu ấn tượng, An đã vội vàng ra quyết định mà không kiểm tra để biết thông tin có chính xác, đầy đủ và phù hợp với tiêu chí chọn trường của mình hay không.Do dựa trên thông tin chưa được kiểm chứng, quyết định của An có thể không đúng.Hơn nữa, việc An chỉ đăng kí một nguyện vọng sẽ làm giảm cơ hội lựa chọn.Để đưa ra quyết định đúng, An cần sử dụng thông tin có chất lượng từ những nguồn đáng tin cậy như trang web của Sở Giáo dục và Đào tạo, ý kiến của giáo viên chủ nhiệm hay của người thân có kinh nghiệm.
+Internet là một kho thông tin khổng lồ.Em có thể tìm thấy nhiều thông tin trên đó nhưng không phải thông tin nào cũng có thể sử dụng để giải quyết vấn đề một cách hiệu quả.Không phải số lượng bản tin mà là chất lượng của thông tin mới thực sự làm cho thông tin trở thành hữu ích.Vì vậy, em cần quan tâm đến chất lượng thông tin khi tìm kiếm, tiếp nhận và trao đổi thông tin.
+
+Thông tin là cơ sở để đưa ra các quyết định.Cần phải quan tâm đến chất lượng thông tin khi tìm kiếm, tiếp nhận, trao đổi và sử dụng thông tin để có thể đưa ra các quyết định đúng đắn.
+KOL là thuật ngữ viết tắt của Key Opinion Leader có nghĩa là người dẫn dắt dư luận chủ chốt hay người có ảnh hưởng.Khi em thấy một KOL quảng cáo sản phẩm trên mạng, em sẽ ứng xử thế nào?
+A. Chia sẻ thông tin với người thân vì KOL là một nguồn tin đáng tin cậy.
+B. Sử dụng sản phẩm vì KOL là một đảm bảo cho sản phẩm đã qua kiểm định.
+C. Cân nhắc, đánh giá chất lượng thông tin trước khi sử dụng sản phẩm.
+D. Không sử dụng và cảnh báo người thân về nguồn tin kém chất lượng.
+
+2. CHẤT LƯỢNG THÔNG TIN
+Hoạt động 2: Thông tin hữu ích
+1. Hãy tìm kiếm và lựa chọn thông tin mà theo em là hữu ích giúp em chọn trường THPT.
+2. Tại sao thông tin đó là hữu ích đối việc giải quyết vấn đề chọn trường của em?
+Mặc dù thông tin đóng vai trò quan trọng trong việc ra quyết định nhưng không phải thông tin nào cũng hữu ích đối với việc giải quyết vấn đề.Chất lượng thông tin thể hiện ở mức độ đáp ứng của thông tin đối với các yêu cầu cụ thể nhằm giải quyết vấn đề, làm thông tin trở nên hữu ích.Để đánh giá chất lượng thông tin, em cần xem xét các tiêu chí như tính mới, tính chính xác, tính đầy đủ, tính sử dụng được của thông tin (Hình 2.2).
+- Tính mới (tính cập nhật): Tính mới cho biết thông tin đã bị lỗi thời chưa.Em cần thông tin cập nhật gần nhất vào thời gian nào?Nếu thông tin đã lỗi thời, cũ hoặc chậm trễ, em có thể chọn nhầm trường hoặc bỏ lỡ cơ hội vì không biết những thay đổi của các trường.
+- Tính chính xác, đúng đắn của thông tin: Nội dung có cụ thể không?Có cách để xác minh hay không?Nếu thông tin không chính xác (ví dụ: sai điểm tuyển sinh, sai tên hoặc sai địa chỉ), em có thể sẽ nhầm lẫn và bỏ qua các trường tiềm năng.
+
+--- TRANG 13 ---
+
+- Tính đầy đủ: Tính đầy đủ thể hiện sự bao quát nhiều khía cạnh, cho em có được cái nhìn tổng thể về vấn đề được đặt ra.Nếu thông tin không đầy đủ (ví dụ: thiếu chi tiết về học phí, môi trường học tập hoặc độ uy tín), em sẽ không có được cái nhìn toàn diện về các trường.
+- Tính sử dụng được (tính liên quan, phù hợp) của thông tin với vấn đề hay câu hỏi được đặt ra: Nếu thông tin không liên quan (ví dụ: thông tin về du học nước ngoài hay về trung tâm giáo dục thường xuyên không phù hợp với mục tiêu lựa chọn một trường THPT công lập), em sẽ không sử dụng được và thông tin trở nên vô ích.
+
+Chất lượng thông tin
+- Tính mới
+- Tính chính xác
+- Tính đầy đủ
+- Tính sử dụng được
+
+- Chất lượng thông tin là yếu tố quan trọng, quyết định hiệu quả của việc giải quyết vấn đề.
+- Chất lượng thông tin được đánh giá thông qua tính mới, tính chính xác, tính đầy đủ, tính sử dụng được.
+
+Trong khi tìm thông tin về các trường THPT, bạn An đã không để ý đến thời gian đăng kí nguyện vọng dự thi và xét tuyển vào lớp 10 các trường THPT công lập.Theo em:
+a) Sơ suất này vi phạm tiêu chí nào về chất lượng thông tin?
+b) Điều đó có thể dẫn đến khó khăn gì cho bạn An?
+
+LUYỆN TẬP
+Để chuẩn bị cho chuyến tham quan một nông trại, An gọi đến số điện thoại liên lạc được cung cấp trên trang web của nông trại nhưng không được.Minh cho rằng có thể đầu số điện thoại đã thay đổi nhưng nông trại chưa kịp cập nhật lên trang web nên đã tìm kiếm thông tin trên website của các nhà cung cấp dịch vụ viễn thông.Nhờ đó, Minh đã liên hệ thành công với nông trại.Em hãy nhận xét về chất lượng của thông tin (theo 4 tính chất ở Hình 2.2) mà mỗi bạn thu nhận được.
+
+VẬN DỤNG
+Em hãy tìm trên Internet thông tin về chiếc máy tính điện tử kĩ thuật số đầu tiên trên thế giới.Đánh giá chất lượng thông tin tìm được.
+
+--- TRANG 14 ---
+
+BÀI 3: THỰC HÀNH: ĐÁNH GIÁ CHẤT LƯỢNG THÔNG TIN
+Sau bài học này em sẽ:
+- Tìm kiếm được thông tin để giải quyết vấn đề.
+- Đánh giá được chất lượng thông tin trong giải quyết vấn đề.
+
+Để chuẩn bị cho việc tiếp tục học tập sau khi kết thúc bậc THCS, em cần tìm hiểu thông tin để giải quyết vấn đề lựa chọn môi trường học tập và xu hướng nghề nghiệp trong tương lai, phù hợp với năng lực và nguyện vọng của em.Theo em, làm thế nào để tìm kiếm được thông tin giúp giải quyết vấn đề chọn trường và đánh giá được chất lượng thông tin mà em đã tìm được?
+
+NHIỆM VỤ 1. TÌM KIẾM THEO MỤC ĐÍCH, YÊU CẦU
+Yêu cầu:
+- Xác định mục đích tìm kiếm và những yêu cầu tìm kiếm cụ thể.
+- Thực hiện tìm kiếm thông tin dựa trên mục đích và yêu cầu đã xác định.
+Hướng dẫn:
+a) Xác định mục đích, yêu cầu tìm kiếm thông tin
+- Mục đích: Tìm thông tin về các trường THPT tại địa phương để quyết định lựa chọn nguyện vọng đăng kí.
+- Những yêu cầu tìm kiếm có thể là:
+  + Điểm chuẩn và chỉ tiêu tuyển sinh của trường trong ba năm gần nhất.
+  + Tỉ lệ học sinh của trường tốt nghiệp THPT và trúng tuyển vào các trường đại học có uy tín.
+  + Những nhóm môn học mà trường có thế mạnh.
+  + Các hoạt động ngoại khoá của trường.
+  + Khoảng cách từ nhà đến trường.
+b) Thực hiện tìm kiếm
+- Sử dụng máy tìm kiếm và các từ khoá tìm kiếm (xác định từ khoá tìm kiếm dựa vào yêu cầu tìm kiếm) để tìm thông tin trên Internet.Ví dụ: dùng từ khoá Olympic Tin học 2023 tỉnh Vĩnh Phúc để tìm thông tin về thế mạnh của các trường (Hình 3.1).
+- Lưu trữ tóm tắt (nội dung tóm tắt, địa chỉ trang web) của thông tin tìm được vào một tệp để có thể sử dụng trong việc đánh giá ở bước tiếp theo.
+
+--- TRANG 15 ---
+
+Có thể sử dụng công cụ hội thoại thông minh (công cụ tương tác giữa người với máy tính có ứng dụng trí tuệ nhân tạo) để khoanh vùng phạm vi tìm kiếm với những yêu cầu cụ thể.Ví dụ: Hãy cho biết tên các trường THPT gần Vĩnh Tường, Vĩnh Phúc để biết các trường có địa điểm ở gần nhà (Hình 3.2).
+
+Vĩnh Phúc: 79 giải học sinh giỏi quốc gia với 5 giải Nhất, 3
+13 thg 3, 2023 - Kì thi Chọn học sinh giỏi THPT quốc gia năm học 2022-2023 được tổ chức từ ngày 24-25/02/2023.Tỉnh Vĩnh Phúc có 92 học sinh dự thi 10 môn văn ...
+
+Dưới đây là những trường THPT gần Vĩnh Tường, Vĩnh Phúc mà tôi tìm được trên trang web của sở GD&ĐT Vĩnh Phúc:
+- Trường THPT Lê Xoay, TTr. Vĩnh Tường
+- Trường THPT Nguyễn Viết Xuân, Xã Chấn Hưng
+- Trường THPT Đội Cấn, Xã Tam Phúc
+- Trường THPT Vĩnh Tường, TTr. Vĩnh Tường
+- Trường THPT Nguyễn Thị Giang, Xã Chấn Hưng
+- Trường THPT Hồ Xuân Hương, Xã Tam Phúc
+Hy vọng thông tin này sẽ hữu ích cho bạn.Nếu bạn cần thông tin chi tiết hơn về các trường này, bạn có thể liên hệ trực tiếp với các trường hoặc sở GD&ĐT Vĩnh Phúc để được tư vấn thêm.
+
+Em có thể tìm kiếm thông tin từ nhiều nguồn nhưng lưu ý rằng độ tin cậy của thông tin trên Internet rất khác nhau.Vì vậy, với mỗi yêu cầu cụ thể, nguồn thông tin cần được xem xét về thẩm quyền để đảm bảo tính tin cậy.Ví dụ:
++ Thông tin về tuyển sinh vào lớp 10 cần tìm trên website của Sở Giáo dục và Đào tạo.Lưu ý: trang web các Sở Giáo dục và Đào tạo thường có dạng edu.vn (ví dụ vinhphuc.edu.vn) (Hình 3.3).
+Những điều cần biết về tuyển sinh vào lớp 10 THPT tại Vĩnh Phúc...
+Web 19 thg 3, 2022 - Lịch thi tuyển sinh vào các trường THPT không chuyên và THPT Chuyên Vĩnh Phúc ... - Với các lớp chuyên của trường THPT Chuyên Vĩnh Phúc, điểm xét tuyển = ...
++ Thông tin về các hoạt động giáo dục và ngoại khoá nên tìm trên website của nhà trường.
++ Không phải mọi thông tin đều có thể tìm được trên website của Sở Giáo dục và Đào tạo hoặc của các trường.Thông tin cần được đối chiếu, kiểm chứng trước khi sử dụng.
+
+--- TRANG 16 ---
+
+NHIỆM VỤ 2. QUYẾT ĐỊNH DỰA TRÊN CHẤT LƯỢNG THÔNG TIN
+Yêu cầu:
+Đánh giá chất lượng thông tin tìm được trong Nhiệm vụ 1. Từ đó, đưa ra danh sách lựa chọn nguyện vọng gồm ba trường theo thứ tự ưu tiên mà em thấy phù hợp với năng lực và sở thích của mình.
+Hướng dẫn:
+a) Đánh giá thông tin
+- Tính mới: Em cần thông tin được cập nhật gần nhất.Em có thể kiểm tra xem thông tin về trường có bị lỗi thời không bằng cách kiểm tra ngày đăng bài hoặc ngày cuối cùng được đề cập đến trong bài viết.
+- Tính chính xác: Em có thể kiểm tra xem thông tin có chính xác không bằng cách đối chiếu thông tin từ những nguồn khác nhau.Chẳng hạn, những đánh giá tiêu cực về một trường THPT qua một sự việc cụ thể cần được kiểm chứng qua nhiều nguồn thông tin khác nhau.
+- Tính đầy đủ: Em cần hình dung về một trường THPT trong một bức tranh tổng thể, gồm nhiều khía cạnh trong yêu cầu tìm kiếm thông tin.Chẳng hạn, thiếu bất kì thông tin nào như điểm chuẩn, học phí, khoảng cách ... thì lựa chọn của em cũng có thể không thực hiện được.
+- Tính sử dụng được: Em có thể kiểm tra thông tin tìm được có phù hợp với yêu cầu chọn trường của em không nhờ tiêu đề và nội dung của bài viết, tránh tập trung vào những thông tin chỉ nhằm thu hút sự chú ý của người xem mà không liên quan đến mục đích tìm kiếm.
+b) Lựa chọn và sắp xếp thứ tự
+Dựa trên thông tin tìm được, em có thể lựa chọn các trường phù hợp với năng lực và sở thích của mình.Em cần lưu ý tính khả thi của phương án được chọn.
+Sắp xếp các trường được chọn theo một danh sách ưu tiên.Thứ tự ưu tiên giữa các tiêu chí lựa chọn sẽ giúp em xác định danh sách các trường được chọn một cách thuận lợi hơn.
+
+LUYỆN TẬP
+Em hãy thực hành tìm kiếm thông tin trên Internet để biết về các môn học được dạy ở bậc THPT.Dựa vào các thông tin tìm được, em hãy đưa ra dự kiến chọn các môn học mà em thích ở bậc THPT.
+
+VẬN DỤNG
+Em hãy tạo một bài trình chiếu về chủ đề Chọn môi trường học tập sau khi kết thúc bậc THCS, với các nguồn thông tin mà em thu thập được.
+
+--- TRANG 17 ---
+
+CHỦ ĐỀ 3. ĐẠO ĐỨC, PHÁP LUẬT VÀ VĂN HOÁ TRONG MÔI TRƯỜNG SỐ
+BÀI 4: MỘT SỐ VẤN ĐỀ PHÁP LÍ VỀ SỬ DỤNG DỊCH VỤ INTERNET
+Sau bài học này em sẽ:
+- Trình bày được một số tác động tiêu cực của công nghệ kĩ thuật số đối với đời sống con người và xã hội, nêu được ví dụ minh hoạ.
+- Nêu được một số nội dung liên quan đến luật Công nghệ thông tin, nghị định về sử dụng dịch vụ Internet, các khía cạnh pháp lí của việc sở hữu, sử dụng và trao đổi thông tin.
+- Nêu được một số hành vi vi phạm pháp luật, trái đạo đức, thiếu văn hoá khi hoạt động trong môi trường số thông qua một vài ví dụ.
+
+Trong thời đại kĩ thuật số phát triển, hầu hết thông tin đều ở dạng số.Điều này khiến cho đời sống xã hội thay đổi toàn diện.Công nghệ kĩ thuật số giúp cho mọi việc của con người trong lao động, sản xuất, học tập hay giải trí,.... thuận tiện, dễ dàng và nhanh chóng hơn.Bên cạnh những tác động tích cực đó, công nghệ kĩ thuật số cũng có những tác động tiêu cực đến con người.Em hãy thảo luận với bạn và kể ra một vài tác động tiêu cực đó.
+
+1. MỘT SỐ TÁC ĐỘNG TIÊU CỰC CỦA CÔNG NGHỆ KĨ THUẬT SỐ
+Hoạt động 1: Mặt trái của công nghệ kĩ thuật số
+1. Chọn những phương án nói về tác động tiêu cực của công nghệ kĩ thuật số tới đời sống con người và xã hội.
+A. Quyền riêng tư dễ bị ảnh hưởng.
+B. Dữ liệu tài khoản ngân hàng bị đánh cắp.
+C. Giao dịch trong thương mại tăng nhanh nhờ ứng dụng ngân hàng số.
+D. Ô nhiễm do rác thải từ những thiết bị công nghệ số lỗi thời.
+2. Em hãy kể thêm một vài tác động tiêu cực của công nghệ kĩ thuật số đối với xã hội.
+Mặc dù công nghệ kĩ thuật số thúc đẩy sự phát triển của mọi lĩnh vực trong đời sống, xã hội và đem tới cho chúng ta một cuộc sống ngày càng hiện đại hơn, thông minh hơn, tiện lợi hơn.... nhưng không thể phủ nhận những tác động tiêu cực của công nghệ kĩ thuật số đến con người và xã hội.Đối với con người, công nghệ kĩ thuật số tác động tiêu cực đến sức khoẻ thể chất và tinh thần như: gây nghiện Internet, ít giao tiếp, mất ngủ.....
+
+--- TRANG 18 ---
+
+đến quyền riêng tư như: thông tin cá nhân có thể bị rò rỉ và sử dụng bất hợp pháp vì dữ liệu số bị đánh cắp dễ dàng hơn, quy mô lớn hơn.
+Bên cạnh các ứng dụng nhằm nâng cao chất lượng đời sống, phát triển xã hội thì vẫn có những ứng dụng hỗ trợ và phổ biến tệ nạn trên mạng như lừa đảo, tổ chức đánh bạc trực tuyến,...Công nghệ phát triển, tự động hoá ứng dụng nhiều dẫn đến nguy cơ thất nghiệp tăng và khiến cho một bộ phận người dân yếu thế như người già, người khuyết tật hoặc người dân ở các vùng khó khăn càng ngày càng tụt hậu.Đó chính là những tác động tiêu cực đối với xã hội của công nghệ kĩ thuật số.Ngoài ra, công nghệ phát triển nhanh khiến những thiết bị số nhanh chóng trở nên lỗi thời.Những thiết bị số bị thải ra nhiều, sẽ tạo ra rác thải điện tử nguy hại cho môi trường.
+Một số ví dụ cụ thể về tác động tiêu cực của công nghệ kĩ thuật số là:
+- Chơi game quá nhiều, liên tục có thể gây nghiện.Không được chơi sẽ cảm thấy bứt rứt, khó chịu, không kiểm soát được cảm xúc.
+- Quá lệ thuộc vào công nghệ kĩ thuật số để giải quyết những vấn đề nhỏ trong cuộc sống (học sinh nhờ trí tuệ nhân tạo làm bài tập về nhà, làm văn,...).
+- Trò chuyện trực tuyến với đối tượng ẩn danh hay mạo danh dẫn đến nguy cơ mất an toàn do có thể lộ thông tin cá nhân.
+- Thông tin số có thể bị đánh cắp, gây thiệt hại cho người sử dụng.Ví dụ: Việc lộ thông tin tài khoản ngân hàng có thể bị mất tiền trong tài khoản (Hình 4.1).Thông tin về cha mẹ, số điện thoại, địa chỉ nhà của học sinh có thể bị đánh cắp và bị các đối tượng xấu lợi dụng, giả danh liên hệ để lừa cha mẹ học sinh.
+Ngoài các tác động tích cực, công nghệ kĩ thuật số còn có một số tác động tiêu cực lên đời sống con người và xã hội.
+1. Phương án nào sau đây không phải là tác động tiêu cực của công nghệ kĩ thuật số đến đời sống con người?
+A. Nhờ trí tuệ nhân tạo làm bài tập về nhà.
+B. Truy cập mạng xã hội trong nhiều giờ.
+C. Thường xuyên sử dụng phần mềm soạn thảo văn bản để làm báo cáo.
+D. Vừa ăn vừa xem video trên trang Youtube.
+2. Những phương án nào sau đây là tác động tiêu cực của công nghệ kĩ thuật số đến xã hội?
+A. Thông tin cá nhân của con người được số hoá.
+B. Sử dụng thiết bị số liên tục trong thời gian dài ảnh hưởng đến sức khoẻ thể chất và tinh thần của lớp trẻ.
+C. Gia tăng ô nhiễm môi trường.
+D. Làm gia tăng tỉ lệ thất nghiệp.
+
+--- TRANG 19 ---
+
+2. SỬ DỤNG DỊCH VỤ INTERNET ĐÚNG LUẬT
+Hoạt động 2: Sử dụng dịch vụ Internet đúng luật
+1. Những hành động nào sau đây vi phạm pháp luật, trái đạo đức, thiếu văn hoá?
+A. Tải về một hình ảnh trên Internet khi chưa có sự cho phép của chủ sở hữu và sử dụng như là của mình.
+B. Sử dụng ngôn ngữ phản cảm khi giao tiếp trên mạng xã hội.
+C. Chúc mừng sinh nhật bạn trên mạng xã hội.
+D. Đăng hình ảnh, video bôi nhọ, xúc phạm tập thể hoặc cá nhân lên mạng.
+2. Em hãy kể thêm một số hành vi vi phạm pháp luật, trái đạo đức, thiếu văn hoá của người sử dụng khi sử dụng dịch vụ Internet.
+
+a) Những hành vi vi phạm pháp luật, trái đạo đức, thiếu văn hoá khi hoạt động trong môi trường số
+Ở lớp 7 em đã biết ứng xử khi giao tiếp qua mạng cần theo đúng quy tắc và bằng ngôn ngữ lịch sự, có văn hoá, đã biết cách ứng xử hợp lí khi gặp những thông tin trên mạng có nội dung xấu, không phù hợp lứa tuổi.Ở lớp 8, em cũng đã được học để nhận biết một số biểu hiện vi phạm đạo đức và pháp luật, biểu hiện thiếu văn hoá khi sử dụng công nghệ kĩ thuật số.Em có thể nhận biết một số hành vi vi phạm pháp luật, trái đạo đức, thiếu văn hoá trong môi trường mạng (Hình 4.2), ví dụ như:
+- Viết bài, đăng tin tức hoặc chia sẻ bài đăng sai sự thật hoặc không phù hợp lên mạng.Tuỳ theo nội dung thông tin và hậu quả mà những hành vi đó có thể là vi phạm pháp luật hay vi phạm đạo đức.
+- Làm lộ thông tin của cá nhân hay tổ chức mà không được phép, gây ảnh hưởng đến uy tín và danh dự của cá nhân hay tổ chức là hành vi vi phạm pháp luật.
+- Gửi thư rác hay tin nhắn rác với mục đích quảng cáo mà người được gửi không muốn nhận.Quảng cáo bằng tin nhắn không phải là hành vi xấu và không vi phạm pháp luật, nhưng nếu gửi nhiều mà người nhận đã có phản ứng không muốn nhận thì trở thành hành vi quấy nhiễu.
+- Sử dụng dữ liệu của người khác không xin phép hay sử dụng phần mềm không có bản quyền là hành vi vi phạm pháp luật.Những sản phẩm được số hoá và đưa lên mạng rất dễ bị sao chép, phát tán, sửa đổi gây thiệt hại cho chủ sở hữu.
+- Dùng lời nói xúc phạm, đăng bình luận đả kích, khiếm nhã, quấy rối hoặc kêu gọi tẩy chay thậm chí dùng hình ảnh, video nhằm chỉ trích, hạ nhục người khác.
+- Bằng các hình thức như giả mạo ngân hàng, cơ quan nhà nước, người thân.... tạo liên kết hoặc gọi điện lừa đảo dưới dạng trúng thưởng, từ thiện, gây tò mò.... nhằm lừa đảo chiếm tài khoản, lấy cắp thông tin, chiếm đoạt tài sản, tống tiền.
+- Ứng xử thiếu văn hoá: Trên các diễn đàn, mạng xã hội, có những người tranh luận thiếu văn hoá, không tôn trọng người đối thoại, thậm chí dùng từ ngữ phản cảm.
+
+--- TRANG 20 ---
+
+MỘT SỐ HÀNH VI VI PHẠM PHÁP LUẬT, TRÁI ĐẠO ĐỨC, THIẾU VĂN HOÁ TRONG MÔI TRƯỜNG SỐ
+- Viết, đăng, chia sẻ nội dung sai sự thật, không phù hợp
+- Làm lộ thông tin cá nhân, tổ chức gây ảnh hưởng xấu
+- Gửi thư rác, tin nhắn rác
+- Sử dụng dữ liệu của người khác không xin phép
+- Sử dụng phần mềm không có bản quyền
+- Bắt nạt qua mạng
+- Lừa đảo qua mạng
+- Ứng xử thiếu văn hoá
+
+b) Sử dụng dịch vụ Internet đúng luật
+Ở lớp 7 em đã biết chỉ ra ví dụ truy cập không hợp lệ vào các nguồn thông tin, ở lớp 8 em đã biết cách bảo đảm được các sản phẩm số do em tạo ra thể hiện được đạo đức, tính văn hoá và không vi phạm pháp luật.
+Năm 2006, Quốc hội ban hành Luật Công nghệ thông tin số 67/2006/QH11 quy định chi tiết về quyền và trách nhiệm của tổ chức, cá nhân tham gia ứng dụng và phát triển công nghệ thông tin cũng như các hành vi bị nghiêm cấm.
+Năm 2013, Chính phủ ban hành Nghị định số 72/2013/NĐ-CP quy định chi tiết việc quản lí, cung cấp, sử dụng dịch vụ Internet, thông tin trên mạng, trò chơi điện tử trên mạng;bảo đảm an toàn thông tin và an ninh thông tin;quyền và nghĩa vụ của tổ chức, cá nhân tham gia việc quản lí, cung cấp, sử dụng dịch vụ Internet, thông tin trên mạng, trò chơi điện tử trên mạng.... Trong nghị định này cũng ghi rõ các hành vi bị cấm.
+Năm 2018, Quốc hội ban hành Luật An ninh mạng quy định về hoạt động bảo vệ an ninh quốc gia và bảo đảm trật tự, an toàn xã hội trên không gian mạng;trách nhiệm của cơ quan, tổ chức, cá nhân có liên quan.Trong đó có ghi rõ các hành vi bị nghiêm cấm về an ninh mạng.
+Tóm lại, người sử dụng Internet, mạng xã hội phải trang bị cho mình những kiến thức cần thiết để bảo đảm sử dụng không gian mạng có trách nhiệm, không vi phạm pháp luật.Có thể nêu ra một số hành vi cần tránh như sau:
+- Hành vi vi phạm pháp luật về an ninh quốc gia, trật tự, an toàn xã hội.Chẳng hạn, không xem xét kĩ mà đã chia sẻ, phát tán thông tin chưa kiểm chứng, bình luận sai trái, chi tiết bịa đặt,... vì như vậy là đã vô tình tiếp tay cho kẻ xấu phát tán thông tin vi phạm pháp luật.
+- Hành vi vi phạm quyền nhân thân, uy tín của cá nhân và tổ chức.Chẳng hạn, đăng hình ảnh, địa chỉ nhà, biển số xe,... của người khác hoặc các thông tin cá nhân, thông tin của tổ chức, doanh nghiệp, mà không có sự đồng ý của họ cũng là vi phạm pháp luật.
+- Hành vi vi phạm pháp luật liên quan đến sở hữu trí tuệ, sở hữu tài sản, đánh bạc,... Chẳng hạn, tuỳ tiện chia sẻ đoạn văn, bài thơ, bức ảnh, đoạn mã chương trình hay sản phẩm số của người khác khi không được phép hoặc truy cập trang web tổ chức đánh bạc trực tuyến trái pháp luật....
+--- TRANG 21 ---
+
+- Hành vi vi phạm đến việc bảo đảm an toàn thông tin trên không gian mạng. Chẳng hạn, làm phát tán virus máy tính thông qua truy cập các liên kết lừa đảo nhận thưởng hoặc gây tò mò.
+- Hành vi tuyên truyền, quảng cáo, giới thiệu sản phẩm, dịch vụ không phù hợp quy định của pháp luật, trái với thuần phong, mĩ tục, lối sống văn minh.... Chẳng hạn, quảng cáo vũ khí, buôn bán động vật quý hiếm....
+- Hành vi xuyên tạc lịch sử, phủ nhận thành tựu cách mạng, phá hoại khối đại đoàn kết toàn dân tộc, xúc phạm hoặc phân biệt đối xử về tôn giáo, về giới, về chủng tộc, về vùng miền....
+
+Khi hoạt động trong môi trường số, sử dụng các dịch vụ Internet, người sử dụng cần có trách nhiệm, không vi phạm pháp luật và ứng xử lành mạnh, có văn hoá.
+Khi hoạt động trong môi trường số, em cần cẩn trọng, tránh vi phạm bản quyền khi sử dụng dữ liệu, phần mềm và cảnh giác với các giao tiếp trên mạng. Đồng thời khi giao tiếp cũng luôn thể hiện là người có văn hoá, tôn trọng mọi người.
+
+1. Hành vi nào sau đây khi hoạt động trong môi trường số không vi phạm pháp luật, trái đạo đức, thiếu văn hoá?
+A. Đăng bài hoặc bình luận gây mâu thuẫn vùng miền.
+B. Quảng cáo bán hàng hoá, dịch vụ bị cấm.
+C. Sử dụng trái phép tài khoản mạng của tổ chức, cá nhân khác.
+D. Chia sẻ thông tin về lớp học ngôn ngữ lập trình trực tuyến.
+
+2. Minh nhận được một liên kết lạ từ một bạn mới quen trên mạng yêu cầu chia sẻ liên kết này cho 5 bạn và truy cập liên kết để nhận được một phần quà là chiếc ba lô rất đẹp. Theo em, Minh có nên làm theo yêu cầu đó không? Tại sao?
+
+LUYỆN TẬP
+1. Em hãy cho biết những cách nào sau đây giúp em tránh được các tác động tiêu cực khi sử dụng công nghệ kĩ thuật số?
+A. Không sử dụng thiết bị số trong thời gian dài và liên tục.
+B. Không xem các video phản cảm.
+C. Giảm thời gian dùng điện thoại để nói chuyện với gia đình.
+D. Tham gia luyện tập thể dục thể thao.
+2. Em hãy lấy ví dụ về một hành vi vi phạm pháp luật, một hành vi trái đạo đức khi hoạt động trong môi trường số.
+
+VẬN DỤNG
+Em hãy tìm hiểu các hành vi bị cấm trong Luật Công nghệ thông tin số 67/2006/QH11 và Nghị định số 72/2013/NĐ-CP.Hai văn bản này giống và khác nhau như thế nào?
+
+--- TRANG 22 ---
+
+CHỦ ĐỀ 4. ỨNG DỤNG TIN HỌC
+BÀI 5: TÌM HIỂU PHẦN MỀM MÔ PHỎNG
+Sau bài học này em sẽ:
+- Nêu được ví dụ phần mềm mô phỏng. Nhận ra được ích lợi của phần mềm mô phỏng.
+
+Minh: Pha màu để vẽ tưởng là đơn giản nhưng rất phức tạp. Tớ pha mãi mà chưa tạo ra được màu cánh sen ưng ý.
+An: Đúng là pha màu cần nhiều kinh nghiệm. Bạn sẽ phải tốn nhiều thời gian và màu vẽ đấy.
+Minh: Tớ đã trộn nhiều màu đến mức, màu trở nên xỉn đục và không dùng được nữa.
+An: Theo tớ, để tập pha màu mà tiết kiệm được thời gian và màu vẽ thì cậu nên sử dụng phần mềm mô phỏng trước khi thực hành pha màu.
+
+1. PHẦN MỀM MÔ PHỎNG
+Hoạt động 1: Pha màu
+Trong thực tế, khi pha màu, em chỉ có thể thay đổi tỉ lệ (giữa các màu) trong hỗn hợp màu đã pha bằng cách trộn thêm màu.Việc bổ sung nhiều màu có thể dẫn đến hỗn hợp màu xỉn đục và không dùng được nữa.Điều đó xảy ra nhiều lần, khiến em mất nhiều thời gian và giảm hứng thú đối với việc pha màu.
+Phần mềm mô phỏng pha màu (Hình 5.1) cho phép em chọn màu, tăng giảm tỉ lệ các màu và giúp em nhìn thấy màu kết quả được tạo ra trên màn hình.Em hãy cho biết việc sử dụng phần mềm mô phỏng pha màu để tập pha màu và tìm hiểu về màu sắc có những lợi ích gì?
+
+Em có thể tìm thấy những phần mềm pha màu trên Internet bằng từ khoá "mixing colors simulator".Một trong số đó là https://trycolors.com. Em có thể tương tác với phần mềm bằng cách chọn và thay đổi tỉ lệ của các màu đã cho và quan sát màu kết quả.Việc tạo ra màu mới một cách dễ dàng giúp em tiết kiệm vật liệu, thời gian, qua đó hứng thú đối với việc tạo ra những màu mới và tìm hiểu về những hệ thống màu khác nhau.Tuy không phải màu vẽ thật nhưng màu và cách tạo màu trong phần mềm có thể giúp em hình dung ra sự kết hợp của các màu và tập pha màu một cách hiệu quả.
+
+--- TRANG 23 ---
+
+Phần mềm mô phỏng là phương tiện giúp em quan sát và hình dung ra những hiện tượng khó hoặc không thể trải nghiệm trong thực tế, giúp em giải quyết nhiều vấn đề trong học tập, ví dụ như:
+- Phần mềm Crocodile Physics hay phần mềm trực tuyến https://phet.colorado.edu mô phỏng nhiều thí nghiệm vật lí (Hình 5.2).
+- Phần mềm Crocodile Chemistry hay ChemLab mô phỏng thí nghiệm hoá học.
+- Những phần mềm như GeoGebra, Cabri II plus, Cabri 3D, Geometer's Sketchpad,... giúp em vẽ các hình hình học và giải toán.
+- Phần mềm Flowgorithm cho phép em chạy thử thuật toán dạng sơ đồ khối trước khi cài đặt trong một ngôn ngữ lập trình.
+Bên cạnh đó, phần mềm mô phỏng còn có thể được sử dụng trong nhiều lĩnh vực khác, chẳng hạn:
+- Nghiên cứu chuyển động và tương tác giữa các phân tử trong những điều kiện khác nhau https://physics.weber.edu/schroeder/md.
+- Nghiên cứu và xây dựng các giải pháp giao thông nhằm giảm bớt hiện tượng tắc nghẽn giao thông trong các thành phố https://www.traffic-simulation.de.
+
+a) Linh kiện để lắp mạch
+b) Mạch điện đơn giản
+c) Công tắc được bật
+Hình 5.2. Thí nghiệm ảo lắp ráp mạch điện đơn giản trên trang https://phet.colorado.edu
+
+Phần mềm mô phỏng thể hiện trực quan sự vận động của một đối tượng, cho phép người dùng tương tác và tìm hiểu cách thức hoạt động của đối tượng đó.
+
+Em hãy kể tên một phần mềm mô phỏng mà em biết. Phần mềm đó mô phỏng hoạt động của đối tượng nào?
+
+2. LỢI ÍCH CỦA PHẦN MỀM MÔ PHỎNG
+Hoạt động 2: Lợi ích của phần mềm mô phỏng
+Phần mềm mô phỏng pha màu có những lợi ích gì trong việc tìm hiểu và tập pha trộn màu theo cách thông thường?
+
+Phần mềm mô phỏng pha màu giúp em học cách tạo ra màu mới từ những màu đã cho mà vẫn tiết kiệm được thời gian và vật liệu.Ngoài ra, bằng cách thay đổi các lựa chọn của phần mềm, em có thể tìm hiểu được những hệ màu cơ bản khác nhau như RGB (đỏ, lục, lam), CMYK (xanh lơ, hồng sẫm, vàng, đen) hay RYB (đỏ, vàng, lam).
+
+--- TRANG 24 ---
+
+Phần mềm mô phỏng có những lợi ích như:
+- Giúp người sử dụng làm quen, tìm hiểu, nghiên cứu hoạt động của một đối tượng, sự vật với chi phí thấp.
+- Giúp người sử dụng nghiên cứu những nội dung lí thuyết một cách trực quan, sinh động bằng cách tương tác với phần mềm.
+- Tạo ra nhiều tình huống để luyện tập hoặc nghiên cứu đối tượng một cách đầy đủ hơn.
+- Hạn chế những tình huống có thể làm hỏng thiết bị hoặc gây nguy hiểm cho con người.
+Tuy nhiên, các phần mềm mô phỏng có chất lượng khác nhau. Em cần lưu ý sử dụng các phần mềm có chất lượng cao và không vi phạm bản quyền.
+
+Lợi ích của phần mềm mô phỏng là hỗ trợ nghiên cứu đối tượng một cách toàn diện, sinh động và an toàn với chi phí thấp hơn nghiên cứu trực tiếp trong thực tế.
+
+Em hãy cho biết lợi ích của phần mềm mô phỏng mà em đã kể tên ở phần Câu hỏi của Mục 1.
+
+LUYỆN TẬP
+Em hãy tìm một phần mềm mô phỏng hỗ trợ học tập và trả lời các câu hỏi sau:
+a) Phần mềm đó mô phỏng hoạt động nào?
+b) Phần mềm đó giúp em làm gì?
+c) Phần mềm đó có những lợi ích gì?
+
+VẬN DỤNG
+Em hãy tìm kiếm trên Internet một phần mềm mô phỏng pha màu để tìm hiểu hệ màu CMYK và cho biết các màu đỏ (Red), lục (Green) và lam (Blue) lần lượt được tạo ra từ những màu nào trong ba màu cơ bản xanh lơ (Cyan), hồng sẫm (Magenta) và vàng (Yellow) của hệ màu CMYK bằng cách trả lời các câu hỏi sau:
+a) Cyan + Yellow = ? (Hình 5.3)
+b) Cyan + Magenta = ?
+c) Magenta + Yellow = ?
+
+--- TRANG 25 ---
+
+BÀI 6: THỰC HÀNH: KHAI THÁC PHẦN MỀM MÔ PHỎNG
+Sau bài học này em sẽ:
+- Nêu được những kiến thức đã thu nhận từ việc khai thác một vài phần mềm mô phỏng.
+- Nhận biết được sự mô phỏng thế giới thực nhờ máy tính có thể giúp con người khám phá tri thức và giải quyết vấn đề.
+
+Phần mềm mô phỏng trình bày các hiện tượng khoa học bằng cách sử dụng hình ảnh động hay ba chiều, giúp em cảm nhận được sự vận động của các đối tượng.Bằng cách tương tác, khám phá nhiều chức năng của phần mềm mô phỏng dạng thí nghiệm ảo, em không chỉ bổ sung kiến thức về khoa học, toán học, học cách giải quyết một số vấn đề đặt ra trong công nghệ mà còn có thể phát hiện được những điều mới mẻ.
+
+NHIỆM VỤ 1. CHUYỂN HOÁ NĂNG LƯỢNG
+Yêu cầu:
+- Sử dụng phần mềm mô phỏng quá trình năng lượng được chuyển hoá từ dạng này qua dạng khác.
+- Kể tên một số dạng năng lượng và nêu ví dụ về quá trình chuyển hoá giữa những dạng năng lượng đó.
+
+Hướng dẫn:
+a) Mở cửa sổ mô phỏng một số dạng năng lượng và sự chuyển hoá năng lượng
+- Khởi động trình duyệt web. Nhập https://phet.colorado.edu/ vào thanh địa chỉ để mở trang PhET.
+- Di chuyển đến cuối trang web, chọn ngôn ngữ hiển thị là tiếng Việt (Hình 6.1).
+- Chọn mục CÁC MÔ PHỎNG. Chọn Hoá học (Hình 6.2).
+- Nháy chuột vào biểu tượng Các dạng và sự chuyển hoá năng lượng để chọn nội dung mô phỏng (Hình 6.3).
+- Nháy chuột vào nút play để mở cửa sổ tương tác.
+Lưu ý: Em cũng có thể truy cập trực tiếp mô phỏng "Các dạng và sự chuyển hoá năng lượng" qua đường liên kết sau: https://phet.colorado.edu/vi/simulations/energy-forms-and-changes.
+
+--- TRANG 26 ---
+
+b) Tương tác với phần mềm
+Trong cửa sổ, em có thể quan sát được sự chuyển hoá của các dạng năng lượng thông qua những biểu tượng.Em cũng có thể tương tác với ứng dụng bằng cách chọn nguồn năng lượng, thiết bị chuyển hoá năng lượng và thiết bị tiêu thụ năng lượng (Hình 6.4).
+- Thay đổi nguồn năng lượng: người đạp xe, ánh sáng mặt trời, vòi nước chảy, ấm nước sôi (Hình 6.4).
+- Thay đổi thiết bị chuyển hoá năng lượng thành điện năng: pin mặt trời và máy phát điện.
+- Thay đổi thiết bị tiêu thụ điện: bếp điện, bóng đèn sợi đốt, bóng đèn compact, quạt điện.
+
+c) Nêu kiến thức thu nhận được
+Em quan sát được những dạng năng lượng nào?
+Nêu một tình huống năng lượng được chuyển hoá từ dạng này sang dạng khác.
+
+NHIỆM VỤ 2. ĐO CƯỜNG ĐỘ DÒNG ĐIỆN
+Yêu cầu:
+- Sử dụng phần mềm thí nghiệm ảo lắp ráp mạch điện một chiều.
+- Giải quyết vấn đề đo cường độ dòng điện đi qua một điện trở, chẳng hạn một bóng đèn.
+
+Hướng dẫn:
+a) Truy cập phần mềm mô phỏng
+Thực hiện tương tự Nhiệm vụ 1, chọn CÁC MÔ PHỎNG. Chọn Vật lý.
+Chọn Bộ lắp ráp mạch điện: DC-Phòng thí nghiệm ảo để vào phòng thí nghiệm ảo lắp ráp mạch điện.
+
+b) Vẽ mạch điện
+Kéo các biểu tượng Pin, Đèn tròn, Ampe kế, Công tắc và Dây nối, thả vào vùng hiển thị.
+Kết nối các thành phần của mạch điện (Hình 6.5a).
+Lưu ý: Ampe kế cần mắc nối tiếp với đoạn mạch điện cần đo cường độ dòng điện và không mắc trực tiếp vào hai cực của nguồn điện (Hình 6.5b).
+
+--- TRANG 27 ---
+
+a) Lắp Ampe kế đúng cách
+b) Sự cố có thể xảy ra khi lắp Ampe kế không đúng cách
+Hình 6.5. Lắp Ampe kế đúng cách, không để xảy ra sự cố
+
+c) Trình bày giải pháp
+Tương tác với phần mềm và nêu giải pháp đo cường độ dòng điện trên một đoạn của mạch điện bằng cách trả lời các câu hỏi sau:
+- Em cần dùng thiết bị nào để đo cường độ dòng điện trên mạch điện?
+- Thiết bị đó được nối song song hay nối tiếp với mạch điện cần đo?
+
+NHIỆM VỤ 3. TỈ LỆ VÀNG TRONG NGÔI SAO NĂM CÁNH
+Yêu cầu:
+- Sử dụng công cụ đo và tính toán trong phần mềm mô phỏng hình học.
+- Khám phá tri thức về tỉ lệ các đoạn thẳng xuất hiện trong một ngôi sao có năm cánh cách đều nhau.
+
+Hướng dẫn:
+(Hướng dẫn sau đây sử dụng phần mềm Geometer's Sketchpad để minh hoạ.)
+a) Truy cập phần mềm và mở tệp dữ liệu
+Khởi động phần mềm Geometer's Sketchpad. Mở tệp TyLeVang gsp bằng cách chọn File/Open hoặc nhấn tổ hợp phím Ctrl + O và chọn tệp.
+Tệp dữ liệu đã có sẵn một ngôi sao năm cánh (Hình 6.6a).Em hãy di chuyển ngôi sao này bằng cách chọn đỉnh hoặc cạnh của nó và kéo thả chuột đến vị trí khác.Kích thước ngôi sao được điều chỉnh bằng cách kéo thả điểm P hoặc điểm Q để độ dài đoạn thẳng PQ thay đổi.
+
+$m\overline{AB}=2.52~cm$
+$m\overline{BC}=1.56~cm$
+$m\overline{AC}=4.07~cm$
+$m\overline{DA}=6.59~cm$
+
+--- TRANG 28 ---
+
+b) Đo độ dài
+Sử dụng công cụ chọn đối tượng, để chọn đoạn thẳng AB (Hình 6.6) và chọn Measure/Length để đo độ dài đoạn AB đã chọn.
+Tương tự như vậy, em sẽ đo được độ dài các đoạn thẳng BC, AC và AD.
+
+c) Tính tỉ lệ
+Mở công cụ tính bằng cách gõ tổ hợp phím Alt + = hoặc chọn Number/Calculate... (Measure/Calculate... với Geometer's Sketchpad 4.x).
+Nhập biểu thức cần tính bằng bàn phím, bàn phím ảo hoặc sử dụng chuột để chọn các giá trị đã được đo hoặc tính trước trên màn hình (Hình 6.7).
+
+d) Khám phá tri thức
+Thay đổi kích thước ngôi sao bằng cách kéo thả điểm P hoặc điểm Q, em sẽ thấy số đo các đoạn thẳng AB, BC, AC và AD cũng thay đổi theo.
+Điều đáng kinh ngạc là dù độ dài của các đoạn thẳng thay đổi nhưng tỉ lệ giữa chúng không thay đổi, luôn bằng nhau và xấp xỉ 1,62.
+Chính xác hơn, ta sẽ có: $\frac{AB}{BC}=\frac{AC}{AB}=\frac{AD}{AC}=\frac{1+\sqrt{5}}{2}\approx1,618034$
+Tỉ lệ trên có tính chất đặc biệt, được gọi là tỉ lệ vàng.Nếu một hình chữ nhật có tỉ lệ hai cạnh là tỉ lệ vàng thì sau khi cắt bỏ một hình vuông, phần còn lại là một hình chữ nhật cũng có tỉ lệ hai cạnh là tỉ lệ vàng (Hình 6.8b).Một hình chữ nhật như vậy được gọi là hình chữ nhật tỉ lệ vàng.
+
+a) Ngôi sao năm cánh
+b) Hình chữ nhật tỉ lệ vàng
+Hình 6.8. Ngôi sao năm cánh và hình chữ nhật tỉ lệ vàng
+
+LUYỆN TẬP
+Em hãy nêu giải pháp đo điện áp giữa hai đầu một điện trở bằng cách sử dụng phần mềm mô phỏng.
+
+VẬN DỤNG
+Trong phần mềm mô phỏng, em có thể lắp ráp mạch điện gồm: nguồn điện, công tắc, điện trở, ampe kế, vôn kế.Bằng cách thay đổi trị số của các linh kiện, hãy khám phá quy luật phụ thuộc lẫn nhau giữa điện trở, cường độ dòng điện qua nó và điện áp giữa hai đầu điện trở đó.
+
+--- TRANG 29 ---
+
+BÀI 7: TRÌNH BÀY THÔNG TIN TRONG TRAO ĐỔI VÀ HỢP TÁC
+Sau bài học này em sẽ:
+- Sử dụng được bài trình chiếu và sơ đồ tư duy trong trao đổi thông tin và hợp tác.
+- Biết được khả năng đính kèm văn bản, ảnh, video, trang tính vào sơ đồ tư duy.
+
+Dự án Triển lãm tin học
+“Trải qua quá trình học tập môn Tin học, chúng ta đã có những hiểu biết gì và tạo được những sản phẩm nào?"
+Đó là câu hỏi đặt ra với các bạn học sinh lớp 9A.Để tổng kết một chặng đường học tập môn Tin học, các bạn đã quyết định tổ chức Triển lãm tin học.Có rất nhiều ý tưởng về sản phẩm trưng bày trong triển lãm.Có nhóm trưng bày sổ lưu niệm của lớp đã làm từ lớp 6. Có nhóm trưng bày bộ sưu tập hình ảnh về CLB Tin học được thành lập từ lớp 8. Nhóm khác lại muốn tạo sản phẩm là một số trò chơi bằng ngôn ngữ lập trình trực quan,... Nhóm ba bạn An, Minh, Khoa lựa chọn sản phẩm là bài trình bày về nội dung Lược sử công cụ tính toán để tham gia triển lãm.
+Việc tổ chức một hoạt động như Triển lãm tin học cần làm việc nhóm, cần sự cộng tác của nhiều người.Có nhiều công cụ hỗ trợ thực hiện hoạt động cộng tác, trong đó có sơ đồ tư duy và bài trình chiếu.Tuy nhiên, việc sử dụng sơ đồ tư duy hay bài trình chiếu không chỉ là vấn đề kĩ thuật, mà cần được hướng dẫn về cách làm việc hợp tác để công cụ hỗ trợ hiệu quả cho một nhóm cùng nhau thực hiện dự án.
+
+1. TRÌNH BÀY THÔNG TIN TRONG TRAO ĐỔI VÀ HỢP TÁC
+Hoạt động 1: Sử dụng sơ đồ tư duy hoặc bài trình chiếu để chia sẻ thông tin
+Sơ đồ tư duy và bài trình chiếu là những công cụ giúp trình bày thông tin trong trao đổi và hợp tác. Em hãy cho biết có thể sử dụng các công cụ này như thế nào cho việc trình bày nội dung Lược sử công cụ tính toán trong Triển lãm tin học.
+
+Sơ đồ tư duy hay bài trình chiếu đều là những công cụ hiệu quả để trình bày thông tin.Để sử dụng sơ đồ tư duy hoặc bài trình chiếu trong trao đổi và hợp tác, em có thể tiến hành theo một số cách sau đây:
+- Sử dụng sơ đồ tư duy hoặc bài trình chiếu để trình bày trực tiếp: Đây là cách dễ dàng nhất để cộng tác vì em có thể diễn giải bức tranh toàn cảnh, làm rõ các nội dung chi tiết và trực tiếp trả lời các câu hỏi mà người nghe đặt ra.
+
+--- TRANG 30 ---
+
+- Chia sẻ sơ đồ tư duy hoặc bài trình chiếu để các thành viên khác xem: Khi không có điều kiện trình bày trực tiếp, em có thể chia sẻ sơ đồ tư duy hoặc bài trình chiếu để các thành viên khác xem.Để thuận lợi cho người xem, nên sử dụng hình ảnh, biểu đồ, video một cách hợp lí để làm rõ thông tin.Sơ đồ tư duy nên được trình bày trong một trang và có thể đính kèm văn bản, hình ảnh, video, trang tính để trình bày chi tiết.
+- Chia sẻ sơ đồ tư duy hoặc bài trình chiếu để các thành viên khác chủ động cập nhật: Em có thể sử dụng phần mềm để tạo sơ đồ tư duy hoặc bài trình chiếu trực tuyến để các thành viên trong nhóm có thể chỉnh sửa.Mỗi thành viên có thể chủ động chỉnh sửa theo thời gian phù hợp với mình.
+- Chia sẻ sơ đồ tư duy hoặc bài trình chiếu để cộng tác theo thời gian thực: Em có thể sử dụng phần mềm tạo sơ đồ tư duy hoặc bài trình chiếu trực tuyến để tất cả các thành viên cùng làm việc trực tuyến chỉnh sửa sản phẩm.Việc mở một kênh hội thoại để các thành viên trao đổi trong quá trình hoàn thiện sản phẩm là rất cần thiết.
+
+Để sử dụng các công cụ trực quan như hình ảnh, biểu đồ và video một cách hợp lí trong trình bày thông tin, em cần chú ý:
+- Sử dụng đúng công cụ trực quan: Sử dụng công cụ trực quan theo nguyên tắc đơn giản và rõ ràng, chọn loại công cụ minh hoạ tốt nhất để truyền tải thông điệp.Ví dụ: nếu trình bày tiến trình lịch sử thì sơ đồ dòng thời gian sẽ phát huy hiệu quả.
+- Đảm bảo chất lượng dữ liệu: Cần đảm bảo rằng công cụ trực quan có thể xem được từ khoảng cách xa.Hình ảnh phải sắc nét và có bố cục hợp lí.Có thể sử dụng màu sắc để tăng sự chú ý của người xem và cải thiện khả năng hiển thị thông tin.
+
+Em có thể sử dụng bài trình chiếu và sơ đồ tư duy trong trao đổi thông tin và hợp tác theo các cách sau:
+- Trình bày trực tiếp.
+- Chia sẻ để các thành viên khác xem độc lập.
+- Chia sẻ để các thành viên cập nhật độc lập.
+- Chia sẻ để cộng tác theo thời gian thực.
+
+Để sử dụng hình ảnh, biểu đồ và video hợp lí, em cần chú ý:
+- Sử dụng đúng công cụ trực quan.
+- Đảm bảo chất lượng dữ liệu.
+
+Em hãy chỉ ra những kiến thức về tạo sơ đồ tư duy và bài trình chiếu mà em cần được bổ sung để việc trao đổi, hợp tác được hiệu quả.
+
+--- TRANG 31 ---
+
+2. KHẢ NĂNG ĐÍNH KÈM VĂN BẢN, ẢNH, VIDEO, TRANG TÍNH VÀO SƠ ĐỒ TƯ DUY
+Khi tạo sơ đồ tư duy bằng phần mềm, em có thể đính kèm tệp văn bản, hình ảnh, video và trang tính vào sơ đồ tư duy để minh hoạ chi tiết cho nội dung cần trình bày.
+Hình 7.1 minh hoạ sơ đồ tư duy mà nhóm các bạn An, Minh, Khoa trình bày ý tưởng về nội dung Lược sử công cụ tính toán, trong đó một số nhánh của sơ đồ có đính kèm dữ liệu.
+Thao tác đính kèm dữ liệu sẽ được hướng dẫn cụ thể trong Bài 8.
+
+Sơ đồ tư duy:
+- Chủ đề chính: Triển lãm Tin học
+  - Nhánh 1: Sản phẩm công nghệ số
+  - Nhánh 2: Lược sử công cụ tính toán
+    - Nhánh 2.1: Máy tính cơ học
+      - Nhánh 2.1.1: 1642 Blaise Pascal, Máy tính cơ học quay tay Pascaline (Đính kèm ảnh Pascaline)
+      - Nhánh 2.1.2: 1833 Charles Babbage, Dự án máy tính tự động đa năng Analytical Engine (Liên kết đến video giới thiệu dự án, Đính kèm văn bản tiểu sử Charles Babbage)
+    - Nhánh 2.2: Máy tính điện tử
+  - Nhánh 3: Dự kiến thu chi (Đính kèm bảng tính)
+
+Có thể đính kèm văn bản, hình ảnh, video, trang tính vào sơ đồ tư duy giúp trình bày thông tin đầy đủ và hiệu quả.
+
+Em hãy chỉ ra các loại dữ liệu được đính kèm vào sơ đồ tư duy ở Hình 7.1.
+
+LUYỆN TẬP
+1. Em hãy nhận xét về tính hợp lí và lợi ích của những dữ liệu đính kèm trong sơ đồ tư duy ở Hình 7.1 khi trình bày thông tin trong trao đổi và hợp tác.
+2. Em hãy nêu những cách mà nhóm các bạn An, Minh và Khoa sử dụng sơ đồ tư duy ở Hình 7.1 trong trao đổi và hợp tác để hoàn thành công việc chuẩn bị nội dung Lược sử công cụ tính toán cho Triển lãm tin học.
+
+VẬN DỤNG
+Em hãy tạo sơ đồ tư duy trình bày nội dung mà em muốn trưng bày trong Triển lãm tin học.Hãy ghi ra những thông tin dạng văn bản, hình ảnh, video và trang tính cần đính kèm vào sơ đồ tư duy để minh hoạ chi tiết cho nội dung mà em đã chọn.Hãy chia sẻ sơ đồ tư duy với các bạn cùng nhóm theo cách phù hợp với em.
+
+--- TRANG 32 ---
+
+BÀI 8: THỰC HÀNH: SỬ DỤNG CÔNG CỤ TRỰC QUAN TRÌNH BÀY THÔNG TIN TRONG TRAO ĐỔI VÀ HỢP TÁC
+Sau bài học này em sẽ:
+- Sử dụng được hình ảnh, biểu đồ, video một cách hợp lí.
+- Tạo được sơ đồ tư duy có đính kèm văn bản, hình ảnh, video và trang tính.
+- Tạo được bài trình chiếu có sử dụng hình ảnh, biểu đồ và video hợp lí.
+
+Trong Bài 7 em đã biết cách sử dụng sơ đồ tư duy và bài trình chiếu trong trao đổi và hợp tác.Em cũng biết cách sử dụng hình ảnh, biểu đồ và video hợp lí để trình bày thông tin.Bài học này hướng dẫn em tạo sơ đồ tư duy có dữ liệu đính kèm và bài trình chiếu sử dụng hình ảnh, biểu đồ và video hợp lí.
+
+NHIỆM VỤ 1: SỬ DỤNG PHẦN MỀM TẠO SƠ ĐỒ TƯ DUY CÓ ĐÍNH KÈM DỮ LIỆU
+Yêu cầu:
+Sử dụng phần mềm tạo sơ đồ tư duy như minh hoạ trong Hình 7.1 với dữ liệu đính kèm đã chuẩn bị hoặc được cung cấp, ví dụ:
+- Tệp bảng tính có tên là KinhPhi.xlsx để tính toán chi phí triển lãm (Hình 8.1).
+- Tệp hình ảnh có tên là Pascaline.png, minh hoạ cho máy tính cơ học Pascaline.
+- Tệp văn bản có tên là CharlesBabbage.docx chứa tiểu sử nhà khoa học Charles Babbage.
+- Đường liên kết đến video về nhà khoa học Charles Babbage trên Internet.
+
+Bảng tính chi phí:
+Chi phí nội dung "Lược sử công cụ tính toán"
+TT | Nội dung | Số lượng | Đơn giá (VND) | Thành tiền
+1 | In ảnh màu kích thước 30 x 45 | 8 | 8,000 | 64,000
+2 | In nội dung chú thích cho ảnh | 8 | 1,000 | 8,000
+3 | Văn phòng phẩm (bút màu, giấy,...) | | | 50,000
+Tổng | | | | 122,000
+
+Hướng dẫn:
+a) Tạo sơ đồ tư duy
+- Khởi động phần mềm tạo sơ đồ tư duy MindMaple Lite.
+- Tạo một sơ đồ tư duy mới với chủ đề chính và các chủ đề nhánh như Hình 7.1.
+- Lưu tệp với tên LuocSu.emm.
+b) Đính kèm tệp
+- Chọn nhánh của sơ đồ tư duy cần đính kèm tệp.
+- Chọn Insert/Attachment/Attachment như minh hoạ trong Hình 8.2.
+
+--- TRANG 33 ---
+
+Khi hộp thoại mở tệp xuất hiện, chọn tệp cần chèn như minh hoạ ở Hình 8.3.Nháy chuột chọn Open. Biểu tượng tệp đính kèm xuất hiện ở nhánh của sơ đồ (Hình 7.1).
+Thực hiện tương tự để hoàn thành việc đính kèm các tệp văn bản, hình ảnh, bảng tính vào sơ đồ tư duy.
+
+c) Đính kèm đường liên kết
+- Chọn nhánh của sơ đồ tư duy cần đính kèm đường liên kết.
+- Chọn Insert/Hyperlink. Khi hộp thoại Hyperlink xuất hiện, sao chép đường liên kết đến video vào ô Link to: (Hình 8.4).
+- Chọn OK để hoàn thành việc chèn đường liên kết.
+
+--- TRANG 34 ---
+
+NHIỆM VỤ 2. TRÌNH BÀY SƠ ĐỒ TƯ DUY
+Yêu cầu:
+Trình bày sơ đồ tư duy trước nhóm để các thành viên trao đổi, bổ sung nội dung cho sơ đồ tư duy.
+
+Hướng dẫn:
+- Lựa chọn một cách trong các cách sử dụng sơ đồ tư duy để trình bày thông tin (mà em đã học ở Bài 7).
+- Chọn một thành viên đóng vai trò trưởng nhóm trình bày nội dung chuẩn bị về Lược sử công cụ tính toán.
+- Trao đổi, thảo luận để bổ sung thêm nội dung cần chuẩn bị.
+- Phân công công việc để các thành viên của nhóm tiếp tục hoàn thành những nội dung cần chuẩn bị.
+
+NHIỆM VỤ 3. TẠO BÀI TRÌNH CHIẾU CÓ SỬ DỤNG HÌNH ẢNH, SƠ ĐỒ, VIDEO HỢP LÍ
+Yêu cầu:
+Tạo bài trình chiếu chủ đề Lược sử công cụ tính toán có sử dụng hình ảnh, sơ đồ, video hợp lí.
+
+Hướng dẫn:
+- Khởi động phần mềm trình chiếu.
+- Tạo trang tiêu đề, nhập tiêu đề Lược sử công cụ tính toán.
+- Tạo trang dàn ý. Nhập nội dung theo mẫu ở Hình 8.5.
+- Sử dụng mẫu có sẵn (tìm trên Internet hoặc giáo viên cung cấp) để tạo sơ đồ dòng thời gian về Lược sử công cụ tính toán tương tự Hình 8.6.
+
+Nội dung dàn ý:
+1. Mở đầu
+2. Dòng thời gian lược sử công cụ tính toán
+3. Blaise Pascal và máy tính cơ học đầu tiên
+4. Charles Babbage và máy tính đa năng
+5. Các thế hệ máy tính điện tử
+
+--- TRANG 35 ---
+
+2. Dòng thời gian lược sử công cụ tính toán
+- 1642: Blaise Pascal - Máy tính cơ học đầu tiên
+- 1833: Charles Babbage - Máy tính đa năng
+- 1945: ENIAC - Máy tính điện tử thế hệ thứ nhất (1945-1955)
+- 1959: IBM 7090 - Máy tính điện tử thế hệ thứ hai (1955-1965)
+- 1964: IBM System/360 - Máy tính điện tử thế hệ thứ ba (1965-1974)
+- 1973: Micral - Máy vi tính - Máy tính điện tử thế hệ thứ tư (1974-1990)
+- 2007: Iphone - Máy tính điện tử thế hệ thứ năm (1990-ngày nay)
+
+Tạo thêm trang chiếu để trình bày nội dung về Blaise Pascal và máy tính cơ học đầu tiên.Chèn hình ảnh minh hoạ máy tính Pascaline vào trang chiếu.
+Tạo thêm trang chiếu để trình bày nội dung về Charles Babbage và máy tính đa năng.Nháy chuột chọn Insert, chọn Video/Insert Video from This Device để chèn thêm video minh hoạ đã chuẩn bị vào trang chiếu.
+Lưu bài trình chiếu với tên là LuocSuMayTinh.
+
+LUYỆN TẬP
+Em thực hiện các yêu cầu sau với bài trình chiếu LuocSuMayTinh:
+a) Lựa chọn một cách trong các cách sử dụng bài trình chiếu trình bày thông tin ở Bài 7 để một thành viên đóng vai trò trưởng nhóm thực hiện trước tập thể.
+b) Các thành viên trao đổi, thảo luận để rà soát nội dung bài trình chiếu theo các yêu cầu được nêu trong Nhiệm vụ 3.
+c) Chỉnh sửa bài trình chiếu theo kết quả thảo luận ở Câu b.
+
+VẬN DỤNG
+Em hãy sử dụng phần mềm để bổ sung vào bài trình chiếu LuocSuMayTinh nội dung về đặc điểm của máy tính từng thế hệ.Yêu cầu: Sử dụng công cụ trực quan một cách hợp lí.Sau đó hãy phân công một bạn trong nhóm chia sẻ bài trình chiếu với các bạn khác để cùng hoàn chỉnh sản phẩm cho Triển lãm tin học.
+
+--- TRANG 36 ---
+
+a. SỬ DỤNG BẢNG TÍNH ĐIỆN TỬ NÂNG CAO
+BÀI 9a: SỬ DỤNG CÔNG CỤ XÁC THỰC DỮ LIỆU
+Sau bài học này em sẽ:
+- Sử dụng được công cụ xác thực dữ liệu (Data Validation) của phần mềm bảng tính để giải quyết bài toán quản lí tài chính.
+
+Ở các lớp trước, em đã biết sử dụng các công cụ cơ bản của phần mềm bảng tính để giải quyết bài toán trong thực tế.Trong chủ đề này, em sẽ tiếp tục tìm hiểu và sử dụng các công cụ nâng cao của phần mềm bảng tính để giải quyết bài toán thực tế (bài toán quản lí tài chính gia đình) bằng cách hoàn thành một dự án nhỏ (dự án Quản lí tài chính gia đình).
+Dự án gồm các nội dung sau đây:
+- Xây dựng cấu trúc của bảng tính cho bài toán quản lí tài chính gia đình.
+- Sử dụng một số công cụ cơ bản và nâng cao của phần mềm bảng tính để giải quyết bài toán.
+Em hãy khám phá kiến thức để thực hiện dự án nhé.
+
+1. CÔNG CỤ XÁC THỰC DỮ LIỆU
+Hoạt động 1: Xây dựng cấu trúc bảng tính
+Dựa trên hiểu biết về những khoản chi tiêu của gia đình, em hãy cho biết:
+1. Tài chính gia đình gồm những khoản mục gì?
+2. Nêu cấu trúc một bảng tính điện tử quản lí tài chính mà em thấy phù hợp với gia đình em.
+
+a) Sử dụng bảng tính để quản lí tài chính gia đình
+Ưu điểm nổi bật của phần mềm bảng tính là xử lí dữ liệu tự động.Sử dụng chương trình bảng tính để quản lí tài chính sẽ giúp kiểm soát được tình hình chi tiêu một cách cụ thể, trực quan, từ đó điều chỉnh chi tiêu sao cho phù hợp với thu nhập gia đình và mục tiêu phát triển.
+Có nhiều cách khác nhau để quản lí tài chính gia đình hiệu quả.Ví dụ: lên kế hoạch chi tiết cho từng khoản chi tiêu, theo dõi ngân sách định kì, quản lí các khoản tiết kiệm và đầu tư,... Mỗi gia đình lại có các khoản mục tài chính khác nhau.Các khoản mục đó thường được phân thành hai loại là Thu và Chi.Do vậy, thông tin lưu trữ trong bảng tính điện tử quản lí tài chính gia đình sẽ gồm ít nhất hai loại đó.Ví dụ về các khoản thu, chi thường có của một gia đình được minh hoạ ở Hình 9a.1.
+
+--- TRANG 37 ---
+
+b) Công cụ xác thực dữ liệu
+Khi dùng bảng tính để quản lí tài chính gia đình, em có thể lưu trữ dữ liệu Thu và Chi trên cùng một trang tính hoặc ở hai trang tính khác nhau.Hình 9a.2 minh hoạ trang tính Chi tiêu ghi lại các khoản chi của một gia đình (các khoản thu được lưu ở trang tính Thu nhập).
+Trong Hình 9a.2, em có thể thấy danh sách các khoản chi được lưu ở cột F. Khi cập nhật thông tin về khoản chi cho dữ liệu ở cột B, em chỉ cần chọn trong danh sách đã có.
+
+Khoản thu: Lương, Thưởng, Làm thêm, Được cho/tặng, Khác.
+Khoản chi: Ở, Ăn, Di chuyển, Học tập, Sức khoẻ, Giải trí, Quà tặng/Từ thiện, Tiết kiệm, Khác.
+
+Để hạn chế loại dữ liệu hoặc giá trị của dữ liệu khi nhập vào ô tính, em sử dụng công cụ xác thực dữ liệu (Data Validation).Hình 9a.3 minh hoạ một ví dụ khác cần sử dụng công cụ này khi cập nhật dữ liệu.
+
+Dữ liệu khi nhập vào ô tính của cột "Số tiền (nghìn đồng)" phải là dữ liệu kiểu số và có giá trị lớn hơn 0.
+
+--- TRANG 38 ---
+
+Để sử dụng công cụ xác thực dữ liệu, trong nhóm lệnh Data Tools của dải lệnh Data, chọn Data Validation (Hình 9a.4).
+Hộp thoại Data Validation xuất hiện. Tại ô Allow trong thẻ Settings, em lựa chọn kiểu dữ liệu hoặc giá trị dữ liệu cho phù hợp với yêu cầu của từng bài toán cụ thể.
+
+Ý nghĩa của mỗi kiểu dữ liệu hoặc giá trị dữ liệu ở Hình 9a.5 được giải thích trong Bảng 9a.1.
+- Any value: Bất kì giá trị nào
+- Whole number: Số nguyên - ô tính chỉ chấp nhận các số nguyên
+- Decimal: Số thập phân - ô tính chỉ chấp nhận các số thập phân
+- List: Danh sách - chọn dữ liệu từ danh sách thả xuống
+- Date: Ngày tháng - ô tính chỉ chấp nhận dữ liệu ngày tháng
+- Time: Thời gian - ô tính chỉ chấp nhận dữ liệu thời gian
+- Text length: Độ dài văn bản - hạn chế độ dài của văn bản nhập vào ô tính
+- Custom: Tuỳ chỉnh - cho công thức tuỳ chỉnh
+
+Công cụ xác thực dữ liệu (Data Validation) hạn chế kiểu dữ liệu hoặc giá trị dữ liệu nhập vào ô tính, giúp cho việc nhập dữ liệu được chính xác và thoả mãn những yêu cầu bài toán đặt ra.
+
+--- TRANG 39 ---
+
+Trang tính Thu nhập trong Hình 9a.6 lưu dữ liệu về các khoản thu của gia đình.Em hãy quan sát Hình 9a.6 và cho biết dữ liệu ở cột B cần được thiết lập để thoả mãn điều kiện xác thực nào.
+
+2. THỰC HÀNH: SỬ DỤNG CÔNG CỤ XÁC THỰC DỮ LIỆU ĐỂ TẠO BẢNG TÍNH QUẢN LÍ TÀI CHÍNH GIA ĐÌNH
+Nhiệm vụ 1: Tạo bảng tính có trang tính Chi tiêu theo mẫu trong Hình 9a.2.Sử dụng công cụ xác thực dữ liệu cho các khoản chi của gia đình.
+Hướng dẫn:
+(Hướng dẫn sau đây sử dụng phần mềm Microsoft Excel phiên bản 2016 để minh hoạ.)
+a) Tạo trang tính lưu các khoản chi
+- Khởi động phần mềm bảng tính. Đặt tên cho trang tính hiện hành là Chi tiêu.
+- Tạo bảng và nhập dữ liệu khoản chi (cột F) như minh hoạ ở Hình 9a.7.
+
+b) Sử dụng công cụ xác thực dữ liệu thuộc danh sách cho trước
+Để dữ liệu ở mỗi ô của cột B là một mục trong danh sách cho trước ở cột F em thực hiện như sau:
+- Chọn các ô của cột B để nhập dữ liệu thoả mãn điều kiện xác thực, ví dụ các ô từ B3 đến B10.
+- Trong nhóm lệnh Data Tools của dải lệnh Data, chọn Data Validation (Hình 9a.4), hộp thoại Data Validation xuất hiện.
+
+--- TRANG 40 ---
+
+Trong thẻ Settings, nhập yêu cầu xác thực dữ liệu cho từng tiêu chí, cụ thể là:
+- Allow: Dữ liệu nhập vào cột Khoản chi cần thuộc danh sách cho trước, vì vậy em chọn giá trị là List để chọn dữ liệu từ danh sách thả xuống.
+- Source: Là vùng dữ liệu chứa danh sách. Chọn vùng dữ liệu chứa danh sách các khoản chi là F2:F10, khi đó địa chỉ của vùng được đưa vào ô Source (Hình 9a.8).
+Chọn OK để hoàn thành công việc.
+Nhập dữ liệu cho trang tính, trong đó dữ liệu cột B được lấy từ danh sách thả xuống (Hình 9a.2).
+Lưu tệp bảng tính với tên TaiChinhGiaDinh.xlsx.
+
+Nhiệm vụ 2: Em hãy sử dụng công cụ xác thực dữ liệu để xác thực cho dữ liệu cột Số tiền (nghìn đồng) (cột D) chỉ chấp nhận kiểu số lớn hơn 0 và yêu cầu này hiển thị trên màn hình khi nhập dữ liệu như minh hoạ ở Hình 9a.3.
+Hướng dẫn:
+- Chọn trang tính Chi tiêu.
+- Chọn vùng sẽ nhập liệu của cột Số tiền (nghìn đồng), ví dụ vùng D3:D10.
+- Chọn Data/Data Tools/Data Validation, hộp thoại Data Validation xuất hiện.
+- Trong thẻ Settings, nhập yêu cầu xác thực dữ liệu như minh hoạ trong Hình 9a.9.
+
+--- TRANG 41 ---
+
+Trong thẻ Input Message, nhập nội dung thông báo như Hình 9a.10.
+Trong thẻ Error Alert, nhập nội dung thông báo lỗi khi nhập dữ liệu như Hình 9a.11.
+Nhập thêm dữ liệu vào bảng. Nếu em nhập dữ liệu không đúng với yêu cầu xác thực của ô thì màn hình sẽ xuất hiện thông báo như Hình 9a.12.
+Lưu tệp.
+
+Thông báo lỗi:
+Dữ liệu nhập sai
+Hãy nhập lại dữ liệu kiểu số và lớn hơn 0
+[Retry] [Cancel] [Help]
+
+--- TRANG 42 ---
+
+LUYỆN TẬP
+1. Mở tệp bảng tính TaiChinhGiaDinh.xlsx và thực hiện các yêu cầu sau:
+a) Tạo thêm một trang tính mới, đặt tên là Thu nhập.
+b) Nhập dữ liệu khoản thu (cột F), nhập nội dung các khoản thu của gia đình như minh hoạ ở Hình 9a.6, trong đó sử dụng công cụ xác thực dữ liệu để khoản thu ở cột B được lấy từ danh sách ở cột F.
+2. Mở trang tính Thu nhập trong tệp bảng tính TaiChinhGiaDinh.xlsx (Hình 9a.13).Sử dụng công cụ xác thực dữ liệu để hạn chế kiểu dữ liệu và giá trị dữ liệu cho cột Số tiền (nghìn đồng) tương tự như yêu cầu của trang tính Chi tiêu.Hãy nhập thêm ít nhất ba hàng dữ liệu vào bảng.
+
+VẬN DỤNG
+Em hãy tạo bảng tính để quản lí tài chính cho dự án Triển lãm Tin học.Nhập dữ liệu các khoản thu, chi của dự án.Trong đó, các khoản thu (ví dụ như: kinh phí tài trợ, quỹ lớp ...) được lưu ở một trang tính (Hình 9a.14), các khoản chi cho triển lãm (ví dụ như: mua văn phòng phẩm, in tài liệu....) được lưu ở một trang tính khác (Hình 9a.15).Hãy sử dụng công cụ xác thực dữ liệu để việc nhập dữ liệu các khoản thu, chi được chính xác.Lưu tệp bảng tính với tên KinhPhiTrienLam.xlsx.
+
+--- TRANG 43 ---
+
+BÀI 10a: SỬ DỤNG HÀM COUNTIF
+Sau bài học này em sẽ:
+- Sử dụng được hàm đếm theo điều kiện COUNTIF trong giải quyết bài toán thực tế về quản lí tài chính.
+
+Trong các bài học trước, em đã sử dụng công cụ xác thực dữ liệu để nhập dữ liệu chính xác cho bảng tính quản lí tài chính gia đình.Để việc chi tiêu của gia đình được kiểm soát thường xuyên hoặc định kì theo khoảng thời gian nào đó tuỳ vào mỗi gia đình, dữ liệu thu và chi cần được tổng hợp để trả lời những câu hỏi sau:
+- Mỗi khoản chi đã được chi bao nhiêu lần?
+- Mỗi khoản thu đã được thu bao nhiêu lần?
+- Tổng số tiền đã chi tiêu của từng khoản chi là bao nhiêu?
+- Tổng số tiền thu nhập của từng khoản thu là bao nhiêu?
+- Thu nhập và chi tiêu của gia đình đã cân đối chưa?
+Những bài học tiếp theo của chủ đề này sẽ hướng dẫn em trả lời các câu hỏi trên, giúp cho việc chi tiêu của gia đình được kiểm soát hiệu quả.
+
+1. HÀM COUNTIF
+Hoạt động 1: Các khoản chi được tổng hợp như thế nào?
+Giả sử dữ liệu chi tiêu đã được cập nhật trong vùng A3:D10 (Hình 10a.1). Theo em, công thức tại các ô G2, G3, ..., G10 là gì để em có thể biết số lần chi tiêu của mỗi khoản?
+
+--- TRANG 44 ---
+
+Để đếm số ô tính mà dữ liệu của ô thoả mãn một điều kiện nào đó, em sử dụng hàm đếm theo điều kiện COUNTIF.
+Bảng 10a.1 dưới đây là một số ví dụ sử dụng hàm này.
+STT | Yêu cầu tính toán | Công thức tính
+1 | Đếm số ô trong vùng A1:A4 chứa giá trị số lớn hơn 100. | =COUNTIF(A1:A4,">100")
+2 | Đếm số ô trong vùng A1:A4 chứa từ Yes. | =COUNTIF(A1:A4,"Yes")
+3 | Đếm số ô trong vùng A1:A4 chứa xâu kí tự bắt đầu bằng chữ cái Y. | =COUNTIF(A1:A4,"Y*")
+4 | Đếm số ô trong vùng A1:A4 chứa giá trị giống như ô D2. | =COUNTIF(A1:A4,D2)
+
+Công thức chung của COUNTIF là: `=COUNTIF(range, criteria)`
+Trong đó, ý nghĩa của các tham số như sau:
+- range: là địa chỉ vùng dữ liệu.
+- criteria: là điều kiện.
+Trong Hình 10a.1, để biết mỗi khoản chi đã được chi bao nhiêu lần, em dùng hàm COUNTIF để đếm số ô tính trong vùng B3:B10 chứa mỗi khoản chi.Như vậy, công thức ở ô G2 là `=COUNTIF($B$3:$B$10,"Ở")` cho biết khoản Ở đã được chi bao nhiêu lần.Tuy nhiên, tên của khoản chi này đã được lưu ở ô F2.Vì vậy công thức tại ô G2 được sửa lại là `=COUNTIF($B$3:$B$10,F2)` như Hình 10a.2.Khi sao chép công thức này sang các ô còn lại từ G3 đến G10, công thức sẽ trả lại kết quả là số lần chi của các khoản chi còn lại.
+
+- Hàm COUNTIF đếm số ô tính trong vùng dữ liệu (range) thoả mãn điều kiện (criteria).
+- Công thức: `=COUNTIF(range, criteria)`
+  - range: phạm vi chứa các ô tính cần kiểm tra để đếm.
+  - criteria: điều kiện kiểm tra các ô tính trong phạm vi range.
+
+--- TRANG 45 ---
+
+Trong Hình 10a.2, công thức ở ô G2 là =COUNTIF(\$B\$3:\$B\$10,F2). Em hãy trả lời các câu hỏi sau:
+a) Khi sao chép công thức trên sang các ô G3,..., G10 công thức sẽ thay đổi như thế nào?
+b) Nếu bỏ các dấu \$ thì công thức ở ô G2 sẽ là =COUNTIF(B3:B10, F2).Sau khi sao chép công thức này sang các ô từ G3 đến G10, kết quả trả lại tại các ô đó có đúng không?Tại sao?
+
+2. THỰC HÀNH: SỬ DỤNG HÀM COUNTIF
+Nhiệm vụ: Sử dụng hàm COUNTIF để tổng hợp chi tiêu theo mỗi khoản.
+Hướng dẫn:
+a) Tính số lần chi của mỗi khoản chi trong trang tính Chi tiêu
+- Mở tệp bảng tính TaiChinhGiaDinh.xlsx, chọn trang tính Chi tiêu.
+- Nhập dữ liệu cho trang tính để được kết quả tương tự như Hình 10a.1.
+- Tại ô G2, nhập công thức =COUNTIF(\$B\$3:\$B\$10,F2) như minh hoạ trong Hình 10a.2.
+- Sao chép công thức trong ô G2 sang các ô từ G3 đến G10.
+- Lưu bảng tính.
+
+b) Tính số lần thu của mỗi khoản thu trong trang tính Thu nhập
+- Chọn trang tính Thu Nhập.
+- Nhập dữ liệu cho trang tính để được nội dung tương tự như Hình 10a.3.
+- Tại ô G2, nhập công thức =COUNTIF(\$B\$3:\$B\$8, F2) để tính số lần thu của khoản Lương (Hình 10a.4).
+
+--- TRANG 46 ---
+
+Sao chép công thức trong ô G2 sang các ô từ G3 đến G6 để tính số lần thu của các khoản thu còn lại (Hình 10a.5).
+Lưu tệp.
+
+LUYỆN TẬP
+1. Em hãy bổ sung thêm một số dòng dữ liệu thu, chi vào cả hai trang tính Thu nhập và Chi tiêu.Hãy điều chỉnh công thức COUNTIF ở cột G để kết quả tổng hợp số lần thu, chi của mỗi khoản được chính xác.
+2. Em hãy thực hiện cuộc khảo sát về việc chọn trường THPT của các bạn trong lớp.Nhập thông tin mà em thu thập được vào bảng tính và sử dụng hàm COUNTIF để tổng hợp kết quả khảo sát như minh hoạ ở Hình 10a.6.
+
+VẬN DỤNG
+Em hãy mở bảng tính KinhPhiTrienLam.xlsx đã tạo ở phần Vận dụng, Bài 9a và sử dụng hàm COUNTIF để tính số lần thu của mỗi khoản thu, số lần chi của mỗi khoản chi của dự án Triển lãm tin học.Lưu tệp sau khi hoàn thành công việc.
+
+--- TRANG 47 ---
+
+BÀI 11a: SỬ DỤNG HÀM SUMIF
+Sau bài học này em sẽ:
+- Biết sử dụng hàm tính tổng theo điều kiện SUMIF để giải quyết bài toán quản lí tài chính gia đình.
+
+Trong bài học trước, em đã sử dụng hàm đếm theo điều kiện để biết được số lần thu, chi theo từng khoản mục.Bài học này sẽ hướng dẫn em tính tổng theo các khoản chi tiêu, giúp quản lí tài chính gia đình hiệu quả.
+
+1. HÀM SUMIF
+Hoạt động 1: Tổng hợp chi tiêu theo từng khoản
+Hình 11a.1 là trang tính Chi tiêu đã được bổ sung thêm cột Tổng tiền.Theo em, con số 920 ở ô H2 mang ý nghĩa gì?Công thức ở ô H2 liên quan đến những dữ liệu nào trong vùng dữ liệu A3:D10?
+
+Trong bài toán quản lí tài chính gia đình, em cần biết tổng số tiền thu, chi theo từng khoản để cân đối sao cho hợp lí.Ví dụ: Với việc chi tiêu, nhìn vào dữ liệu tổng hợp, em có thể tránh được việc chi quá nhiều cho những nhu cầu không thiết yếu.
+Để tính tổng số tiền theo từng khoản mục, em sử dụng hàm tính tổng theo điều kiện SUMIF.Có hai dạng sử dụng hàm SUMIF như ví dụ trong Bảng 11a.1.
+Công thức chung của hàm SUMIF là: `=SUMIF(range, criteria, [sum_range])`
+Trong đó, ý nghĩa của các tham số như sau:
+- range: là phạm vi chứa các giá trị cần kiểm tra.
+- criteria: là điều kiện kiểm tra các giá trị trong phạm vi range.
+- sum_range (tuỳ chọn, có thể có hoặc không): là phạm vi chứa các giá trị cần tính tổng.
+
+--- TRANG 48 ---
+
+Bảng 11a.1. Ví dụ sử dụng hàm SUMIF
+- `=SUMIF(A1:A5,">5")`: Giả sử vùng dữ liệu A1:A5 chứa các số, công thức sẽ tính tổng các giá trị lớn hơn 5 trong vùng A1:A5.
+- `=SUMIF(A2:A5, "Khoa", B2:B5)`: Tính tổng các giá trị trong vùng B2:B5 với các ô tương ứng trong vùng A2:A5 có giá trị là "Khoa". Kết quả trả lại là tổng tiền mà Khoa đã chi.
+
+Trong Hình 11a.1, tại ô H2, em dùng hàm SUMIF để tính tổng tiền của khoản chi Ở.Trong đó, phạm vi chứa giá trị cần kiểm tra ở cột Khoản chi là B3:B10, điều kiện kiểm tra là tên của khoản chi Ở, phạm vi chứa các giá trị cần tính tổng ở cột Số tiền là D3:D10.Do đó, công thức tại ô H2 là `=SUMIF(B3:B10, "Ở", D3:D10)`.Nhưng vì tên khoản chi Ở đã được lưu ở ô F2 nên để dữ liệu đảm bảo chính xác khi sao chép sang các ô khác, điều kiện kiểm tra cần thay đổi thành F2 và các địa chỉ trong công thức phải là địa chỉ tuyệt đối.Khi đó, công thức tại ô H2 là `=SUMIF($B$3:$B$10,F2,$D$3:$D$10)` như minh hoạ trong Hình 11a.2.
+
+- Hàm SUMIF tính tổng giá trị của những ô thoả mãn một điều kiện nào đó.
+- Công thức: `=SUMIF(range, criteria, [sum_range])`
+  - range: phạm vi chứa các giá trị cần kiểm tra hoặc tính tổng các giá trị nếu không có tham số sum_range.
+  - criteria: điều kiện kiểm tra.
+  - sum_range (tuỳ chọn): phạm vi chứa các giá trị cần tính tổng, nếu sum_range bị bỏ qua thì tính tổng các ô trong tham số range thoả mãn điều kiện.
+
+--- TRANG 49 ---
+
+Hình 11a.3 minh hoạ dữ liệu của trang tính Thu nhập.Em hãy cho biết công thức cần nhập vào ô H2 là gì?Giá trị của ô H2 có ý nghĩa gì?
+
+2. THỰC HÀNH: SỬ DỤNG HÀM SUMIF
+Nhiệm vụ: Sử dụng hàm SUMIF để tính tổng số tiền của mỗi khoản chi tiêu.
+Hướng dẫn:
+a) Tính tổng số tiền của mỗi khoản chi trong trang tính Chi tiêu
+- Mở tệp bảng tính TaiChinhGiaDinh.xlsx, chọn trang tính Chi tiêu.
+- Tại ô H2, nhập công thức =SUMIF(\$B\$3:\$B\$10,F2,\$D\$3:\$D\$10) để tính tổng số tiền của khoản chi Ở (Hình 11a.2).
+- Sao chép công thức trong ô H2 sang các ô từ H3 đến H10 để tính tổng số tiền của mỗi khoản chi còn lại.
+- Lưu tệp.
+
+b) Tính tổng số tiền của mỗi khoản thu trong trang tính Thu nhập
+- Chọn trang tính Thu nhập (Hình 11a.3).
+- Tại ô H2, nhập công thức =SUMIF(\$B\$3:\$B\$8,F2,\$D\$3:\$D\$8) để tính tổng tiền của khoản thu từ Lương.
+- Sao chép công thức trong ô H2 sang các ô từ H3 đến H6 để tính tổng tiền cho các khoản thu còn lại.
+- Lưu tệp.
+
+LUYỆN TẬP
+Em hãy bổ sung thêm một số dòng dữ liệu thu, chi vào cuối phần dữ liệu của cả hai trang tính Thu nhập và Chi tiêu.Hãy điều chỉnh công thức SUMIF ở cột H để kết quả tổng tiền của mỗi khoản thu, chi được chính xác.
+
+VẬN DỤNG
+Em hãy mở bảng tính KinhPhiTrienLam.xlsx đã lưu ở phần Vận dụng, Bài 10a và sử dụng hàm SUMIF để tính tổng các khoản thu, chi của dự án Triển lãm tin học.Lưu tệp sau khi hoàn thành công việc.
+
+--- TRANG 50 ---
+
+BÀI 12a: SỬ DỤNG HÀM IF
+Sau bài học này em sẽ:
+- Sử dụng được hàm điều kiện IF trong giải quyết bài toán thực tiễn về quản lí tài chính.
+
+Trong những bài học trước, em đã sử dụng hàm đếm theo điều kiện COUNTIF và hàm tính tổng theo điều kiện SUMIF để tổng hợp số liệu chi tiêu.Dựa trên số liệu tổng hợp, để biết việc chi tiêu đã cân đối, hợp lí hay chưa, em có thể sử dụng một số quy tắc quản lí tài chính, ví dụ quy tắc 50-30-20.
+Quy tắc 50-30-20 khuyên chúng ta nên dành 50% số tiền của mình cho nhu cầu thiết yếu (ăn, ở, sức khoẻ ....), 30% cho mong muốn cá nhân (giải trí, thời trang,....) và 20% cho tiết kiệm.Dĩ nhiên tỉ lệ 50-30-20 có thể linh hoạt điều chỉnh sao cho phù hợp tình hình thực tiễn.
+
+Biểu đồ tròn quy tắc 50-30-20:
+- Nhu cầu thiết yếu: 50%
+- Mong muốn cá nhân: 30%
+- Tiết kiệm: 20%
+
+Bài học này sẽ hướng dẫn em sử dụng hàm điều kiện IF để quản lí việc chi tiêu dựa trên quy tắc tài chính, nhằm giúp việc chi tiêu được kiểm soát hiệu quả.
+
+1. HÀM IF
+Hoạt động 1: Tổng hợp các khoản chi theo quy tắc 50-30-20
+Giả sử các mục chi được chia thành ba loại A, B và C. Trong đó, mục A là Nhu cầu thiết yếu, mục B là Mong muốn cá nhân, mục C là Tiết kiệm.Bảng tổng hợp các khoản chi đã được thêm dữ liệu Mục chi ở cột I như minh hoạ trong Hình 12a.2.
+Để đánh giá chi tiêu theo quy tắc 50-30-20, chúng ta tạo bảng dữ liệu để tính tổng số tiền của mỗi mục chi như minh hoạ ở Hình 12a.3.Trong bảng này, tổng tiền của mỗi mục chi ở cột M được tổng hợp từ dữ liệu các khoản chi trong bảng ở Hình 12a.2; dữ liệu tỉ lệ ở cột N là tổng tiền của mỗi mục chi so với tổng tiền của tất cả các khoản (ô H11 trong Hình 12a.2).
+1. Em hãy nêu công thức ở các ô của cột M và cột N trong bảng dữ liệu Hình 12a.3.
+2. Em hãy viết quy tắc để đưa ra nhận xét tình trạng chi tiêu như minh hoạ ở cột O trong Hình 12a.3 dựa trên quy tắc quản lí tài chính 50-30-20.
+
+--- TRANG 51 ---
+
+Dựa trên quy tắc quản lí tài chính 50-30-20, em có thể đưa ra nhận xét về tình trạng chi tiêu của mỗi mục chi. Ví dụ, với mục chi Nhu cầu thiết yếu thì nhận xét là: Nếu tỉ lệ chi lớn hơn 50% thì nhận xét là "Nhiều hơn", còn không thì nhận xét là "Ít hơn".
+Để điền nhận xét như minh hoạ ở các ô từ O3 đến O5 trong Hình 12a.3, em sử dụng hàm điều kiện IF. Công thức chung của hàm IF là: `=IF(logical_test, [value_if_true], [value_if_false])`.
+Trong đó, ý nghĩa của các tham số như sau:
+- logical_test: điều kiện kiểm tra.
+- value_if_true: giá trị trả về nếu điều kiện là đúng.
+- value_if_false: giá trị trả về nếu điều kiện là sai.
+Ví dụ, trong Hình 12a.3, tỉ lệ chi của mục Nhu cầu thiết yếu được lưu tại ô N3. Do đó, nhận xét ở trên về tình trạng của mục chi này được thực hiện bằng công thức tại ô O3 là `=IF(N3>50%, "Nhiều hơn", "Ít hơn")`.
+Trên thực tế, nhận xét về tình trạng chi tiêu có thể cần chi tiết hơn. Ví dụ với mục chi Nhu cầu thiết yếu có thể nhận xét theo hai mức: Nếu tỉ lệ chi lớn hơn 80% thì nhận xét "Nhiều quá", nếu tỉ lệ chi lớn hơn 50% thì nhận xét "Nhiều hơn", còn không thì nhận xét là "ít hơn".
+Trong trường hợp tiêu chí kiểm tra cần thoả mãn nhiều mức hơn, em sử dụng các hàm IF lồng nhau. Ví dụ sử dụng hai hàm IF lồng nhau cho nhận xét trên như minh hoạ trong Hình 12a.4 là `=IF(N3>80%, "Nhiều quá", IF(N3>50%, "Nhiều hơn", "Ít hơn"))`.
+
+- Hàm IF kiểm tra điều kiện và trả về một giá trị khi điều kiện đó đúng và một giá trị khác nếu điều kiện đó sai.
+- Công thức: `=IF(logical_test, [value_if_true], [value_if_false])`.
+  - logical_test: điều kiện kiểm tra.
+  - value_if_true: giá trị trả về nếu điều kiện là đúng.
+  - value_if_false: giá trị trả về nếu điều kiện là sai.
+
+Em hãy viết công thức trong các ô O4 và O5 ở Hình 12a.3 để nhận xét về tình trạng của mục Mong muốn cá nhân và Tiết kiệm dựa trên quy tắc 50-30-20.
+
+--- TRANG 52 ---
+
+2. THỰC HÀNH SỬ DỤNG HÀM IF
+Nhiệm vụ 1: Bổ sung cột mục chi cho bảng tổng hợp khoản chi (như Hình 12a.2) và tạo bảng dữ liệu tổng hợp các mục chi (như Hình 12a.3).
+Hướng dẫn
+a) Tạo bảng dữ liệu
+- Mở bảng tính TaiChinhGiaDinh.xlsx, nháy chuột chọn trang tính Chi tiêu.
+- Tại cột I, bổ sung tiêu đề cột Mục chi và nhập dữ liệu cho cột này như minh hoạ ở Hình 12a.2.
+- Trong vùng dữ liệu K1:O5, tạo bảng dữ liệu tổng hợp mục chi như minh hoạ ở Hình 12a.5.
+- Lưu bảng tính.
+
+b) Tính Tổng chi và Tỉ lệ của mỗi mục chi
+Ta có tổng chi của mỗi mục chi ở cột M được lấy từ dữ liệu các khoản chi trong bảng ở Hình 12a.2, vì vậy cần sử dụng hàm SUMIF để tính tổng theo từng mục.
+- Tại ô M3, nhập công thức `=SUMIF($I$2:$I$10,K3,$H$2:$H$10)` để tổng hợp số tiền của mục Nhu cầu thiết yếu như minh hoạ ở Hình 12a.6.
+
+--- TRANG 53 ---
+
+- Sao chép công thức của ô M3 sang các ô M4 và M5 để tính tổng chi của các mục chi còn lại.
+- Tỉ lệ ở cột N là tổng chi của mỗi mục chi so với tổng tiền của tất cả các khoản (lưu tại ô H11). Vì vậy, em nhập công thức tại ô N3 là `=M3/$H$11*100%`.
+- Sao chép công thức của ô N3 sang các ô N4 và N5 để tính tỉ lệ của các mục chi còn lại.
+
+c) Điền nhận xét vào cột Trạng thái của từng mục chi
+- Tại ô O3, nhập công thức `=IF(N3>50%, "Nhiều hơn","Ít hơn")` để điền nhận xét của mục Nhu cầu thiết yếu.
+- Tại ô O4, nhập công thức `=IF(N4>30%, "Nhiều hơn","Ít hơn")` để điền nhận xét của mục Mong muốn cá nhân.
+- Tại ô O5, nhập công thức `=IF(N5>20%, "Nhiều hơn","Ít hơn")` để điền nhận xét của mục Tiết kiệm.
+- Lưu bảng tính.
+
+LUYỆN TẬP
+Hình 12a.7 là bảng dữ liệu tính số tiền thưởng cho các đại lí của một nhãn hàng. Em hãy tạo bảng dữ liệu và thực hiện các yêu cầu sau:
+a) Tính tỉ lệ thưởng (cột C), biết nếu doanh thu đạt trên 10 triệu thì tỉ lệ thưởng là 5%, còn không thì tỉ lệ thưởng là 0%.
+b) Tính số tiền thưởng (cột D) mà các đại lí nhận được biết Số tiền = Doanh thu x Tỉ lệ.
+c) Nhãn hàng thay đổi cách tính tỉ lệ thưởng cho đại lí theo quy tắc sau:
+- Nếu doanh thu trên 20 triệu thì tỉ lệ thưởng là 6%.
+- Nếu doanh thu trên 15 triệu thì tỉ lệ thưởng là 4%.
+- Nếu doanh thu trên 10 triệu thì tỉ lệ thưởng là 2%.
+- Còn không thì tỉ lệ thưởng là 0%.
+Hãy chỉnh sửa công thức ở câu a) theo quy tắc tính tỉ lệ thưởng ở trên.
+
+VẬN DỤNG
+1. Với bảng Tổng hợp mục chi đã thực hiện ở phần Thực hành, em hãy chỉnh sửa công thức tại ô O3 để có thể nhận xét tình trạng của mục chi Nhu cầu thiết yếu theo hai mức: Nếu tỉ lệ chi lớn hơn 80% thì nhận xét "Nhiều quá", nếu tỉ lệ chi lớn hơn 50% thì nhận xét "Nhiều hơn", còn không thì nhận xét là "Ít hơn".
+2. Tương tự câu 1, em hãy sử dụng hàm IF lồng nhau tại ô O4 và O5 để có thể nhận xét chi tiết hơn tình trạng của mục chi Mong muốn cá nhân và Tiết kiệm. Dựa trên quy tắc tài chính 50-30-20, em hãy điều chỉnh sao cho các mục chi được cân đối và tài chính gia đình được kiểm soát hiệu quả.
+
+--- TRANG 54 ---
+
+BÀI 13a: HOÀN THIỆN BẢNG TÍNH QUẢN LÍ TÀI CHÍNH GIA ĐÌNH
+Sau bài học này em sẽ:
+- Tạo được trang tính tổng hợp thông tin thu, chi gia đình.
+- Hoàn thiện bảng tính quản lí tài chính gia đình.
+
+Dự án sử dụng bảng tính điện tử quản lí tài chính gia đình đã hoàn thành các trang tính Thu nhập và Chi tiêu. Theo em, để cân đối thu, chi, giúp kiểm soát chi tiêu gia đình hiệu quả, bảng tính cần bổ sung thông tin gì?
+
+1. TRANG TÍNH TỔNG HỢP DỮ LIỆU TÀI CHÍNH GIA ĐÌNH
+Hoạt động 1
+Quan sát Hình 13a.1 và Hình 13a.2, em thấy các khoản thu và chi đã được tính tổng số tiền (tại ô H7 và H11). Để cân đối thu, chi, trang tính Tổng hợp được bổ sung vào bảng tính như Hình 13a.3.
+1. Em hãy chỉ ra mối liên hệ về dữ liệu của trang tính Tổng hợp ở Hình 13a.3 với hai trang tính Thu nhập và Chi tiêu ở Hình 13a.1 và Hình 13a.2.
+2. Trong trang tính Tổng hợp, công thức để tính tổng thu nhập ở ô B14 là gì?Công thức để tính tổng số tiền chi tiêu ở ô B15 là gì?
+
+--- TRANG 55 ---
+
+Từ hai nguồn dữ liệu trong hai trang tính Thu nhập và Chi tiêu, em có thể tổng hợp thông tin một cách trực quan để kịp thời điều chỉnh các khoản thu, chi.
+Trong bảng tính quản lí tài chính gia đình, ở trang tính Tổng hợp, tổng tiền thu nhập ở ô B14 chính là giá trị ở ô H7 trong trang tính Thu nhập, tổng tiền chi tiêu ở ô B15 chính là giá trị ở ô H11 trong trang tính Chi tiêu.
+Công thức cho các ô B14, B15 trong trang tính Tổng hợp được trình bày chi tiết trong Bảng 13a.1.
+
+| Vị trí | Công thức | Ý nghĩa |
+|---|---|---|
+| B14 | ='Thu nhập'!H7 | Lấy giá trị của ô H7 trong trang tính Thu nhập đưa vào ô B14 trong trang tính Tổng hợp để tổng số tiền thu nhập trong trang tính Tổng hợp được cập nhật tự động từ trang tính Thu nhập.|
+| B15 | ='Chi tiêu'!H11 | Lấy giá trị của ô H11 trong trang tính Chi tiêu đưa vào ô B15 trong trang tính Tổng hợp để tổng số tiền chi tiêu trong trang tính Tổng hợp được cập nhật tự động từ trang tính Chi tiêu.|
+
+Trong trang tính Tổng hợp, Giá trị NET là số tiền chênh lệch giữa thu và chi. Giá trị NET nhỏ sẽ cho thấy gia đình đang chi tiêu nhiều, cần được báo động để tất cả các thành viên thực hiện tiết kiệm.
+Bên cạnh đó, em có thể bổ sung biểu đồ để hiển thị số liệu thu và chi một cách trực quan, dễ so sánh, giúp cho việc quản lí tài chính gia đình được dễ dàng và hiệu quả.
+
+Khi sử dụng bảng tính điện tử quản lí tài chính gia đình, dữ liệu thu, chi được lưu trữ, cập nhật và hiển thị trực quan, sinh động, dễ so sánh.... giúp các gia đình kiểm soát chi tiêu hiệu quả.
+
+1. Hình 13a.4 là công thức lấy tổng tiền thu nhập từ trang tính Thu nhập đưa vào trang Tổng hợp. Hãy ghép mỗi cụm từ Địa chỉ ô, Tên trang tính, Dấu chấm than vào vị trí tương ứng sao cho phù hợp.
+2. Trong một bảng tính có chứa nhiều trang tính, nếu công thức tham chiếu đến địa chỉ ô ở một trang tính khác, thì địa chỉ ô đó gồm những thành phần gì?
+
+2. THỰC HÀNH: HOÀN THIỆN BẢNG TÍNH QUẢN LÍ TÀI CHÍNH GIA ĐÌNH
+Nhiệm vụ: Tính tổng thu nhập và chi tiêu, bổ sung trang tính Tổng hợp để cân đối thu, chi như Hình 13a.1, Hình 13a.2 và Hình 13a.3.
+Hướng dẫn:
+a) Tính tổng số tiền trong trang tính Thu nhập và Chi tiêu
+- Mở bảng tính TaiChinhGiaDinh.xlsx, chọn trang tính Thu nhập như Hình 13a.1.
+- Tại ô H7, nhập công thức `=SUM(H2:H6)` để tính tổng số tiền thu nhập.
+
+--- TRANG 56 ---
+
+- Nháy chuột chọn trang tính Chi tiêu như Hình 13a.2.
+- Tại ô H11, nhập công thức `=SUM(H2:H10)` để tính tổng số tiền đã chi tiêu.
+- Lưu tệp.
+
+b) Tạo trang tính Tổng hợp
+- Tạo thêm một trang tính mới, đặt tên trang tính là Tổng hợp.
+- Tại ô A1, nhập tiêu đề bảng tính là Cân đối thu chi.
+- Tạo bảng dữ liệu trong vùng A13:B16, trong đó công thức tại ô B14 và B15 xem ở Bảng 13a.1. Công thức tại ô B16 là =B14-B15.
+- Tạo biểu đồ cột hiển thị trực quan giá trị thu và chi:
+  - Chọn vùng dữ liệu tạo biểu đồ là A13:B15.
+  - Trong dải lệnh Insert, ở nhóm lệnh Charts, chọn dạng biểu đồ Clustered Column (Hình 13a.5).
+- Đặt biểu đồ vào vị trí A2:B12, chỉnh sửa thông tin hiển thị trên biểu đồ như ở Hình 13a.3.
+- Lưu tệp.
+
+LUYỆN TẬP
+Em hãy bổ sung một số dòng dữ liệu thu, chi của gia đình vào cả hai trang tính Thu nhập và Chi tiêu. Hãy sửa lại các công thức ở trang tính Thu nhập và Chi tiêu để công thức đúng với vùng dữ liệu mới sau khi bổ sung dữ liệu. Quan sát để thấy dữ liệu đã được cập nhật tự động vào trang tính Tổng hợp. Từ Giá trị NET trên trang tính Tổng hợp, em hãy đánh giá tình hình tài chính hiện tại của gia đình và đề xuất những điều chỉnh chi tiêu sao cho phù hợp.
+
+VẬN DỤNG
+Em hãy tạo trang tính Tổng hợp tương tự như trong bảng tính quản lí tài chính gia đình để cân đối kinh phí cho dự án Triển lãm tin học, trong đó tiền thu được lấy từ trang tính lưu các khoản thu, tiền chi được lấy từ trang tính lưu các khoản chi của triển lãm. Dựa trên dữ liệu của trang Tổng hợp, hãy thảo luận với bạn để đánh giá tình hình kinh phí của dự án để có điều chỉnh phù hợp.
+
+--- TRANG 57 ---
+
+b. LÀM QUEN VỚI PHẦN MỀM LÀM VIDEO
+BÀI 9b: CÁC CHỨC NĂNG CHÍNH CỦA PHẦN MỀM LÀM VIDEO
+Sau bài học này em sẽ:
+- Nêu được một số chức năng và thực hiện được một số thao tác cơ bản trong sử dụng một phần mềm làm video.
+
+Video là dạng thông tin đặc biệt (kết hợp của văn bản, âm thanh, hình ảnh). Video tác động đến nhiều giác quan của người xem cùng lúc nên mang đến hiệu quả cao. Trong dự án Triển lãm tin học, nếu các em làm được những video minh hoạ cho các nội dung triển lãm thì sẽ mang đến ấn tượng mạnh cho người xem. Làm ra một video có khó không?Có những cách nào để làm ra một video? Khi muốn chỉnh sửa một video em làm thế nào?
+
+1. PHẦN MỀM LÀM VIDEO VÀ CÁC CHỨC NĂNG CHÍNH
+Hoạt động 1: Làm thế nào để tạo video từ văn bản, hình ảnh, âm thanh, video?
+An dùng điện thoại thông minh quay một đoạn video về sản phẩm tin học đã thực hiện khi học môn Tin học ở lớp 6 là Sổ lưu niệm. Minh chụp ảnh cây xanh ở vườn trường, sân trường để minh hoạ cho sự thành công của dự án Trường học xanh. Khoa có hình ảnh tờ rơi quảng cáo và tài liệu của dự án Thành lập CLB Tin học,...Các bạn muốn làm ra một video kết hợp các đoạn video, hình ảnh đó và thêm vào lời bình, nhạc nền,.... Theo em, làm thế nào để tạo được video tổng hợp từ những gì các bạn đã có để chiếu trong buổi triển lãm tin học?
+
+Để tạo mới, chỉnh sửa, kết hợp các loại thông tin thành một video theo ý muốn của mình, em cần sử dụng phần mềm làm video. Phần mềm làm video là phần mềm ứng dụng, được thiết kế với các chức năng chính: tạo mới video, chỉnh sửa video, thêm hiệu ứng, tạo các video kết hợp từ nhiều loại thông tin (chèn thêm âm thanh, phụ đề,...), tạo các đoạn hoạt hình từ ảnh, ghi lại và chuyển đổi video sang các định dạng và độ phân giải khác nhau.
+
+--- TRANG 58 ---
+
+Chức năng chính của phần mềm làm video: tạo mới, chỉnh sửa, thêm hiệu ứng, tạo các video kết hợp từ nhiều loại thông tin, tạo các đoạn hoạt hình từ ảnh, ghi lại và chuyển đổi video sang các định dạng và độ phân giải khác nhau.
+
+Em hãy chọn phương án ghép đúng:
+Phần mềm làm video là
+A. phần mềm ứng dụng giúp người sử dụng quay được video.
+B. phần mềm ứng dụng giúp người sử dụng làm ra các video từ các dữ liệu dạng văn bản, hình ảnh, âm thanh, video.
+C. phần mềm hệ thống giúp người sử dụng xem video.
+D. phần mềm hệ thống giúp người sử dụng phát video lên mạng.
+
+2. PHẦN MỀM VIDEO EDITOR
+Hoạt động 2. Em biết những phần mềm làm video nào?
+1. Em hãy kể tên một vài phần mềm làm video mà em biết.
+2. Em muốn sử dụng một phần mềm làm video có những chức năng gì?
+
+Có nhiều phần mềm làm video, trong đó có loại miễn phí, trả phí, có loại chuyên nghiệp, không chuyên nghiệp. Video Editor là một phần mềm làm video (được tích hợp sẵn trong hệ điều hành Windows 10, Windows 11) giúp người sử dụng làm video, chỉnh sửa video với các thao tác cơ bản. Video Editor hỗ trợ nhiều định dạng tệp như mp3, wma, wav, mp4, avi, mpg, jpg, bmp, png,...Đây là phần mềm được rất nhiều người sử dụng vì những ưu điểm sau:
+- Giao diện thân thiện, dễ sử dụng.
+- Có đầy đủ những chức năng cơ bản và nâng cao để làm ra các video từ dữ liệu hình ảnh, video thêm hiệu ứng, âm thanh, phụ đề, tự động tạo hoạt hình từ ảnh;...
+- Dễ dàng chia sẻ video.
+Em có thể sử dụng Video Editor để làm ra các video đáp ứng nhu cầu cuộc sống của cá nhân, gia đình, trường học,... và có thể chia sẻ trên các mạng xã hội như YouTube, Facebook....
+
+Video Editor là phần mềm làm video được nhiều người sử dụng vì có đầy đủ các chức năng làm video cơ bản và nâng cao.
+
+--- TRANG 59 ---
+
+Chọn phương án ghép sai:
+Video Editor là phần mềm làm video
+A. có giao diện thân thiện, dễ sử dụng.
+B. hỗ trợ nhiều định dạng tệp.
+C. được tích hợp sẵn trong tất cả các hệ điều hành.
+D. có đầy đủ những chức năng làm video cơ bản và nâng cao.
+
+3. THỰC HÀNH: LÀM QUEN VỚI PHẦN MỀM LÀM VIDEO
+Nhiệm vụ: Thực hiện được một số thao tác cơ bản trong sử dụng một phần mềm làm video.
+Hướng dẫn
+(Hướng dẫn sau đây sử dụng phần mềm Video Editor để minh hoạ.)
+
+a) Khởi động phần mềm và tạo một video mới
+- Nháy đúp chuột vào biểu tượng trên màn hình nền, phần mềm Video Editor được mở ra với cửa sổ chào mừng tương tự như Hình 9b.6.
+- Nháy chuột vào "New video project" trong cửa sổ chào mừng để bắt đầu thực hiện dự án làm video.
+- Phần mềm hiển thị cửa sổ cho em nhập tên dự án. Nhập SanPhamTinHoc rồi chọn OK.
+
+--- TRANG 60 ---
+
+Giao diện phần mềm mở ra như Hình 9b.8 để em bắt đầu làm video. Giao diện bao gồm: Màn hình xem trước, Thư viện dữ liệu, Bàn dựng video.
+
+b) Nhập dữ liệu vào thư viện
+Thư viện dữ liệu chứa những tệp hình ảnh, video mà em sử dụng để làm video.
+- Nháy chuột vào lệnh "+ Add" chọn "From this PC" để nhập dữ liệu từ máy tính vào thư viện (Hình 9b.9).
+- Nếu muốn xoá dữ liệu khỏi thư viện, em nháy chuột chọn dữ liệu, nháy nút phải chuột rồi chọn lệnh Remove.
+
+c) Đưa dữ liệu từ thư viện vào bàn dựng
+- Sau khi thư viện đã có dữ liệu, trên bàn dựng sẽ xuất hiện dòng hướng dẫn "Drag items from the project library here". Em dùng chuột kéo thả các tệp dữ liệu từ thư viện vào bàn dựng.
+- Nếu muốn xoá dữ liệu (một đoạn video, một hình ảnh ...) khỏi bàn dựng, em nháy chuột chọn dữ liệu rồi chọn biểu tượng ở góc trên, bên phải bàn dựng.
+- Nếu muốn xoá tất cả dữ liệu đang có trong bàn dựng, em nháy chuột chọn biểu tượng ở góc trên, bên phải bàn dựng, chọn Remove all.
+Lưu ý: Dữ liệu bị xoá khỏi bàn dựng nhưng vẫn còn trong thư viện. Dữ liệu bị xoá khỏi thư viện thì trong bàn dựng cũng bị xoá.
+
+d) Xem trước kết quả ở màn hình
+- Sau khi bàn dựng đã có dữ liệu, màn hình xem trước sẽ hiển thị hình ảnh dữ liệu (Hình 9b.10).
+- Em có thể dùng các lệnh điều khiển video: Play (mở video), Pause (tạm dừng), Next Frame (chuyển về khung hình phía trước), Previous Frame (chuyển về khung hình phía sau) hoặc dùng chuột kéo thả con chạy ở thanh điều khiển thời gian để xem video.
+
+--- TRANG 61 ---
+
+LUYỆN TẬP
+1. Em hãy nêu các chức năng chính của phần mềm làm video.
+2. Em hãy thu thập các tệp video, hình ảnh, tài liệu về các sản phẩm em đã làm được trong quá trình thực hiện các dự án (ví dụ Sổ lưu niệm, Trường học xanh, Thành lập CLB Tin học) khi học môn Tin học. Lưu các tệp vào một thư mục trong máy tính và thực hiện:
+a) Khởi động phần mềm Video Editor, mở dự án làm video SanPhamTinHoc.
+b) Nhập các tệp dữ liệu em đã thu thập vào thư viện dữ liệu.
+c) Đưa dữ liệu vào bàn dựng.
+d) Dùng các nút điều khiển ở màn hình xem trước để xem video.
+e) Xoá bỏ lần lượt từng dữ liệu khỏi bàn dựng, quan sát xem dữ liệu trong thư viện có bị mất không.
+f) Xoá bỏ lần lượt từng dữ liệu khỏi thư viện.
+
+VẬN DỤNG
+Em hãy làm video để giới thiệu về một vấn đề mà em quan tâm, ví dụ một cuốn sách, một môn học, một địa danh ở địa phương....Bắt đầu bằng việc thực hiện các công việc sau đây:
+a) Dùng máy quay phim, điện thoại thông minh.... quay video, chụp ảnh; tìm kiếm các thông tin liên quan đến vấn đề em muốn giới thiệu. Lưu các tệp dữ liệu em thu thập được vào một thư mục trong máy tính có tên là DuLieuMyVideo.
+b) Sử dụng phần mềm Video Editor tạo một dự án làm video mới có tên MyVideo.
+
+--- TRANG 62 ---
+
+BÀI 10b: CHUẨN BỊ DỮ LIỆU VÀ DỰNG VIDEO
+Sau bài học này em sẽ:
+- Biết được các bước để làm một video.
+- Chuẩn bị được dữ liệu và dựng được video theo kịch bản.
+
+Để làm một bộ phim cần có cả một đoàn làm phim với đủ các thành phần như: đạo diễn, quay phim, trợ lí, biên kịch, diễn viên, dựng phim,.... và trải qua rất nhiều giai đoạn như: viết kịch bản, quay phim, dựng phim, hậu kì,...
+Để làm video giới thiệu các sản phẩm tin học, có cần cả một đoàn làm phim (Hình 10b.1) không? Có cần thực hiện nhiều công đoạn không?
+
+1. CÁC BƯỚC ĐỂ LÀM MỘT VIDEO
+Hoạt động 1: Cần làm gì trước khi dựng video?
+Trong khi dựng video, An thấy thiếu hình ảnh chụp các buổi hoạt động của CLB Tin học. Vậy là An lại phải dừng lại để đi thu thập hình ảnh từ các bạn trong lớp. Có đủ dữ liệu rồi nhưng An lại loay hoay không biết nên sắp xếp thứ tự các đoạn video và hình ảnh thế nào cho hợp lí, nên thêm hiệu ứng gì để làm cho video hay hơn.
+Theo em, An cần làm gì trước khi bắt tay vào dựng video bằng phần mềm?
+
+Tương tự như việc thực hiện một bộ phim, tuy không cần đến cả một đoàn làm phim với các bước thực hiện chuyên nghiệp, nhưng để làm được một video nhanh chóng, hiệu quả, theo đúng mục tiêu đặt ra em cần thực hiện những bước sau:
+- **Bước 1. Đưa ra ý tưởng, xây dựng kịch bản:** Xuất phát từ mục tiêu ban đầu, phác thảo ra một bản sắp xếp các dữ liệu theo một tiến trình và thời lượng cụ thể.
+- **Bước 2. Chuẩn bị dữ liệu:** Thu thập tất cả các dữ liệu cần thiết theo kịch bản đã xây dựng. Quay video, chụp ảnh, thu âm thanh bằng máy quay, điện thoại thông minh, webcam; viết phụ đề; tập hợp các tệp dữ liệu vào một thư mục trong máy tính.
+- **Bước 3. Nhập dữ liệu, dựng video:** Đưa dữ liệu vào phần mềm làm video. Sắp xếp dữ liệu, chỉnh sửa, thêm hiệu ứng, thêm phụ đề,.... theo kịch bản đã xây dựng bằng phần mềm làm video.
+- **Bước 4. Biên tập video:** Xem lại video; Kiểm tra âm thanh, hình ảnh, phụ đề đã đúng theo kịch bản chưa?Có cần thêm hiệu ứng không? Có cần cắt bỏ hay điều chỉnh lại nội dung không?
+- **Bước 5. Xuất video:** Xuất video đã dựng sang định dạng có thể chia sẻ với người khác.
+
+--- TRANG 63 ---
+
+Để làm được một video nhanh chóng và hiệu quả theo đúng ý tưởng ban đầu, em nên thực hiện theo các bước: lên ý tưởng, xây dựng kịch bản; chuẩn bị dữ liệu; nhập dữ liệu, dựng video; biên tập video; xuất video.
+
+Em hãy sắp xếp lại các bước tạo video sau đây theo đúng thứ tự:
+a) Nhập dữ liệu, dựng video.
+b) Chuẩn bị dữ liệu.
+c) Lên ý tưởng, xây dựng kịch bản.
+d) Xuất video.
+e) Biên tập video.
+
+2. THỰC HÀNH: LÀM VIDEO GIỚI THIỆU CÁC SẢN PHẨM ĐÃ THỰC HIỆN TRONG QUÁ TRÌNH HỌC MÔN TIN HỌC
+Nhiệm vụ 1: Đưa ra ý tưởng, xây dựng kịch bản và chuẩn bị dữ liệu.
+Hướng dẫn
+a) Lên ý tưởng, xây dựng kịch bản
+- **Ý tưởng:** Video sẽ giới thiệu về những sản phẩm, kết quả của những dự án mà các bạn đã thực hiện trong quá trình học môn Tin học: cuốn sổ lưu niệm; những hàng cây xanh và hoa ở cổng trường, sân trường, vườn trường; tờ rơi, tài liệu, kết quả hoạt động của CLB Tin học....
+- **Xây dựng kịch bản:** Video dài khoảng 28 giây, bao gồm các nội dung sau đây:
+  - Tiêu đề video có nội dung: Sản phẩm, kết quả của các dự án Tin học (3 giây).
+  - Đoạn video quay cuốn sổ lưu niệm của dự án Sổ lưu niệm (7 giây).
+  - Đoạn hoạt hình tạo từ những hình ảnh chụp cây và hoa ở cổng trường, sân trường, vườn trường.... của dự án Trường học xanh (8 giây).
+  - Đoạn hoạt hình tạo từ những hình ảnh chụp tờ rơi, tài liệu của dự án Thành lập CLB Tin học (10 giây).
+  - Giữa các đoạn video có hiệu ứng chuyển động.
+  - Thêm hiệu ứng ba chiều, bộ lọc vào các vị trí thích hợp.
+  - Toàn bộ video có nhạc nền nhẹ nhàng.
+  - Thêm phụ đề (tên dự án) vào đầu mỗi đoạn giới thiệu sản phẩm.
+  - Thêm lời thuyết minh về quá trình thực hiện mỗi dự án.
+
+b) Chuẩn bị dữ liệu
+- Tạo một thư mục có tên SanPhamTinHoc. Thư mục chứa các thư mục con có tên DuLieu-AmThanh, DuLieu-Anh, DuLieu-Video (Hình 10b.2).
+- Sao chép các tệp sẽ sử dụng để làm video mà em đã thu thập được (ở câu 2, phần Luyện tập, Bài 9b) vào các thư mục tương ứng.
+
+--- TRANG 64 ---
+
+Nhiệm vụ 2: Nhập dữ liệu và dựng video.
+Hướng dẫn
+a) Nhập dữ liệu
+- Khởi động phần mềm Video Editor. Mở dự án SanPhamTinHoc đã tạo ở phần thực hành Bài 9b.
+- Nhập dữ liệu vào thư viện theo thứ tự trong kịch bản.
+- Vào thư mục SanPhamTinhoc/Dulieu-Video để nhập dữ liệu video.
+- Vào thư mục SanPhamTinhoc/Dulieu-Anh để nhập các tệp hình ảnh. Em được kết quả tương tự như Hình 10b.3.
+
+b) Dựng video theo kịch bản
+Bước 1. Tạo tiêu đề cho video
+- Nháy chuột chọn "Add title card" ở phía trên, bên phải bàn dựng. Một đoạn video dài 3 giây xuất hiện ở vị trí đầu tiên. Số 3.0 trên khung hình chính là độ dài đoạn video tính theo giây (Hình 10b.4).
+- Nháy chuột chọn "Text" để nhập nội dung tiêu đề.
+- Một cửa sổ mới mở ra cho phép em thực hiện một số thao tác định dạng cho đoạn video tiêu đề. Em thực hiện theo các hướng dẫn ở Hình 10b.5:
+  1. Nhập nội dung tiêu đề.
+  2. Chọn kiểu hiển thị.
+  3. Chọn vị trí hiển thị.
+  4. Nháy vào "Done" để hoàn thành.
+
+--- TRANG 65 ---
+
+Bước 2. Cắt ngắn đoạn video quay cuốn sổ lưu niệm
+- Kéo thả đoạn video quay cuốn sổ lưu niệm vào bàn dựng ở vị trí tiếp theo đoạn tiêu đề.
+- Đoạn video này có độ dài 9.05 giây (Hình 10b.6). Theo kịch bản, em cần cắt bớt để đoạn này chỉ còn 7 giây.
+- Nháy chuột chọn "Trim" để cắt đoạn video. Một cửa sổ mới mở ra cho phép em thực hiện một số thao tác để cắt ngắn đoạn video. Em thực hiện theo các hướng dẫn ở Hình 10b.7:
+  1. Kéo thả hai con chạy để chọn đoạn video cần giữ lại (từ giây thứ 2 đến giây thứ 8).
+  2. Nháy vào "Done" để hoàn thành việc cắt video.
+
+Bước 3. Tạo đoạn hoạt hình từ hình ảnh, thay đổi thời gian hiển thị của ảnh
+- Kéo thả bốn ảnh chụp cây xanh và hoa vào bàn dựng ở vị trí tiếp theo đoạn video quay cuốn sổ lưu niệm.
+- Mỗi ảnh được phần mềm mặc định hiển thị trong 3 giây (Hình 10b.8).
+- Theo kịch bản, đoạn hoạt hình tạo bởi các ảnh cây và hoa sẽ dài 8 giây. Hiện tại trong bàn dựng có 4 ảnh, mỗi ảnh hiển thị 3 giây. Em có thể thay đổi để thời gian hiển thị của mỗi ảnh là 2 giây.
+- Nháy chuột chọn ảnh thứ nhất. Chọn Duration, chọn 2 giây trong danh sách hiển thị số giây.
+- Thực hiện tương tự với các ảnh tiếp theo. Kết quả như Hình 10b.9.
+
+--- TRANG 66 ---
+
+Bước 4. Thêm hiệu ứng chuyển động
+- Nháy chuột vào ảnh ở ngay sau đoạn video để chọn.
+- Nháy chuột vào "Motion" để thêm hiệu ứng chuyển động vào ảnh đang chọn.
+- Một cửa sổ mới mở ra cho phép em thực hiện một số thao tác để thêm hiệu ứng chuyển động. Em thực hiện theo các hướng dẫn ở Hình 10b.10:
+  1. Chọn kiểu hiệu ứng, ví dụ "Zoom in center".
+  2. Nháy vào "Done" để hoàn thành việc tạo hiệu ứng.
+
+LUYỆN TẬP
+1. Em hãy tạo đoạn hoạt hình dài 3 giây từ những hình ảnh chụp tờ rơi, tài liệu của dự án Thành lập CLB Tin học.
+2. Em hãy thêm hiệu ứng chuyển động vào ảnh đầu của đoạn hoạt hình đã tạo ở câu 1.
+
+VẬN DỤNG
+Em hãy thực hiện các nhiệm vụ tương tự trong phần Thực hành với dự án MyVideo (em đã tạo ở phần Vận dụng, Bài 9b) với các dữ liệu đã thu thập được lưu trong thư mục DuLieuMyVideo.
+
+--- TRANG 67 ---
+
+BÀI 11b: THỰC HÀNH: DỰNG VIDEO THEO KỊCH BẢN
+Sau bài học này em sẽ:
+- Dựng được video theo kịch bản.
+
+Ở Bài 10b em đã dựng được một phần video theo kịch bản. Trong bài này em tiếp tục dựng các phần tiếp theo của video SanPhamTinHoc.
+
+NHIỆM VỤ 1: THÊM HIỆU ỨNG BA CHIỀU VÀO VIDEO
+Hướng dẫn
+Phần mềm Video Editor cung cấp một số hiệu ứng ba chiều (3D effects) để em có thể thêm vào video, làm cho video thêm ấn tượng và thú vị. Ví dụ, với ảnh chụp vườn hoa hồng trong dự án Trường học xanh, em có thể thêm vào ảnh một đàn bướm bay. Cách thực hiện như sau:
+- Chọn ảnh vườn hồng trong bàn dựng, chọn "3D effects". Một cửa sổ mới mở ra cho phép em thực hiện một số thao tác để thêm hiệu ứng ba chiều.
+- Em thực hiện theo các hướng dẫn ở Hình 11b.1:
+  1. Chọn kiểu hiệu ứng, ví dụ "Butterflies".
+  2. Kéo thả hai con chạy hình chữ nhật để đặt khoảng thời gian cho hiệu ứng.
+  3. Nháy vào "Done" để hoàn thành.
+
+--- TRANG 68 ---
+
+Lưu ý: Hiệu ứng ba chiều bao gồm cả hiệu ứng hình ảnh và âm thanh. Em nháy chuột chọn Edit trong Hình 11b.1 để chỉnh sửa âm lượng của hiệu ứng âm thanh (Hình 11b.2).
+
+NHIỆM VỤ 2: THÊM BỘ LỌC VÀO VIDEO
+Hướng dẫn
+Bộ lọc (trong lĩnh vực quay phim, chụp ảnh) là những thiết bị được gắn thêm vào ống kính máy ảnh, máy quay để thu được những hiệu ứng cụ thể cho ảnh như: giảm độ loá, tạo tông màu ảnh ấm hơn hoặc lạnh hơn, tăng cường màu sắc,...Phần mềm Video Editor cung cấp một số bộ lọc (Filters) để em có thể thêm vào ảnh, video trong bàn dựng. Ví dụ, với ảnh chụp bông hoa hồng trong dự án Trường học xanh, em có thể sử dụng bộ lọc để thay đổi gam màu theo ý thích.
+Cách thực hiện như sau:
+- Chọn ảnh bông hoa hồng trong bàn dựng, chọn "Filters". Một cửa sổ mới mở ra cho phép em thực hiện một số thao tác để thêm bộ lọc.
+- Em thực hiện theo các hướng dẫn ở Hình 11b.3:
+  1. Chọn bộ lọc, ví dụ "Iceberg".
+  2. Nháy vào "Done" để hoàn thành việc thêm bộ lọc.
+Em có thể tham khảo kết quả khi áp dụng một số bộ lọc trong Hình 11b.4.
+
+--- TRANG 69 ---
+
+NHIỆM VỤ 3: THÊM NHẠC NỀN CÓ SẴN TRONG PHẦN MỀM VÀO VIDEO
+Hướng dẫn
+- Nháy chuột chọn "Background music" ở phía trên, bên phải của giao diện phần mềm.
+- Cửa sổ Select background music mở ra cho phép em thực hiện một số thao tác để thêm nhạc nền.
+- Em thực hiện theo các hướng dẫn ở Hình 11b.5:
+  1. Chọn nhạc nền trong danh sách. Nhạc nền sẽ được tự động điều chỉnh độ dài bằng độ dài đoạn video.
+  2. Kéo thả con chạy để điều chỉnh âm lượng cho nhạc nền.
+  3. Nháy vào "Done" để hoàn thành việc thêm nhạc nền.
+
+NHIỆM VỤ 4: THÊM PHỤ ĐỀ VÀO VIDEO
+Hướng dẫn
+Theo kịch bản, em cần thêm phụ đề là tên dự án vào đầu mỗi đoạn video giới thiệu sản phẩm. Việc tạo phụ đề tương tự như việc thêm nội dung tiêu đề video mà em đã thực hiện ở Bài 10b.
+Em thực hiện như sau:
+- Chọn đoạn video quay cuốn sổ lưu niệm, chọn "Text" rồi định dạng cho phụ đề như hướng dẫn trong Hình 11b.6.
+
+--- TRANG 70 ---
+
+Các thao tác thêm phụ đề:
+1. Nhập nội dung phụ đề.
+2. Chọn kiểu hiển thị.
+3. Chọn vị trí đặt phụ đề.
+4. Kéo thả hai con chạy hình chữ nhật để giới hạn đoạn video xuất hiện phụ đề.
+5. Nháy chuột vào "Done" để hoàn thành việc thêm phụ đề.
+
+LUYỆN TẬP
+1. Em hãy thêm hiệu ứng ba chiều Heart Sparkles vào hình ảnh buổi ra mắt CLB Tin học như Hình 11b.7.
+2. Em hãy thêm các bộ lọc trong Hình 11b.4 cho các hình ảnh trong video.
+3. Em hãy thêm hai dòng phụ đề "Dự án Trường học xanh" và "Dự án Thành lập CLB Tin học" vào đầu hai đoạn video tương ứng giới thiệu hai dự án.
+
+VẬN DỤNG
+Em hãy thực hiện các nhiệm vụ tương tự trong phần Thực hành với dự án MyVideo.
+
+--- TRANG 71 ---
+
+BÀI 12b: HOÀN THÀNH VIỆC DỰNG VIDEO
+Sau bài học này em sẽ:
+- Đưa được âm thanh từ tệp trên máy tính vào video.
+- Thực hiện được một số thao tác nâng cao để dựng video.
+
+Bạn An muốn bổ sung vào video lời thuyết minh quá trình thực hiện các dự án. An đã dùng chức năng thu âm của điện thoại thông minh để thu lời thuyết minh của mình và ghi thành ba tệp âm thanh tương ứng với ba dự án sau đó lưu vào máy tính. Theo em, An làm thế nào để đưa các tệp âm thanh đó vào video?
+
+1. MỘT SỐ VIỆC CẦN THỰC HIỆN ĐỂ HOÀN THIỆN VIỆC DỰNG VIDEO
+Hoạt động 1: Đưa âm thanh vào video như thế nào?
+Theo em, có thể nhập dữ liệu âm thanh vào thư viện dữ liệu theo cách em đã nhập dữ liệu ảnh và video được không?
+
+Không thể nhập dữ liệu âm thanh vào thư viện dữ liệu theo cách em đã nhập dữ liệu ảnh và video. Thư viện dữ liệu chỉ chứa dữ liệu dạng hình ảnh và video. Muốn đưa âm thanh vào video em cần sử dụng chức năng Custom audio của phần mềm làm video.
+Ngoài các chức năng cơ bản, phổ biến giúp em làm video, phần mềm làm video còn cung cấp các chức năng cần thiết khác để em xử lí các vấn đề có thể gặp phải trong quá trình dựng video. Ví dụ, em có thể gặp trường hợp dữ liệu video có hướng bị lệch 90 độ so với bình thường do khi quay bằng điện thoại di động người quay đã xoay ngang điện thoại. Khi đó, em cần sử dụng chức năng xoay hướng video (Rotate) của phần mềm. Hay khi em cần chèn thêm hình ảnh vào giữa một đoạn video, em có thể dùng chức năng phân chia (Split) để tách video thành hai đoạn.... Bên cạnh đó, cũng giống như các phần mềm ứng dụng khác, phần mềm làm video còn cung cấp cho em các mẫu định dạng video (Themes) để em có thể nhanh chóng làm được các đoạn video chuyên nghiệp.
+
+Phần mềm làm video cung cấp các chức năng giúp em: thêm âm thanh; xoay hướng video, hình ảnh; phân chia video thành các đoạn nhỏ và cung cấp các mẫu định dạng video;...
+
+--- TRANG 72 ---
+
+Em hãy chọn phương án sai.
+A. Không thể nhập dữ liệu âm thanh vào thư viện dữ liệu giống như hình ảnh và video.
+B. Hình ảnh, video và âm thanh đều là dữ liệu để làm video, do đó cách nhập là giống nhau.
+C. Thư viện dữ liệu chỉ chứa dữ liệu dạng hình ảnh và video.
+D. Dữ liệu âm thanh (ghi trong tệp) được nhập vào dự án làm video bằng chức năng Custom audio.
+
+2. THỰC HÀNH: HOÀN THIỆN VIỆC DỰNG VIDEO
+Nhiệm vụ 1: Thêm âm thanh (Custom audio)
+Hướng dẫn
+Ba tệp âm thanh An thu âm lời thuyết minh được lưu trong thư mục DuLieu-AmThanh như Hình 12b.1.
+
+Để đưa tệp ThuyetMinh-DuAnSoLuuNiem.wav vào đoạn video quay cuốn sổ lưu niệm em thực hiện các bước như sau:
+Chọn khung hình của đoạn video trong bàn dựng, chọn Custom audio ở góc trên, bên phải màn hình. Một cửa sổ mới mở ra cho phép em thực hiện một số thao tác để thêm âm thanh từ tệp vào video. Nháy chuột chọn + Add audio file. Cửa sổ Open được hiển thị. Chọn tệp ThuyetMinh-DuAnSoLuuNiem.wav trong thư mục DuLieu-AmThanh.
+Lưu ý:
+- Tệp âm thanh được đưa vào cửa sổ thao tác với âm thanh như Hình 12b.2. Nháy chuột vào biểu tượng chiếc loa ở phía dưới, bên phải để mở phần thiết lập âm lượng cho âm thanh (Hình 12b.3).
+- Kéo con chạy trên thanh điều khiển để tăng hoặc giảm âm lượng (được quy định bằng con số từ 0 đến 100).
+- Em cũng có thể đặt cho âm thanh tăng dần hoặc giảm dần bằng cách nháy chuột chọn Fade in hoặc Fade out để tránh sự thay đổi đột ngột của âm thanh, tạo ra trải nghiệm không tốt cho người xem (Hình 12b.3).
+
+--- TRANG 73 ---
+
+Nhiệm vụ 2: Phân chia video (Split)
+Hướng dẫn
+An muốn phân chia đoạn video quay cuốn sổ lưu niệm thành hai đoạn nhỏ và thêm vào giữa hai đoạn nhỏ một hình ảnh chụp sơ đồ tư duy trình bày nội dung cuốn sổ lưu niệm.
+Cách làm như sau:
+Chọn đoạn video quay cuốn sổ lưu niệm, chọn Split. Một cửa sổ mở ra cho phép em thực hiện một số thao tác để phân chia đoạn video thành hai đoạn nhỏ. Em thực hiện theo các hướng dẫn ở Hình 12b.4.
+1. Di chuyển con chạy đến vị trí muốn phân chia.
+2. Nháy chuột vào đây để hoàn thành việc phân chia.
+
+Đoạn video dài 7 giây đã được phân chia thành hai đoạn nhỏ hơn, một đoạn dài 4 giây, một đoạn dài 3 giây (Hình 12b.5).
+Kéo ảnh chụp sơ đồ tư duy từ thư viện dữ liệu vào vị trí giữa hai đoạn video.
+
+--- TRANG 74 ---
+
+Nhiệm vụ 3: Xoay hướng video (Rotate)
+Hướng dẫn
+Em có thể xoay hướng cho video bằng lệnh Rotate. Chọn video muốn xoay, chọn Rotate. Video được chọn sẽ xoay 90 độ theo chiều kim đồng hồ. Em có thể thực hiện nhiều lần lệnh Rotate để xoay video theo đúng hướng em muốn.
+
+Nhiệm vụ 4: Sử dụng mẫu định dạng được thiết kế sẵn (Themes)
+Hướng dẫn
+Tương tự phần mềm trình chiếu, em có thể sử dụng các mẫu định dạng được thiết kế sẵn một cách chuyên nghiệp cho dự án làm video của mình. Mẫu định dạng cung cấp âm thanh nền, một số bộ lọc và kiểu phụ đề được thiết kế sẵn.
+Cách sử dụng một mẫu định dạng cho video như sau:
+Nháy chuột chọn ở góc trên, bên phải màn hình làm việc. Một danh sách các lệnh được mở ra như Hình 12b.6.
+Chọn Themes để mở cửa sổ cho phép em lựa chọn một mẫu có sẵn áp dụng cho video đang dựng.
+
+Nhiệm vụ 5: Tạo bản sao (copy) và bản sao dự phòng (backup) của dự án
+Hướng dẫn
+Chọn Duplicate project (Hình 12b.6) để tạo một bản sao của dự án. Đặt tên cho bản sao này. Em có thể thử nghiệm các thao tác dựng khác nhau cho bản sao. Nếu không hài lòng với kết quả dựng, em có thể quay lại dự án ban đầu một cách dễ dàng và nhanh chóng.
+Chọn Back up project (Hình 12b.6) để ghi lại dự án dưới dạng tệp vbp. Sau đó em có thể sao chép, chia sẻ tệp này đến các máy tính khác để sử dụng.
+
+LUYỆN TẬP
+1. Em hãy thực hành đưa tệp ThuyetMinh-DuAnTruongHocXanh.wav và tệp ThuyetMinh-DuAnThanhLapCLBTinHoc.wav trong thư mục DuLieu-AmThanh vào các đoạn video tương ứng trong dự án SanPhamTinHoc.
+2. Em hãy thực hành tạo một bản sao và một bản dự phòng của dự án làm video SanPhamTinHoc.
+
+VẬN DỤNG
+Em hãy thực hiện các nhiệm vụ tương tự trong phần Thực hành với dự án MyVideo.
+
+--- TRANG 75 ---
+
+BÀI 13b: BIÊN TẬP VÀ XUẤT VIDEO
+Sau bài học này em sẽ:
+- Tạo được một vài đoạn video đáp ứng nhu cầu cuộc sống của cá nhân, gia đình, trường học, địa phương.
+
+Quan sát Hình 13b.1a và Hình 13b.1b, em có nhận xét gì?
+
+1. BIÊN TẬP VIDEO
+Hoạt động 1: Thế nào là biên tập video?
+1. Sau khi đã hoàn thành việc dựng video, em cần làm việc gì tiếp theo?
+A. Xuất video. B. Biên tập video. C. Xây dựng kịch bản. D. Chuẩn bị dữ liệu.
+2. Theo em, biên tập video là làm những việc gì?
+
+Sau khi đã dựng xong video, em cần xem lại từ đầu đến cuối video trên màn hình xem trước để kiểm tra xem nội dung video có vấn đề gì không?Đã đúng theo kịch bản chưa? Âm thanh có bị to hay nhỏ quá không?Hình ảnh có bị mờ hay lỗi không? Phụ đề đã khớp với hình ảnh chưa?Có sai chính tả không? Phụ đề có to quá và che mất hình ảnh hay nhỏ quá làm người xem khó đọc không?Thời lượng video đã đúng theo kịch bản chưa?... Nếu phát hiện ra bất cứ vấn đề gì, em cần chỉnh sửa lại cho đúng trước khi xuất video.
+Ví dụ: Quan sát Hình 13b.1a, em thấy trong khung hình xuất hiện hai thanh màu đen ở bên trái và phải. Các thanh màu đen gây mất thẩm mĩ và phân tán sự tập trung của người xem. Nguyên nhân xuất hiện các thanh màu đen là vì tỉ lệ khung hình các dữ liệu sử dụng để dựng video khác nhau và khác với khung hình của video đang dựng. Khi đó các phần thiếu sẽ được hiển thị bằng màu đen (black bar). Phần mềm làm video sẽ cung cấp cho người sử dụng chức năng loại bỏ các thanh màu đen để không làm ảnh hưởng đến chất lượng và thẩm mĩ của video.
+
+--- TRANG 76 ---
+
+Biên tập video là việc tìm ra các vấn đề chưa đúng, chưa tốt còn tồn tại để chỉnh sửa sao cho sản phẩm video được hoàn chỉnh về cả mặt hình thức lẫn nội dung trước khi trình chiếu hay chia sẻ.
+
+Em hãy chọn những công việc cần làm trong bước biên tập video:
+a) Thu thập dữ liệu.
+b) Kiểm tra nội dung video xem có đúng theo kịch bản không.
+c) Nhập dữ liệu.
+d) Kiểm tra phụ đề, âm thanh xem có khớp với hình ảnh không.
+e) Kiểm tra xem đã đủ dữ liệu chưa.
+
+2. THỰC HÀNH: BIÊN TẬP VÀ XUẤT VIDEO
+Nhiệm vụ 1: Biên tập video
+Hướng dẫn
+a) Loại bỏ thanh màu đen
+Nháy chuột chọn ảnh bông hoa hồng trong bàn dựng, nháy chuột chọn một khung bao gồm hai lệnh là Remove black bar và Shrink to fit được hiển thị phía trên biểu tượng. Em chọn Remove black bar để loại bỏ thanh màu đen. Khi đó ảnh sẽ được tự động thay đổi kích thước để vừa với khung hình. Ngược lại, nếu không muốn loại bỏ thanh màu đen, em thực hiện tương tự và chọn Shrink to fit.
+
+b) Chỉnh lại thời gian hiển thị dữ liệu
+Khi xem lại video, em thấy phần tiêu đề hiển thị trong 3 giây hơi nhanh, người xem chưa kịp nắm bắt nội dung thì đã chuyển sang phần giới thiệu dự án Sổ lưu niệm. Em muốn thay đổi thời gian hiển thị từ 3 giây thành 5 giây.
+Tuy nhiên, sau khi chỉnh lại thời gian hiển thị, mặc dù đoạn video tiêu đề hiển thị trong 5 giây nhưng dòng tiêu đề lại vẫn chỉ hiển thị trong 3 giây. Em cần chỉnh lại thời gian hiển thị cho dòng tiêu đề bằng cách thực hiện:
+Nháy nút phải chuột vào khung hình của tiêu đề trong bàn dựng, chọn Edit, chọn Text (Hình 13b.2). Cửa sổ chỉnh sửa tiêu đề mở ra. Em sẽ thấy thời gian hiển thị dòng tiêu đề đang là từ giây thứ 1 đến giây thứ 3 (Hình 13b.3). Dùng chuột kéo thả con chạy bên phải đến vị trí giây thứ 5 để đặt thời gian hiển thị cho dòng tiêu đề là 5 giây (Hình 13b.4).
+
+--- TRANG 77 ---
+
+Nháy chuột chọn Done để hoàn thành công việc.
+
+Nhiệm vụ 2: Xuất video
+Hướng dẫn
+Sau khi biên tập xong video, em nháy chuột chọn lệnh Finish video ở góc trên, bên phải giao diện phần mềm để xuất video thành tệp có định dạng mp4.
+Cửa sổ Finish your video hiện ra (Hình 13b.5) cho phép em chọn chất lượng của tệp video (High, Medium hoặc Low).
+Nháy chuột chọn Export để mở cửa sổ Save As rồi nhập tên video là SanPhamTinHoc.mp4 và chọn Export.
+Lưu ý: Phần mềm sẽ cần một khoảng thời gian để hoàn thành việc xuất video. Thời gian dài hay ngắn phụ thuộc vào độ dài đoạn video em vừa dựng và phụ thuộc vào chất lượng (High, Medium hoặc Low) mà em đã chọn. Chất lượng em chọn cho đoạn video cũng sẽ liên quan đến độ lớn của tệp SanPhamTinHoc.mp4.
+Với tệp video vừa tạo ra, em có thể sao chép, chia sẻ với các bạn để sử dụng trong buổi triển lãm, em cũng có thể đưa lên mạng để giới thiệu với mọi người.
+
+LUYỆN TẬP
+Em hãy xem lại toàn bộ video trong màn hình xem trước và thực hiện các công việc sau:
+a) Nếu thấy ảnh nào trong video còn thanh màu đen thì loại bỏ.
+b) Điều chỉnh lại thời gian hiển thị các dữ liệu nếu thấy cần thiết.
+c) Xuất lại video với tên SanPhamTinHoc-Version2.mp4.
+d) Xem lại hai video kết quả ở hai tệp SanPhamTinHoc.mp4 và SanPhamTinHoc-Version2.mp4, so sánh và chọn một bản phù hợp để trình chiếu trong buổi Triển lãm tin học.
+
+VẬN DỤNG
+Em hãy thực hiện các nhiệm vụ tương tự trong phần Thực hành với dự án MyVideo.
+
+--- TRANG 78 ---
+
+CHỦ ĐỀ 5. GIẢI QUYẾT VẤN ĐỀ VỚI SỰ TRỢ GIÚP CỦA MÁY TÍNH
+BÀI 14: GIẢI QUYẾT VẤN ĐỀ
+Sau bài học này em sẽ:
+- Trình bày được quá trình giải quyết vấn đề và mô tả được giải pháp dưới dạng thuật toán (hoặc bằng phương pháp liệt kê các bước hoặc bằng sơ đồ khối).
+
+Minh: Tớ đã từng vào mê cung trong một khu vui chơi. Tớ phải tìm đường thoát khỏi mê cung mà không được dùng bản đồ.
+Khoa: Thật là một trò chơi thú vị.
+Minh: Bạn có biết cách tìm đường thoát khỏi mê cung không?
+
+1. GIẢI QUYẾT VẤN ĐỀ
+Hoạt động 1: Tìm đường thoát khỏi mê cung
+Mê cung được dùng để chỉ những công trình gồm nhiều hành lang, lối đi, được tạo thành từ những bức tường. Một robot xuất phát từ Lối vào, tìm đường tới Lối ra như Hình 14.1. Em hãy quan sát cách di chuyển của robot và trả lời các câu hỏi sau:
+1. Robot di chuyển trong mê cung theo cách nào?
+2. Tại sao cách di chuyển đó dẫn robot tới lối ra?
+
+Trong Hoạt động 1, robot đã di chuyển sao cho bức tường luôn ở bên phải nó. Bằng cách di chuyển như vậy, robot sẽ được bức tường dẫn qua mọi vị trí của mê cung cho đến khi tìm thấy Lối ra.
+Tìm Lối ra trong mê cung là một vấn đề. Vấn đề đó được giải quyết qua các bước như sau.
+- **Tìm hiểu vấn đề** là xác định những yếu tố đã cho và kết quả cần đạt. Vấn đề ở đây là tìm thấy Lối ra khỏi mê cung mà không có người để hỏi đường và cũng không có sơ đồ của mê cung để di chuyển theo. Robot phải xác định một hướng di chuyển (rẽ phải, đi thẳng hoặc rẽ trái) tại mỗi vị trí mà nó đi qua.
+- **Phân tích vấn đề** là phân chia vấn đề thành những vấn đề nhỏ hơn, dễ giải quyết hơn. Chẳng hạn, quyết định của robot có thể được chia thành ba trường hợp: rẽ phải, đi thẳng và rẽ trái. Vì không có bản đồ và không được hỏi đường nên robot chỉ được dựa vào vị trí của bức tường để quyết định.
+- **Lựa chọn giải pháp** là lựa chọn cách giải quyết vấn đề. Để di chuyển sao cho bức tường luôn ở phía bên phải của mình, robot sẽ phải chọn hướng theo quy tắc ưu tiên từ phải sang trái. Ba tình huống đó được minh họa trong Hình 14.2.
+
+--- TRANG 79 ---
+
+a) Nếu phía phải không có tường (nghĩa là có đường đi phía bên phải) thì rẽ phải.
+b) Nếu phía phải có tường mà phía trước không có (đi thẳng được) thì đi thẳng.
+c) Nếu cả phía phải và phía trước đều có tường thì quay sang trái để chọn hướng lại.
+
+- **Trình bày giải pháp** là mô tả giải pháp một cách rõ ràng để không gây ra nhầm lẫn khi thực hiện. Trong trò chơi, cách di chuyển phải được mô tả như một thuật toán, sao cho tại mỗi vị trí, robot phải xác định được đúng một hướng (rẽ phải, đi thẳng hay rẽ trái) để di chuyển, không gây ra nhầm lẫn.
+- **Thực hiện giải pháp và đánh giá kết quả** là bước triển khai giải pháp đã chọn và xem xét hiệu quả đạt được để cải tiến hoặc phát hiện những giải pháp mới. Chẳng hạn, thuật toán bám tường có thể được thực hiện với nhiều mê cung có đặc điểm khác nhau để có thể cải tiến với những tình huống đặc biệt.
+
+Tóm lại, quá trình giải quyết vấn đề bao gồm các bước sau:
+1) Tìm hiểu vấn đề: xác định những yếu tố đã cho và kết quả cần đạt.
+2) Phân tích vấn đề: xem xét từng khía cạnh của vấn đề, đưa ra nhận định để tìm cách giải quyết.
+3) Lựa chọn giải pháp: dựa trên nhận định ở bước trên, tìm kiếm và lựa chọn cách giải quyết vấn đề.
+4) Trình bày giải pháp: mô tả giải pháp một cách rõ ràng để không gây ra nhầm lẫn khi thực hiện.
+5) Thực hiện giải pháp và đánh giá kết quả: triển khai giải pháp, xác định hiệu quả, phát hiện nhược điểm của giải pháp để cải tiến.
+
+Giải quyết vấn đề là quá trình, thường được thực hiện qua các bước: 1) Tìm hiểu vấn đề; 2) Phân tích vấn đề; 3) Lựa chọn giải pháp; 4) Trình bày giải pháp; 5) Thực hiện giải pháp và đánh giá kết quả.
+
+Em hãy mô tả các bước giải quyết vấn đề chọn trường để tiếp tục học tập sau khi tốt nghiệp THCS.
+
+2. TRÌNH BÀY GIẢI PHÁP
+Hoạt động 2: Thuật toán bám tường
+Thuật toán bám tường là một trong những giải pháp thoát khỏi mê cung. Trong thuật toán, robot di chuyển sao cho bức tường luôn ở một phía của nó (chẳng hạn phía bên phải). Em hãy mô tả thuật toán xác định hướng di chuyển của robot. Biết rằng robot chỉ thực hiện được những động tác sau:
+
+--- TRANG 80 ---
+
+1. Phát hiện xung quanh (trái, phải, phía trước) có tường hay không.
+2. Quay trái hoặc quay phải một góc $90^{\circ}$.
+3. Tiến (đi thẳng) một bước về phía trước.
+
+Robot là một máy tính. Giải pháp thoát khỏi mê cung cần phải được mô tả một cách rõ ràng sao cho tại mỗi bước đi của nó, robot biết được phải đi theo hướng nào mà không bị nhầm lẫn. Trong thuật toán bám tường (bên phải), robot sẽ ưu tiên đi con đường phía tay phải, nếu không có đường nó mới lần lượt chọn lối đi thẳng hoặc quay sang trái như được mô tả trong Hình 14.2.
+Thuật toán bám tường có thể được mô tả theo cách liệt kê các bước (Hình 14.3a) hoặc bằng sơ đồ khối (Hình 14.3b).
+
+a) Liệt kê các bước:
+lặp lại động tác sau cho đến khi tìm thấy lối ra
+  nếu bên phải không có tường thì
+    quay phải $90^{\circ}$
+    tiến một bước
+  nếu không thì
+    nếu phía trước không có tường thì
+      tiến một bước
+    nếu không thì
+      quay trái $90^{\circ}$
+
+Phương pháp giải quyết vấn đề (hay giải pháp) có thể được mô tả dưới dạng thuật toán bằng phương pháp liệt kê các bước hoặc bằng sơ đồ khối.
+
+Em hãy trình bày các bước giải quyết vấn đề chọn trường sau khi tốt nghiệp THCS dưới dạng liệt kê các bước hoặc sơ đồ khối.
+
+LUYỆN TẬP
+Em hãy mô tả thuật toán bám tường bên trái để tìm đường thoát khỏi mê cung.
+
+VẬN DỤNG
+Em hãy lập chương trình trong ngôn ngữ Scratch mô phỏng thuật toán bám tường.
+
+--- TRANG 81 ---
+
+BÀI 15: BÀI TOÁN TIN HỌC
+Sau bài học này em sẽ:
+- Giải thích được trong quy trình giải quyết vấn đề có những bước (những vấn đề nhỏ hơn) có thể chuyển giao cho máy tính thực hiện, nêu được ví dụ minh hoạ.
+- Giải thích được khái niệm bài toán trong tin học là một nhiệm vụ có thể giao cho máy tính thực hiện, nêu được ví dụ minh hoạ.
+- Nêu được quy trình con người giao bài toán cho máy tính giải quyết.
+
+Tính lương là một phần của những vấn đề mà doanh nghiệp cần phải giải quyết. Việc trả lương thoả đáng và kịp thời thể hiện tính chuyên nghiệp và có trách nhiệm của doanh nghiệp, đem lại sự hài lòng cho nhân viên, động viên họ làm việc chăm chỉ, đạt hiệu quả cao. Qua ví dụ về bài toán tính lương, em sẽ biết cách chuyển nhiều nhiệm vụ trong thực tế thành một bài toán trong tin học và giao cho máy tính thực hiện.
+
+1. BÀI TOÁN TIN HỌC
+Hoạt động 1: Nhiệm vụ của máy tính
+Với những doanh nghiệp lớn có nhiều loại hình lao động, việc thanh toán tiền lương cần phải tuân theo một quy trình chặt chẽ giữa các bộ phận. Hình 15.1 mô tả một quy trình thanh toán tiền lương. Theo em, bước nào trong quy trình đó có thể giao cho máy tính thực hiện?
+Mỗi quy trình thanh toán tiền lương là một giải pháp để một doanh nghiệp giải quyết vấn đề trả lương cho người lao động, đồng thời lưu trữ đủ dữ liệu để tính toán hiệu quả kinh doanh và đối chiếu dữ liệu khi cần thiết. Hình 15.1 mô tả một quy trình thanh toán tiền lương, trong đó bước tính toán tiền lương thường được giao cho máy tính thực hiện. Như vậy, em có thể thấy trong quy trình giải quyết vấn đề có những bước (những vấn đề nhỏ hơn) có thể chuyển giao cho máy tính thực hiện.
+Sau đây, ta xét một trường hợp cụ thể.
+
+Hoạt động 2: Bài toán tính lương
+Hằng tuần, một công ti phải tính lương cho các nhân viên của mình. Tiền lương của một nhân viên theo tuần phụ thuộc vào mức lương theo giờ và số giờ làm việc mỗi tuần. Số giờ lao động của một nhân viên tối thiểu là một giờ và tối đa là 60 giờ mỗi tuần. Định mức làm việc của nhân viên là 40 giờ/tuần. Mỗi giờ vượt định mức nhân viên được trả gấp 1,5 lần mức lương của họ. Hãy trình bày các bước giải quyết vấn đề tính lương của công ti.
+
+--- TRANG 82 ---
+
+Trong Hoạt động 2, quy trình tính lương cho nhân viên, sau khi lược bỏ những bước không cần sử dụng máy tính như chấm công hay xây dựng công thức tính toán,... chỉ còn lại bài toán tính toán. Bài toán tính toán đó có thể giao cho máy tính thực hiện nên còn được gọi là bài toán tin học.
+Bài toán tin học được xác định bởi đầu vào và đầu ra như minh hoạ trong Hình 15.2.
+- **Đầu vào** là những giá trị cho trước. Ví dụ: mức lương và số giờ làm việc trong tuần của một nhân viên.
+- **Đầu ra** là giá trị phải tìm hoặc kết quả của hành động. Ví dụ: tiền lương theo tuần của nhân viên đó.
+
+Ví dụ về một số bài toán tin học:
+1) Giải phương trình $ax^{2}+bx+c=0$. Đầu vào là các hệ số a, b, c. Giá trị đầu ra là nghiệm của phương trình (nếu có) hoặc thông báo "phương trình vô nghiệm", nếu phương trình không có nghiệm.
+2) Tính ước số chung lớn nhất của hai số nguyên. Đầu vào là hai số nguyên a và b. Giá trị đầu ra là ước số chung lớn nhất của a và b (nếu chúng không đồng thời bằng 0) hoặc thông báo “không có ước chung lớn nhất" (nếu $a=b=0$).
+Tuy nhiên, máy tính không chỉ tính toán với những giá trị số mà còn có thể xử lí cả những dữ liệu khác như văn bản, hình ảnh, âm thanh,... Vì vậy, đầu vào và đầu ra của bài toán tin học không chỉ là các số. Chẳng hạn: dịch từ tiếng Việt sang tiếng Anh. Đầu vào là văn bản (câu) tiếng Việt. Đầu ra là văn bản (câu) tiếng Anh tương ứng dưới dạng văn bản hoặc âm thanh.
+
+Bài toán trong tin học là một nhiệm vụ có thể giao cho máy tính thực hiện. Bài toán đó được xác định bởi dữ liệu đã biết (đầu vào), dữ liệu cần tìm (đầu ra).
+
+Hãy mô tả đầu vào và đầu ra của bài toán xác định một số nguyên dương có phải số nguyên tố hay không.
+
+2. GIẢI BÀI TOÁN TIN HỌC
+Hoạt động 3: Tính lương bằng máy tính
+Em hãy nêu các bước để chuyển bài toán tính lương (trong Hoạt động 2) cho máy tính thực hiện bằng cách lập chương trình.
+
+Việc giải một bài toán tin học cũng trải qua những bước tương tự quá trình giải quyết vấn đề được nêu trong Bài 14. Với bài toán tính lương bằng máy tính, em cần thực hiện các việc sau:
+1) **Xác định bài toán:** Xác định đầu vào, đầu ra. Chẳng hạn, đầu vào là hai giá trị mức lương (muc_luong) và số giờ làm việc trong tuần (tgian_laodong) của nhân viên. Đầu ra là tiền lương (tien_luong) của nhân viên.
+2) **Xây dựng thuật toán:** Chia bài toán thành những bài toán nhỏ bằng cách trả lời hai câu hỏi: (1) Để giải bài toán, cần phải qua những bước nào? (2) Các bước đó cần được thực hiện theo thứ tự nào?
+
+--- TRANG 83 ---
+
+Chẳng hạn, ban đầu, bài toán tính lương có thể chia thành ba bước và được thực hiện tuần tự như sau:
+Bước 1. Nhập dữ liệu đã cho (đầu vào): muc_luong và tgian_laodong.
+Bước 2. Xử lí dữ liệu đã cho để tính giá trị cần biết (đầu ra) tien_luong.
+Bước 3. Xuất giá trị đầu ra tìm được: tien_luong.
+Việc chia nhỏ cần được tiếp tục cho đến khi mỗi bước có thể chuyển thành một câu lệnh máy tính thực hiện được.
+Thuật toán cần được mô tả bằng cách chỉ sử dụng những cấu trúc điều khiển cơ bản (tuần tự, rẽ nhánh và lặp). Chẳng hạn, thuật toán tính lương có thể được mô tả như Hình 15.3.
+3) **Cài đặt thuật toán:** Việc cài đặt thuật toán thành chương trình máy tính là bước thực hiện giải pháp. Có những cách cài đặt khác nhau của cùng một thuật toán. Em cũng có thể bổ sung biến để giảm bớt thời gian tính toán. Trong bài toán tính lương, các biến luong_dmuc và luong_vuot được sử dụng để lưu trữ các giá trị trung gian trong quá trình tính toán.
+4) **Gỡ lỗi và hiệu chỉnh chương trình:** Sau khi chương trình được cài đặt, em cần chạy chương trình với những dữ liệu khác nhau, gỡ lỗi và hiệu chỉnh để có một chương trình chạy tốt. Gỡ lỗi là một trong những bước cần thiết của việc lập trình.
+
+Chúng ta hãy cùng giải một bài toán tin học khác: Tìm và hiển thị giá trị lớn nhất của những số nguyên dương được nhập vào từ bàn phím. Số lượng các số trong dãy không được biết trước khi nhập dữ liệu, chỉ biết rằng quá trình nhập các số của dãy sẽ kết thúc khi nhập vào số 0. Yêu cầu chỉ sử dụng một biến số nguyên để nhập dữ liệu đầu vào.
+
+1) Xác định bài toán
+- Đầu vào: x là số nguyên dương được nhập nhiều lần từ bàn phím, kết thúc bởi số 0.
+- Đầu ra: max là số lớn nhất trong các giá trị đã nhập.
+
+2) Xây dựng thuật toán
+Bài toán chỉ sử dụng một biến x để nhập dữ liệu nhiều lần. Vì vậy, x được xử lí ngay sau khi nhập, sau đó được dành để tiếp tục nhập giá trị tiếp theo. Khi đó thuật toán có thể mô tả thành ba bước thực hiện tuần tự:
+1. Gán cho max giá trị bằng 0.
+2. Lặp nhiều lần thao tác: nhập x và gán lại max theo giá trị x nhận được.
+3. In kết quả.
+Thao tác nhập giá trị của x và xử lí giá trị đó được đặt trong một vòng lặp. Trong vòng lặp đó:
+- Điều kiện kết thúc vòng lặp: (x=0).
+- Thân lặp: nhập x và so sánh nó với max để thay thế max nếu (x > max).
+- Giá trị khởi đầu vòng lặp: max = 0 để có thể thay đổi khi số nguyên dương đầu tiên được nhập.
+Lưu ý:
+Các số x nhập vào là số nguyên dương nên số lớn nhất max tìm được cũng là một số nguyên dương.
+
+--- TRANG 84 ---
+
+Trường hợp không có số nguyên dương nào được nhập, max không có dữ liệu để so sánh nên không thay đổi. Vì vậy, nếu sau vòng lặp max=0 thì hiển thị “Không có dữ liệu!”.
+Trường hợp các số âm được nhập vào sẽ không được tính nhưng dù có đem so sánh thì cũng không làm sai kết quả.
+Thuật toán tính số lớn nhất max được mô tả bằng cách liệt kê các bước như trong Hình 15.4a và bằng sơ đồ khối như trong Hình 15.4b.
+(Việc cài đặt thuật toán và gỡ lỗi sẽ được thực hiện ở phần Nhiệm vụ 2 trong Bài 16).
+
+a) Liệt kê các bước
+1. Bắt đầu
+2. max ← 0
+3. Nhập x
+4. Lặp cho đến khi x = 0
+  4.1. Nếu x > max thì max ← x
+  4.2. Nhập x
+5. Nếu max = 0 thì xuất “Không có dữ liệu” ngược lại xuất max
+6. Kết thúc
+
+Quy trình giải một bài toán tin học gồm các bước: 1) Xác định bài toán; 2) Xây dựng thuật toán; 3) Cài đặt thuật toán; 4) Gỡ lỗi và hiệu chỉnh chương trình.
+
+Một bài toán tin học được xác định bởi những yếu tố nào?
+A. Những bài toán nhỏ hơn.
+B. Đầu vào và đầu ra.
+C. Các cấu trúc điều khiển.
+D. Chương trình máy tính.
+
+LUYỆN TẬP
+Vẽ sơ đồ của thuật toán giải bài toán xác định một số có phải số nguyên tố hay không bằng cách chỉ sử dụng những cấu trúc điều khiển cơ bản.
+
+VẬN DỤNG
+1. Hãy mô tả đầu vào, đầu ra của bài toán sắp xếp một dãy số theo thứ tự tăng dần.
+2. Vẽ sơ đồ khối của giải thuật sắp xếp nổi bọt để sắp xếp một dãy số theo thứ tự tăng dần.
+
+--- TRANG 85 ---
+
+BÀI 16: THỰC HÀNH: LẬP CHƯƠNG TRÌNH MÁY TÍNH
+Sau bài học này em sẽ:
+- Sử dụng được cấu trúc tuần tự, rẽ nhánh, lặp trong mô tả thuật toán.
+- Giải thích được chương trình là bản mô tả thuật toán bằng ngôn ngữ mà máy tính có thể "hiểu” và thực hiện.
+
+Mỗi nhiệm vụ trong bài học này là giải một bài toán tin học mà sản phẩm là một chương trình máy tính. Các ngôn ngữ lập trình đều được trang bị những cấu trúc điều khiển cơ bản (tuần tự, rẽ nhánh và lặp). Vì vậy, việc mô tả thuật toán bằng cách chỉ sử dụng những cấu trúc điều khiển đó sẽ giúp em dễ dàng tạo ra những chương trình máy tính.
+
+NHIỆM VỤ 1. TÍNH LƯƠNG
+Yêu cầu
+Theo thuật toán được mô tả ở Bài 15, em hãy lập chương trình tính và hiển thị tiền lương của một nhân viên khi biết mức lương (tiền lương trong một giờ làm việc) và số giờ làm việc trong tuần của họ bằng ngôn ngữ lập trình Scratch.
+
+Hướng dẫn
+a) Cài đặt thuật toán
+Bước 1. Tạo các biến nhớ
+- Biến đầu vào: muc_luong, tgian_laodong.
+- Biến đầu ra: tien_luong.
+- Biến trung gian: tgian_dmuc, tgian_vuot, luong_dmuc, luong_vuot.
+Bước 2. Mô tả lại thuật toán theo ngôn ngữ lập trình
+Vì chương trình là bản mô tả thuật toán theo quy tắc của ngôn ngữ lập trình nên đôi khi em phải hiệu chỉnh cách mô tả thuật toán để có thể cài đặt được bằng những công cụ của ngôn ngữ lập trình.
+Bước nhập dữ liệu tgian_laodong sử dụng cấu trúc lặp với điều kiện sau (Hình 16.1a) cần phải chuyển thành những câu lệnh sử dụng vòng lặp với điều kiện trước (Hình 16.1b) để phù hợp với cấu trúc lặp có sẵn trong ngôn ngữ lập trình trực quan (Hình 16.1c).
+
+--- TRANG 86 ---
+
+Bước 3. Tạo chương trình
+Nhận dạng các khối lệnh trong Hình 16.2 tương ứng với từng phần của sơ đồ khối đã được trình bày trong Bài 15 (Hình 15.2) và lắp ghép chúng lại theo đúng thứ tự.
+Lưu ý: Hệ số 1,5 trong sơ đồ thuật toán cần phải thay bằng 1.5 (sử dụng dấu chấm thay cho dấu phẩy ngăn cách phần nguyên và phần thập phân) trong chương trình.
+
+b) Gỡ lỗi
+Lập các bộ dữ liệu kiểm thử chương trình (Bảng 16.1). Mỗi bộ đại diện cho một tình huống dữ liệu để kiểm tra hoạt động của chương trình. Nếu chương trình hoạt động không đúng yêu cầu, chương trình đã gặp lỗi, cần phải sửa.
+- Với mỗi bộ giá trị đầu vào (từ tình huống 1 đến tình huống 4), chương trình cần trả lại đúng giá trị đầu ra.
+- Bộ giá trị ở tình huống 5 đại diện cho trường hợp cần nhập lại dữ liệu như đã được mô tả trong thuật toán.
+- Bộ giá trị ở tình huống 6 cho thấy có những giá trị đầu vào chưa hợp lí. Em cần chỉnh sửa chương trình để có một chương trình hoạt động tốt.
+
+Bảng 16.1. Dữ liệu kiểm thử bài toán tính lương
+| Tình huống | Đầu vào (muc_luong, tgian_laodong) | Đầu ra (tien_luong) | Ghi chú |
+|---|---|---|---|
+| 1 | 100, 30 | 3000 | tgian_laodong dưới định mức |
+| 2 | 100, 40 | 4000 | tgian_laodong vừa đủ định mức |
+| 3 | 100, 50 | 5500 | tgian_laodong vượt định mức |
+| 4 | 100, 60 | 7000 | tgian_laodong vừa đạt mức tối đa |
+| 5 | 100, 70 | Nhân viên đó làm việc bao nhiêu giờ? | Cần phải nhập lại tgian_laodong |
+| 6 | -100, 50 | Mức lương của nhân viên (theo giờ) | Cần phải nhập lại muc_luong |
+(Ghi chú: đơn vị tiền là nghìn đồng, đơn vị thời gian là giờ.)
+
+--- TRANG 87 ---
+
+NHIỆM VỤ 2. TÌM GIÁ TRỊ LỚN NHẤT
+Yêu cầu
+Tìm và hiển thị giá trị lớn nhất của một dãy số nguyên dương được nhập vào từ bàn phím. Số lượng các số trong dãy không được biết trước khi nhập dữ liệu, chỉ biết rằng quá trình nhập các số của dãy sẽ kết thúc khi nhập vào số 0.
+
+Hướng dẫn
+a) Cài đặt thuật toán
+Bước 1. Tạo các biến
+- Biến đầu vào: x.
+- Biến đầu ra: max.
+Bước 2. Tạo chương trình
+Nhận dạng các khối lệnh trong Hình 16.3 tương ứng với từng phần của sơ đồ khối đã được trình bày trong bài trước và lắp ghép chúng lại theo đúng thứ tự.
+
+b) Gỡ lỗi
+Khi chạy chương trình, lần lượt nhập các số trong bộ dữ liệu kiểm thử (Bảng 16.2). Cần nhập từng số và nhấn phím Enter trước khi nhập số tiếp theo cho đến khi kết thúc bằng số 0.
+
+--- TRANG 88 ---
+
+Mặc dù bài toán yêu cầu đầu vào là những số nguyên dương nhưng chương trình sẽ tốt hơn nếu phát hiện được và loại bỏ những dữ liệu không đúng yêu cầu.
+- Với mỗi bộ giá trị đầu vào (từ tình huống 1 đến tình huống 4), chương trình cần trả lại đúng giá trị đầu ra.
+- Bộ giá trị ở tình huống 5 đại diện trường hợp không có số nguyên dương nào được nhập.
+- Tình huống 6, 7 có những giá trị đầu vào không hợp lệ nhưng chương trình vẫn xử lí đúng.
+- Bộ giá trị ở tình huống 8 cho thấy có những giá trị đầu vào không hợp lệ, dẫn đến kết quả sai. Việc chỉnh sửa chương trình để có một chương trình hoạt động tốt trong tình huống này là bài tập vận dụng.
+
+Bảng 16.2. Dữ liệu kiểm thử bài toán tìm số lớn nhất
+| Tình huống | Đầu vào | Đầu ra | Ghi chú |
+|---|---|---|---|
+| 1 | 1 2 3 0 | 3 | Dãy số tự nhiên tăng |
+| 2 | 8 3 10 6 0 | 10 | Dãy số ngẫu nhiên |
+| 3 | 12 8 3 0 | 12 | Dãy số giảm |
+| 4 | 5 0 | 5 | Dãy chỉ có một giá trị |
+| 5 | 0 | Không có dữ liệu! | Dãy không có dữ liệu |
+| 6 | 8 -5 3 9 6 0 | 9 | Dãy có số âm |
+| 7 | -8 -6 0 | Không có dữ liệu! | Dãy không có số nguyên dương |
+| 8 | 7 data 12 0 | 12 | Dãy có dữ liệu chữ |
+
+LUYỆN TẬP
+Bộ giá trị ở tình huống 6 (Bảng 16.2) cho thấy có những giá trị đầu vào chưa hợp lí. Em hãy chỉnh sửa chương trình để có một chương trình hoạt động tốt.
+
+VẬN DỤNG
+Ngôn ngữ lập trình trực quan không phân biệt dữ liệu đầu vào là dạng số hay dạng chữ. Vì vậy, chương trình được lập trong Nhiệm vụ 2 cho kết quả sai khi thực hiện với bộ dữ liệu ở tình huống 8 (Bảng 16.2). Em hãy sửa chương trình để có thể xác thực dữ liệu và bỏ qua dữ liệu dạng chữ trong bộ dữ liệu đầu vào.
+
+--- TRANG 89 ---
+
+CHỦ ĐỀ 6. TIN HỌC VÀ ĐỊNH HƯỚNG NGHỀ NGHIỆP
+BÀI 17: TIN HỌC VÀ THẾ GIỚI NGHỀ NGHIỆP
+Sau bài học này em sẽ:
+- Trình bày được công việc đặc thù và sản phẩm chính của người làm tin học trong ít nhất ba nhóm nghề.
+- Nêu và giải thích được ý kiến cá nhân (thích hay không thích ...) về một nhóm nghề nào đó.
+- Nhận biết được đặc trưng cơ bản của nhóm nghề thuộc hướng Tin học ứng dụng và nhóm nghề thuộc hướng Khoa học máy tính.
+- Tìm hiểu được (thông qua Internet và những kênh thông tin khác) công việc ở một số doanh nghiệp, công ti có sử dụng nhân lực thuộc các nhóm ngành đã được giới thiệu.
+- Giải thích được cả nam và nữ đều có thể thích hợp với các ngành nghề trong lĩnh vực tin học.
+
+An, Minh và Khoa trao đổi về một dự án mà các bạn dự định thực hiện.
+Khoa: Tớ sẽ phác thảo một kịch bản để các bạn góp ý và chuyển kịch bản đó thành một phần mềm trò chơi trên máy tính.
+Minh: Làm thế nào để tạo nhân vật, trang phục, phong cảnh cho trò chơi?
+An: Bạn chỉ cần mô tả nhân vật, trang phục, phong cảnh, còn việc tạo ra các hình ảnh đó trên máy tính thì yên tâm, đã có tớ.
+Minh: Thật là tuyệt. Tớ sẽ đưa trò chơi lên Internet, duy trì sự hoạt động của nó và tập hợp các ý kiến phản hồi để cải tiến.
+Chúng ta hãy cùng tìm hiểu xem sở trường của mỗi bạn có thể phát triển để trở thành một nghề trong tương lai được hay không nhé.
+
+1. NGHỀ NGHIỆP TRONG TIN HỌC
+Hoạt động 1: Công việc đặc thù của người làm tin học
+Đoạn hội thoại ở hoạt động Khởi động cho biết ba bạn An, Minh, Khoa đang dự định cùng nhau làm một trò chơi trên máy tính. Mỗi bạn đều có sở thích và khả năng riêng. Em hãy trả lời các câu hỏi sau:
+1. Ba người bạn của chúng ta, sau này có thể làm những nghề nghiệp gì trong lĩnh vực tin học?
+2. Đặc thù công việc và sản phẩm chính của những nghề nghiệp đó là gì?
+
+--- TRANG 90 ---
+
+Trong dự án làm phần mềm trò chơi, ba bạn An, Minh và Khoa, mỗi bạn nhận một việc. Khoa tạo ra kịch bản và chuyển kịch bản đó thành phần mềm trò chơi trên máy tính. Hình ảnh các nhân vật và phong cảnh trong trò chơi được An tạo ra bằng phần mềm đồ hoạ. Minh sẽ đưa trò chơi lên Internet, theo dõi và thống kê ý kiến của người chơi. Khả năng và sở thích của các bạn An, Minh, Khoa đều có thể phát triển để được xã hội chấp nhận, tạo ra thu nhập cho mỗi bạn, trở thành nghề nghiệp. Chẳng hạn:
+- Khoa có thể làm một nghề thuộc nhóm các nhà chuyên môn về phân tích và phát triển phần mềm. Những người làm việc trong lĩnh vực này nghiên cứu, phân tích các thành phần của hệ thống thông tin; thiết lập mục tiêu và các đặc điểm kĩ thuật của phần mềm; thiết kế, phát triển, thử nghiệm và bảo trì phần mềm; kiểm tra và tư vấn cải thiện hệ thống thông tin nhằm đáp ứng các yêu cầu cụ thể.
+- An có thể trở thành nhà thiết kế đồ hoạ, một nghề thuộc nhóm các nhà thiết kế đồ họa và truyền thông đa phương tiện. Công việc của nhóm nghề này là thiết kế nội dung để truyền đạt thông tin dưới hình thức hình ảnh, âm thanh, hoạt hình, video và các phương tiện nghe nhìn khác để sử dụng trong các trò chơi máy tính, phim ảnh, video âm nhạc, phương tiện in ấn và quảng cáo,....
+- Minh có thể trở thành một nhà quản trị hệ thống, một nghề thuộc nhóm các nhà chuyên môn về cơ sở dữ liệu và mạng máy tính. Nhóm nghề này có nhiệm vụ thiết kế, xây dựng, tích hợp và triển khai các hệ thống cơ sở dữ liệu, thiết lập chính sách và triển khai các kế hoạch bảo mật dữ liệu; thiết kế, xây dựng, cấu hình và quản trị mạng máy tính;....
+
+Trong những nhóm nghề trên, có những công việc đòi hỏi nghiên cứu khoa học về hệ thống máy tính, về thuật toán và cách biểu diễn thuật toán trong máy tính; sử dụng các mô hình toán học tạo ra những cách mới để biểu diễn, xử lí và trao đổi thông tin trong môi trường số. Đó là những nhóm nghề thuộc hướng **Khoa học máy tính** như nhà chuyên môn về phân tích và phát triển phần mềm và nhà chuyên môn về cơ sở dữ liệu và mạng máy tính.
+Những nhóm nghề không đòi hỏi nghiên cứu chuyên sâu về lí thuyết khoa học máy tính mà công việc chủ yếu là sử dụng phương tiện và công cụ công nghệ thông tin để giải quyết các vấn đề thực tế trong các lĩnh vực khác như y tế, giáo dục, thương mại, truyền thông.... là những nhóm nghề thuộc hướng **Tin học ứng dụng** như nhà thiết kế đồ hoạ và truyền thông đa phương tiện.
+Sơ đồ trong Hình 17.1 mô tả một số nhóm nghề và định hướng của những nhóm nghề đó.
+--- TRANG 91 ---
+
+BẢNG GIẢI THÍCH THUẬT NGỮ
+
+| Thuật ngữ | Giải thích | Trang |
+| :--- | :--- | :--- |
+| **Đ** | | |
+| Độ phân giải video | Số điểm ảnh (pixel) được sử dụng để tạo ra hình ảnh video. Độ phân giải càng cao thì hình ảnh trong video càng sắc nét. | 55 |
+| **G** | | |
+| Gam màu | Một tập hợp các màu có tương quan. Gam màu thường để chỉ cảm quan màu sắc. Ví dụ: gam màu nóng, gam màu lạnh,... | 66 |
+| **H** | | |
+| Hội thoại thông minh | Phần mềm hội thoại tự động (chatbot) được hỗ trợ bởi trí tuệ nhân tạo để hiểu được bối cảnh tương tác và trò chuyện giống như con người. Ví dụ: Chat GPT. | 12 |
+| **K** | | |
+| Kịch bản | Kịch bản là khâu đầu tiên cần làm khi thực hiện một sản phẩm (một bộ phim, một vở kịch, một video clip quảng cáo,...). Kịch bản là một văn bản gồm có bối cảnh, nhân vật, lời thoại,... và chỉ dẫn diễn xuất. Nhìn vào kịch bản, người ta sẽ hình dung ra sản phẩm. | 56 |
+| **L** | | |
+| Lặp với điều kiện sau | Vòng lặp, trong đó điều kiện kết thúc vòng lặp được kiểm tra sau khi thực hiện thân lặp ít nhất một lần. | 79 |
+| Lặp với điều kiện trước | Vòng lặp, trong đó điều kiện kết thúc vòng lặp được kiểm tra trước khi thực hiện thân lặp. | 79 |
+| **M** | | |
+| Máy tính hiệu năng cao (HPC - high performance computing) | Hệ thống thực hiện các tính toán phức tạp với tốc độ cao, đạt được bằng cách kết nối hàng trăm, thậm chí hàng nghìn máy chủ bằng mạng tốc độ cao, được chia thành các cụm, kết hợp với kĩ thuật quản trị và kĩ thuật tính toán song song. | 7 |
+| **S** | | |
+| Siêu máy tính (supercomputer) | Hệ thống máy tính mạnh mẽ về cả tốc độ tính toán và độ lớn của dữ liệu được xử lí, đạt được bằng cách sử dụng những công nghệ tiên tiến nhất về cả phần cứng và phần mềm. | 7 |
+| **T** | | |
+| Tỉ lệ khung hình | Tỉ lệ giữa chiều rộng và chiều cao của một khung hình. | 69 |
+| **X** | | |
+| Xác thực dữ liệu | Chức năng trong các phần mềm xử lí dữ liệu nhằm đảm bảo dữ liệu được nhập vào là hợp lệ. Trong phần mềm bảng tính, em có thể xác thực dữ liệu bằng cách thiết lập những quy tắc hạn chế kiểu dữ liệu và giá trị được nhập vào ô tính. | 33 |
+
+--- TRANG 92 ---
+
+Nhà xuất bản Giáo dục Việt Nam xin trân trọng cảm ơn các tác giả có tác phẩm, tư liệu được sử dụng, trích dẫn trong cuốn sách này.
+
+Chịu trách nhiệm xuất bản:
+Tổng Giám đốc HOÀNG LÊ BÁCH
+Chịu trách nhiệm nội dung:
+Tổng biên tập PHẠM VĨNH THÁI
+Biên tập nội dung: PHẠM THỊ THANH NAM – NGUYỄN THỊ THANH XUÂN
+Biên tập mĩ thuật: NGUYỄN BÍCH LA
+Thiết kế sách: THÁI THANH VÂN
+Trình bày bìa: NGUYỄN BÍCH LA
+Minh hoạ: NGUYỄN HỒNG QUÂN
+Sửa bản in: PHẠM THỊ TỈNH – VŨ THỊ THANH TÂM
+Chế bản: CÔNG TY CỔ PHẦN MĨ THUẬT VÀ TRUYỀN THÔNG
+
+Bản quyền © (2024) thuộc Nhà xuất bản Giáo dục Việt Nam.
+Xuất bản phẩm đã đăng kí quyền tác giả. Tất cả các phần của nội dung cuốn sách này đều không được sao chép, lưu trữ, chuyển thể dưới bất kì hình thức nào khi chưa có sự cho phép bằng văn bản của Nhà xuất bản Giáo dục Việt Nam.
+
+TIN HỌC 9
+Mã số:
+In... bản, (QĐ...) khổ 19x26,5 cm.
+Đơn vị in: ...
+Địa chỉ: ...
+SỐ ĐKXB: /CXBIPH//GD
+SỐ QĐXB: .../QĐ-GD-HN ngày ... tháng ... năm ...
+In xong và nộp lưu chiểu tháng ... năm 20...
+Mã số ISBN:
+
+--- TRANG 93 ---
+
+(Trang này là bản sao của trang 91 và chứa cùng một bảng giải thích thuật ngữ)
+
+--- TRANG 94 ---
+
+(Trang này là bản sao của trang 92 và chứa cùng thông tin xuất bản)
+
+--- TRANG 95 ---
+
+HUÂN CHƯƠNG HỒ CHÍ MINH
+
+BỘ SÁCH GIÁO KHOA LỚP 9 - KẾT NỐI TRI THỨC VỚI CUỘC SỐNG
+
+1.  Ngữ văn 9, tập một
+2.  Ngữ văn 9, tập hai
+3.  Toán 9, tập một
+4.  Toán 9, tập hai
+5.  Khoa học tự nhiên 9
+6.  Công nghệ 9
+    Định hướng nghề nghiệp
+7.  Công nghệ 9
+    Trải nghiệm nghề nghiệp
+    Mô đun: Lắp đặt mạng điện trong nhà
+8.  Công nghệ 9
+    Trải nghiệm nghề nghiệp
+    Mô đun: Trồng cây ăn quả
+9.  Công nghệ 9
+    Trải nghiệm nghề nghiệp
+    Môđun: Chế biến thực phẩm
+10. Lịch sử và Địa lí 9
+11. Mĩ thuật 9
+12. Âm nhạc 9
+13. Giáo dục công dân 9
+14. Tin học 9
+15. Hoạt động trải nghiệm, hướng nghiệp 9
+16. Giáo dục thể chất 9
+17. Tiếng Anh 9 - Global Success - SHS
+
+Các đơn vị đầu mối phát hành
+* **Miền Bắc:**
+    CTCP Đầu tư và Phát triển Giáo dục Hà Nội
+    CTCP Sách và Thiết bị Giáo dục miền Bắc
+* **Miền Trung:**
+    CTCP Đầu tư và Phát triển Giáo dục Đà Nẵng
+    CTCP Sách và Thiết bị Giáo dục miền Trung
+* **Miền Nam:**
+    CTCP Đầu tư và Phát triển Giáo dục Phương Nam
+    CTCP Sách và Thiết bị Giáo dục miền Nam
+    CTCP Sách và Thiết bị Giáo dục Cửu Long
+
+**Sách điện tử:** http://hanhtrangso.nxbgd.vn
+
+Cào lớp nhũ trên tem rồi quét mã để xác thực và truy cập học liệu điện tử.
+
+Giá: ...đ

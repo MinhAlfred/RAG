@@ -1,0 +1,1958 @@
+TRANG 1
+KẾT NỐI TRI THỨC VỚI CUỘC SỐNG  NGUYỄN CHÍ CÔNG (Tổng Chủ biên) HÀ ĐẶNG CAO TÙNG (Chủ biên) ĐINH THỊ HẠNH MAI - HOÀNG THỊ MAI TIN HỌC 6 NHÀ XUẤT BẢN GIÁO DỤC VIỆT NAM 
+
+
+
+
+
+TRANG 2
+NGUYỄN CHÍ CÔNG (Tổng Chủ biên) HÀ ĐẶNG CAO TÙNG (Chủ biên) ĐINH THỊ HẠNH MAI - HOÀNG THỊ MAI TIN HỌC 6 KẾT NỐI TRI THỨC VỚI CUỘC SỐNG NHÀ XUẤT BẢN GIÁO DỤC VIỆT NAM 
+
+
+
+
+TRANG 3
+HƯỚNG DẪN SỬ DỤNG Sách giáo khoa Tin học 6 gồm 6 chủ đề với 17 bài học. Các bài học được xây dựng với cấu trúc thống nhất. Sau đây là những hướng dẫn để em sử dụng sách hiệu quả hơn. 
+
+
+
+
+
+Mục tiêu: Giúp em biết sẽ đạt được gì sau bài học. 
+
+
+Khởi động: Giúp em nhận biết ý nghĩa của bài học bằng cách kết nối những tình huống xuất hiện trong cuộc sống với nội dung bài học. 
+
+
+Nội dung bài học: 
+
+
+Các hoạt động: Giúp lớp học tích cực, bài học dễ tiếp thu, học sinh chủ động hơn trong quá trình nhận thức. 
+
+
+Kiến thức mới: Cung cấp cho học sinh nội dung chính của bài học, giúp em bổ sung kiến thức nhằm đạt được mục tiêu của bài học. 
+
+Hộp kiến thức: Ghi ngắn gọn hoặc tóm tắt kiến thức mới. Em có thể dùng hộp kiến thức, cùng với bảng giải thích thuật ngữ (ở cuối sách), để ôn tập hoặc tra cứu thuật ngữ mới. 
+
+
+Câu hỏi: Giúp em kiểm tra xem mình đã hiểu bài chưa. 
+
+
+Luyện tập: Gồm những câu hỏi, bài tập để củng cố kiến thức, kĩ năng trong bài học. 
+
+Vận dụng: Gồm những câu hỏi, bài tập yêu cầu em kết hợp nội dung bài học với thực tiễn cuộc sống. Qua đó, em sẽ phát triển năng lực tư duy và hành động. 
+
+Trò chơi: Không phải là nội dung bắt buộc. Nếu đủ thời gian, thầy cô giáo sẽ tổ chức trò chơi để các em tham gia. 
+
+Sách sử dụng một số phần mềm như Google Chrome, Mind Maple Lite, Microsoft Word,... để minh hoạ và hướng dẫn thực hành. 
+
+Trong các đoạn hội thoại, có ba nhân vật là ba bạn học sinh lớp 6: An, Minh, Khoa. Mỗi bạn có một sở trường khác nhau, đại diện cho một trong ba mạch kiến thức của môn Tin học là Học vấn số hoá phổ thông, Công nghệ thông tin và truyền thông, Khoa học máy tính. An Minh Khoa 
+
+
+
+
+Hãy bảo quản, giữ gìn sách giáo khoa để dành tặng các em học sinh lớp sau. 
+
+TRANG 4
+LỜI NÓI ĐẦU 
+
+Các em học sinh yêu quý! 
+
+Sách giáo khoa Tin học 6 được biên soạn theo định hướng phát triển phẩm chất và năng lực của học sinh, từ cách gắn kết kiến thức với thực tiễn đến cách tổ chức hoạt động học của các em. 
+
+Cuốn sách này sẽ giúp các em hiểu về thông tin và cách sử dụng thông tin phục vụ cuộc sống; hướng dẫn em biết cách tìm kiếm, tiếp cận và chia sẻ thông tin.  Các em cũng sẽ biết cách dùng một số ứng dụng trên máy tính để thu thập, trình bày và biến đổi thông tin; điều khiển máy tính bằng những chương trình máy tính đơn giản để giải quyết một số vấn đề trong cuộc sống. 
+
+
+Sách Tin học 6 hướng các em tới việc rèn luyện kĩ năng sử dụng máy tính một cách an toàn, hiệu quả và có trách nhiệm, thể hiện ở thái độ đạo đức và sự tôn trọng pháp luật trong hoạt động thông tin. Điều đó sẽ góp phần làm giàu và phong phú thêm trí tưởng tượng của các em cũng như vốn kiến thức của bản thân. 
+
+
+Sách được trình bày hấp dẫn, dễ hiểu, gần gũi với các em nhưng cũng ẩn giấu nhiều điều thú vị để các em có thêm cơ hội tìm hiểu, khám phá,... dẫn dắt các em từ việc biết cách sử dụng công cụ Tin học đến yêu thích môn học này. 
+
+Mong các em học tập chăm chỉ và thành công. 
+
+TRANG 5
+MỤC LỤC 
+
+Chủ đề 1. Máy tính và cộng đồng (Trang 5)
+
+Bài 1. Thông tin và dữ liệu (Trang 5)
+
+Bài 2. Xử lí thông tin (Trang 8)
+
+Bài 3. Thông tin trong máy tính (Trang 12)
+
+Chủ đề 2. Mạng máy tính và Internet (Trang 16)
+
+Bài 4. Mạng máy tính (Trang 16)
+
+Bài 5. Internet (Trang 20)
+
+Chủ đề 3. Tổ chức lưu trữ, tìm kiếm và trao đổi thông tin (Trang 23)
+
+Bài 6. Mạng thông tin toàn cầu (Trang 23)
+
+Bài 7. Tìm kiếm thông tin trên Internet (Trang 28)
+
+Bài 8. Thư điện tử (Trang 32)
+
+Chủ đề 4. Đạo đức, pháp luật và văn hoá trong môi trường số (Trang 37)
+
+Bài 9. An toàn thông tin trên Internet (Trang 37)
+
+Chủ đề 5. Ứng dụng tin học (Trang 42)
+
+Bài 10. Sơ đồ tư duy (Trang 42)
+
+Bài 11. Định dạng văn bản (Trang 48)
+
+Bài 12. Trình bày thông tin ở dạng bảng (Trang 53)
+
+Bài 13. Thực hành: Tìm kiếm và thay thế (Trang 58)
+
+Bài 14. Thực hành tổng hợp: Hoàn thiện sổ lưu niệm (Trang 61)
+
+Chủ đề 6. Giải quyết vấn đề với sự trợ giúp của máy tính (Trang 63)
+
+Bài 15. Thuật toán (Trang 63)
+
+Bài 16. Các cấu trúc điều khiển (Trang 67)
+
+Bài 17. Chương trình máy tính (Trang 71)
+
+Bảng giải thích thuật ngữ (Trang 75)
+
+TRANG 6
+CHỦ ĐỀ 1. MÁY TÍNH VÀ CỘNG ĐỒNG BÀI 1: THÔNG TIN VÀ DỮ LIỆU 
+
+
+SAU BÀI NÀY EM SẼ:
+
+Nhận biết được sự khác nhau giữa thông tin và dữ liệu. 
+
+Phân biệt được thông tin và vật mang tin. 
+
+Nêu được ví dụ minh hoạ mối quan hệ giữa thông tin và dữ liệu. 
+
+Nêu được ví dụ minh hoạ tầm quan trọng của thông tin. 
+
+Trong cuộc sống hằng ngày, em nhìn thấy những con số, những dòng chữ, những hình ảnh trong sách; em nghe thấy tiếng chim hót, tiếng xe cộ đi lại trên đường. Tất cả những thứ đó được các giác quan của em thu nhận và não xử lí để trở thành những hiểu biết của em về thế giới xung quanh. 
+
+
+1. THÔNG TIN VÀ DỮ LIỆU 
+
+Hoạt động 1: Thấy gì? Biết gì? Em hãy đọc đoạn văn sau và cho biết: Bạn Minh đã thấy những gì và biết được điều gì để quyết định nhanh chóng qua đường? “Trên đường từ nhà đến trường, Minh phải đi qua nhiều ngã tư đông đúc. Để đi qua các ngã tư này, Minh phải chú ý quan sát các đèn giao thông. Khi thấy đèn có màu xanh theo hướng di chuyển của mình và các xe bên chiều đèn đỏ dừng lại hẳn, Minh biết có thể qua đường an toàn và quyết định nhanh chóng qua đường trước khi đèn chuyển sang màu đỏ.” 
+
+
+
+Trong đoạn văn ở Hoạt động 1, bạn Minh đã thấy đèn giao thông đổi sang màu xanh và các xe chiều đèn đỏ đã dừng lại. Nhờ đó Minh biết có thể qua đường an toàn. Những gì Minh thấy là dữ liệu, điều Minh biết là thông tin. Đèn giao thông khi đó được gọi là vật mang tin. 
+
+
+
+
+Ta xét một ví dụ khác. Bạn An xem mục dự báo thời tiết trên ti vi.  An thấy các con số, văn bản, hình ảnh và âm thanh. Đó là dữ liệu.  An biết rằng hôm nay trời nắng. Điều An biết là thông tin. Những hiểu biết của chúng ta đều có được từ sự lắng nghe, quan sát và trải nghiệm. 
+
+
+
+
+Mối quan hệ giữa thông tin và dữ liệu Vì dữ liệu đem lại thông tin nên đôi khi "dữ liệu" cũng được thay bằng "thông tin". Chẳng hạn, vật chứa dữ liệu còn được gọi là vật mang tin. Một ví dụ khác, máy tính chỉ xử lí dữ liệu nhưng đôi khi người ta cũng nói là máy tính xử lí thông tin. Tuy vậy, thông tin và dữ liệu vẫn có những điểm khác nhau. 
+
+Với bạn An, khi đọc dữ liệu trong bản tin dự báo thời tiết sẽ hiểu được thông tin "hôm nay trời nắng". Tuy nhiên, với một em bé 5 tuổi chưa đọc được bản tin dự báo thời tiết thì dữ liệu thời tiết không có ý nghĩa. Khi đó, với em bé, dữ liệu đã cho không đem lại thông tin. Vì vậy, sự hiểu biết mà thông tin đem lại luôn phụ thuộc vào người tiếp nhận thông tin đó. 
+
+
+
+
+TRANG 7
+Một trung tâm dịch vụ muốn truyền đạt thông tin đến khách du lịch: "Giá vé đi ra Đảo Cò là 40 000 đồng và hành trình mất 35 phút bằng xuồng máy", họ đã viết lên bảng “Đảo Cò, xuồng máy, 40 000₫, 35 phút”.  Những số và chữ trên bảng là dữ liệu. Tấm bảng là vật mang tin. 
+
+
+
+Thông tin là những gì đem lại hiểu biết cho con người về thế giới xung quanh và về chính bản thân mình. 
+
+Thông tin được ghi lên vật mang tin trở thành dữ liệu. Dữ liệu được thể hiện dưới dạng những con số, văn bản, hình ảnh và âm thanh. 
+
+
+Vật mang tin là phương tiện được dùng để lưu trữ và truyền tải thông tin, ví dụ như giấy viết, đĩa CD, thẻ nhớ... 
+
+Câu hỏi
+
+Em hãy ghép mỗi mục ở cột A với một mục phù hợp ở cột B.  A: 1) Thông tin; 2) Dữ liệu; 3) Vật mang tin B: a) Các số, văn bản, hình ảnh, âm thanh,...; b) Những gì đem lại hiểu biết cho con người về thế giới xung quanh và chính bản thân mình.; c) Vật chứa dữ liệu
+
+Mỗi dòng sau đây là thông tin hay dữ liệu? 
+
+0123456789
+
+16:00
+
+Hãy gọi cho tôi lúc 16 giờ theo số điện thoại 0123456789.
+
+2. TẦM QUAN TRỌNG CỦA THÔNG TIN 
+
+Bài học lịch sử về Chiến dịch Điện Biên Phủ có nhiều thông tin về địa điểm, thời gian, diễn biến trận đánh ... qua đó em biết được tinh thần dũng cảm của quân và dân ta, biết được truyền thống chiến đấu chống giặc ngoại xâm của dân tộc ta. Vì vậy, thông tin đem lại hiểu biết cho con người. 
+
+
+Chuẩn bị đi sang nhà bạn Minh để học nhóm, An nghe mẹ nói: "Trời sắp mưa đấy nhé". Thông tin đó làm cho An quay vào nhà cầm theo chiếc ô. Như vậy, ta thấy thông tin có khả năng làm thay đổi hành động của con người. 
+
+
+
+Thông tin đem lại hiểu biết cho con người. Mọi hoạt động của con người đều cần đến thông tin. 
+
+
+Thông tin đúng giúp con người đưa ra những lựa chọn tốt, giúp cho hoạt động của con người đạt hiệu quả. 
+
+TRANG 8
+
+Hoạt động 2: Hỏi để có thông tin  Lớp em sắp tổ chức một buổi dã ngoại. Hãy thảo luận nhóm để đưa ra các câu hỏi giúp tìm thông tin để chuẩn bị cho buổi dã ngoại đó. 
+
+
+Bình tìm thông tin về phong cảnh để lập kế hoạch chụp ảnh. 
+
+Khoa tìm thông tin về các trò chơi để quyết định chơi trò nào. 
+
+Dung tìm thông tin thời tiết để biết nên chuẩn bị trang phục như thế nào cho phù hợp. 
+
+Minh tìm thông tin về các di tích lịch sử để tham quan. 
+
+An tìm thông tin về những món ăn nhẹ để chuẩn bị mang theo. 
+
+
+LUYỆN TẬP Bảng 1.1 cho biết lượng mưa trung bình hàng tháng (theo đơn vị mm) của hai năm 2017, 2018 ở một số địa phương (theo Tổng cục Thống kê). 
+
+
+Bảng 1.1. Lượng mưa trung bình hàng tháng  (Dữ liệu từ bảng)
+
+Hà Nội: 1: 43,8; 2: 11,2; 3: 73,2; 4: 39,0; 5: 157,2; 6: 200,7; 7: 438,6; 8: 298,3; 9: 248,3; 10: 177,1; 11: 23,8; 12: 65,9
+
+Huế: 1: 201,0; 2: 126,6; 3: 34,1; 4: 119,2; 5: 127,9; 6: 134,2; 7: 258,7; 8: 78,2; 9: 216,6; 10: 325,9; 11: 484,5; 12: 560,5
+
+Đà Nẵng: 1: 78,9; 2: 36,1; 3: 24,5; 4: 89,5; 5: 40,9; 6: 92,2; 7: 216,3; 8: 117,1; 9: 168,8; 10: 308,5; 11: 518,6; 12: 163,5
+
+Vũng Tàu: 1: 58,5; 2: 0,4; 3: 1,2; 4: 22,4; 5: 166,8; 6: 287,7; 7: 203,5; 8: 167,6; 9: 267,9; 10: 297,1; 11: 143,0; 12: 24,9
+
+Em hãy xem Bảng 1.1 và trả lời các câu hỏi sau: a) Các con số trong bảng là thông tin hay dữ liệu? b) Phát biểu “Tháng 6, Đà Nẵng ít mưa nhất so với các thành phố Hà Nội, Huế, Vũng Tàu” là thông tin hay dữ liệu?  c) Trả lời câu hỏi: "Huế ít mưa nhất vào tháng nào trong năm?". Câu trả lời là thông tin hay dữ liệu?  d) Câu trả lời cho câu hỏi c) có ảnh hưởng đến việc lựa chọn thời gian và địa điểm du lịch không?
+
+
+
+
+
+VẬN DỤNG 
+
+Em hãy nêu ví dụ cho thấy thông tin giúp em: a) Có những lựa chọn trang phục phù hợp hơn. b) Đảm bảo an toàn khi tham gia giao thông. 
+
+
+
+Em hãy nêu ví dụ về vật mang tin giúp ích cho việc học tập của em. 
+
+TRANG 9
+
+BÀI 2: XỬ LÍ THÔNG TIN 
+
+SAU BÀI NÀY EM SẼ:
+
+Nêu được các hoạt động cơ bản trong xử lí thông tin. 
+
+Giải thích được máy tính là công cụ hiệu quả để xử lí thông tin. 
+
+Nêu được ví dụ minh hoạ cụ thể. 
+
+Minh thích xem bóng đá và nhớ mãi một quả phạt đền. Khi cầu thủ thực hiện quả phạt, mắt anh ấy liên tục quan sát thủ môn và đoán xem góc nào của khung thành là sơ hở nhất. Sải bước, tạo đà, anh ấy đã khéo léo chiến thắng thủ môn bằng một cú sút rất mạnh vào góc cao của khung thành. 
+
+
+
+1. XỬ LÍ THÔNG TIN Trong trường hợp của cầu thủ bóng đá trên, bàn thắng xảy ra trong chớp mắt, nhưng trong thời gian rất ngắn đó, trí óc của cầu thủ đã thực hiện một loạt hoạt động phức tạp như sau: 
+
+
+Mắt theo dõi vị trí thủ môn và thông tin đó được chuyển lên não. 
+
+Não phân tích, đánh giá, suy luận.... chuyển hoá thông tin thu được thành ý định của cầu thủ: sút bóng vào góc cao của khung thành. 
+
+Ý định đó được thực hiện bằng cách điều khiển chân sút thành công quả phạt. 
+
+Thực ra, não còn thực hiện một hoạt động trước để thực hiện hoạt động sau. Không ai nhìn thấy bộ não làm việc như thế nào, nhưng trong mọi hoạt động có ý thức của con người, bộ não đều phải thực hiện một nhiệm vụ rất quan trọng: xử lí thông tin. Vậy quá trình xử lí thông tin được diễn ra như thế nào? 
+
+
+
+
+Hoạt động 1: Xử lí thông tin  Em hãy xem xét tình huống cầu thủ ghi bàn và trả lời các câu hỏi sau:
+
+Bộ não của cầu thủ nhận được thông tin từ những giác quan nào? 
+
+Thông tin nào được bộ não cầu thủ ghi nhớ và sử dụng khi đá phạt? 
+
+Bộ não xử lí thông tin nhận được thành thông tin gì? 
+
+Bộ não chuyển thông tin điều khiển thành thao tác nào của cầu thủ? 
+
+Quá trình xử lí thông tin của bộ não gồm những hoạt động nào? 
+
+TRANG 10
+Quá trình xử lí thông tin gồm bốn hoạt động cơ bản: 
+
+
+Thu nhận thông tin: Nhờ các giác quan, con người nhận được thông tin của thế giới bên ngoài như âm thanh, hình ảnh, màu sắc, ánh sáng, nhiệt độ, mùi vị.... 
+
+Lưu trữ thông tin: Sau khi nhận được thông tin, bộ não ghi nhớ lại. Nếu não không ghi nhận được, thông tin sẽ bị mất và các thao tác khác sẽ không thể thực hiện được. Thông tin không chỉ được nhớ trong não mà còn được con người lưu trữ bằng cách ghi chép. 
+
+
+Xử lí thông tin: Bộ não liên kết các thông tin đã có, so sánh, phân tích, thống kê, suy luận, giải thích ... từ đó đưa ra kết luận, quyết định,... Đó là quá trình biến đổi thông tin ban đầu thành thông tin mới. 
+
+Truyền thông tin: Thông tin được truyền đến các bộ phận cơ thể chuyển hoá thành hành vi hoặc được chia sẻ với người khác. Thông tin được nhân rộng qua quá trình chia sẻ. 
+
+Các hoạt động xử lí thông tin bao gồm:
+
+Thu nhận thông tin. 
+
+Lưu trữ thông tin. 
+
+Xử lí thông tin. 
+
+Truyền thông tin. 
+
+Câu hỏi: Mỗi việc dưới đây thuộc hoạt động nào trong quá trình xử lí thông tin? Giải thích tại sao? a) Em đang nghe chương trình ca nhạc trên Đài tiếng nói Việt Nam. b) Bố em xem chương trình thời sự trên ti vi. c) Em chép bài trên bảng vào vở. d) Em thực hiện một phép tính nhẩm. 
+
+
+
+
+
+TRANG 11
+2. XỬ LÍ THÔNG TIN TRONG MÁY TÍNH 
+
+Ngày nay, thông tin không chỉ là sự hiểu biết của cá nhân mà đã trở thành tài nguyên của xã hội loài người, đem lại lợi ích to lớn. Chiếc máy kì diệu giúp con người xử lí nguồn tài nguyên đó chính là máy tính. Vậy em có muốn biết máy tính gồm những thành phần nào và hoạt động ra sao không? 
+
+
+
+Máy tính có đủ thành phần để có thể thực hiện được các hoạt động của quá trình xử lí thông tin: thu nhận, lưu trữ, biến đổi và truyền thông tin: 
+
+
+Thiết bị vào để thu nhận thông tin: bàn phím, chuột, máy quét.... 
+
+
+Thiết bị ra để truyền hoặc chia sẻ thông tin: màn hình, máy in,... 
+
+
+Bộ xử lí để xử lí thông tin bằng cách thực hiện chương trình máy tính do con người viết ra. 
+
+
+Bộ nhớ để lưu trữ thông tin: đĩa quang, đĩa từ, thẻ nhớ.... 
+
+Câu hỏi:
+
+Máy tính gồm mấy thành phần để có thể thực hiện được các hoạt động xử lí thông tin?  A. 3. B. 4. C. 5. D. 6.
+
+Chức năng của bộ nhớ máy tính là gì?  A. Thu nhận thông tin. C. Lưu trữ thông tin. B. Hiển thị thông tin. D. Xử lí thông tin.
+
+
+Hoạt động 2: Hiệu quả thực hiện xử lí thông tin của máy tính Em hãy nêu ví dụ về việc máy tính giúp con người trong các hoạt động sau và so sánh hiệu quả thực hiện việc đó khi có sử dụng và khi không sử dụng máy tính: a) Thu nhận thông tin. b) Lưu trữ thông tin. c) Xử lí thông tin. d) Truyền thông tin. 
+
+
+
+
+
+TRANG 12
+Máy tính là một công cụ hiệu quả để thu nhận, lưu trữ, xử lí và truyền thông tin. 
+
+Máy tính giúp con người thu nhận thông tin dễ dàng, đa dạng và nhanh chóng. Ví dụ, để chuẩn bị thông tin cho một bài trình bày, em có thể sử dụng máy quét, máy ảnh số, điện thoại thông minh.... hay tìm kiếm trên mạng để có được các thông tin dạng văn bản, hình ảnh, âm thanh, phim.... 
+
+
+Máy tính xử lí thông tin, thực hiện tính toán với tốc độ cao, chính xác, bền bỉ. Ngày nay, máy tính có thể thực hiện hàng trăm tỉ phép tính trong một giây, có thể biểu diễn được gần đúng số Pi với hàng nghìn tỉ chữ số ở phần thập phân. Máy tính còn có thể làm việc liên tục không ngừng suốt ngày đêm. 
+
+
+
+Máy tính có thể lưu trữ lượng thông tin rất lớn. Ví dụ, chỉ với một chiếc thẻ nhớ nhỏ bằng đầu chiếc bút cũng có thể lưu trữ nội dung của hàng nghìn cuốn sách,... 
+
+
+Với khả năng kết nối mạng, máy tính không chỉ giúp em trao đổi thông tin với mọi người ở khắp nơi mà còn giúp em kết nối với kho tri thức khổng lồ. Ví dụ, em có thể dùng điện thoại thông minh truy cập vào Internet để tìm thông tin về bất cứ lĩnh vực nào. 
+
+
+Máy tính có đủ bốn thành phần thực hiện các hoạt động xử lí thông tin. Thiết bị vào (thu nhận thông tin), bộ nhớ (lưu trữ thông tin), bộ xử lí (xử lí thông tin) và thiết bị ra (truyền, chia sẻ thông tin). 
+
+Máy tính là thiết bị hỗ trợ con người xử lí thông tin một cách hiệu quả do nó có thể thực hiện nhanh các lệnh, tính toán chính xác, xử lí nhiều dạng thông tin, lưu trữ thông tin với dung lượng lớn và hoạt động bền bỉ. 
+
+
+LUYỆN TẬP 
+
+Vật mang tin xuất hiện trong hoạt động nào của quá trình xử lí thông tin? Bộ nhớ có là vật mang tin không? 
+
+Em hãy phân loại những công việc sau đây theo các hoạt động của quá trình xử lí thông tin: a) Quan sát đường đi của một chiếc tàu biển. b) Ghi chép các sự kiện của một chuyến tham quan. c) Chuyển thể một bài văn xuôi thành văn vần. d) Thuyết trình chủ đề tình bạn trước lớp. 
+
+
+
+
+
+
+VẬN DỤNG 
+
+Giả sử em được đi chơi xa nhà, em hãy phân tích các hoạt động xử lí thông tin liên quan đến việc lên kế hoạch cho chuyến đi. 
+
+Em hãy liệt kê những lợi ích của máy tính ở một trong các lĩnh vực sau đây để thấy rõ hiệu quả của việc xử lí thông tin bằng máy tính. a) Y tế. b) Giáo dục. c) Âm nhạc. d) Hội hoạ. e) Xây dựng. f) Nông nghiệp. g) Thương mại. h) Du lịch. 
+
+
+TRANG 13
+
+BÀI 3: THÔNG TIN TRONG MÁY TÍNH 
+
+SAU BÀI NÀY EM SẼ:
+
+Giải thích được việc có thể biểu diễn thông tin chỉ với hai kí hiệu 0 và 1. 
+
+Biết được bit là đơn vị nhỏ nhất trong lưu trữ thông tin. 
+
+Nêu được tên và độ lớn của các đơn vị cơ bản đo dung lượng thông tin. 
+
+Ước lượng được khả năng lưu trữ của các thiết bị nhớ thông dụng như đĩa quang, đĩa từ, thẻ nhớ,... 
+
+Trong bài trước, chúng ta đã biết rằng máy tính có thể xử lí được thông tin nhưng làm thế nào để máy tính có thể hiểu được những dữ liệu chúng ta chuyển cho nó xử lí? Con người dùng các chữ số, chữ cái và kí hiệu để diễn đạt suy nghĩ của mình cho người khác hiểu, tuy nhiên máy tính thông dụng hiện nay chỉ làm việc với hai kí hiệu là 0 và 1. 
+
+
+
+Hoạt động 1: Mã hoá 
+
+Cho các số từ 0 đến 7 được viết thành dãy tăng dần từ trái sang phải. Em hãy quan sát Hình 1.3 và đọc hướng dẫn để biết cách mã hoá số 4 thành dãy các kí hiệu 0 và 1.  Hướng dẫn: Bước 1. Thu gọn dãy số bằng cách sau: Chia dãy số thành hai nửa (trái, phải) đều nhau. Kiểm tra xem số 4 thuộc nửa trái hay phải. Ghi lại vị trí của số 4 (trái hoặc phải). Bỏ đi nửa dãy số không chứa số 4. Giữ lại nửa dãy số chứa số 4. Sau mỗi lần thực hiện, dãy số được thu gọn còn một nửa. Thực hiện thu gọn dãy số ba lần cho đến khi còn lại số 4. Bước 2. Chuyển dãy vị trí thu được (phải, trái, trái) thành dãy 0, 1 theo quy tắc: trái thành 0, phải thành 1. Như vậy số 4 được mã hoá thành 100. 
+
+
+
+
+
+Hãy mã hoá số 3 và số 6 theo cách như trên. Hai dây kí hiệu nhận được có giống nhau không? 
+
+1. BIỂU DIỄN THÔNG TIN TRONG MÁY TÍNH 
+
+Biểu diễn số Trong Hoạt động 1, mỗi số từ 0 đến 7 có thể được chuyển thành một dãy gồm ba kí hiệu 0 và 1 như sau:  0: 000; 1: 001; 2: 010; 3: 011; 4: 100; 5: 101; 6: 110; 7: 111 Bằng cách mã hoá như trên, nếu dãy đã cho dài gấp đôi (từ 0 đến 15) thì mỗi số sẽ được chuyển thành một dãy gồm bốn kí hiệu 0 và 1. Mỗi dãy các kí hiệu 0 và 1 như vậy được gọi là dãy bit. Mỗi kí hiệu của dãy bit được gọi là một bit (viết tắt từ Binary digIT). Bằng cách tương tự, người ta có thể chuyển một số bất kì thành một dãy bit. 
+
+
+
+
+
+TRANG 14
+
+Biểu diễn văn bản Văn bản gồm các chữ cái (cả chữ hoa và chữ thường), các chữ số, dấu câu, kí hiệu.... được gọi chung là các kí tự. Văn bản được chuyển thành dãy bit bằng cách chuyển từng kí tự một.  Bảng 1.2 cho thấy một phần của bảng mã. Theo bảng mã từ CAFE được chuyển thành dãy bit như sau: CAFE -> 01000011 01000001 01000110 01000101  (Một phần bảng mã: A: 01000001, B: 01000010, C: 01000011, D: 01000100, E: 01000101, F: 01000110)
+
+
+
+
+
+
+Biểu diễn hình ảnh Hình ảnh cũng cần được chuyển đổi thành dãy bit để máy tính có thể xử lí được và có thể hiển thị trên màn hình. Hình ảnh kĩ thuật số được tạo thành từ các điểm ảnh (pixel). Mỗi pixel trong một ảnh đen trắng được biểu thị bằng một bit. Để chuyển hình ảnh thành dãy bit, trước hết phải kẻ một lưới chữ nhật, với số ô mỗi chiều được định trước, mỗi ô vuông là một pixel và được tô một màu (đen hoặc trắng). Chẳng hạn, ta cần chuyển hình ảnh chữ A trong một lưới 8x8 thành dãy bit. Ta kí hiệu màu đen là 1 và màu trắng là 0. Khi đó, hình ảnh đen trắng của chữ A được chuyển thành dãy bit. Với ảnh màu, mỗi pixel được biểu diễn bằng nhiều bit hơn. 
+
+
+
+
+
+
+Biểu diễn âm thanh Tương tự văn bản và hình ảnh, âm thanh cũng cần phải được chuyển đổi thành dãy bit để máy tính có thể xử lí được. Âm thanh phát ra nhờ sự rung lên của màng loa, của dây đàn, của thanh quản,... Khi dây đàn rung lên, nó rung càng nhanh âm thanh phát ra sẽ càng cao. Chẳng hạn, nếu một sợi dây của cây đàn rung 440 lần mỗi giây thì nó sẽ phát ra nốt La chuẩn. Tốc độ rung này được ghi lại dưới dạng giá trị số, từ đó chuyển thành dãy bit. 440 -> 110111000 
+
+
+
+
+
+TRANG 15
+Như vậy, trong máy tính, tất cả thông tin dạng văn bản, hình ảnh, âm thanh,... đều được chuyển thành dãy bit. Bit cũng là đơn vị nhỏ nhất trong lưu trữ thông tin. 
+
+
+
+Hoạt động 2: Viết dãy bit Trong hình vuông mỗi chiều 8 ô, vẽ hình một trái tim. 
+
+
+Em hãy chuyển mỗi dòng trong hình vẽ thành một dãy bit. 
+
+Em hãy chuyển cả hình vẽ thành dãy bit bằng cách nối các dãy bit của các dòng lại với nhau (từ trên xuống dưới). 
+
+Thông tin được biểu diễn trong máy tính bằng dãy các bit. Mỗi bit là một kí hiệu 0 hoặc 1, hay còn được gọi là chữ số nhị phân. 
+
+Bit là đơn vị đo nhỏ nhất trong lưu trữ thông tin. 
+
+Câu hỏi
+
+Dãy bit là gì?  A. Là dãy những kí hiệu 0 và 1. C. Là một dãy chỉ gồm chữ số 2. B. Là âm thanh phát ra từ máy tính. D. Là dãy những chữ số từ 0 đến 9.
+
+Máy tính sử dụng dãy bit để làm gì?  A. Biểu diễn các số. C. Biểu diễn hình ảnh, âm thanh. B. Biểu diễn văn bản. D. Biểu diễn số, văn bản, hình ảnh, âm thanh.
+
+2. ĐƠN VỊ ĐO THÔNG TIN Thông tin trong máy tính được tổ chức dưới dạng các tệp (tệp văn bản, tệp hình ảnh, tệp video,...). Các tệp được lưu trữ trong các thiết bị nhớ như thẻ nhớ, đĩa cứng.... Trong thực tế, người ta thường đo dung lượng thông tin (tệp, các thiết bị lưu trữ ...) bằng đơn vị byte (dãy 8 bit liên tục) và các đơn vị lớn hơn như sau: 
+
+
+
+
+byte (B): 1 B
+
+kilobyte (KB): 1024 B (xấp xỉ 1 nghìn byte)
+
+megabyte (MB): 1024 KB (xấp xỉ 1 triệu byte)
+
+gigabyte (GB): 1024 MB (xấp xỉ 1 tỉ byte)
+
+terabyte (TB): 1024 GB (xấp xỉ 1 nghìn tỉ byte)
+
+TRANG 16
+Tuỳ theo chức năng của các bộ nhớ, dung lượng của chúng cũng khác nhau. Ví dụ, bộ nhớ trong của máy tính cá nhân, thông thường có dung lượng từ 2 GB đến 16 GB. Những máy tính chuyên dùng cho đồ hoạ hoặc phim ảnh có dung lượng bộ nhớ trong lớn hơn. 
+
+
+
+Ngoài bộ nhớ trong, máy tính còn trao đổi dữ liệu với các bộ nhớ ngoài như thẻ nhớ, đĩa quang, đĩa cứng ....  Đĩa quang loại compact (CD) thường có dung lượng khoảng 700 MB. Đĩa quang kĩ thuật số (DVD) thường được dùng để lưu trữ video, có dung lượng từ 4,7 GB đến 17 GB. Các ổ đĩa cứng hiện nay có dung lượng từ vài trăm GB đến vài TB được dùng để lưu trữ dữ liệu đa dạng. Thẻ nhớ là loại bộ nhớ được người sử dụng ưa thích vì chúng nhỏ gọn mà lưu trữ được nhiều dữ liệu. Ví dụ, thẻ nhớ có thể lưu trữ được hàng trăm GB hoặc cao hơn. 
+
+
+
+
+
+Câu hỏi
+
+Em hãy quan sát hình sau và cho biết thông tin về dung lượng của từng ổ đĩa. 
+
+Local Disk (C:): 37.9 GB trống trên tổng số 109 GB 
+
+Local Disk (E:): 48.2 GB trống trên tổng số 111 GB 
+
+Local Disk (F:): 153 GB trống trên tổng số 169 GB 
+
+DATA2 (G:): 27.2 GB trống trên tổng số 186 GB 
+
+Em hãy quan sát hình sau và cho biết dung lượng của mỗi tệp. 
+
+IMG_0013.jpg: 372 KB
+
+IMG_0014.jpg: 408 KB
+
+IMG_0023.jpg: 482 KB
+
+IMG_0024.jpg: 512 KB
+
+IMG_0038.jpg: 1,095 KB
+
+IMG_0039.jpg: 1,100 KB
+
+IMG_0041.jpg: 846 KB
+
+IMG_0046.jpg: 488 KB
+
+
+LUYỆN TẬP 
+
+Một GB xấp xỉ bao nhiêu byte?  A. Một nghìn byte. B. Một triệu byte. C. Một tỉ byte. D. Một nghìn tỉ byte.
+
+Giả sử một bức ảnh được chụp bằng một máy ảnh chuyên nghiệp có dung lượng khoảng 12 MB. Vậy một thẻ nhớ 16 GB có thể chứa bao nhiêu bức ảnh như vậy? 
+
+
+VẬN DỤNG 
+
+Em hãy kiểm tra và ghi lại dung lượng các ổ đĩa của máy tính mà em đang sử dụng. 
+
+Thực hiện tương tự như Hoạt động 1 với dãy các số từ 0 đến 15 để tìm mã hoá của các số từ 8 đến 15 và đưa ra nhận xét. 
+
+TRANG 17
+CHỦ ĐỀ 2. MẠNG MÁY TÍNH VÀ INTERNET BÀI 4: MẠNG MÁY TÍNH 
+
+
+SAU BÀI NÀY EM SẼ:
+
+Nêu được mạng máy tính là gì và lợi ích của nó trong cuộc sống. 
+
+Kể được tên những thành phần chính của một mạng máy tính. 
+
+Nêu được ví dụ cụ thể về trường hợp mạng không dây tiện dụng hơn mạng có dây. 
+
+(Đoạn hội thoại giữa An và Khoa về mạng lưới giao thông)
+
+
+Hoạt động 1: Mạng lưới 
+
+Em hãy kể ra một số mạng lưới, giống như mạng giao thông đường bộ. 
+
+Những gì được vận chuyển trên mạng lưới đó? 
+
+Em hãy chọn các phương án trả lời đúng. Điểm chung của những mạng lưới đó là gì?  A. Có nhiều thành viên. C. Kết nối các thành viên. B. Chia sẻ tài nguyên. D. Có nhiều đường cắt nhau.
+
+TRANG 18
+1. MẠNG MÁY TÍNH LÀ GÌ? Không chỉ đường bộ mà nhiều loại đường khác cũng được nối thành mạng lưới như mạng đường sắt, mạng đường thuỷ, mạng ống nước, mạng tải điện, mạng điện thoại,... Đặc điểm chung của các mạng lưới là: 
+
+
+Kết nối: Nếu một đoạn đường bị sạt lở thì giao thông sẽ bị ngưng trệ. Điều đó có nghĩa là mạng sẽ chỉ hoạt động nếu được kết nối. 
+
+Chia sẻ: Đường giúp em đi đến trường, đường cũng giúp các bạn khác đến trường. Điều đó có nghĩa là mạng chia sẻ tài nguyên cho nhiều người. 
+
+
+Hoạt động 2: Mạng máy tính 
+
+Mạng máy tính chia sẻ những gì? 
+
+Em hãy nêu một số ví dụ về lợi ích của mạng máy tính. 
+
+Giống như mạng giao thông, các máy tính cũng được kết nối với nhau để tạo thành mạng máy tính. Chỉ cần hai máy tính kết nối với nhau là có một mạng máy tính. Người sử dụng mạng có thể trao đổi dữ liệu với nhau. Chẳng hạn, bạn Minh có thể gửi một tệp ảnh từ máy tính của mình đến máy tính của bạn An nếu hai máy tính đó được kết nối với nhau. Đó là trao đổi dữ liệu. 
+
+
+
+
+
+Các thiết bị trên mạng có thể được chia sẻ. Chẳng hạn, chỉ có một máy in nhưng nếu được kết nối vào mạng thì có thể in từ máy tính bất kì trong mạng. Điều đó có nghĩa là máy in đó được chia sẻ và chúng ta có thể dùng chung. 
+
+Hai hay nhiều máy tính và các thiết bị được kết nối để truyền thông tin cho nhau tạo thành một mạng máy tính. 
+
+Lợi ích của mạng máy tính: Người sử dụng có thể liên lạc với nhau để trao đổi thông tin, chia sẻ dữ liệu và dùng chung các thiết bị trên mạng. 
+
+TRANG 19
+2. CÁC THÀNH PHẦN CỦA MẠNG MÁY TÍNH 
+
+
+Hoạt động 3: Thành phần mạng 
+
+Quan sát Hình 2.1 và cho biết những thiết bị nào đang được nối vào mạng? 
+
+Các thiết bị đó được nối với nhau như thế nào? Qua các thiết bị trung gian nào? 
+
+Một mạng máy tính thường gồm những thành phần chủ yếu sau: 
+
+Các thiết bị đầu cuối giống như điểm xuất phát hoặc đích đến trong mạng giao thông. Các thiết bị đầu cuối có thể là máy tính để bàn, máy tính xách tay, điện thoại thông minh, máy ảnh, máy in, máy quét… 
+
+Các thiết bị kết nối được dùng để nối các thiết bị đầu cuối lại với nhau giống như con đường, nhà ga, sân bay.... Các thiết bị này bao gồm đường truyền (có dây và không dây), bộ chia (Hub), bộ chuyển mạch (Switch), bộ định tuyến (Router), bộ định tuyến không dây (Wireless Router), điểm truy cập không dây (Access Point)....
+
+Phần mềm mạng có vai trò như hệ thống duy trì luật lệ giao thông để các phương tiện có thể đi đến nơi cần đến. Phần mềm mạng gồm ứng dụng truyền thông trên các thiết bị đầu cuối và phần mềm điều khiển quá trình truyền dữ liệu trên các thiết bị kết nối. 
+
+
+CÁC THÀNH PHẦN CHÍNH CỦA MẠNG MÁY TÍNH Mạng máy tính gồm: 
+
+
+Các thiết bị đầu cuối (máy tính, điện thoại, máy in, máy ảnh....). 
+
+Các thiết bị kết nối (đường truyền dữ liệu, bộ chia, bộ chuyển mạch, bộ định tuyến....). 
+
+Phần mềm mạng (ứng dụng truyền thông và phần mềm điều khiển quá trình truyền dữ liệu). 
+
+TRANG 20
+Đường truyền dữ liệu giống như đường vận chuyển trong mạng giao thông, có đường nhìn thấy và không nhìn thấy. Đường truyền dữ liệu nhìn thấy sử dụng dây dẫn mạng. Đường truyền dữ liệu không nhìn thấy sử dụng sóng vô tuyến như wifi, bluetooth.... 
+
+
+
+Kết nối không dây thường được sử dụng trong các thiết bị di động như máy tính xách tay, điện thoại thông minh, tai nghe không dây.... Kết nối không dây giúp cho việc kết nối mạng trở nên thuận tiện hơn. Các thiết bị trong mạng có thể linh hoạt thay đổi vị trí mà vẫn duy trì kết nối mạng. Chẳng hạn, khi đang di chuyển trên xe khách, hành khách có thể sử dụng điện thoại di động để truy cập Internet mà không cần dây nối. 
+
+
+
+
+Việc lắp đặt và mở rộng mạng không dây thuận lợi hơn vì không cần phải đi dây và khoan đục tường. Việc không sử dụng dây trong kết nối mạng còn tránh được những sự cố như đứt dây do mưa bão hay đơn giản hơn là chuột cắn làm đường dây bị hư hại. 
+
+
+Ngày nay, mạng không dây (có phí hoặc miễn phí) được cung cấp ở rất nhiều nơi, đặc biệt là những nơi công cộng như sân bay, nhà ga, trung tâm thương mại, trường học,... Người sử dụng có thể truy cập mạng một cách nhanh chóng và dễ dàng. 
+
+Câu hỏi
+
+Em hãy quan sát Hình 2.1 và cho biết: a) Tên các thiết bị đầu cuối. b) Tên các thiết bị kết nối. 
+
+
+
+Em hãy kể tên một số cách kết nối không dây mà em biết. 
+
+Em hãy nêu ví dụ cho thấy kết nối không dây thuận tiện hơn kết nối có dây. 
+
+
+LUYỆN TẬP 
+
+Em hãy chọn các phương án đúng. Máy tính kết nối với nhau để:  A. Chia sẻ các thiết bị. B. Tiết kiệm điện. C. Trao đổi dữ liệu.
+
+Em hãy chọn các phương án đúng. Thiết bị có kết nối không dây ở Hình 2.2 là:  A. Máy tính để bàn. B. Máy tính xách tay. C. Điện thoại di động. D. Bộ định tuyến.
+
+
+VẬN DỤNG 
+
+Phòng thư viện của trường có 5 máy tính cần kết nối thành một mạng. Em hãy vẽ hai cách khác để kết nối chúng thành một mạng. 
+
+
+Nhà bạn An có điện thoại di động của bố, của mẹ và một máy tính xách tay đang cùng truy cập mạng Internet. Theo em, các thiết bị đó có đang được kết nối thành một mạng máy tính không? Nếu có, em hãy chỉ ra các thiết bị đầu cuối và thiết bị kết nối. 
+
+TRANG 21
+
+BÀI 5: INTERNET 
+
+SAU BÀI NÀY EM SẼ:
+
+Biết Internet là gì. 
+
+Nêu được một số đặc điểm chính của Internet.
+
+Nêu được một số lợi ích chính của Internet. 
+
+(Đoạn hội thoại giữa An và Minh về việc đặt vé máy bay qua Internet)
+
+1. INTERNET 
+
+
+Hoạt động 1: Internet 
+
+Em hiểu Internet là gì? 
+
+Người sử dụng có thể làm được những gì khi truy cập Internet? 
+
+Các tổ chức và cá nhân trên khắp thế giới có thể cung cấp và tiếp nhận thông tin bằng cách kết nối máy tính của họ thành một mạng. Internet là một mạng toàn cầu được tạo ra để liên kết những mạng máy tính như thế. 
+
+
+Muốn truy cập Internet thì máy tính của người sử dụng cần có kết nối với Internet. Người sử dụng cần đăng kí với nhà cung cấp dịch vụ Internet (Internet Service Provider - ISP) để được hỗ trợ cài đặt và cấp quyền truy cập Internet. 
+
+
+Người sử dụng truy cập Internet để tìm kiếm, chia sẻ và trao đổi thông tin. 
+
+Các dịch vụ thông tin phổ biến trên Internet gồm: mạng thông tin toàn cầu (World Wide Web - WWW), tìm kiếm, thư điện tử, điện thoại, phát thanh, truyền hình, mạng xã hội, lưu trữ, trao đổi dữ liệu, kinh doanh.... 
+
+Internet là mạng liên kết các mạng máy tính trên khắp thế giới. 
+
+Máy tính có thể được kết nối với Internet thông qua một nhà cung cấp dịch vụ Internet. 
+
+Người sử dụng truy cập Internet để tìm kiếm, chia sẻ, lưu trữ và trao đổi thông tin. 
+
+Có nhiều dịch vụ thông tin khác nhau trên Internet: WWW, tìm kiếm, thư điện tử.... 
+
+TRANG 22
+Câu hỏi: Em hãy thay các số trong mỗi câu bằng một từ hoặc cụm từ thích hợp: chia sẻ, liên kết, thông tin, dịch vụ, mạng. a) Internet là mạng...(1)... các...(2)... máy tính trên khắp thế giới. b) Người sử dụng truy cập Internet để tìm kiếm, ...(3)..., lưu trữ và trao đổi ...(4)....  c) Có nhiều ...(5)... thông tin khác nhau trên Internet.
+
+
+
+2. ĐẶC ĐIỂM CỦA INTERNET 
+
+
+Hoạt động 2: Đặc điểm của Internet Theo em Internet có những đặc điểm gì? 
+
+
+Internet có các đặc điểm chính sau: 
+
+
+Tính toàn cầu: Năm 2020 có khoảng hơn một phần ba dân số trên thế giới ở hầu hết các quốc gia đang sử dụng Internet. 
+
+
+Tính tương tác: Người sử dụng có thể tức thời nhận và gửi thông tin, khác với cách truyền thông một chiều của sách báo, phát thanh, truyền hình truyền thống. 
+
+
+Tính dễ tiếp cận: Người sử dụng có thể tìm kiếm, lưu trữ, trao đổi và chia sẻ thông tin một cách thuận lợi, nhanh chóng ở mọi lúc, mọi nơi trên thế giới. 
+
+
+Tính không chủ sở hữu: Internet là một mạng máy tính công cộng toàn cầu, không thuộc sở hữu hay do bất kì một tổ chức hoặc cá nhân nào điều hành. 
+
+Ngoài ra còn có:
+
+
+Tính cập nhật: Thông tin được cập nhật thường xuyên. 
+
+
+Tính lưu trữ: Thông tin được lưu trữ thường trực, có thể sao chép nhanh và dễ dàng. 
+
+
+Tính đa dạng: Truyền tải thông tin dạng văn bản, âm thanh, hình ảnh, video.... 
+
+
+Tính ẩn danh: Người sử dụng truy cập Internet có thể dùng bí danh thay cho tên thật. 
+
+3. MỘT SỐ LỢI ÍCH CỦA INTERNET 
+
+
+Hoạt động 3: Lợi ích của Internet 
+
+Em thường truy cập Internet để làm những việc gì? 
+
+Internet có những lợi ích gì? 
+
+TRANG 23
+Tớ sẽ dùng Internet để giúp mẹ quảng cáo và bán sản phẩm do mẹ tớ tự tay làm. 
+
+Tớ sẽ học tiếng Anh trực tuyến. 
+
+Tớ có thể xem phim, nghe nhạc, chơi trò chơi,... 
+
+Tớ sẽ tìm tư liệu cho bài tập nhóm. 
+
+Tớ có thể sử dụng Internet để gửi thư điện tử cho bạn bè ở khắp nơi trên thế giới. 
+
+Ngày nay, Internet có vai trò rất quan trọng trong mọi hoạt động của xã hội, từ các lĩnh vực sản xuất cho đến khoa học kĩ thuật, y tế, giáo dục, văn hoá, giải trí,... Internet cung cấp nhiều dịch vụ thông tin như: WWW, tìm kiếm, thư điện tử, điện thoại, phát thanh, truyền hình, mạng xã hội, lưu trữ, trao đổi dữ liệu, kinh doanh,... Ngoài ra, Internet còn cung cấp môi trường làm việc từ xa như: viết sách báo, học tập, dạy học, hội họp,... Nhờ vậy, Internet góp phần thúc đẩy xã hội phát triển. 
+
+
+
+LỢI ÍCH CỦA INTERNET 
+
+Trao đổi thông tin nhanh chóng, hiệu quả. 
+
+Học tập và làm việc trực tuyến. 
+
+Cung cấp nguồn tài liệu phong phú. 
+
+Cung cấp các tiện ích phục vụ đời sống. 
+
+Là phương tiện vui chơi, giải trí. 
+
+
+LUYỆN TẬP 
+
+Em hãy chọn phương án đúng. Internet là mạng:  A. Kết nối hai máy tính với nhau. B. Kết nối các máy tính trong một nước. C. Kết nối nhiều mạng máy tính trên phạm vi toàn cầu. D. Kết nối các máy tính trong một thành phố.
+
+Để máy tính kết nối được Internet ta cần làm gì? 
+
+
+VẬN DỤNG 
+
+Em hãy lấy ví dụ cho thấy Internet mang lại lợi ích cho việc học tập và giải trí. 
+
+Em hãy giải thích tại sao Internet lại được sử dụng rộng rãi và ngày càng phát triển. 
+
+TRANG 24
+CHỦ ĐỀ 3. TỔ CHỨC LƯU TRỮ, TÌM KIẾM VÀ TRAO ĐỔI THÔNG TIN BÀI 6: MẠNG THÔNG TIN TOÀN CẦU 
+
+
+SAU BÀI NÀY EM SẼ:
+
+Trình bày sơ lược được các khái niệm World Wide Web, website, địa chỉ của website, trình duyệt. 
+
+Xem và nêu được các thông tin chính trên trang web cho trước. 
+
+Khai thác được thông tin trên một số trang web thông dụng: tra từ điển, xem tin thời tiết, thời sự.... 
+
+Khi truy cập Internet, em sẽ bước vào một thế giới thông tin vô cùng rộng lớn. Các trang thông tin trên Internet được nối với nhau tạo thành một mạng giống như mạng nhện khổng lồ bao trùm lên cả thế giới nên nó được gọi là World Wide Web hay mạng thông tin toàn cầu. 
+
+
+1. TỔ CHỨC THÔNG TIN TRÊN INTERNET Hoạt động 1: Tìm hiểu cách tổ chức thông tin 
+
+
+Thông tin trong một cuốn sách được tổ chức như thế nào? 
+
+Em đã xem thông tin trên Internet chưa? Trên Internet có những dạng thông tin gì? 
+
+Kho thông tin khổng lồ trên Internet được tạo nên từ nhiều trang web. 
+
+
+Trang siêu văn bản (Hypertext) là trang văn bản đặc biệt, tích hợp nhiều dạng dữ liệu khác nhau như văn bản, hình ảnh, âm thanh, video,... và các liên kết trỏ đến vị trí khác trong trang hay các trang web khác. 
+
+Mỗi trang web là một trang siêu văn bản được gán cho một địa chỉ truy cập trên Internet. 
+
+Mỗi website là tập hợp các trang web liên quan và được truy cập thông qua một địa chỉ. 
+
+TRANG 25
+Mỗi website do một người hoặc một tổ chức quản lí. Trang chủ (homepage) của website là trang được mở ra đầu tiên khi truy cập website đó. Địa chỉ của trang chủ chính là địa chỉ của website. 
+
+
+
+Hệ thống các website trên Internet tạo thành Mạng thông tin toàn cầu.  Ví dụ:
+
+
+http://thieunien.vn là địa chỉ của website báo Thiếu niên Tiền phong. 
+
+
+https://vi.wikipedia.org là địa chỉ trang chủ của website Bách khoa toàn thư mở tiếng Việt. 
+
+
+https://vi.wikipedia.org/wiki/Internet là địa chỉ của trang web về Internet trong website Bách khoa toàn thư mở tiếng Việt. 
+
+Thông tin trên Internet được tạo nên từ nhiều trang web kết nối với nhau bởi các liên kết. Mỗi trang web có địa chỉ truy cập riêng. 
+
+Website là một tập hợp các trang web liên quan được truy cập thông qua một địa chỉ. Địa chỉ của trang chủ là địa chỉ của website. 
+
+World Wide Web là mạng thông tin toàn cầu, liên kết các website trên Internet. 
+
+2. TRÌNH DUYỆT 
+
+Người sử dụng muốn truy cập các website thì cần phải sử dụng một phần mềm ứng dụng được gọi là trình duyệt (web browser). 
+
+Một số trình duyệt được dùng phổ biến là Mozilla Firefox, Google Chrome, Safari, Cốc Cốc, Microsoft Edge.... 
+
+Để truy cập một trang web, ta có thể nhập địa chỉ của trang đó vào thanh địa chỉ của trình duyệt. 
+
+Trang web có chứa các liên kết chỉ dẫn tới các trang web khác. Nháy chuột vào liên kết để chuyển tới trang web được xác định bởi liên kết đó. Hoạt động di chuyển theo các liên kết được gọi là duyệt web. 
+
+
+TRANG 26
+
+Trình duyệt là phần mềm giúp người dùng truy cập các trang web trên Internet. 
+
+Người sử dụng có thể theo các liên kết để khai thác thông tin từ các trang web. 
+
+Câu hỏi
+
+Em hãy kể tên một số trình duyệt mà em biết. 
+
+Để truy cập một trang web ta cần làm thế nào? 
+
+3. THỰC HÀNH: KHAI THÁC THÔNG TIN TRÊN TRANG WEB  Nhiệm vụ: Sử dụng trình duyệt truy cập vào trang Bách khoa toàn thư mở tiếng Việt có địa chỉ https://vi.wikipedia.org để xem và tra cứu thông tin. Khai thác thông tin trên một số trang web thông dụng. 
+
+
+
+Hướng dẫn: a) Truy cập trang web
+
+Nháy đúp chuột vào biểu tượng trình duyệt. 
+
+Nhập địa chỉ trang web vào ô địa chỉ. 
+
+Nhấn phím Enter. Trang Bách khoa toàn thư mở tiếng Việt được hiển thị.  Trên trang có các thành phần như: Tên và biểu tượng của trang, ô nhập từ khóa tra cứu, các mục chính, thông tin giới thiệu, các bài viết chọn lọc và bài viết mới.
+
+
+TRANG 27
+b) Xem tin thời tiết, thời sự
+
+
+Xem thời tiết: Nhập khituongvietnam.gov.vn rồi nhấn Enter. Trang web sẽ hiển thị các tin cảnh báo thiên tai và tóm tắt thời tiết trong ngày. Có thể nháy chuột vào các liên kết để xem tin chi tiết. 
+
+
+
+
+Xem thời sự: Nhập vtvgo.vn rồi nhấn Enter. Nháy chuột vào lịch phát sóng để xem bản tin thời sự. 
+
+
+Các nút điều hướng trên trình duyệt:
+
+
+Quay về trang trước (Mũi tên trái) 
+
+
+Đến trang tiếp theo (Mũi tên phải) 
+
+
+Quay về trang chủ (Hình ngôi nhà) 
+
+
+Đánh dấu trang (Bookmark) (Hình ngôi sao) để lưu địa chỉ trang web. 
+
+TRANG 28
+Lưu ý: Em có thể lưu địa chỉ trang web vào thanh đánh dấu (Bookmarks bar) của trình duyệt để truy cập lại khi cần. Khi muốn truy cập lại trang web, nháy chuột vào tên trang web đó trên thanh đánh dấu. 
+
+
+
+LUYỆN TẬP 
+
+Thông tin trên Internet được tổ chức như thế nào?  A. Tương tự như thông tin trong cuốn sách. B. Thành từng văn bản rời rạc. C. Thành các trang siêu văn bản kết nối với nhau bởi các liên kết.  D. Một cách tuỳ ý.
+
+
+Em hãy ghép mỗi nội dung ở cột A với một nội dung phù hợp ở cột B.  A: 1) Website là tập hợp; 2) Khi duyệt web, muốn chuyển đến một nội dung hoặc một trang web khác thì ta nháy chuột vào; 3) Để truy cập các trang web ta cần; 4) WWW là hệ thống các B: a) sử dụng trình duyệt web; b) website trên Internet; c) các trang web liên quan được truy cập thông qua một địa chỉ; d) liên kết trỏ đến đó.
+
+
+VẬN DỤNG 
+
+Có điểm gì khác nhau giữa cách tổ chức thông tin trong cuốn sách với cách tổ chức thông tin trên Internet? 
+
+Em hãy sử dụng trình duyệt web để truy cập vào trang web có địa chỉ: https://hoahoctro.tienphong.vn và https://vtv7.vtv.vn để xem thông tin có trên trang web (tên, biểu tượng, các mục chính ...) và theo các liên kết trỏ đến các trang web khác. Lưu địa chỉ các trang web em thích vào thanh đánh dấu. 
+
+
+TRANG 29
+
+BÀI 7: TÌM KIẾM THÔNG TIN TRÊN INTERNET 
+
+SAU BÀI NÀY EM SẼ:
+
+Nêu được công dụng của máy tìm kiếm. 
+
+Xác định được từ khoá ứng với mục đích tìm kiếm cho trước. 
+
+Thực hiện được việc tìm kiếm và khai thác thông tin trên Internet. 
+
+Mặc dù WWW là kho thông tin khổng lồ nhưng việc tìm kiếm trên đó có thể được thực hiện rất nhanh chóng và thuận tiện. Bài học này sẽ giới thiệu với em máy tìm kiếm trên Internet và cách sử dụng nó. 
+
+
+1. TÌM KIẾM THÔNG TIN TRÊN INTERNET 
+
+
+Hoạt động 1: Tìm kiếm thông tin trên Internet 
+
+Em đã bao giờ tìm kiếm thông tin trên Internet chưa? Em đã tìm gì? Kết quả có như em mong muốn không? 
+
+Em biết gì về máy tìm kiếm? Sử dụng máy tìm kiếm để tìm kiếm thông tin em thấy có thuận lợi và khó khăn gì? 
+
+Tìm kiếm thông tin là một trong các dịch vụ phổ biến của Internet. 
+
+Máy tìm kiếm Người sử dụng có thể tìm kiếm thông tin trên Internet bằng cách dùng chức năng của một số website đặc biệt gọi là máy tìm kiếm (search engine). Có nhiều máy tìm kiếm như www.yahoo.com, www.google.com, www.bing.com, www.coccoc.com.... Nhờ máy tìm kiếm, người sử dụng dễ dàng tìm được thông tin dựa vào các từ khoá. Kết quả tìm kiếm là danh sách liên kết trỏ đến các trang web có chứa từ khoá đó. 
+
+
+Lưu ý an toàn:
+
+Trên Internet có thông tin bổ ích và có cả thông tin độc hại. Vì vậy, em cần hỏi ý kiến bố mẹ trước khi truy cập Internet. 
+
+
+Thận trọng khi chia sẻ thông tin cá nhân trên Internet. 
+
+TRANG 30
+Từ khoá
+
+
+Từ khoá là một từ hoặc cụm từ liên quan đến nội dung cần tìm kiếm do người sử dụng cung cấp. Chọn từ khoá phù hợp sẽ giúp cho việc tìm kiếm đạt hiệu quả. Có thể đặt từ khoá trong dấu ngoặc kép (" ") để thu hẹp phạm vi tìm kiếm. Ví dụ: Để tìm kiếm thông tin về vai trò của tầng ozon, nếu ta nhập từ khoá vai trò của tầng ozon thì kết quả sẽ là danh sách với số lượng rất nhiều các liên kết. Còn nếu ta nhập từ khoá "vai trò của tầng ozon", kết quả hiển thị là danh sách với số lượng các liên kết ít hơn. 
+
+
+
+
+Máy tìm kiếm là một website đặc biệt, giúp người sử dụng tìm kiếm thông tin trên Internet một cách nhanh chóng, hiệu quả thông qua các từ khoá. 
+
+Kết quả tìm kiếm là danh sách các liên kết. Các liên kết có thể là văn bản, hình ảnh hoặc video. 
+
+Từ khoá tìm kiếm rất quan trọng. Lựa chọn từ khoá phù hợp sẽ giúp tìm kiếm thông tin nhanh và chính xác. 
+
+Câu hỏi
+
+Em hãy thay các số trong mỗi câu bằng một cụm từ thích hợp: từ khoá, liên kết, tìm kiếm thông tin. a) Máy tìm kiếm là công cụ hỗ trợ ...(1)... trên Internet theo yêu cầu của người sử dụng. b) Kết quả tìm kiếm là danh sách các ...(2).... c) Cần chọn ...(3)... phù hợp. 
+
+Sử dụng máy tìm kiếm em sẽ nhận được kết quả là gì? A. Danh sách liên kết trỏ đến các trang web có chứa từ khoá.  B. Nội dung thông tin cần tìm trên một trang web. C. Danh sách địa chỉ các trang web có chứa thông tin cần tìm. D. Danh sách liên kết dạng văn bản.
+
+TRANG 31
+2. THỰC HÀNH: TÌM KIẾM VÀ KHAI THÁC THÔNG TIN TRÊN INTERNET
+
+Nhiệm vụ Tìm kiếm thông tin và hình minh hoạ về vai trò của tầng ozon.
+
+Hướng dẫn (Các hướng dẫn sau đây sử dụng máy tìm kiếm www.google.com để minh hoạ.)
+
+Nhập www.google.com rồi nhấn phím Enter.
+
+Nhập từ khoá vai trò của tầng ozon rồi nhấn phím Enter.
+
+Thực hiện tìm kiếm lần lượt với từ khoá vai trò của tầng ozon và từ khoá "vai trò của tầng ozon". Các kết quả tìm kiếm được hiển thị dưới dạng danh sách liên kết. So sánh hai kết quả tìm được.
+
+Có thể lọc kết quả tìm kiếm theo dạng:
+
+Nháy vào Hình ảnh để lọc kết quả dạng hình ảnh.
+
+Nháy vào Tin tức để lọc kết quả là tin tức.
+
+Nháy vào Video để lọc kết quả dạng video.
+
+TRANG 32
+Lưu ý: Các trang web có nội dung liên quan nhất đến từ khoá thường xuất hiện ở đầu danh sách kết quả. Em cần chọn lọc những thông tin chính xác, phù hợp để sử dụng.
+
+Nháy chuột vào một liên kết dạng tin tức để xem nội dung và sao chép thông tin dạng văn bản về máy tính.
+
+Chọn nội dung cần sao chép, nhấn tổ hợp phím Ctrl + C.
+
+Mở tệp văn bản, nhấn tổ hợp phím Ctrl + V.
+
+Nháy chuột vào một liên kết dạng hình ảnh để xem và lưu về máy tính.
+
+Nháy nút phải chuột vào hình ảnh trên trang web, xuất hiện bảng chọn tắt, chọn lệnh Lưu hình ảnh thành... để lưu hình ảnh thành tệp trên máy tính.
+
+LUYỆN TẬP
+
+Khi tìm kiếm thông tin bằng máy tìm kiếm, kết quả là danh sách liên kết dưới dạng nào? A. Văn bản. B. Hình ảnh. C. Video. D. Văn bản, hình ảnh, video.
+
+Để tìm kiếm thông tin về lớp vỏ Trái Đất, em sử dụng từ khoá nào sau đây để thu hẹp phạm vi tìm kiếm? A. Trái Đất. B. Lớp vỏ Trái Đất. C. "lớp vỏ Trái Đất". D. "lớp vỏ" + "Trái Đất".
+
+VẬN DỤNG
+
+Em hãy tìm thông tin về Văn Miếu – Quốc Tử Giám trên mạng Internet.
+
+Gia đình em có kế hoạch đi du lịch thành phố Hạ Long. Mẹ nhờ em tìm thông tin về thời tiết và một số địa danh ở đó để tham quan. Em hãy sử dụng máy tìm kiếm để: a) Tìm thông tin về thời tiết ở thành phố Hạ Long trong tuần này. b) Tìm những điểm tham quan đẹp ở thành phố Hạ Long. c) Sao chép và lưu các thông tin, hình ảnh vào một tệp văn bản để giới thiệu với các thành viên trong gia đình.
+
+TRANG 33
+BÀI 8: THƯ ĐIỆN TỬ
+
+SAU BÀI NÀY EM SẼ:
+
+Biết thư điện tử là gì; biết ưu điểm và nhược điểm cơ bản của dịch vụ thư điện tử so với các phương thức liên lạc khác.
+
+Biết tài khoản thư điện tử, hộp thư điện tử, thành phần của địa chỉ thư điện tử.
+
+Biết cách đăng kí tài khoản thư điện tử và thực hiện được việc đăng nhập, soạn, gửi, đăng xuất hộp thư điện tử.
+
+1. THƯ ĐIỆN TỬ. TÀI KHOẢN THƯ ĐIỆN TỬ
+
+Hoạt động 1: Thư điện tử
+
+Để soạn và gửi một bức thư qua đường bưu điện đến tay người nhận thì cần những gì và thực hiện như thế nào?
+
+Em biết gì về thư điện tử? Tài khoản thư điện tử?
+
+Thư điện tử (email hay e-mail) là thư được gửi và nhận bằng phương tiện điện tử. Thư điện tử là một trong những hình thức trao đổi thông tin được rất nhiều người sử dụng.
+
+Dịch vụ thư điện tử là dịch vụ cung cấp các chức năng soạn thảo, gửi, nhận, chuyển tiếp, lưu trữ và quản lí thư điện tử cho người sử dụng.
+
+Người sử dụng đăng kí với nhà cung cấp dịch vụ thư điện tử để mở tài khoản thư điện tử. Người sử dụng có thể dùng dịch vụ thư điện tử trả phí hoặc miễn phí. Một số nhà cung cấp dịch vụ thư điện tử miễn phí: Google, Yahoo, Microsoft.....
+
+TRANG 34
+Khi có tài khoản thư điện tử, người sử dụng sẽ được cấp một hộp thư điện tử trên máy chủ thư điện tử cùng tên đăng nhập và mật khẩu. Hộp thư được gắn với một địa chỉ thư điện tử.
+
+Địa chỉ thư điện tử có dạng: <tên đăng nhập>@<địa chỉ máy chủ thư điện tử>.
+
+Lưu ý:
+
+<Tên đăng nhập>: Do người sử dụng tự chọn khi đăng kí tài khoản thư điện tử.
+
+<Địa chỉ máy chủ thư điện tử>: Do nhà cung cấp dịch vụ quy định.
+
+<Mật khẩu>: Do người sử dụng tự chọn khi đăng kí.
+
+Mỗi địa chỉ thư điện tử là duy nhất trên toàn cầu. 
+
+Thư điện tử là thư được gửi và nhận bằng phương tiện điện tử. 
+
+Khi đăng kí tài khoản thư điện tử, người sử dụng có một hộp thư điện tử cùng địa chỉ thư và mật khẩu. 
+
+Địa chỉ thư điện tử có dạng: <tên đăng nhập>@<địa chỉ máy chủ thư điện tử>. 
+
+Dịch vụ thư điện tử cung cấp các chức năng để soạn, gửi, nhận, chuyển tiếp, lưu trữ và quản lí thư điện tử cho người sử dụng. 
+
+2. ƯU ĐIỂM VÀ NHƯỢC ĐIỂM CỦA DỊCH VỤ THƯ ĐIỆN TỬ
+
+Hoạt động 2: Ưu điểm và nhược điểm của dịch vụ thư điện tử Theo em dịch vụ thư điện tử có những ưu điểm và nhược điểm gì so với các phương thức liên lạc khác?
+
+Ưu điểm:
+
+Thời gian gửi và nhận nhanh, kịp thời. 
+
+Có thể gửi thư cùng lúc cho nhiều người.
+
+Có thể gửi kèm được các tệp thông tin khác nhau như văn bản, âm thanh, hình ảnh,... 
+
+Lưu trữ và tìm kiếm các thư đã gửi hoặc nhận một cách dễ dàng. 
+
+Chi phí thấp, có nhiều dịch vụ thư điện tử miễn phí. 
+
+Nhược điểm:
+
+Phải kết nối mạng mới sử dụng được. 
+
+Có thể kèm theo virus máy tính. 
+
+Có thể bị làm phiền với các thư rác. 
+
+Có thể bị lừa đảo bởi các thư giả mạo. 
+
+TRANG 35
+Ưu điểm của dịch vụ thư điện tử: chi phí thấp, tiết kiệm thời gian, thuận tiện.... 
+
+Nhược điểm của dịch vụ thư điện tử: phải sử dụng phương tiện điện tử kết nối mạng, có thể gặp một số nguy cơ, phiền toái.
+
+3. THỰC HÀNH: ĐĂNG KÍ TÀI KHOẢN, ĐĂNG NHẬP, ĐĂNG XUẤT VÀ GỬI THƯ ĐIỆN TỬ
+
+Nhiệm vụ: Tạo một tài khoản thư điện tử mới trên website mail.google.com (hay gmail.com). Đăng nhập hộp thư, xem nội dung, soạn thư mới và gửi thư.
+
+Hướng dẫn a) Tạo tài khoản thư điện tử
+
+Truy cập trang mail.google.com. 
+
+Nháy chuột vào nút Tạo tài khoản. 
+
+Nhập đầy đủ thông tin vào các dòng trên cửa sổ theo hướng dẫn. 
+
+Nháy chuột vào nút Tiếp theo. 
+
+Xác nhận số điện thoại (nếu có). 
+
+Thực hiện theo hướng dẫn. 
+
+Cuối cùng xuất hiện thông báo Chào mừng bạn!. 
+
+
+Lưu ý: Em cần ghi nhớ tên đăng nhập và mật khẩu truy cập. 
+
+b) Đăng nhập hộp thư điện tử, xem nội dung thư, đăng xuất
+
+Truy cập vào trang mail.google.com. 
+
+Đăng nhập vào hộp thư (Chọn tên đăng nhập, nhập mật khẩu, nhấn Enter). 
+
+Hộp thư mở ra với danh sách các thư trong Hộp thư đến. 
+
+TRANG 36
+(Hướng dẫn xem, mở và đăng xuất khỏi hộp thư Gmail) 4. Nháy chuột vào Tên người gửi hoặc Tiêu đề thư để mở thư.  5. Nháy chuột vào nút Đăng xuất để ra khỏi hộp thư điện tử. 
+
+
+c) Soạn thư mới và gửi
+
+Nháy chuột vào nút Soạn thư.
+
+Nhập địa chỉ hộp thư người nhận. 
+
+Nhập tiêu đề thư. 
+
+Nhập nội dung thư. 
+
+Nháy chuột vào nút Gửi để gửi thư. 
+
+Có thể gửi kèm tệp bằng cách nháy vào biểu tượng kẹp ghim. 
+
+
+Lưu ý: Đăng xuất khi không dùng hộp thư điện tử để tránh bị người khác sử dụng. 
+
+TRANG 37
+LUYỆN TẬP
+
+Thư điện tử có hạn chế nào dưới đây so với các hình thức gửi thư khác? A. Không đồng thời gửi được cho nhiều người. B. Thời gian gửi thư lâu. C. Phải phòng tránh virus, thư rác. D. Chi phí thấp.
+
+Một người có thể mở được nhiều tài khoản thư điện tử không? 
+
+Khi tạo tài khoản thư điện tử em không cần khai báo gì? A. Họ và tên. B. Ngày sinh. C. Địa chỉ nhà. D. Hộp thư của phụ huynh.
+
+VẬN DỤNG
+
+Em hãy xác định xem thư nào có thể là thư rác trong các thư điện tử với tiêu đề như sau: A. Cơ hội đầu tư kiếm được nhiều tiền hơn. B. Danh sách học sinh tham gia thi học sinh giỏi môn Tin học. C. Quà tặng miễn phí, hãy nháy chuột nhanh. D. Bạn đã trúng một chuyến đi miễn phí đến Mĩ. E. Ảnh tập thể lớp 6A ngày khai trường. F. Khuyến mãi, ưu đãi giá rẻ cho bạn.
+
+Em hãy soạn một thư điện tử có gửi kèm ảnh (hoặc tệp văn bản, thiệp chúc mừng....) cho bạn hoặc người thân của em. 
+
+TRÒ CHƠI: GIẢI Ô CHỮ Hãy tìm từ khoá (tiếng Việt không dấu) trong cột màu xanh.
+
+Để có hộp thư điện tử người sử dụng cần đăng kí (?) thư điện tử. (TÀI KHOẢN)
+
+Để bảo mật cho tài khoản thư thì người sử dụng cần đặt (?). (MẬT KHẨU)
+
+Khi gửi thư, ta cần ghi rõ địa chỉ của (?). (NGƯỜI NHẬN)
+
+Muốn vào hộp thư thì người sử dụng cần (?). (ĐĂNG NHẬP)
+
+Mỗi hộp thư điện tử được gắn với một (?). (ĐỊA CHỈ)
+
+Nháy nút (Đính kèm) nếu có gửi kèm (?). (TỆP)
+
+Nháy nút (?) để ra khỏi hộp thư điện tử. (ĐĂNG XUẤT)
+
+Sau khi tạo tài khoản, người sử dụng sẽ có một (?). (HỘP THƯ)
+
+Nháy nút (?) để thư được chuyển đi. (GỬI) Từ khoá: THƯ ĐIỆN TỬ
+
+TRANG 38
+CHỦ ĐỀ 4. ĐẠO ĐỨC, PHÁP LUẬT VÀ VĂN HOÁ TRONG MÔI TRƯỜNG SỐ BÀI 9: AN TOÀN THÔNG TIN TRÊN INTERNET
+
+SAU BÀI NÀY EM SẼ:
+
+Biết một số tác hại và nguy cơ khi sử dụng Internet. Nêu và thực hiện được một số biện pháp phòng ngừa.
+
+Trình bày được tầm quan trọng của sự an toàn và hợp pháp của thông tin cá nhân và tập thể.
+
+Bảo vệ được thông tin và tài khoản cá nhân với sự hỗ trợ của người lớn.
+
+Nêu được một vài cách thông dụng để chia sẻ thông tin của bản thân và tập thể sao cho an toàn và hợp pháp.
+
+Nhận diện được một số thông điệp lừa đảo hoặc mang nội dung xấu.
+
+(Đoạn hội thoại giữa Minh và An về việc máy tính bị nhiễm virus sau khi tải game)
+
+1. TÁC HẠI VÀ NGUY CƠ KHI SỬ DỤNG INTERNET
+
+Hoạt động 1: Tác hại và nguy cơ
+
+Bạn Minh đã gặp rắc rối gì?
+
+Thảo luận nhóm: Tác hại và nguy cơ khi dùng Internet.
+
+Internet có thể là một công cụ tuyệt vời và hữu ích khi chúng ta biết cách sử dụng và khai thác nhưng cũng có thể có một số tác hại và nguy cơ như sau:
+
+
+Thông tin cá nhân bị lộ hoặc bị đánh cắp: Khi sử dụng Internet, nếu không biết cách bảo mật thì thông tin cá nhân có thể bị lộ hoặc bị kẻ xấu đánh cắp và lợi dụng. Kẻ xấu có thể dùng những thông tin đó để bôi nhọ danh dự, để dụ dỗ, lừa đảo, tống tiền, khống chế chính bản thân người sử dụng. 
+
+
+
+Máy tính bị nhiễm virus hay mã độc: Dữ liệu trên máy tính bị mất hoặc bị sai lệch. 
+
+TRANG 39
+
+Bị lừa đảo, dụ dỗ, đe doạ, bắt nạt trên mạng: Kẻ xấu lừa đảo, dụ dỗ trên mạng với nhiều mục đích khác nhau. Chẳng hạn, có những kẻ dụ dỗ tiếp xúc với các nội dung không lành mạnh; kẻ muốn lôi kéo người khác vào con đường phạm tội thì cho xem nội dung bạo lực, ma tuý....  Có những trường hợp kẻ xấu dụ dỗ rồi đe doạ, bắt nạt nạn nhân khiến họ cảm thấy xấu hổ hoặc sợ hãi, ảnh hưởng đến sức khoẻ và tâm lí.
+
+
+
+Thông tin không chính xác: Thông tin trên mạng đến từ nhiều nguồn khác nhau, có nhiều thông tin không được kiểm duyệt nên không chính xác.  Có những kẻ lợi dụng mạng để đưa các tài liệu mang tính bạo lực, khuyến khích các hoạt động bất hợp pháp.... nhằm phục vụ cho lợi ích của chúng. Vì vậy chúng ta phải luôn cảnh giác và sáng suốt trong việc lựa chọn thông tin trên mạng.
+
+
+Nghiện Internet, nghiện trò chơi trên mạng: Nhiều bạn trẻ bỏ rất nhiều thời gian vào mạng xã hội và chơi trò chơi trên mạng làm ảnh hưởng xấu đến tâm lí, sức khoẻ và hành vi dẫn đến bị căng thẳng, lo lắng, trầm cảm, bỏ bê việc học tập.... 
+
+2. MỘT SỐ QUY TẮC AN TOÀN KHI SỬ DỤNG INTERNET
+
+Hoạt động 2: Quy tắc an toàn
+
+Em đã từng sử dụng Internet chưa? Em đã bao giờ gặp phải một trong những nguy cơ như trên chưa? Nếu gặp phải, em sẽ làm gì?
+
+Thảo luận nhóm: Em cần làm gì để phòng tránh những nguy cơ và tác hại có thể gặp phải khi sử dụng Internet?
+
+TRANG 40
+GIỮ AN TOÀN Bảo mật thông tin cá nhân và gia đình, không tiết lộ thông tin cá nhân trên mạng xã hội và cho người lạ. 
+
+KHÔNG GẶP GỠ Không được một mình gặp gỡ người mà bạn chỉ quen biết qua mạng vì có thể bị nguy hiểm nếu gặp phải kẻ xấu. Đi cùng người lớn trong gia đình bạn nếu muốn gặp. 
+
+
+ĐỪNG CHẤP NHẬN Chỉ mở thư điện tử và tin nhắn từ người mà bạn biết. Từ chối các lời mời vào hội nhóm trên mạng mà mình không biết. Cảnh giác với virus và tin nhắn rác. 
+
+
+
+KIỂM TRA ĐỘ TIN CẬY Chỉ nên tìm kiếm thông tin từ các nguồn có sự kiểm duyệt hoặc các tổ chức, công ti có nguồn gốc và uy tín. Kiểm tra độ tin cậy của thông tin qua sự trợ giúp của người lớn trong gia đình hoặc thầy cô giáo. 
+
+
+HÃY NÓI RA Khi gặp phải tình huống bị bắt nạt, đe doạ, lừa đảo hoặc dụ dỗ trên mạng, hãy chia sẻ với người tin cậy như thầy cô giáo, người lớn trong gia đình. 
+
+3. AN TOÀN THÔNG TIN
+
+Hoạt động 3: Bảo vệ thông tin cá nhân
+
+Sau giờ thực hành ở phòng máy, bạn Minh quên đăng xuất tài khoản thư điện tử của mình và một ai đó đã dùng tài khoản thư điện tử của Minh để gửi nội dung không hay cho những người khác. Theo em, điều gì có thể xảy ra với Minh?
+
+Nếu thấy đường liên kết hoặc thư điện tử có chủ đề gây tò mò được gửi từ một người không quen biết thì em sẽ làm gì?
+
+Em hãy nêu một vài cách để bảo vệ tài khoản thư điện tử.
+
+TRANG 41
+Tầm quan trọng của sự an toàn và hợp pháp của thông tin cá nhân và tập thể. Cá nhân, tập thể có thể bị lợi dụng hoặc gặp nguy hiểm nếu thông tin của họ rơi vào tay kẻ xấu. Em cần biết thông tin cá nhân, tập thể được pháp luật bảo vệ, nếu cần thiết em có thể yêu cầu pháp luật can thiệp. 
+
+
+Bảo vệ thông tin và tài khoản cá nhân với sự giúp đỡ của người lớn. Để bảo vệ thông tin cá nhân, em cần thực hiện một số biện pháp như:
+
+Đăng xuất các tài khoản khi đã dùng xong. 
+
+Đặt mật khẩu mạnh (đủ dài, gồm chữ cái viết hoa và viết thường, chữ số, kí tự đặc biệt). 
+
+Bảo vệ mật khẩu khi nhập, tránh bị người khác nhìn thấy hoặc đánh cắp. 
+
+Nhờ người lớn hoặc chuyên gia cài đặt chương trình diệt virus cho máy tính. 
+
+Tránh dùng mạng công cộng vì các mạng này thường bảo mật không tốt. 
+
+Không truy cập vào các liên kết lạ, không mở thư điện tử và tệp đính kèm gửi từ những người không quen. 
+
+Nhận diện một số thông điệp lừa đảo hoặc mang nội dung xấu. Những kẻ lừa đảo qua mạng thường dùng thư điện tử, tin nhắn giả mạo, yêu cầu kết bạn hoặc mời tham gia các câu lạc bộ,... để dụ dỗ em chia sẻ thông tin cá nhân, đánh cắp tài khoản và mật khẩu. 
+
+Hoạt động 4: Chia sẻ thông tin an toàn
+
+Một bạn quen trên mạng xin số điện thoại và địa chỉ của em để gặp nhau nói chuyện. Em có nên cho không? Tại sao?
+
+Em được một bạn gửi qua mạng cho một số thông tin không tốt về một bạn khác cùng lớp. Em có nên đăng lên mạng để mọi người cùng biết không?
+
+Thông tin cá nhân chỉ nên chia sẻ cho người mình biết rõ và tin tưởng ở thế giới thực trong các trường hợp cần thiết. Nên chặn tài khoản của kẻ xấu và thông báo với bố mẹ hoặc thầy cô giáo để nhận được sự giúp đỡ. Không chia sẻ và lan truyền tin giả làm tổn thương đến người khác. 
+
+
+
+TRANG 42
+MỘT SỐ BIỆN PHÁP BẢO VỆ THÔNG TIN, TÀI KHOẢN CÁ NHÂN VÀ CHIA SẺ THÔNG TIN AN TOÀN.
+
+Cài đặt và cập nhật phần mềm chống virus. 
+
+Đặt mật khẩu mạnh. Bảo vệ mật khẩu. 
+
+Đăng xuất các tài khoản khi đã dùng xong. 
+
+Tránh dùng mạng công cộng. 
+
+Không truy cập vào các liên kết lạ, không mở thư điện tử và tệp đính kèm gửi từ những người không quen; không kết bạn và nhắn tin cho người lạ. 
+
+Không chia sẻ thông tin cá nhân và những thông tin chưa được kiểm chứng trên Internet, không lan truyền tin giả làm tổn thương người khác. 
+
+LUYỆN TẬP
+
+Khi sử dụng Internet, những việc làm nào sau đây có thể khiến em gặp nguy cơ bị hại? A. Tải phần mềm, tệp miễn phí trên Internet. B. Mở liên kết được cung cấp trong thư điện tử không biết rõ nguồn gốc. C. Định kì thay đổi mật khẩu của tài khoản cá nhân. D. Khi có kẻ đe doạ mình trên mạng không cho bố mẹ hoặc thầy cô giáo biết. E. Làm theo các lời khuyên và bài hướng dẫn sử dụng thuốc trên mạng.
+
+Theo em, những tình huống nào sau đây là rủi ro khi sử dụng Internet? A. Máy tính bị hỏng do nhiễm virus hoặc mã độc. B. Thông tin cá nhân hoặc tập thể bị đánh cắp. C. Tài khoản ngân hàng bị mất tiền. D. Bị bạn quen trên mạng lừa đảo. E. Nghiện mạng xã hội, nghiện trò chơi trên mạng. F. Hoàn thành chương trình học ngoại ngữ trực tuyến.
+
+VẬN DỤNG
+
+Em hãy đưa ra một số cách nhận diện những trò lừa đảo trên Internet.
+
+Em sẽ làm gì khi phát hiện bạn bè hoặc người thân có nguy cơ bị hại khi truy cập mạng?
+
+Em nên làm gì để bảo vệ thông tin và tài khoản cá nhân?
+
+TRANG 43
+CHỦ ĐỀ 5. ỨNG DỤNG TIN HỌC BÀI 10: SƠ ĐỒ TƯ DUY
+
+SAU BÀI NÀY EM SẼ:
+
+Sắp xếp được một cách logic và trình bày được dưới dạng sơ đồ tư duy các ý tưởng, khái niệm.
+
+Giải thích được lợi ích của sơ đồ tư duy, nêu được nhu cầu sử dụng phần mềm sơ đồ tư duy trong học tập và trao đổi thông tin.
+
+Tạo được sơ đồ tư duy đơn giản bằng phần mềm.
+
+(Đoạn hội thoại về việc làm sổ lưu niệm của lớp)
+
+Hoạt động 1: Sổ lưu niệm của lớp
+
+Hãy tưởng tượng khi 50 tuổi, em tìm thấy cuốn sổ lưu niệm đã cũ của lớp mình. Hãy viết ra ba điều mà cuốn sổ lưu niệm làm em thích thú, một điều làm em hạnh phúc và một điều gợi lại cho em kỉ niệm buồn.
+
+Theo em sổ lưu niệm sẽ gồm những thông tin gì?
+
+1. SƠ ĐỒ TƯ DUY Để ghi lại thông tin về một chủ đề nào đó, chúng ta có rất nhiều cách, ví dụ như: liệt kê bằng văn bản, dùng bảng biểu, dùng sơ đồ,... Một trong các cách đó là dùng sơ đồ tư duy. 
+
+Sơ đồ tư duy là một phương pháp ghi nhớ, sắp xếp và lưu trữ thông tin. Thông tin được chia thành các chủ đề chính, chủ đề nhánh có mối quan hệ, liên kết với nhau. Sơ đồ tư duy dùng các từ khoá, hình ảnh để gợi nhớ và các đường nối để biểu diễn thông tin. Nhờ sơ đồ tư duy, người xem có được cái nhìn tổng thể về vấn đề, nhanh chóng và dễ dàng nắm bắt được thông tin, do đó dễ dàng ghi nhớ và tiết kiệm thời gian. 
+
+
+
+
+TRANG 44
+Hoạt động 2: Sơ đồ tư duy Em hãy quan sát sơ đồ tư duy ở Hình 5.2 và trả lời các câu hỏi sau:
+
+Cách biểu diễn nào (văn bản, sơ đồ tư duy) dễ hiểu, dễ nhớ và thú vị hơn?
+
+Sử dụng sơ đồ tư duy có lợi ích gì?
+
+Tên của chủ đề chính là gì? Tên của các chủ đề nhánh là gì?
+
+Các ý chi tiết của chủ đề nhánh "Thành phần" là gì?
+
+Sơ đồ tư duy là phương pháp trình bày thông tin một cách trực quan bằng cách sử dụng văn bản, hình ảnh và các đường nối. 
+
+Sơ đồ tư duy tận dụng tối đa khả năng ghi nhận hình ảnh của bộ não, giúp chúng ta dễ dàng ghi nhớ chi tiết, tổng hợp hay phân tích vấn đề. 
+
+Câu hỏi
+
+Sơ đồ tư duy giúp chúng ta: A. Ghi nhớ tốt hơn. B. Giải các bài toán. C. Sáng tạo hơn. D. Nhìn thấy bức tranh tổng thể.
+
+Sơ đồ tư duy là: A. Một công cụ tổ chức thông tin phù hợp với quá trình tư duy. B. Một phương pháp truyền tải thông tin. C. Một cách ghi chép sáng tạo. D. Một công cụ soạn thảo văn bản.
+
+TRANG 45
+2. CÁCH TẠO SƠ ĐỒ TƯ DUY Để tạo sơ đồ tư duy, em có thể vẽ thủ công hoặc sử dụng phần mềm trên máy tính.  Dù thực hiện theo cách nào thì việc tạo sơ đồ tư duy cũng thực hiện theo các bước sau đây:
+
+Viết chủ đề chính ở giữa tờ giấy. Dùng hình chữ nhật, elip hay bất cứ hình gì em muốn bao xung quanh chủ đề chính. 
+
+Từ chủ đề chính, vẽ các chủ đề nhánh. 
+
+Phát triển thông tin chi tiết cho mỗi chủ đề nhánh, lưu ý sử dụng từ khoá hoặc hình ảnh. 
+
+Có thể tạo thêm nhánh con khi bổ sung thông tin vì sơ đồ tư duy có thể mở rộng về mọi phía. 
+
+Hoạt động 3: Nội dung cuốn sổ lưu niệm
+
+Em và các bạn cùng thảo luận nhóm để bàn về nội dung cuốn sổ lưu niệm của lớp, sau đó tạo sơ đồ tư duy trên giấy để ghi lại kết quả thảo luận.
+
+Theo em vẽ sơ đồ tư duy thủ công trên giấy có hạn chế gì?
+
+TRANG 46
+Câu hỏi: Ưu điểm của việc tạo sơ đồ tư duy thủ công trên giấy là gì? A. Dễ sắp xếp, bố trí, thay đổi, thêm bớt nội dung. B. Sản phẩm tạo ra dễ dàng sử dụng cho các mục đích khác nhau. C. Sản phẩm tạo ra nhanh chóng, dễ dàng chia sẻ. D. Có thể thực hiện ở bất cứ đâu, chỉ cần giấy và bút. Thể hiện được phong cách riêng của người tạo. 
+
+3. THỰC HÀNH: TẠO SƠ ĐỒ TƯ DUY BẰNG PHẦN MỀM MÁY TÍNH Có nhiều phần mềm chuyên dùng cho việc tạo sơ đồ tư duy như: MindMaple Lite, FreeMind, iMindMap,... Các phần mềm này cho phép chúng ta tạo sơ đồ tư duy dễ dàng, chính xác và nhanh chóng. 
+
+Nhiệm vụ Sử dụng phần mềm sơ đồ tư duy để tạo sơ đồ tư duy ghi lại các nội dung có trong cuốn sổ lưu niệm của lớp.
+
+Hướng dẫn (Hướng dẫn sau đây sử dụng phần mềm MindMaple Lite để minh hoạ.) a) Khởi động phần mềm Sau khi khởi động, giao diện phần mềm được mở ra.
+
+TRANG 47
+b) Tạo sơ đồ tư duy Thực hiện các bước sau:
+
+Nháy chuột vào File. 
+
+Chọn New. 
+
+Chọn một mẫu. 
+
+Nháy chuột vào Create.  Sơ đồ tư duy được tạo ra với chủ đề chính là một khung Central Topic. Nháy chuột vào khung để nhập tên chủ đề chính. 
+
+
+c) Tạo các chủ đề nhánh
+
+Nháy chuột vào chủ đề chính để chọn.
+
+Chọn Insert > Subtopic. 
+
+Một chủ đề nhánh được tạo ra và nối với chủ đề chính. Nháy chuột vào chủ đề nhánh vừa tạo để nhập tên.
+
+Thực hiện tương tự để tạo các chủ đề nhánh khác.
+
+TRANG 48
+d) Ghi lại kết quả Thực hiện các bước cần thiết để hoàn thành sơ đồ tư duy. Sau khi tạo xong chọn File > Save và lưu tệp. 
+
+Phần mềm máy tính giúp em tạo sơ đồ tư duy dễ dàng, nhanh chóng; dễ sửa chữa và điều chỉnh, nhanh chóng chia sẻ và trao đổi. 
+
+LUYỆN TẬP Em hãy thực hiện các công việc sau đây cho sơ đồ tư duy ghi lại nội dung cuốn sổ lưu niệm của lớp em: a) Bổ sung các nhánh nội dung cho sơ đồ tư duy (nếu cần). b) Chỉnh sửa màu sắc và kiểu đường nối. Bổ sung hình ảnh, biểu tượng ... để tăng hiệu quả trình bày. c) Chia sẻ sơ đồ tư duy cho thầy cô giáo và các bạn để cả lớp trao đổi, thống nhất nội dung.
+
+VẬN DỤNG Em hãy dùng sơ đồ tư duy (vẽ trên giấy hoặc tạo bằng phần mềm) trình bày tóm tắt nội dung Bài 9. An toàn thông tin trên Internet.
+
+TRANG 49
+BÀI 11: ĐỊNH DẠNG VĂN BẢN
+
+SAU BÀI NÀY EM SẼ:
+
+Nêu được các chức năng đặc trưng của những phần mềm soạn thảo văn bản.
+
+Trình bày được tác dụng của công cụ căn lề, định dạng văn bản.
+
+Thực hiện được việc định dạng văn bản, trình bày trang văn bản và in.
+
+(Đoạn hội thoại về việc chọn công cụ để làm sổ lưu niệm)
+
+1. PHẦN MỀM SOẠN THẢO VĂN BẢN
+
+Hoạt động 1: Phần mềm soạn thảo văn bản
+
+Dựa vào sơ đồ tư duy trình bày nội dung cuốn sổ lưu niệm ở Bài 10, em hãy lựa chọn các phần mềm cần sử dụng.
+
+Các phần mềm đó cần có chức năng gì để giúp em hoàn thành công việc?
+
+Phần mềm soạn thảo văn bản có các chức năng cơ bản sau đây:
+
+Tạo và định dạng văn bản. 
+
+Biên tập, chỉnh sửa nội dung. 
+
+Lưu trữ văn bản. 
+
+In văn bản. 
+
+Chức năng nâng cao:
+
+Xem lại và theo dõi sự thay đổi của tài liệu. 
+
+Lưu trữ tài liệu nhờ công nghệ đám mây. 
+
+Làm việc cộng tác với người khác trên cùng một tài liệu. 
+
+TRANG 50
+2. ĐỊNH DẠNG VĂN BẢN VÀ IN Để văn bản được trình bày đẹp, dễ đọc, dễ nhớ thì ngoài việc định dạng kí tự, chúng ta cần định dạng đoạn và định dạng trang văn bản. 
+
+a) Định dạng đoạn văn bản Trong phần mềm soạn thảo văn bản, đoạn là phần văn bản thường được phân cách bởi dấu ngắt đoạn (khi nhấn phím Enter). Việc định dạng giúp chúng ta thay đổi cách trình bày của đoạn.  Ví dụ:
+
+
+Căn lề: Căn thẳng lề trái, Căn giữa, Căn thẳng lề phải, Căn thẳng hai lề.
+
+Thụt lề: Tăng/giảm mức thụt lề trái.
+
+Giãn cách: Khoảng cách giữa các dòng trong đoạn, giữa các đoạn.
+
+b) Định dạng trang văn bản Các yêu cầu cơ bản khi trình bày trang văn bản gồm:
+
+
+Chọn hướng trang (Orientation): trang đứng (Portrait) hay trang ngang (Landscape). 
+
+
+Đặt lề trang (Margins): lề trái (Left), lề phải (Right), lề trên (Top) và lề dưới (Bottom). 
+
+
+Lựa chọn khổ giấy (Size): khổ giấy phổ biến là khổ A4. 
+
+TRANG 51
+c) In văn bản Sau khi hoàn thành việc tạo văn bản, em có thể in văn bản ra giấy. Để thực hiện công việc này, trong thẻ File, em chọn lệnh Print.  Các tùy chọn in bao gồm:
+
+
+Chọn máy in
+
+Nhập trang cần in
+
+Xem trước khi in
+
+TRANG 52
+3. THỰC HÀNH: ĐỊNH DẠNG VĂN BẢN
+
+Nhiệm vụ Soạn một bài viết cảm nghĩ trên phần mềm soạn thảo văn bản. Một số công việc cần làm:
+
+Nhập nội dung văn bản, chèn hình ảnh.
+
+Căn lề các đoạn văn bản.
+
+Chọn hướng trang, chọn lề trang.
+
+Xem trang in để điều chỉnh lại.
+
+Lưu tệp văn bản.
+
+Hướng dẫn (Sử dụng phần mềm Microsoft Word) a) Khởi động phần mềm và nhập nội dung
+
+Nháy đúp chuột vào biểu tượng phần mềm.
+
+Nhập nội dung văn bản.
+
+Chọn Insert > Picture để chèn ảnh.
+
+b) Căn lề đoạn văn bản
+
+Chọn đoạn văn bản cần căn lề.
+
+Nháy chuột vào thẻ Home và chọn kiểu căn lề (Căn giữa, căn đều hai bên...).
+
+c) Chọn hướng trang, lề trang (Hướng dẫn sẽ ở trang tiếp theo)
+
+TRANG 53
+Chọn hướng trang (Orientation)
+
+Nháy chuột chọn Page Layout.
+
+Tìm nhóm Page Setup.
+
+Nháy chuột chọn Orientation và chọn hướng trang đứng Portrait.
+
+Chọn lề trang (Margins)
+
+Nháy chuột chọn Page Layout.
+
+Tìm nhóm Page Setup.
+
+Nháy chuột chọn Margins và chọn mẫu đặt lề trang là Normal.
+
+d) Lưu tệp Chọn File > Save để lưu tệp văn bản. 
+
+LUYỆN TẬP
+
+Em hãy chọn hướng trang phù hợp cho các văn bản sau: a) Đơn xin nghỉ học. b) Báo cáo tổng kết năm học của lớp. c) Sổ lưu niệm của lớp. d) Sách ảnh chứa ảnh phong cảnh.
+
+Em chọn loại căn lề nào khi trình bày nội dung bài thơ lục bát? Tại sao?
+
+Em hãy soạn thảo Đơn xin nghỉ học và thực hiện các thao tác định dạng hợp lí.
+
+VẬN DỤNG Em hãy thực hiện các công việc sau: a) Soạn thảo thêm nội dung cho cuốn sổ lưu niệm. b) Chèn thêm hình ảnh minh hoạ. c) Căn lề và định dạng trang để có bố cục hợp lí. d) Lưu lại tệp để dùng cho việc tạo cuốn sổ lưu niệm của lớp.
+
+TRANG 54
+BÀI 12: TRÌNH BÀY THÔNG TIN Ở DẠNG BẢNG
+
+SAU BÀI NÀY EM SẼ:
+
+Biết được ưu điểm của việc trình bày thông tin ở dạng bảng.
+
+Trình bày được thông tin ở dạng bảng bằng phần mềm soạn thảo văn bản.
+
+(Đoạn hội thoại về cách trình bày danh sách lớp trong sổ lưu niệm)
+
+Hoạt động 1: Danh sách học sinh
+
+Hình 5.11 cho thấy hai cách trình bày danh sách học sinh: trang bên trái sử dụng bảng, trang bên phải liệt kê lần lượt. Em hãy nhận xét về hai cách trình bày.
+
+Em sẽ lựa chọn cách nào để trình bày danh sách học sinh trong cuốn sổ lưu niệm của lớp em? Tại sao?
+
+TRANG 55
+1. TRÌNH BÀY THÔNG TIN Ở DẠNG BẢNG
+
+Hoạt động 2: Bảng Dựa vào bảng thống kê kết quả khảo sát sở thích trò chơi, em hãy trả lời:
+
+Bảng trên gồm mấy cột, mấy hàng?
+
+Trò chơi nào được nhiều bạn nam/nữ/cả lớp yêu thích nhất?
+
+Nếu không dùng bảng biểu diễn thì việc so sánh và tìm kiếm có dễ không?
+
+Chúng ta có thể sử dụng bảng để trình bày thông tin một cách cô đọng. Bảng cũng thường được sử dụng để ghi lại dữ liệu của công việc thống kê, điều tra, khảo sát.... Từ bảng dữ liệu, em có thể dễ dàng tìm kiếm, so sánh, tổng hợp được thông tin. 
+
+
+2. TẠO BẢNG Trong phần mềm soạn thảo văn bản, các lệnh tạo bảng nằm trong thẻ Insert ở nhóm lệnh Table.  Để tạo bảng:
+
+Chọn Insert.
+
+Chọn Table.
+
+Di chuyển chuột để chọn số cột (columns) và số hàng (rows) cho bảng.
+
+Sau khi nháy chuột, bảng sẽ được chèn vào văn bản. Để đưa dữ liệu vào bảng, em đặt con trỏ soạn thảo vào ô và nhập dữ liệu. Ô của bảng có thể chứa văn bản, hình ảnh,... 
+
+
+TRANG 56
+
+Lưu ý: Cách tạo bảng nhanh chỉ tạo được bảng có tối đa 10 cột, 8 hàng.  Nếu muốn tạo bảng có nhiều hàng, cột hơn:
+
+Chọn Insert > Table > Insert Table. 
+
+Nhập số cột và số hàng của bảng. 
+
+3. ĐỊNH DẠNG BẢNG Khi đặt con trỏ soạn thảo trong bảng, nhóm thẻ Table Tools sẽ xuất hiện giúp em định dạng bảng.  Để chỉnh sửa bảng, em chọn thẻ Layout. Các nhóm lệnh để chỉnh sửa bảng bao gồm:
+
+
+Rows & Columns: Xoá/chèn thêm hàng, cột. 
+
+
+Merge: Gộp, tách ô, tách bảng. 
+
+
+Cell Size: Điều chỉnh kích thước ô. 
+
+
+Alignment: Căn chỉnh lề, hướng của văn bản trong ô. 
+
+4. THỰC HÀNH: TẠO BẢNG
+
+Nhiệm vụ Tạo bảng danh sách thành viên của lớp. Nhập dữ liệu gồm: Họ tên, ngày sinh và ảnh. Chỉnh sửa, định dạng bảng.
+
+TRANG 57
+Hướng dẫn a) Tạo bảng Xác định số cột, số hàng của bảng (ví dụ: 4 cột, 4 hàng). 
+
+b) Chỉnh sửa bảng
+
+Gộp ô (Merge Cells):
+
+Kéo thả chuột để chọn các ô cần gộp.
+
+Trong nhóm thẻ Table Tools, chọn thẻ Layout.
+
+Trong nhóm lệnh Merge, chọn Merge Cells. 
+
+Thay đổi kích cỡ cột và hàng:
+
+Di chuyển con trỏ chuột vào đường biên của cột (hay hàng) cần thay đổi cho đến khi con trỏ chuyển thành dạng mũi tên hai chiều thì kéo thả chuột để điều chỉnh. 
+
+TRANG 58
+c) Nhập thông tin Nhập thông tin của các thành viên vào ô của bảng, thông tin gồm: ảnh, họ tên, ngày sinh. Em có thể bổ sung thêm thông tin khác và chèn thêm hàng, cột để tạo bảng chứa đầy đủ các thành viên trong lớp. 
+
+
+LUYỆN TẬP
+
+Em hãy soạn thảo bảng kết quả khảo sát trò chơi tập thể yêu thích. Nếu cần bổ sung cột Tổng số, em sẽ chèn cột này vào vị trí nào của bảng? Em hãy chèn và điền số liệu cho cột này.
+
+Bản tin sau đây nói về kết quả thực hiện phong trào đọc sách của học sinh khối 6. a) Em hãy tạo một bảng để trình bày cô đọng nội dung của bản tin trên. b) Hãy bổ sung thông tin sau vào bảng: “Năm 2016, có 175 em học sinh yêu thích đọc sách, chiếm 45% tổng số học sinh của khối.”
+
+VẬN DỤNG
+
+Em hãy trình bày các nội dung sau dưới dạng bảng: a) Thời khoá biểu của lớp. b) Thời gian biểu hoạt động các ngày trong tuần của em.
+
+Em hãy xem lại nội dung cuốn sổ lưu niệm và cân nhắc xem phần nội dung nào nên được trình bày ở dạng bảng thì hợp lí hơn. Hãy trình bày lại nội dung đó.
+
+TRANG 59
+BÀI 13: THỰC HÀNH: TÌM KIẾM VÀ THAY THẾ
+
+SAU BÀI NÀY EM SẼ:
+
+Trình bày được tác dụng của công cụ tìm kiếm, thay thế trong phần mềm soạn thảo văn bản.
+
+Sử dụng được công cụ tìm kiếm và thay thế của phần mềm soạn thảo văn bản.
+
+(Câu chuyện về việc An muốn sửa công thức làm kem sữa chua dưa hấu thành kem sữa chua xoài)
+
+1. TẠI SAO PHẢI TÌM KIẾM VÀ THAY THẾ VĂN BẢN?
+
+Hoạt động 1: Đổi công thức làm kem
+
+Từ công thức làm kem sữa chua dưa hấu, muốn thành công thức làm kem sữa chua xoài em làm thế nào?
+
+Trong phần mềm soạn thảo văn bản, em thực hiện những thao tác nào để chỉnh sửa?
+
+Em có biết cách nào chỉnh sửa nhanh hơn không?
+
+Với các văn bản dài, việc tìm kiếm và thay thế thủ công không dễ dàng và nhanh chóng. Các phần mềm soạn thảo văn bản có công cụ Tìm kiếm và Thay thế (Find and Replace) để tìm kiếm và thay thế các từ hoặc cụm từ trong văn bản. Công cụ này giúp thực hiện nhanh chóng và chính xác, tiết kiệm thời gian và không bỏ sót. 
+
+
+
+
+TRANG 60
+TÌM KIẾM VÀ THAY THẾ Công cụ Tìm kiếm và Thay thế giúp tìm kiếm, thay thế từ hoặc cụm từ theo yêu cầu một cách nhanh chóng và chính xác. 
+
+2. SỬ DỤNG CÔNG CỤ TÌM KIẾM VÀ THAY THẾ
+
+Nhiệm vụ Nhập nội dung công thức làm kem sữa chua dưa hấu, sau đó thực hành tìm kiếm cụm từ "dưa hấu" và thay thế bằng từ "xoài".
+
+Hướng dẫn (Sử dụng Microsoft Word)
+
+a) Tìm kiếm
+
+Nháy chuột vào thẻ Home. 
+
+Trong nhóm lệnh Editing, chọn Find. 
+
+Gõ từ, cụm từ cần tìm vào ô Navigation rồi nhấn phím Enter. Các từ, cụm từ tìm thấy sẽ được đánh dấu trong văn bản.
+
+TRANG 61
+b) Thay thế Thao tác thay thế cụm từ "dưa hấu" bằng từ "xoài" được thực hiện theo các bước sau:
+
+Trong nhóm lệnh Editing, chọn Replace.
+
+Gõ từ, cụm từ cần tìm vào ô Find what: (ví dụ: dưa hấu).
+
+
+
+Gõ từ, cụm từ thay thế vào ô Replace with: (ví dụ: xoài).
+
+
+Thực hiện thay thế:
+
+Nháy chuột vào nút Replace để thay thế lần lượt từng từ hoặc cụm từ tìm kiếm được.
+
+Nháy chuột vào nút Replace All để thay thế tất cả các từ hoặc cụm từ tìm kiếm được trong toàn bộ văn bản.
+
+LUYỆN TẬP
+
+An muốn xem lại nội dung bài viết về nhóm bạn thân lớp 6A trong tệp văn bản nhiều trang nhưng không nhớ rõ ở trang nào. An thực hiện thao tác tìm kiếm cụm từ "nhóm bạn thân". An phải thực hiện thao tác gì để xem lần lượt các kết quả tìm thấy? 
+
+Em hãy sắp xếp lại các bước sau đây theo thứ tự đúng để thực hiện thao tác thay thế một từ hoặc cụm từ trong phần mềm soạn thảo văn bản: a) Gõ từ, cụm từ cần thay thế. b) Nháy chuột vào thẻ Home. c) Trong nhóm lệnh Editing, chọn Replace. d) Gõ từ, cụm từ cần tìm. e) Nháy chuột vào nút Replace để thay thế lần lượt từng từ hoặc cụm từ.
+
+
+
+
+
+VẬN DỤNG
+
+Trong các bài học trước, em đã tạo ra một số tệp văn bản cho cuốn sổ lưu niệm. Em hãy xem lại các tệp văn bản này để rà soát lỗi chính tả. Em có thể sử dụng chức năng Tìm kiếm và Thay thế để chỉnh sửa các lỗi chính tả, thay thế các từ viết tắt,... để các tệp văn bản hoàn chỉnh hơn.
+
+TRANG 62
+BÀI 14: THỰC HÀNH TỔNG HỢP: HOÀN THIỆN SỔ LƯU NIỆM
+
+SAU BÀI NÀY EM SẼ:
+
+Biết cách tổng hợp, sắp xếp các nội dung đã có thành một sản phẩm hoàn chỉnh.
+
+NHIỆM VỤ
+
+Từ các kết quả thực hành trong chủ đề này, các nhóm (từ 3 – 5 em) hãy tập hợp và bổ sung thêm nội dung để hoàn thiện cuốn sổ lưu niệm của lớp.
+
+HƯỚNG DẪN
+
+Bước 1. Tập hợp các nội dung đã có Trong các bài học trước, các em đã tạo các tệp văn bản chứa nội dung cuốn sổ lưu niệm của lớp. Các em hãy tập hợp các nội dung đó vào một tệp văn bản có tên Soluuniem.docx. Để thực hiện, em hãy khởi tạo tệp văn bản mới và làm theo các bước sau:
+
+
+Nháy chuột vào thẻ Insert.
+
+Trong nhóm lệnh Text, chọn Object.
+
+Chọn Text from File....
+
+Bước 2. Bổ sung thêm nội dung Xem lại sơ đồ tư duy đã tạo ở Bài 10 để rà soát lại nội dung. Phân công các bạn trong nhóm thu thập thông tin, hình ảnh để bổ sung, đặc biệt là thông tin về các thầy cô giáo, các hoạt động mà lớp đã thực hiện. Soạn thảo các nội dung bổ sung và thực hiện các thao tác định dạng để văn bản có bố cục hợp lí và đẹp mắt.
+
+
+
+TRANG 63
+Bước 3. Tạo trang bìa cho cuốn sổ Để tạo trang bìa, em thực hiện theo các bước sau:
+
+Nháy chuột vào thẻ Insert.
+
+Trong nhóm lệnh Pages, chọn Cover Page.
+
+Chọn một mẫu trang bìa.
+
+Sửa lại nội dung và thay hình trang bìa.
+
+Bước 4. Xem lại nội dung Hãy tưởng tượng các em đã là người lớn và họp lớp 50 năm sau. Hãy cùng xem lại cuốn sổ lưu niệm và nghĩ về câu hỏi "Tại sao chúng ta lại đưa nội dung này vào sổ?". Các nhóm hãy chia sẻ sản phẩm của mình và cả lớp cùng thảo luận để cuốn sổ lưu niệm chung có nội dung đầy đủ và trình bày đẹp nhất.
+
+TRANG 64
+CHỦ ĐỀ 6. GIẢI QUYẾT VẤN ĐỀ VỚI SỰ TRỢ GIÚP CỦA MÁY TÍNH BÀI 15: THUẬT TOÁN
+
+SAU BÀI NÀY EM SẼ:
+
+Diễn tả được sơ lược khái niệm thuật toán, nêu được một vài ví dụ minh hoạ.
+
+Biết thuật toán có thể được mô tả dưới dạng liệt kê hoặc sơ đồ khối.
+
+Gấp hình trò chơi Đông-Tây-Nam-Bắc. Hướng dẫn:
+
+Gấp hai đường chéo của tờ giấy hình vuông để tạo nếp gấp, mở tờ giấy ra.
+
+Gấp bốn góc của tờ giấy vào tâm.
+
+Lật mặt bên kia.
+
+Tiếp tục gấp bốn góc vào tâm.
+
+Đặt tờ giấy đã gấp nằm ngang, luồn ngón cái và ngón trỏ của hai tay vào bốn góc ở mặt dưới.
+
+Chỉnh sửa các nếp gấp.
+
+1. THUẬT TOÁN
+
+Hoạt động 1: Khái niệm thuật toán
+
+Nếu đảo thứ tự của bước 3 và bước 4 trong hướng dẫn trên thì em có gấp được hình trò chơi không? Tại sao? 
+
+Trước khi thực hiện theo hướng dẫn trên, em cần có gì? Sau khi thực hiện lần lượt sáu bước, em nhận được kết quả là gì? 
+
+TRANG 65
+Từ một tờ giấy hình vuông, thực hiện lần lượt sáu bước như hướng dẫn, em sẽ có kết quả là hình gấp trò chơi Đông-Tây-Nam-Bắc. Nếu em bỏ qua một bước hoặc thay đổi thứ tự các bước thì kết quả sẽ khác. Chỉ khi thực hiện đúng trình tự các bước thì em mới nhận được kết quả đúng.
+
+
+Hướng dẫn gấp hình này là một thuật toán. Trong thuật toán này, tờ giấy hình vuông được gọi là đầu vào (Input); hình gấp trò chơi được gọi là đầu ra (Output). Chỉ dẫn ở mỗi bước cần cụ thể, rõ ràng và trình tự các bước rất quan trọng.
+
+
+Trong cuộc sống, các thuật toán có ở khắp nơi, ví dụ như quy trình chế biến món ăn, cách giải một bài toán, quy trình gấp một chiếc áo.
+
+
+Thuật toán là một dãy các chỉ dẫn rõ ràng, có trình tự sao cho khi thực hiện những chỉ dẫn này người ta giải quyết được vấn đề hoặc nhiệm vụ đã cho.
+
+2. MÔ TẢ THUẬT TOÁN
+
+Hoạt động 2: Mô tả thuật toán Ngoài cách trình bày thuật toán bằng ngôn ngữ tự nhiên, em còn biết cách nào khác không? Cách đó có hiệu quả không? Vì sao? 
+
+Ngoài cách mô tả bằng việc dùng ngôn ngữ tự nhiên để liệt kê các bước, người ta còn mô tả thuật toán bằng cách sử dụng sơ đồ khối. Sơ đồ khối của thuật toán gồm một số hình mô tả các bước và đường có mũi tên để chỉ trình tự thực hiện các bước của thuật toán.
+
+
+TRANG 66
+Quy ước sơ đồ khối:
+
+Hình elip: Bắt đầu hoặc Kết thúc.
+
+Hình bình hành: Đầu vào hoặc Đầu ra.
+
+Hình chữ nhật: Bước xử lí.
+
+Hình thoi: Bước kiểm tra điều kiện.
+
+Mũi tên: Chỉ hướng thực hiện tiếp theo.
+
+MÔ TẢ THUẬT TOÁN
+
+Có hai cách để mô tả thuật toán là liệt kê các bước bằng ngôn ngữ tự nhiên và sử dụng sơ đồ khối.
+
+Sơ đồ khối của thuật toán là một sơ đồ gồm các hình mô tả các bước và đường có mũi tên để chỉ hướng thực hiện.
+
+Câu hỏi
+
+Câu nào sau đây sai khi nói về vai trò của mũi tên trong sơ đồ khối của thuật toán? A. Hướng mũi tên cho thấy hướng đi trong sơ đồ khối. B. Mũi tên được sử dụng để chỉ hướng thực hiện tiếp theo. C. Mũi tên được sử dụng chỉ để kết nối các hình khối trong sơ đồ khối.
+
+
+
+
+Em hãy ghép mỗi hình với ý nghĩa phù hợp trong sơ đồ khối của thuật toán.
+
+TRANG 67
+LUYỆN TẬP
+
+Em hãy tìm đầu vào, đầu ra của các thuật toán sau đây: a) Thuật toán tính trung bình cộng của hai số a, b. b) Thuật toán tìm ước chung lớn nhất của hai số tự nhiên a và b.
+
+
+Em hãy quan sát sơ đồ khối ở Hình 6.3 và cho biết sơ đồ khối mô tả thuật toán gì? Xác định đầu vào và đầu ra của thuật toán. Mô tả lại thuật toán dưới dạng liệt kê.
+
+Em hãy sắp xếp các phần được đánh số trong Hình 6.4 để được thuật toán tính trung bình cộng của hai số a và b.
+
+VẬN DỤNG
+Bạn An đã sửa công thức làm kem sữa chua dưa hấu thành công thức làm kem sữa chua xoài như Hình 6.5. a) Phần hướng dẫn làm kem sữa chua xoài gồm 7 bước là một thuật toán. Em hãy xác định đầu vào và đầu ra của thuật toán. b) Em hãy dùng sơ đồ khối để thể hiện thuật toán đó.
+Em hãy mô tả thuật toán tính điểm trung bình ba môn Toán, Ngữ Văn, Ngoại ngữ theo hai cách: liệt kê các bước và sơ đồ khối.
+Em hãy nêu ví dụ về thuật toán giải quyết một nhiệm vụ trong thực tế. Hãy xác định đầu vào, đầu ra và các bước thực hiện thuật toán để giải quyết nhiệm vụ đó.
+TRANG 68
+BÀI 16: CÁC CẤU TRÚC ĐIỀU KHIỂN
+
+SAU BÀI NÀY EM SẼ:
+
+Biết các cấu trúc: tuần tự, rẽ nhánh và lặp.
+
+Mô tả được thuật toán đơn giản có các cấu trúc tuần tự, rẽ nhánh và lặp dưới dạng liệt kê hoặc sơ đồ khối.
+
+TRÒ CHƠI: ĐÚNG HAY SAI? Chuẩn bị: Giáo viên chuẩn bị phiếu thuộc hai chủ đề Sinh học và Toán. Mỗi phiếu ghi một câu khẳng định. Chọn ra 4 bạn chơi. Cách chơi: Mỗi lượt chơi là hai bạn và được chọn một chủ đề. Trong một phút, hai bạn sẽ bốc phiếu và trả lời. Bạn thứ nhất đọc câu ghi trong phiếu. Bạn thứ hai trả lời bằng cách gật đầu (đồng ý) hoặc lắc đầu (không đồng ý). Kết quả: Cả lớp tổ chức đánh giá. Mỗi câu trả lời đúng được một điểm. Hai bạn thắng cuộc là hai bạn có số điểm cao nhất.
+
+
+
+1. CẤU TRÚC TUẦN TỰ, CẤU TRÚC RẼ NHÁNH
+
+Hoạt động 1: Đánh giá kết quả chơi
+
+Trong trò chơi, điều kiện để cặp chơi được cộng một điểm là gì? 
+
+Việc đánh giá điểm gồm những bước nào? Em hãy viết các bước đó ra giấy.
+
+Các bước của thuật toán gấp hình trò chơi ở Bài 15 được thực hiện lần lượt từng bước là cấu trúc tuần tự.
+
+Trong trò chơi, khi đánh giá kết quả, nếu bạn trả lời đúng thì được cộng một điểm. Tùy vào kết quả kiểm tra là đúng hay sai mà bước xử lí tiếp theo sẽ rẽ theo "nhánh" tương ứng. Cấu trúc như vậy được gọi là cấu trúc rẽ nhánh (hay cấu trúc lựa chọn).
+
+
+TRANG 69
+Hình thoi được dùng để mô tả điều kiện trong cấu trúc rẽ nhánh.
+
+
+Cấu trúc rẽ nhánh dạng thiếu: Chỉ thực hiện một công việc sau khi kiểm tra điều kiện (ví dụ: nếu trả lời đúng thì cộng 1 điểm).
+
+
+Cấu trúc rẽ nhánh dạng đủ: Cả hai trường hợp đúng hay sai của điều kiện đều được thực hiện bằng hành động tương ứng (ví dụ: nếu câu khẳng định đúng thì gật đầu, nếu sai thì lắc đầu).
+
+Các cấu trúc điều khiển
+
+
+Cấu trúc tuần tự: thực hiện lần lượt các lệnh theo trình tự từ bắt đầu đến kết thúc.
+
+
+Cấu trúc rẽ nhánh dạng thiếu: Nếu Điều kiện đúng thì thực hiện Lệnh.
+
+
+Cấu trúc rẽ nhánh dạng đủ: Nếu Điều kiện đúng thì thực hiện Lệnh 1, nếu sai thì thực hiện Lệnh 2.
+
+Câu hỏi
+
+Em hãy kể hai công việc trong cuộc sống được thực hiện tuần tự theo các bước và mô tả một công việc bằng sơ đồ khối.
+
+Câu "Nếu trời mưa thì em không đi đá bóng" có chứa cấu trúc nào? Em hãy mô tả câu này bằng sơ đồ khối.
+
+TRANG 70
+2. CẤU TRÚC LẶP
+
+Hoạt động 2: Cấu trúc lặp
+
+Trong trò chơi ở phần khởi động, hoạt động nào được lặp lại? 
+
+Điều kiện để dừng trò chơi là gì? 
+
+Trong trò chơi, hoạt động đọc phiếu và trả lời được lặp lại cho đến khi hết thời gian quy định. Đây là một ví dụ về công việc được lặp lại nhiều lần, được biểu diễn bởi cấu trúc lặp.
+
+
+Trong cấu trúc lặp, bao giờ cũng có khâu kiểm tra điều kiện kết thúc quá trình lặp. Ví dụ, thuật toán kiểm tra điều kiện "còn thời gian" hay không để trò chơi tiếp tục lặp lại hoặc kết thúc.
+
+
+Ba cấu trúc tuần tự, rẽ nhánh và lặp là đủ để mô tả mọi thuật toán.
+
+Câu hỏi
+
+Em hãy kể hai công việc trong cuộc sống mà việc thực hiện gồm các bước được lặp lại nhiều lần.
+
+Bạn Khoa muốn chú mèo trong Scratch di chuyển 10 bước một liên tục cho đến khi chạm biên thì dừng lại. a) Điều kiện để chú mèo dừng lại là gì? b) Em hãy vẽ sơ đồ khối đó vào vở và điền các bước để hoàn thành sơ đồ khối mô tả thuật toán.
+
+TRANG 71 BÀI 17: CHƯƠNG TRÌNH MÁY TÍNHSAU BÀI NÀY EM SẼ:Biết được chương trình là mô tả một thuật toán để máy tính "hiểu" và thực hiện được. 1Để rèn luyện kĩ năng mô tả thuật toán bằng ngôn ngữ tự nhiên, hai bạn An và Khoa đã chơi trò chơi "Làm theo chỉ dẫn". 2Khoa chuẩn bị một bức tranh đơn giản và không cho An biết nội dung. 3An cũng không được nhìn bức tranh. 4Khoa lần lượt đưa ra chỉ dẫn để An vẽ lại bức tranh. 5Sau khi hoàn thành, hai bạn so sánh hai bức tranh để xem các chỉ dẫn của Khoa có rõ ràng không và An có thực hiện đúng không. 61. CHƯƠNG TRÌNH MÁY TÍNHHoạt động 1: Thực hiện thuật toánTrong trò chơi "Làm theo chỉ dẫn", Khoa cần hiểu và thực hiện được chỉ dẫn của An để hoàn thành việc vẽ. Các chỉ dẫn của An cũng cần phải rõ ràng, dễ hiểu. 7Đó là một ví dụ về việc thực hiện thuật toán theo các bước được liệt kê bằng ngôn ngữ tự nhiên. 8Nếu thuật toán được chuyển giao cho máy tính thực hiện thì làm thế nào để máy tính có thể hiểu và thực hiện được? 9Từ khi máy tính ra đời, nhiều công việc được thực hiện nhanh, chính xác và hiệu quả hơn. 10Muốn máy tính giúp giải quyết công việc thì ta phải chỉ dẫn cho máy tính cách thực hiện. 11Máy tính không thể hiểu được những chỉ dẫn bằng ngôn ngữ tự nhiên hay sơ đồ khối. 12Do đó cần sử dụng một ngôn ngữ mà máy tính hiểu được. 13Ngôn ngữ lập trình chính là ngôn ngữ được dùng để tạo ra chương trình chỉ dẫn cho máy tính. 14Chương trình là tập hợp các lệnh viết bằng ngôn ngữ lập trình nào đó, chỉ dẫn theo từng bước của thuật toán để máy tính thực hiện. 15Nói cách khác, chương trình là một cách mô tả khác của thuật toán để máy tính có thể "hiểu" và thực hiện được. 16
+
+TRANG 72 Chương trình máy tính dựa trên các dữ liệu đầu vào, tiến hành các bước xử lí để trả lại kết quả đầu ra. 17Em cũng có thể chỉ dẫn máy tính thực hiện công việc bằng cách sử dụng ngôn ngữ lập trình. 18Scratch là ngôn ngữ lập trình trực quan em đã được học ở Tiểu học. 19Ngoài Scratch, còn có nhiều ngôn ngữ lập trình khác như: Python, C, Java,... 20Ví dụ dưới đây là chương trình chỉ dẫn máy tính thực hiện công việc tính tổng hai số a và b bằng ngôn ngữ lập trình trực quan Scratch: 21Thuật toán:Tính tổng hai số a, bĐầu vào: hai số a, b 22Đầu ra: tổng của a và b 23Nhập hai số a và b. 24tong = a + b. 25Thông báo giá trị của tong (Tổng a và b là:). 26262626(Hình ảnh chương trình Scratch tương ứng với thuật toán)CHƯƠNG TRÌNHMáy tính thực hiện công việc theo chương trình. 27Chương trình là mô tả thuật toán để máy tính "hiểu" và thực hiện được. 28Chương trình dựa trên các dữ liệu đầu vào, tiến hành các bước xử lí để trả lại kết quả đầu ra. 29Dựa vào chương trình tính tổng hai số bằng ngôn ngữ tự nhiên và chương trình Scratch ở Hình 6.13, em hãy bổ sung nội dung vào bảng sau: 30Công việcMô tả thuật toán bằng ngôn ngữ tự nhiênChương trình máy tính viết bằng Scratch (số thứ tự của câu lệnh)Nhập dữ liệu đầu vào(?)(?)Xử lí(?)(?)Thông báo đầu ra(?)(?)2. THỰC HÀNH: TẠO CHƯƠNG TRÌNH MÁY TÍNHNhiệm vụBa bạn An, Minh, Khoa đã làm những tấm thiệp chúc mừng để bán lấy tiền mua sách tặng các bạn học sinh vùng khó khăn. 31Gọi số tiền bán được là a, số tiền mua vật liệu là b, cần tính toán số tiền lãi thu được hoặc số tiền bị lỗ. 32Em hãy mô tả thuật toán giải quyết yêu cầu trên bằng sơ đồ khối và chương trình Scratch. 33
+
+TRANG 73 Hướng dẫna) Xác định đầu vào, đầu ra của bài toánYêu cầu bài toán là tính số tiền lãi thu được hoặc số tiền bị lỗ. 34Để đơn giản, nếu số tiền bán được bằng tiền mua vật liệu, ta coi như tiền lãi bằng 0. 35Như vậy, nếu số tiền bán được lớn hơn hoặc bằng tiền mua vật liệu thì tiền lãi = a - b, còn không thì tiền bị lỗ = b - a. 36Đầu vào: hai số a, b. 37Đầu ra: số tiền lãi hoặc số tiền bị lỗ. 38b) Trình bày thuật toán bằng sơ đồ khối(Hình ảnh sơ đồ khối mô tả thuật toán tính toán tiền bán thiệp)c) Chương trình Scratch tính toán tiền bán thiệp(Bảng so sánh song song giữa sơ đồ khối và các khối lệnh Scratch tương ứng)
+
+TRANG 74 LUYỆN TẬPTìm câu sai.a) Chương trình máy tính là một dãy các lệnh mà máy tính có thể hiểu và thực hiện được. 39b) Chương trình máy tính được viết bằng ngôn ngữ lập trình. 40c) Máy tính có thể thực hiện các lệnh trong chương trình theo trình tự tuỳ ý. 41Cho chương trình Scratch như ở Hình 6.15.a) Em hãy cho biết chương trình đó thực hiện thuật toán nào? 42b) Hãy xác định đầu vào, đầu ra của thuật toán đó. 43c) Hãy cho ví dụ cụ thể giá trị dữ liệu đầu vào và cho biết kết quả đầu ra tương ứng. 44d) Hãy trình bày thuật toán bằng sơ đồ khối. 45Cho chương trình Scratch như ở Hình 6.16. Em hãy trả lời các câu hỏi sau:a) Chương trình đó thực hiện công việc gì? 46b) Các cấu trúc điều khiển tuần tự, rẽ nhánh và lặp có được sử dụng trong chương trình không? Hãy nêu các câu lệnh thể hiện cấu trúc đó. 47c) Thực hành tạo chương trình bằng Scratch. 48VẬN DỤNGEm hãy vẽ sơ đồ khối mô tả thuật toán tìm số lớn hơn trong hai số a và b. Từ sơ đồ khối, hãy viết chương trình Scratch thực hiện thuật toán. 49494949Em hãy viết chương trình Scratch thực hiện thuật toán tính trung bình cộng của ba số. 50
+
+TRANG 75 BẢNG GIẢI THÍCH THUẬT NGỮThuật ngữGiải thíchTrangBảng dữ liệuDữ liệu được tổ chức dưới dạng bảng.54Cấu trúc điều khiểnCách tổ chức thuật toán để xác định thứ tự thực hiện của các câu lệnh.67Cấu trúc lặpCách tổ chức chương trình để thực hiện lặp lại nhiều lần các câu lệnh.69Cấu trúc rẽ nhánhCách tổ chức chương trình để xác định sự thay đổi thứ tự thực hiện các câu lệnh.67Cấu trúc tuần tựCách tổ chức chương trình thực hiện các câu lệnh theo thứ tự xuất hiện.67Chủ đề chínhChủ đề bao quát các nội dung của một sơ đồ tư duy.42Chủ đề nhánhChủ đề được triển khai từ chủ đề chính.42Dịch vụ thư điện tửDịch vụ cung cấp tài khoản, lưu trữ, soạn thảo, quản lí,... gửi và nhận thư điện tử.32Đăng nhậpMở hộp thư điện tử để bắt đầu sử dụng dịch vụ.34Đăng xuấtĐóng hộp thư điện tử để thoát ra khỏi dịch vụ.34Đầu raKết quả được đưa ra từ quá trình xử lí một thuật toán.64Đầu vàoDữ liệu được đưa vào quá trình xử lí theo một thuật toán.64Máy tìm kiếmLà hệ thống phần mềm hỗ trợ người sử dụng tìm kiếm thông tin trên Internet.28Mô tả thuật toánTrình bày thuật toán bằng ngôn ngữ tự nhiên hoặc sơ đồ khối.64Phần mềm mạngPhần mềm được dùng để kết nối, quản lí và truyền thông tin giữa các thiết bị trên mạng.18Quy tắc an toànNhững điều cần tuân thủ để tự bảo vệ mình, bảo vệ thiết bị và bảo vệ thông tin.38Tài khoản thư điện tửBao gồm địa chỉ hộp thư, mật khẩu và những cài đặt khác của riêng người dùng.32Trang chủTrang được mở ra đầu tiên khi truy cập website.24Từ khoá (tìm kiếm)Từ hoặc cụm từ đặc trưng cho nội dung cần tìm kiếm.28Xử lí thông tinQuá trình sắp xếp, biến đổi thông tin nhằm có thông tin hữu ích hơn.8
+
+TRANG 76 (Trang này không có nội dung văn bản để trích xuất)
+
+TRANG 77 BỘ SÁCH GIÁO KHOA LỚP 6 - KẾT NỐI TRI THỨC VỚI CUỘC SỐNGNgữ văn 6, tập một 51Ngữ văn 6, tập hai 52Toán 6, tập một 53Toán 6, tập hai 54Khoa học tự nhiên 6 55Công nghệ 6 56Lịch sử và Địa lí 6 57Mĩ thuật 6 58Âm nhạc 6 59Giáo dục công dân 6 60Tin học 6 61Hoạt động trải nghiệm, hướng nghiệp 6 62Giáo dục thể chất 6 63Tiếng Anh 6, tập một 64Tiếng Anh 6, tập hai 65Các đơn vị đầu mối phát hànhMiền Bắc: CTCP Đầu tư và Phát triển Giáo dục Hà Nội, CTCP Sách và Thiết bị Giáo dục miền Bắc 66Miền Trung: CTCP Đầu tư và Phát triển Giáo dục Đà Nẵng, CTCP Sách và Thiết bị Giáo dục miền Trung 67Miền Nam: CTCP Đầu tư và Phát triển Giáo dục Phương Nam, CTCP Sách và Thiết bị Giáo dục miền Nam 68Cửu Long: CTCP Sách và Thiết bị Giáo dục Cửu Long 69Sách điện tử: http://hanhtrangso.nxbgd.vn 70Kích hoạt để mở học liệu điện tử: Cào lớp nhũ trên tem để nhận mã số. Truy cập http://hanhtrangso.nxbgd.vn và nhập mã số. 71717171Giá: 13.000 ₫

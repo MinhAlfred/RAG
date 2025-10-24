@@ -1,0 +1,2408 @@
+--- PAGE 1 ---
+KẾT NỐI TRÍ THỨC VỚI CUỘC SỐNG
+NGUYỄN CHÍ CÔNG (Tổng Chủ biên)
+HÀ ĐẶNG CAO TÙNG (Chủ biên)
+PHAN ANH - NGUYỄN HẢI CHÂU
+HOÀNG THỊ MAI – NGUYỄN THỊ HOÀI NAM
+TIN HỌC
+8
+NHÀ XUẤT BẢN GIÁO DỤC VIỆT NAM
+BẢN MẪU
+Tháng 10-2022
+
+--- PAGE 2 ---
+NGUYỄN CHÍ CÔNG (Tổng Chủ biên) - HÀ ĐẶNG CAO TÙNG (Chủ biên)
+PHAN ANH NGUYỄN HẢI CHÂU - HOÀNG THỊ MAI – NGUYỄN THỊ HOÀI NAM
+TIN HỌC 8
+KẾT NỐI TRI THỨC VỚI CUỘC SỐNG
+BẢN MẪU
+Tháng 10-2022
+NHÀ XUẤT BẢN GIÁO DỤC VIỆT NAM
+
+--- PAGE 3 ---
+HƯỚNG DẪN SỬ DỤNG SÁCH
+Sách giáo khoa Tin học 8 gồm 6 chủ đề với 20 bài học.
+Trong đó, chủ đề Tin học ứng dụng có hai chủ đề con để lựa chọn là Soạn thảo văn bản và trình chiếu nâng cao (Bài 8a đến Bài 11a) và Làm quen với phần mềm chỉnh sửa ảnh (Bài 8b đến Bài 11b).
+Các bài học được xây dựng với cấu trúc thống nhất.
+Sau đây là những hướng dẫn để em sử dụng sách hiệu quả hơn.
+Mục tiêu: Giúp em biết cần đạt được gì sau bài học.
+Khởi động: Giúp em nhận biết ý nghĩa của bài học bằng cách kết nối những tình huống xuất hiện trong cuộc sống với nội dung bài học.
+- Nội dung bài học:
+- Các hoạt động: Giúp lớp học tích cực, bài học dễ tiếp thu, học sinh chủ động hơn trong quá trình nhận thức.
+- Kiến thức mới: Cung cấp cho học sinh nội dung chính của bài học, giúp em bổ sung kiến thức nhằm đạt được mục tiêu của bài học.
+- Hộp kiến thức: Ghi ngắn gọn hoặc tóm tắt kiến thức mới. Em có thể dùng hộp kiến thức cùng với bảng giải thích thuật ngữ (ở cuối sách) để ôn tập hoặc tra cứu thuật ngữ mới.
+Câu hỏi: Giúp em kiểm tra xem mình đã hiểu bài chưa.
+- Luyện tập: Gồm những câu hỏi, bài tập để củng cố kiến thức, kĩ năng trong bài học.
+- Vận dụng: Gồm những câu hỏi, bài tập yêu cầu em kết hợp kiến thức, kĩ năng đã học để giải quyết tình huống trong thực tiễn cuộc sống. Qua đó, em sẽ phát triển năng lực tư duy và hành động của mình.
+Sách sử dụng các phần mềm Microsoft Word, Microsoft Excel, Microsoft PowerPoint, phần mềm chỉnh sửa ảnh GIMP, ngôn ngữ lập trình trực quan Scratch để minh hoạ và hướng dẫn thực hành.
+Trong các đoạn hội thoại, có ba nhân vật là ba bạn học sinh lớp 8: An, Minh, Khoa. Mỗi bạn có một sở trường khác nhau, đại diện cho một trong ba mạch kiến thức của môn Tin học là Học vấn số hoá phổ thông, Công nghệ thông tin và truyền thông, Khoa học máy tính.
+An
+Minh
+Khoa
+Hãy bảo quản, giữ gìn sách giáo khoa để dành tặng các em học sinh lớp sau!
+2
+
+--- PAGE 4 ---
+LỜI NÓI ĐẦU
+Các em học sinh yêu quý!
+Sách giáo khoa Tin học 8 tiếp nối các bài học của những năm học trước nhằm tiếp tục phát triển năng lực của các em trong lĩnh vực Tin học và rèn luyện cho các em những phẩm chất cần có để tham gia vào xã hội kĩ thuật số.
+Cuốn sách sẽ kể cho các em nghe câu chuyện về sự phát triển của các công cụ tính toán, chỉ cho các em biết cách đánh giá và sử dụng thông tin, hướng dẫn các em sử dụng những công cụ xử lí dữ liệu dạng số, dạng văn bản, dạng hình ảnh,... để các em có thể tạo ra những sản phẩm kĩ thuật số cho riêng mình và chia sẻ với người khác.
+Được biên soạn theo Chương trình Giáo dục phổ thông 2018, Tin học 8 giúp các em biết viết những chương trình máy tính để giải quyết nhiều bài toán hay tạo ra những trò chơi đơn giản trên máy tính,... và lần đầu tiên các em nhận ra rằng máy tính không chỉ chứa những điều thú vị mà còn làm tăng khả năng của mỗi người, tạo ra nhiều nghề nghiệp mới mà các em có thể theo đuổi lâu dài.
+Các ví dụ trong sách gần gũi với các em trong đời sống hằng ngày nhưng cũng ẩn giấu nhiều điều thú vị, thúc đẩy các em tìm hiểu, khám phá,... đưa các em vào thế giới kĩ thuật số có biết bao nhiêu điều kì thú.
+Chúc các em học tập chăm chỉ và thành công.
+3
+
+--- PAGE 5 ---
+MỤC LỤC
+Chủ đề 1. Máy tính và cộng đồng, Trang 5
+Bài 1. Lược sử công cụ tính toán, Trang 5
+Chủ đề 2. Tổ chức lưu trữ, tìm kiếm và trao đổi thông tin, Trang 10
+Bài 2. Thông tin trong môi trường số, Trang 10
+Bài 3. Thực hành: Khai thác thông tin số, Trang 14
+Chủ đề 3. Đạo đức, pháp luật và văn hoá trong môi trường số, Trang 18
+Bài 4. Đạo đức và văn hoá trong sử dụng công nghệ kĩ thuật số, Trang 18
+Chủ đề 4. Ứng dụng tin học, Trang 21
+Bài 5. Sử dụng bảng tính giải quyết bài toán thực tế, Trang 21
+Bài 6. Sắp xếp và lọc dữ liệu, Trang 27
+Bài 7. Trực quan hoá dữ liệu, Trang 32
+a. Soạn thảo văn bản và trình chiếu nâng cao, Trang 36
+Bài 8a. Làm việc với danh sách dạng liệt kê và hình ảnh trong văn bản, Trang 36
+Bài 9a. Tạo đầu trang, chân trang cho văn bản, Trang 42
+Bài 10a. Định dạng nâng cao cho trang chiếu, Trang 46
+Bài 11a. Sử dụng bản mẫu tạo bài trình chiếu, Trang 51
+b. Làm quen với phần mềm chỉnh sửa ảnh, Trang 56
+Bài 8b. Phần mềm chỉnh sửa ảnh, Trang 56
+Bài 9b. Thay đổi khung hình, kích thước ảnh, Trang 62
+Bài 10b. Thêm văn bản, tạo hiệu ứng cho ảnh, Trang 66
+Bài 11b. Thực hành tổng hợp, Trang 70
+Chủ đề 5. Giải quyết vấn đề với sự trợ giúp của máy tính, Trang 73
+Bài 12. Từ thuật toán đến chương trình, Trang 73
+Bài 13. Biểu diễn dữ liệu, Trang 76
+Bài 14. Cấu trúc điều khiển, Trang 80
+Bài 15. Gỡ lỗi, Trang 86
+Chủ đề 6. Hướng nghiệp với Tin học, Trang 91
+Bài 16. Tin học với nghề nghiệp, Trang 91
+Bảng giải thích thuật ngữ, Trang 95
+
+--- PAGE 6 ---
+CHỦ ĐỀ 1. MÁY TÍNH VÀ CỘNG ĐỒNG
+BÀI 1 LƯỢC SỬ CÔNG CỤ TÍNH TOÁN
+Sau bài học này em sẽ:
+Trình bày được sơ lược lịch sử phát triển máy tính.
+Nêu được ví dụ cho thấy sự phát triển máy tính đã đem đến những thay đổi lớn lao cho xã hội loài người.
+Công cụ tính toán đầu tiên
+Các phép tính đầu tiên được con người thực hiện bằng cách sử dụng 10 ngón tay. Cho đến nay, hệ thống ghi số thập phân (cách ghi số sử dụng các chữ số từ 0 đến 9) vẫn là cách ghi số phổ biến hơn cả. Trong tiếng Anh, từ chữ số (digit) có nguồn gốc từ chữ digitus (trong tiếng Latin có nghĩa là ngón tay).
+Bàn tính
+6 302 7154 08
+Hình 1.1. Bàn tính hiển thị số 6 302 715 408
+Hơn 2000 năm trước Công nguyên, con người đã biết làm các phép tính số học. Một trong những công cụ tính toán sớm nhất là bàn tính (Hình 1.1).
+1. MÁY TÍNH CƠ KHÍ
+Hoạt động 1 Sự ra đời của máy tính
+Hầu hết mọi người nghĩ về máy tính như một thiết bị điện tử, có khả năng xử lí dữ liệu đa dạng với tốc độ cao và có dung lượng lưu trữ lớn. Em hãy tìm hiểu và cho biết:
+1. Tên của một trong những chiếc máy tính đầu tiên.
+2. Chiếc máy đó có thể làm được những gì?
+3. Ý tưởng nào đã thúc đẩy sự phát minh ra máy tính?
+Những chiếc bánh răng
+Ý tưởng cơ giới hoá việc tính toán đóng vai trò quan trọng trong lịch sử phát triển của máy tính. Năm 1642, nhà bác học người Pháp Blaise Pascal, khi đó chưa đầy 20 tuổi, đã cho ra đời chiếc máy tính cơ khí Pascaline (Hình 1.2) để giúp đỡ cha trong việc tính thuế.
+Hình 1.2. Chiếc máy tính cơ khí đầu tiên Pascaline
+5
+
+--- PAGE 7 ---
+Sau Pascal, nhà Toán học người Đức Gottfried Leibniz đã cải tiến và thêm phép tính nhân, chia vào máy tính của Pascal để nó thực hiện được cả bốn phép tính số học.
+Dự án máy tính của Babbage
+Năm 1833 đánh dấu dự án đầy tham vọng của nhà Toán học, nhà phát minh, kĩ sư cơ khí người Anh Charle Babbage nhằm thiết kế và chế tạo những cỗ máy, thực hiện việc tính toán một cách tự động nhằm tránh những sai sót của con người trong việc tính toán và sao chép các con số. Nguyên lí thiết kế máy tính của Babbage giống như máy tính ngày nay. Đó là loại máy đa năng, thực hiện tính toán tự động và có những ứng dụng ngoài tính toán thuần tuý. Vì vậy, mặc dù dự án của ông không được hoàn thành do hạn chế về công nghệ, ông vẫn được coi là cha đẻ của công nghệ máy tính.
+. Ý tưởng cơ giới hoá việc tính toán đóng vai trò quan trọng trong lịch sử phát triển của máy tính.
+Năm 1642, nhà bác học Blaise Pascal đã sáng chế ra chiếc máy tính cơ khí Pascaline.
+Năm 1833, nhà Toán học Charle Babbage đã thiết kế máy tính đa năng, tính toán tự động tương tự như máy tính ngày nay.
+Máy tính trong dự án của Babbage có những đặc điểm gì?
+A. Máy tính cơ học, thực hiện tự động.
+B. Máy tính có những ứng dụng ngoài tính toán thuần tuý.
+C. Có thiết kế giống với máy tính ngày nay.
+D. Cả ba đặc điểm trên.
+2. MÁY TÍNH ĐIỆN TỪ
+Máy tính điện – cơ và kiến trúc Von Neumann
+Năm 24 tuổi, Claude Shannon đã chỉ ra rằng có thể sử dụng các rơ le để thực hiện các thao tác tính toán trên các dãy bit. Đó là nền tảng cho việc thiết kế các máy tính kĩ thuật số hiện đại. Thời kì đầu, các máy tính được thiết kế dựa trên các rơ le, còn được gọi là máy tính điện – cơ.
+Được thôi thúc bởi ý tưởng của Babbage, được IBM tài trợ, năm 1943, Howard Aiken đã chế tạo thành công chiếc máy tính điều khiển tuần tự tự động (ASCC Automatic Sequence Controlled Calculator), một máy tính điện cơ đa năng, có thể hoạt động với sự can thiệp tối thiểu của con người. Nó thực hiện phép tính cộng mất gần một giây và phép tính nhân mất khoảng 6 giây. Máy tính này được giới thiệu ở Đại học Harvard vào năm 1944 nên còn được biết tới với cái tên Harvard Mark I.
+Năm 1945, nhà Toán học người Mỹ gốc Hung-ga-ry John Von Neumann đã trình bày nguyên lí hoạt động của máy tính với khái niệm “chương trình được lưu trữ". Theo đó: 1) các lệnh của chương trình được lưu trữ trong bộ nhớ giống như dữ liệu; 2) để thực hiện nhiệm vụ nào, chỉ cần tải chương trình tương ứng vào bộ nhớ; 3) chương trình được nạp từ bộ nhớ vào bộ xử lí từng lệnh một và thực hiện xong mới nạp lệnh tiếp theo (tuần tự).
+
+--- PAGE 8 ---
+Theo nguyên lí đó, máy tính cần được cấu tạo dựa trên kiến trúc Von Neumann, gồm bộ xử lí, bộ nhớ, các cổng kết nối với thiết bị vào ra và đường truyền giữa các bộ phận đó như trong Hình 1.3.
+Bộ xử lí
+Thiết bị vào
+Thiết bị ra
+Bộ nhớ
+Hình 1.3. Sơ đồ cấu trúc máy tính
+Trải qua nhiều giai đoạn, dựa trên những tiến bộ về công nghệ, máy tính điện tử có thể được phân chia thành năm thế hệ.
+Thế hệ thứ nhất (1945 – 1955)
+Công nghệ đèn điện tử chân không đầu thế kỉ XX mau chóng thay thế rơ le điện cơ, đánh dấu kỉ nguyên đầu tiên của máy tính điện tử. Mỗi giây, chiếc ENIAC (Hình 1.4) có thể thực hiện 5000 phép tính cộng hoặc 350 phép tính nhân.
+Đặc điểm máy tính thế hệ đầu tiên:
+• Thành phần điện tử chính: đèn điện tử chân không.
+• Bộ nhớ chính: trống từ.
+• Kích thước: rất lớn (thường chiếm một căn phòng).
+• Thiết bị vào – ra: máy đọc và tạo thẻ đục lỗ.
+Hình 1.4. Máy tính tích hợp điện tử số (ENIAC)
+Ví dụ: Atanasoff-Berry Computer (ABC 1942), ENIAC (1943), EDVAC (1945)....
+Thế hệ thứ hai (1955-1965)
+Bóng bán dẫn là một cải tiến lớn, tạo nên thế hệ máy tính mới, có kích thước nhỏ hơn thế hệ đầu tiên. Chúng cũng rẻ hơn, tiêu thụ ít điện năng hơn, đáng tin cậy hơn và chạy nhanh hơn so với các máy tính làm bằng đèn điện tử chân không. Máy tính thế hệ thứ hai nhanh hơn máy tính thế hệ trước hàng chục lần. Chẳng hạn, chiếc IBM 7090 có thể tính được 229 000 phép tính mỗi giây. Chiếc máy tính thế hệ thứ hai được đưa vào nước ta năm 1968 là MINSK 22 (Hình 1.5) được sản xuất tại nước cộng hoà Belarus vào khoảng năm 1965.
+Đặc điểm máy tính thế hệ thứ hai:
+• Thành phần điện tử chính: bóng bán dẫn.
+• Bộ nhớ: lõi từ, băng từ.
+• Kích thước: lớn (bộ phận xử lí và tính toán lớn như những chiếc tủ).
+• Thiết bị vào ra: máy đọc và in băng đục lỗ, máy đọc và in băng từ.
+Ví dụ: IBM 7090 (1959), IBM 7094 (1962), UNIVAC 1107 (1960),...
+Thế hệ thứ ba (1965-1974)
+Máy tính thế hệ thứ ba là máy tính được chế tạo dựa trên các mạch tích hợp (IC - Integrated Circuit). Công nghệ này làm giảm kích thước và tăng tốc độ tính toán của máy tính so với thế hệ thứ hai. Chẳng hạn, IBM System/360 Model 30 có thể thực hiện khoảng 1 triệu lệnh mỗi giây và quản lí được 8 MB bộ nhớ. Chiếc máy tính thế hệ thứ ba được đưa vào nước ta năm 1967 thuộc họ IBM System/360 (Hình 1.6).
+Hình 1.5. Máy tính Minsk 22
+Hình 1.6. Máy tính IBM System/360
+
+--- PAGE 9 ---
+Đặc điểm máy tính thế hệ thứ ba:
+• Thành phần điện tử chính: mạch tích hợp.
+• Bộ nhớ: lõi từ lớn, băng từ, đĩa từ.
+• Kích thước: lớn (tương đương một chiếc bàn làm việc).
+• Thiết bị vào – ra: được bổ sung bàn phím, màn hình, máy in,...
+• Ví dụ: dòng máy IBM System/360 (1964), IBM System/370 (1970), PDP-11 (1970), UNIVAC 1108 (1964)....
+Thế hệ thứ tư (1974–1990)
+Mạch tích hợp cỡ rất lớn (VLSI - Very Large Scale Integration) tạo nên những bộ xử lí nguyên khối, chứa hàng chục nghìn đến hàng triệu linh kiện bán dẫn được gọi là những bộ vi xử lí. Máy tính dựa trên công nghệ vi xử lí được gọi là máy vi tính. Bộ xử lí 80386 XS (1988) của tập đoàn Intel có thể thực hiện khoảng 5 triệu phép tính mỗi giây và quản lí được 4 GB bộ nhớ. Chiếc Micral (1973) là một trong những máy vi tính đầu tiên.
+Đặc điểm máy tính thế hệ thứ tư:
+• Thành phần điện tử chính: mạch tích hợp cỡ rất lớn và bộ vi xử lí.
+• Bộ nhớ: CD, RAM, ROM, USB, SSD,...
+• Kích thước: nhỏ, có thể đặt trên bàn.
+• Thiết bị vào – ra: được bổ sung thiết bị trỏ, máy quét....
+• Mạng: một nhóm gồm hai hoặc nhiều máy tính được liên kết với nhau.
+• Ví dụ: IBM PC, STAR 1000, APPLE II, Apple Macintosh,...
+Thế hệ thứ năm (1990 – ngày nay)
+Tiến bộ công nghệ vào những năm 1980 cho phép tích hợp hàng chục triệu linh kiện bán dẫn vào một mạch được gọi là mạch tích hợp cỡ siêu lớn (ULSI - Ultra Large Scale Integration). Ngoài ra, kĩ thuật xử lí song song cũng là một bước tiến quan trọng giúp tăng hiệu suất tính toán đáng kể và giảm chi phí. Nhờ đó, máy tính thế hệ thứ năm có một số khả năng xử lí thông tin trong thế giới thực giống con người như: cảm nhận, suy luận, tương tác,... được gọi là trí tuệ nhân tạo.
+Đặc điểm máy tính thế hệ thứ năm:
+• Thành phần điện tử chính: mạch tích hợp cỡ siêu lớn.
+• Kích thước: nhỏ, có thể mang theo người (di động) và có dung lượng lưu trữ lớn.
+• Thiết bị vào – ra: được bổ sung thiết bị nhận dạng tiếng nói, hình ảnh, chuyển động ...
+• Ví dụ: điện thoại thông minh, loa thông minh, kính thông minh....
+Máy tính điện tử ra đời vào những năm 1940. Năm thế hệ của máy tính điện tử được đánh dấu bởi những tiến bộ công nghệ nhằm thu nhỏ các linh kiện điện tử, tích hợp chúng vào những thiết bị nhỏ, có tốc độ xử lí lớn, độ tin cậy cao, có khả năng kết nối toàn cầu, tiêu thụ ít năng lượng và được trang bị nhiều ứng dụng thân thiện với con người.
+Bộ vi xử lí là linh kiện máy tính dựa trên công nghệ nào?
+A. Đèn điện tử chân không.
+B. Linh kiện bán dẫn đơn giản.
+C. Mạch tích hợp hàng chục, hàng trăm linh kiện bán dẫn.
+D. Mạch tích hợp cỡ lớn, gồm hàng chục nghìn đến hàng triệu linh kiện bán dẫn.
+
+--- PAGE 10 ---
+3. MÁY TÍNH THAY ĐỔI THẾ GIỚI NHƯ THẾ NÀO?
+Hoạt động 3 Sự thay đổi
+Em hãy lấy ba ví dụ cho thấy máy tính làm thay đổi sâu sắc cuộc sống của con người.
+Máy tính đã thay đổi thế giới theo nhiều cách. Đó là do chúng có thể tiếp nhận mệnh lệnh của con người để hoạt động một cách bền bỉ, xử lí dữ liệu chính xác, với dung lượng lớn, tốc độ cao. Hơn thế, bằng cách rút ra những quy luật trong quá trình hoạt động, tạo ra những mệnh lệnh máy tính mới, máy tính có thể tự thay đổi, trở nên thông minh hơn, ví dụ:
+• Trong lĩnh vực y tế, những thiết bị nhỏ gọn như đồng hồ thông minh có thể theo dõi sức khỏe thường xuyên, phát hiện kịp thời những hiện tượng bất thường của cơ thể và đưa ra những phản hồi hợp lí như tự động thông báo đến người thân, cơ sở y tế hay dịch vụ cấp cứu.
+• Trong lĩnh vực giáo dục, Internet là kho thông tin khổng lồ, giúp con người có thể học mọi nơi, mọi lúc, giúp các giáo viên hỗ trợ học sinh từ xa, giúp các nhà khoa học, các chuyên gia, các nhà giáo dục phổ biến kiến thức, kĩ năng ... một cách hiệu quả.
+• Trong lĩnh vực kinh tế, các giao dịch tăng lên nhanh chóng trong môi trường kĩ thuật số. Cả người tiêu dùng và nhà cung ứng hàng hoá, dịch vụ đều được hỗ trợ để đa dạng hoá hình thức giao dịch, giúp cho nền kinh tế trở nên năng động hơn, nền kinh tế nhờ đó được phát triển.
+• Trong lĩnh vực quốc phòng, những thiết bị bay thông minh có thể hỗ trợ quan sát vùng trời, vùng biển, lãnh thổ; những khí tài có tính tự động cao, nhanh và chính xác có thể giúp quân đội bảo vệ Tổ quốc, giữ gìn an ninh quốc phòng.
+• Trong lĩnh vực an toàn xã hội, các thiết bị thu nhận thông tin ở nơi công cộng như camera an ninh có thể phát hiện những hiện tượng vi phạm pháp luật, gây mất an toàn xã hội, giúp người dân và các cơ quan chức năng kịp thời xử lí, giữ gìn cuộc sống bình yên.
+Vì máy tính là công cụ hỗ trợ con người đắc lực trong hoạt động trí óc, tạo nên một môi trường học tập, lao động, giải trí, giao tiếp.... nên con người cũng dần thay đổi hành vi của mình để thích nghi với môi trường mới ấy. Sự thay đổi ấy góp phần tạo nên những chuyển biến mạnh mẽ trong mọi lĩnh vực, từ nghiên cứu khoa học, giáo dục, y tế, đến quản lí xã hội, phát triển kinh tế....
+Thế giới đang biến đổi nhanh chóng và sâu sắc nhờ sự phát triển của công nghệ máy tính.
+LUYỆN TẬP
+1. Em hãy nêu một ví dụ cho thấy sự khác nhau rõ ràng trong hoạt động học tập khi chưa có và khi có các thiết bị công nghệ số hiện nay.
+2. Em hãy nêu ví dụ về một ứng dụng mà em cho là thông minh của những máy tính thế hệ mới.
+VẬN DỤNG
+1. Em hãy cho biết vào thời điểm đất nước ta hoàn toàn thống nhất năm 1975, những thế hệ máy tính điện tử nào đã xuất hiện ở nước ta?
+2. Em hãy đưa ra một dự báo về ứng dụng của máy tính trong tương lai. Hãy giải thích cơ sở của dự báo đó.
+
+--- PAGE 11 ---
+CHỦ ĐỀ 2. TỔ CHỨC LƯU TRỮ, TÌM KIẾM VÀ TRAO ĐỔI THÔNG TIN
+BÀI 2 THÔNG TIN TRONG MÔI TRƯỜNG SỐ
+Sau bài học này em sẽ:
+• Nêu được các đặc điểm của thông tin số: đa dạng, được thu thập ngày càng nhanh và nhiều, được lưu trữ với dung lượng khổng lồ bởi nhiều tổ chức và cá nhân, có tính bản quyền, có độ tin cậy rất khác nhau, có các công cụ tìm kiếm, chuyển đổi, truyền và xử lí hiệu quả.
+• Trình bày được tầm quan trọng của việc biết khai thác các nguồn thông tin đáng tin cậy, nêu được ví dụ minh hoạ.
+Hoạt động 1 Ảnh in và ảnh số
+Trong tập ảnh cũ, Khoa thấy bức ảnh ruộng bậc thang. Để chia sẻ ảnh với An mà không cần phải đến nhà bạn, Khoa đã dùng điện thoại thông minh chụp lại bức ảnh và gửi cho An qua thư điện tử.
+Em hãy cho biết:
+1. An có thể nhận được ảnh bằng cách nào?
+2. Sau khi An nhận được ảnh, Khoa có bị mất bức ảnh gốc không?
+3. An có thể lưu trữ ảnh vào những thiết bị nào?
+Hình 2.1. Bức ảnh được chụp lại và gửi qua mạng
+1. THÔNG TIN TRONG MÔI TRƯỜNG SỐ
+a) Thông tin số
+Trong Hoạt động 1, bằng thao tác chụp lại bức ảnh, Khoa đã tạo ra một bức ảnh số. Khác với bức ảnh trên giấy, bức ảnh số được tạo ra không tốn vật liệu và khi Khoa gửi cho An, Khoa không bị mất đi bức ảnh đó.
+Thông tin được mã hoá thành dây bit, được chuyển vào máy tính, điện thoại thông minh, máy tính bảng.... để có thể lan truyền, trao đổi trong môi trường kĩ thuật số còn được gọi ngắn gọn là thông tin số.
+10
+
+--- PAGE 12 ---
+Thông tin số có thể được truy cập từ xa thông qua kết nối Internet. Chẳng hạn, khi được Khoa chia sẻ, An có thể vào hộp thư điện tử của mình để nhận ảnh mà không cần nhận trực tiếp từ Khoa như nhận bức ảnh in trên giấy. An có thể lưu ảnh về máy tính hoặc điện thoại của mình và chỉnh sửa bằng phần mềm ứng dụng rồi tiếp tục chia sẻ cho người khác.
+Thông tin số dễ dàng được nhân bản và chia sẻ. Thông tin số còn có thể được lan truyền tự động do nhiều thiết bị được đồng bộ với nhau. Điều đó khiến cho em khó biết được thiết bị nào đã nhận được thông tin hoặc thông tin sẽ lan rộng đến mức nào. Thông tin số khó bị xoá bỏ hoàn toàn.
+Thông tin số có những đặc điểm chính sau:
+• Thông tin số dễ dàng được nhân bản và lan truyền nhưng khó bị xoá bỏ hoàn toàn.
+• Thông tin số có thể được truy cập từ xa nếu người quản lí thông tin đó cho phép.
+Hoạt động 2 Thông tin số
+Khoa gửi cho An bức ảnh ruộng bậc thang qua thư điện tử. Nhận được, An chỉnh sửa lại ảnh cho đẹp hơn và sử dụng nó làm nền cho ảnh của mình rồi đưa lên trang cá nhân trên mạng xã hội.
+Em hãy cho biết:
+1. Máy chủ của dịch vụ thư điện tử có lưu trữ bức ảnh Khoa gửi không?
+2. Những ai có thể xem được bức ảnh An đưa lên mạng xã hội?
+3. An có thể gửi ảnh sau khi chỉnh sửa cho Khoa hoặc các bạn khác được không?
+Hình 2.2. Bức ảnh được sử dụng làm nền
+b) Thông tin số trong xã hội
+Khi bức ảnh đã được chia sẻ qua một ứng dụng, ví dụ thư điện tử, mạng xã hội, nó sẽ được ứng dụng đó lưu trữ lại và cho phép một số người được tiếp cận hay tiếp tục chia sẻ. Thông tin số có thể được lưu trữ với dung lượng rất lớn bởi nhiều cá nhân, tổ chức và được cấp quyền truy cập khác nhau.
+Không phải mọi thông tin trên mạng đều chân thực. An có thể lấy bức ảnh ruộng bậc thang nhận được làm nền cho ảnh của mình, nhưng không có nghĩa là An đã tới Yên Bái, nơi có ruộng bậc thang. Thông tin số dễ dàng được chỉnh sửa và lại tiếp tục được lan truyền trên mạng. Thông tin số có độ tin cậy rất khác nhau, phụ thuộc vào nguồn gốc và mục tiêu thông tin.
+11
+
+--- PAGE 13 ---
+• Thông tin số đa dạng, được thu thập nhanh, được lưu trữ với dung lượng rất lớn bởi nhiều tổ chức và cá nhân.
+• Có nhiều công cụ hỗ trợ tìm kiếm, truy cập, lưu trữ, xử lí và chia sẻ thông tin số.
+• Quyền tác giả của thông tin số được pháp luật bảo hộ.
+• Thông tin số có mức độ tin cậy khác nhau.
+• Thông tin số cần được quản lí, khai thác an toàn và có trách nhiệm.
+Em hãy chọn phương án ghép đúng:
+Thông tin số được nhiều tổ chức và cá nhân lưu trữ với dung lượng rất lớn,
+A. được truy cập tự do và có độ tin cậy khác nhau.
+B. được bảo hộ quyền tác giả và không đáng tin cậy.
+C. được bảo hộ quyền tác giả và có độ tin cậy khác nhau.
+D. được bảo hộ quyền tác giả và rất đáng tin cậy.
+2. THÔNG TIN ĐÁNG TIN CẬY
+Hoạt động 3 Tin giả
+1. Em hãy kể lại một nội dung trên mạng mà em biết đó là tin giả.
+2. Tin giả đó gây ra tác hại gì nếu người đọc tin vào điều đó?
+3. Làm thế nào để em biết đó là tin giả?
+Hình 2.3. Tin giả
+Không phải mọi thông tin chúng ta nghe thấy, xem được hay đọc được đều là sự thật. Internet là một kho thông tin khổng lồ, tuy nhiên, nhiều thông tin trên Internet có thể không đáng tin cậy. Thông tin không đáng tin cậy có thể là:
+• Thông tin không trung thực, mang tính chất lừa dối.
+• Thông tin đồn thổi, dẫn em đến kết luận thiếu căn cứ.
+• Thông tin thiếu kiểm chứng dẫn em đến quyết định sai lầm.
+Thông tin không đáng tin cậy có giá trị sử dụng thấp, thậm chí không sử dụng được. Việc xác định thông tin đáng tin cậy và biết khai thác nguồn thông tin đáng tin cậy rất quan trọng vì điều đó giúp em đưa ra những quyết định đúng đắn. Chẳng hạn, nếu không biết khai thác nguồn thông tin đáng tin cậy, mà tin vào những quảng cáo quá mức, em có thể tiêu tiền một cách lãng phí. Sau đây là một số gợi ý giúp em xác định được thông tin đáng tin cậy hay không:
+Xác định nguồn thông tin. Thẩm quyền và uy tín của tổ chức hay cá nhân cung cấp thông tin ảnh hưởng đến giá trị và độ tin cậy của thông tin. Chẳng hạn, thông tin từ blog có độ tin cậy thấp vì ai cũng có thể viết blog. Hoặc các nhà sản xuất có thể phóng đại lợi ích của dịch vụ hay sản phẩm mà họ cung cấp, trong khi hạ thấp vai trò của đối thủ cạnh tranh.
+12
+
+--- PAGE 14 ---
+Phân biệt ý kiến và sự kiện. Ý kiến là quan điểm, không phải sự kiện. Trong khi các ý kiến cần được xem xét và có thể cũng thú vị nhưng độ tin cậy của chúng thấp hơn sự kiện vì mang nhiều cảm xúc và định kiến cá nhân. Chẳng hạn phát biểu: “Tôi tin rằng việc đó đã xảy ra!" không có nghĩa rằng sự kiện được nói tới đã xảy ra trong thực tế.
+Kiểm tra chứng cứ của kết luận. Những kết luận không có chứng cứ, cũng giống như những ý kiến mang tính chất cá nhân nên có độ tin cậy rất thấp. Chẳng hạn, sau khi xem một bộ phim, một người nhận xét: “Tôi nghĩ đây là bộ phim hoạt hình hay nhất mọi thời đại". Phát biểu này rõ ràng là quan điểm cá nhân và vì vậy cần được xử lí một cách thận trọng.
+Đánh giá tính thời sự của thông tin. Thời điểm công bố thông tin quan trọng vì nó quyết định thông tin có còn ý nghĩa không hay đã trở nên lỗi thời. Chẳng hạn, nội dung những trang web đã lâu không được cập nhật thường có độ tin cậy thấp.
+• Thông tin đáng tin cậy giúp em đưa ra kết luận đúng, quyết định hành động đúng và giải quyết được các vấn đề được đặt ra.
+• Một số cách xác định thông tin có đáng tin cậy hay không: kiểm tra nguồn thông tin; phân biệt ý kiến với sự kiện; kiểm tra chứng cứ của kết luận, đánh giá tính thời sự của thông tin.
+LUYỆN TẬP
+1. Em hãy kể tên ba ứng dụng thu thập nhiều thông tin từ người sử dụng và cho biết:
+a) Tổ chức, cá nhân nào sở hữu các ứng dụng đó?
+b) Mỗi ứng dụng thu thập dạng thông tin nào?
+2. Em hãy đánh giá độ tin cậy của thông tin được cung cấp từ ba ứng dụng ở Câu 1.
+VẬN DỤNG
+1. Em hãy tìm kiếm trên Internet thông tin về một đội bóng, một cầu thủ hoặc một nhân vật mà em yêu thích.
+2. Em hãy phân tích mức độ tin cậy của nguồn tin tìm được ở Câu 1 và trình bày một bài giới thiệu về đội bóng, cầu thủ hoặc nhân vật đó.
+3. Em hãy kể một ví dụ về tin đồn (trong cuộc sống hoặc trên mạng) và cho biết:
+a) Tin đồn đó xuất hiện từ sự việc nào?
+b) Tác hại của tin đồn đó là gì?
+13
+
+--- PAGE 15 ---
+BÀI 3 THỰC HÀNH: KHAI THÁC THÔNG TIN SỐ
+Sau bài học này em sẽ:
+• Sử dụng được công cụ tìm kiếm, xử lí và trao đổi thông tin trong môi trường số. Nêu được ví dụ minh hoạ.
+• Chủ động tìm kiếm được thông tin để thực hiện nhiệm vụ cụ thể.
+• Đánh giá được lợi ích của thông tin tìm được trong giải quyết vấn đề, nêu được ví dụ minh hoạ.
+Minh: Khi bật đèn để căn phòng tràn ngập ánh sáng, khi lái một chiếc ô tô, hay chỉ đơn giản là rang bỏng ngô, mọi người đều đang sử dụng năng lượng.
+Khoa: Hầu hết năng lượng đến từ nhiên liệu hoá thạch như xăng và than.
+An: Trái Đất mất hàng triệu năm để tạo ra nhiên liệu hoá thạch. Các bạn có tưởng tượng được, một ngày nào đó, chúng sẽ cạn kiệt và biến mất không. Chúng ta có thể làm gì để tránh thảm hoạ đó?
+Minh: Khám phá các nguồn năng lượng khác để thay thế. Đó là những nguồn năng lượng dường như không bao giờ cạn kiệt như nắng, gió, nước và thậm chí là rác thải.
+Khoa: Điện gió, điện mặt trời và cả thuỷ điện nữa đều có những nhược điểm. Chúng ta cần tìm hiểu thông tin đầy đủ hơn.
+Em hãy tạo một bài trình chiếu với chủ đề Năng lượng tái tạo để giải quyết những băn khoăn của các bạn. Em có thể khai thác thông tin số để có thêm thông tin cho bài trình chiếu.
+NHIỆM VỤ 1. HÌNH THÀNH Ý TƯỞNG VÀ CẤU TRÚC BÀI TRÌNH CHIẾU VỀ CHỦ ĐỀ NĂNG LƯỢNG TÁI TẠO
+Yêu cầu
+• Xây dựng ý tưởng cho bài trình chiếu.
+• Xây dựng cấu trúc bài trình chiếu.
+Hướng dẫn
+Bước 1. Em hãy nêu một khía cạnh hay một vấn đề cụ thể về năng lượng tái tạo mà em định trình bày như thuỷ điện, điện gió, điện mặt trời,... hoặc năng lượng tái tạo tại địa phương, nơi em đang sinh sống.
+Bước 2. Phát triển ý tưởng thành nội dung cụ thể của bài trình chiếu. Nội dung có thể sắp xếp theo trình tự lôgic và thể hiện dưới dạng những câu hỏi để thuận lợi cho việc tìm tư liệu. Chẳng hạn:
+1) Năng lượng tái tạo là gì?
+2) Nguồn năng lượng nào sản xuất ra điện ở nơi em sinh sống? Ưu, nhược điểm của nguồn năng lượng đó là gì?
+14
+
+--- PAGE 16 ---
+3) Hãy chọn một nguồn năng lượng thay thế. Ưu, nhược điểm của nguồn năng lượng được chọn là gì?
+4) Loại năng lượng nào sẽ thay thế xăng dầu hiện đang được sử dụng cho ô tô, xe máy....?
+5) Nếu được quyết định thiết kế một nhà máy điện, em sẽ chọn cách nào để sản xuất điện? Tại sao cách đó tốt hơn những cách khác?
+Bước 3. Xác định mức độ, yêu cầu cụ thể với bài trình chiếu. Ví dụ:
+Bài trình chiếu khoảng 10 trang: trang tiêu đề, trang dàn ý, trang giới thiệu vấn đề, một số trang nội dung, trang kết luận và trang tài liệu tham khảo.
+Mỗi trang nội dung không quá 6 mục; mỗi mục không quá 2 dòng.
+Bài trình chiếu cần có ít nhất 2 hình ảnh minh hoạ cho nội dung trình bày.
+NHIỆM VỤ 2. TÌM KIẾM VÀ ĐÁNH GIÁ THÔNG TIN
+Yêu cầu
+• Tìm kiếm, khai thác tư liệu trong môi trường số theo chủ đề năng lượng tái tạo.
+• Đánh giá lợi ích của thông tin tìm được để giải quyết vấn đề năng lượng tái tạo.
+Hướng dẫn
+Bước 1. Tìm kiếm thông tin. Sử dụng máy tìm kiếm với các từ khoá tìm kiếm như "năng lượng tái tạo", “năng lượng thay thế”, “ưu, nhược điểm của thuỷ điện", "ưu, nhược điểm của điện gió”..
+Bước 2. Ghi chép kết quả tìm kiếm để thuận tiện cho việc đánh giá và tham khảo. Bảng 3.1 là một ví dụ.
+Bảng 3.1. Kết quả tìm kiếm
+STT, Nội dung, Địa chỉ trang web, Nguồn gốc, Thời gian
+1, Khái niệm chung về các nguồn năng lượng, https://hvacr.vn/diendan/, Cộng đồng Cơ Điện Lạnh Việt Nam, 2008
+2, Năng lượng tái tạo sẽ thống trị công suất điện toán thế giới, https://www.evn.com.vn/, Tập đoàn Điện lực Việt Nam, 2022
+3, Quy hoạch điện VIII: Ưu tiên phát triển năng lượng tái tạo, http://www.erea.gov.vn/vi-VN, Bộ Công Thương, 2021
+Bước 3. Đánh giá thông tin. Trước khi sử dụng thông tin để minh hoạ cho lập luận của mình, em cần đánh giá lợi ích của thông tin bằng cách trả lời một số câu hỏi như:
+Thông tin có thực sự phù hợp với nội dung trình bày không? Chẳng hạn, kiến thức chung về các nguồn năng lượng sẽ không đáp ứng được yêu cầu dự báo phát triển của các nguồn năng lượng.
+Nguồn tin có đáng tin cậy không? Chẳng hạn, với nội dung quy hoạch cơ cấu nguồn điện, thông tin từ cơ quan chính phủ đáng tin cậy hơn thông tin trên các diễn đàn hay trang web của doanh nghiệp.
+15
+
+--- PAGE 17 ---
+https://moit.gov.vn › phat-trien-ben-vung > quy-hoach-...
+Quy hoạch điện VIII: Ưu tiên phát triển năng lượng tái tạo
+9 thg 3, 2021 — Quy hoạch điện VIII khuyến khích phát triển mạnh mẽ năng lượng tái tạo (ngoài thủy điện), từ khoảng 13% năm 2020 lên tới gần 30% năm 2030 và ...
+Hình 3.1. Trang web có địa chỉ ...gov.vn là trang thông tin của cơ quan chính phủ
+NHIỆM VỤ 3. XỬ LÍ VÀ TRAO ĐỔI THÔNG TIN
+Yêu cầu
+• Tạo bài trình chiếu theo cấu trúc đã định.
+• Biên tập nội dung bài trình chiếu.
+• Chia sẻ bài trình chiếu trong môi trường số.
+Hướng dẫn
+Bước 1. Tạo bài trình chiếu
+Tạo các trang của bài trình chiếu theo cấu trúc đã định (tham khảo Hình 3.2, Hình 3.3, Hình 3.4).
+Soạn nội dung từng trang sao cho phù hợp với lập luận của cả bài trình chiếu.
+Sử dụng thông tin đã được chọn làm tư liệu tham khảo cho các trang nội dung.
+DÀN Ý
+(1) Giới thiệu chủ đề
+(2) Năng lượng tái tạo là gì?
+(3) Nguồn năng lượng sản xuất điện tại tỉnh...
+(4) Nhà máy điện tương lai
+(5) Kết luận
+(6) Tài liệu tham khảo
+Hình 3.2. Trang dàn ý
+QUY HOẠCH CƠ CẤU NGUỒN ĐIỆN
+TT, Cơ cấu nguồn điện, Năm 2030, Năm 2045
+1, Nhiệt điện than, 28%, 18%
+2, Nhiệt điện khí, 19%, 24%
+3, Thuỷ điện, 18%, 9%
+4, Điện gió, 14%, 22%
+5, Điện Mặt Trời, 13%, 20%
+6, Điện sinh khối và NLTT khác, 2%, 2%
+7, Thuỷ điện tích năng, 1%, 3%
+8, Nhập khẩu điện, 5%, 2%
+Hình 3.3. Trang nội dung
+
+--- PAGE 18 ---
+TÀI LIỆU THAM KHẢO
+(1) Bộ Công Thương http://www.erea.gov.vn/vi-VN
+(2) Công ty cổ phần tư vấn xây dựng điện 1 http://www.pecc1.com.vn/d4/news/Vai-tro-cua-thuy-dien-trong-he-thong-khi-Viet-Nam-phat-trien-manh-dien-mat-troi-8-1731.aspx
+(3) Cộng đồng Cơ điện lạnh Việt Nam https://hvacr.vn/diendan/
+Bước 2. Biên tập nội dung
+Hình 3.4. Trang tài liệu tham khảo
+Biên tập nội dung sao cho mỗi trang không quá 6 mục; mỗi mục không quá 2 dòng.
+Sử dụng phần mềm xử lí hình ảnh để tạo và sửa hình ảnh minh hoạ phù hợp với nội dung.
+Bước 3. Chia sẻ bài trình chiếu
+Lựa chọn phương tiện kĩ thuật số để chia sẻ bài trình chiếu: thư điện tử, mạng xã hội, không gian lưu trữ dùng chung....
+Giải thích phương án lựa chọn của em theo các tiêu chí: dễ sử dụng và an toàn dữ liệu.
+LUYỆN TẬP
+1. Để tìm hiểu về cách sử dụng một chiếc máy ảnh mới, nguồn thông tin nào sau đây cần được tham khảo nhất?
+A. Hướng dẫn của một người đã từng chụp ảnh.
+B. Hướng dẫn sử dụng của nhà sản xuất.
+C. Hướng dẫn của một người giỏi Tin học.
+D. Câu trả lời trên một số diễn đàn về chụp ảnh.
+2. Để tìm hiểu về một đội bóng đá ở châu Phi, nguồn thông tin nào sau đây đáng tin cậy nhất?
+A. Nguồn tin từ câu lạc bộ người hâm mộ đội bóng đó.
+B. Nguồn tin từ câu lạc bộ của đội bóng đối thủ.
+C. Nguồn tin từ Liên đoàn bóng đá châu Phi.
+D. Nguồn tin từ diễn đàn Bóng đá Việt Nam.
+VẬN DỤNG
+Em hãy tìm thông tin về một đội bóng, một cầu thủ hay một nghệ sĩ mà em hâm mộ. Hãy đánh giá những nguồn thông tin tìm được.
+17
+
+--- PAGE 19 ---
+CHỦ ĐỀ 3. ĐẠO ĐỨC, PHÁP LUẬT VÀ VĂN HOÁ TRONG MÔI TRƯỜNG SỐ
+BÀI 4 ĐẠO ĐỨC VÀ VĂN HOÁ TRONG SỬ DỤNG CÔNG NGHỆ KĨ THUẬT SỐ
+Sau bài học này em sẽ:
+• Nhận biết và giải thích được một số biểu hiện vi phạm đạo đức và pháp luật, biểu hiện thiếu văn hoá khi sử dụng công nghệ kĩ thuật số.
+• Bảo đảm được các sản phẩm số do bản thân tạo ra thể hiện được đạo đức, tính văn hoá và không vi phạm pháp luật.
+Khoa chia sẻ cho An bức ảnh ruộng bậc thang mà mình đã chụp.
+Trường hợp 1: An không hỏi ý kiến Khoa, tự mình chỉnh sửa bức ảnh và sử dụng làm nền cho ảnh của mình rồi đưa lên trang cá nhân trên mạng xã hội. An viết chú thích cho bức ảnh: Thật tuyệt khi được đến thăm nơi này.
+Trường hợp 2: An xin phép Khoa, chỉnh sửa lại bức ảnh cho đẹp hơn rồi đưa lên trang cá nhân trên mạng xã hội. An viết chú thích cho bức ảnh: Đất nước ta thật là đẹp (người chụp Lê Khoa).
+Theo em, An nên làm theo cách nào? Vì sao?
+1. BIỂU HIỆN VI PHẠM KHI SỬ DỤNG CÔNG NGHỆ KĨ THUẬT SỐ
+Hoạt động 1 Biểu hiện nào là vi phạm?
+Từ hiểu biết của em, hãy thảo luận với các bạn về một vài biểu hiện vi phạm đạo đức và pháp luật hay biểu hiện thiếu văn hoá khi sử dụng công nghệ kĩ thuật số.
+Công nghệ kĩ thuật số mang đến cho em rất nhiều lợi ích nhưng cũng tiềm ẩn những vấn nạn nhất định. Đó là những biểu hiện thiếu văn hoá, vi phạm đạo đức hoặc thậm chí vi phạm pháp luật của người sử dụng hay người tạo ra những nội dung số.
+Có thể kể ra một số biểu hiện vi phạm đạo đức, pháp luật hay thiếu văn hoá khi sử dụng công nghệ kĩ thuật số như:
+• Quay phim trong rạp chiếu phim.
+• Chụp ảnh ở nơi không cho phép (Hình 4.1).
+• Ghi âm trái phép các cuộc nói chuyện.
+• Tải về máy tính cá nhân các tệp bài hát, video có bản quyền để sử dụng mà chưa được phép.
+• Sao chép thông tin từ một trang web và coi đó là của mình.
+• Sử dụng phần mềm bẻ khoá.
+• Phát trực tiếp (livestream) hoặc chia sẻ các vụ bạo lực học đường.
+• Đưa lên mạng thông tin cá nhân của người khác mà chưa được phép.
+• Tham gia, chia sẻ, quảng cáo cho các trang web cổ vũ bạo lực, đánh bạc,....
+Em cần tìm hiểu thông tin, trang bị cho mình những hiểu biết, những kiến thức pháp luật (Hình 4.2) để có nhận thức đúng đắn và bảo đảm rằng mình sử dụng công nghệ kĩ thuật số có trách nhiệm, tránh vi phạm pháp luật và các chuẩn mực về văn hoá, đạo đức của xã hội.
+18
+
+--- PAGE 20 ---
+VI PHẠM BẢN QUYỀN BIẾT MÀ VẪN XEM?
+Hình 4.1. Biển cấm quay phim, chụp ảnh
+Hình 4.2. Một chương trình cung cấp kiến thức mà học sinh cần tìm hiểu
+Ba điều lưu ý để tránh các vi phạm khi sử dụng công nghệ kĩ thuật số:
+• Tìm hiểu thông tin, trang bị cho mình những kiến thức cần thiết.
+• Chỉ sử dụng những sản phẩm số khi có sự cho phép của tác giả hoặc có bản quyền sử dụng.
+• Hầu hết thông tin trên Internet là có bản quyền.
+1. Hành động nào sau đây không vi phạm đạo đức và pháp luật?
+A. Đăng tải thông tin sai sự thật lên mạng.
+B. Cố ý nghe, ghi âm trái phép các cuộc nói chuyện.
+C. Tặng đĩa nhạc có bản quyền em đã mua cho người khác.
+D. Tải một bài trình chiếu của người khác từ Internet và sử dụng như là của mình tạo ra.
+2. Nêu một vài hành động chưa đúng của em khi sử dụng công nghệ kĩ thuật số mà em đã mắc phải. Nêu cách em sẽ phòng tránh hoặc từ bỏ vi phạm.
+2. TRUNG THỰC KHI TẠO RA SẢN PHẨM SỐ
+Có nhiều dạng sản phẩm số mà em có thể tạo ra (Hình 4.3), đáp ứng sở thích cũng như nhu cầu học tập, kết nối bạn bè.
+Poster, tài liệu quảng cáo
+Những bức ảnh (chụp, chỉnh sửa)
+Blog (nhật kí trên web)
+Tệp ghi âm giọng hát
+Truyện tự sáng tác
+Sản phẩm số
+Vlog (video blog)
+Bài đăng trên mạng xã hội, diễn đàn
+Video âm nhạc
+Bài giới thiệu, đánh giá một cuốn sách, một bộ phim, một nhà hàng ...
+Trò chơi điện tử tự thiết kế
+Hình 4.3. Các sản phẩm số được tạo bởi học sinh
+19
+
+--- PAGE 21 ---
+Nhờ công nghệ kĩ thuật số và các thiết bị điện tử thông minh, việc tạo ra các sản phẩm số rất dễ dàng và nhanh chóng. Tuy nhiên, em cần phải bảo đảm được sản phẩm số do bản thân tạo ra thể hiện được đạo đức, tính văn hoá và không vi phạm pháp luật. Để thực hiện được việc đó em cần trang bị cho mình những kiến thức cần thiết và chú ý một số điều sau:
+• Luôn trung thực trong quá trình tạo ra sản phẩm số: không sử dụng thông tin giả, thông tin không đáng tin cậy; không sao chép, chỉnh sửa thông tin của người khác rồi coi là của mình. Ở tình huống khởi động của bài, nếu An làm theo trường hợp 1, không hỏi ý kiến Khoa mà chỉnh sửa ảnh rồi viết chú thích làm người xem ảnh hiểu nhầm là An đã đến địa điểm trong ảnh, không ghi chú tác giả bức ảnh là Khoa thì đó là một việc không trung thực. Mặc dù việc này không vi phạm pháp luật nhưng vi phạm đạo đức.
+• Nên sử dụng thông tin do mình tự tạo (tự quay video, chụp ảnh, viết nội dung ...), không sử dụng các thông tin có bản quyền nếu chưa mua hoặc xin phép.
+• Nội dung và hình thức của sản phẩm tạo ra không được vi phạm các quy định, chuẩn mực về đạo đức, văn hoá trong xã hội nói chung. Ví dụ: chỉ dùng ngôn ngữ lịch sự, không dùng các hình ảnh giật gân, không tiết lộ thông tin cá nhân của người khác....
+Cần bảo đảm tính văn hoá, thể hiện được đạo đức và tuân thủ pháp luật khi tạo ra các sản phẩm số, giúp tránh được việc lan truyền thông tin sai trái, đồng thời góp phần tạo ra một xã hội số lành mạnh và hợp pháp.
+Em có cảnh báo và lời khuyên gì với bạn trong mỗi tình huống dưới đây?
+a) Bạn em quay video các bạn trong lớp có hành vi bạo lực và đăng lên mạng xã hội.
+b) Một người bạn sử dụng ảnh em chụp để tham gia một cuộc thi ảnh nhưng chưa có sự đồng ý của em.
+LUYỆN TẬP
+Em hãy xác định các hành động dưới đây là vi phạm hay không vi phạm đạo đức, pháp luật và văn hoá khi sử dụng công nghệ kĩ thuật số.
+a) Chia sẻ thông tin mua bán động vật hoang dã quý hiếm.
+b) Tạo một trang cá nhân để chia sẻ những kinh nghiệm học tập của mình.
+c) Quay và lan truyền video bạo lực học đường.
+d) Sáng tác một bài thơ về lớp và gửi bạn bè cùng đọc.
+e) Tham gia cá cược bóng đá qua Internet.
+f) Chia sẻ địa chỉ một website có chứa các bộ phim không có bản quyền sử dụng.
+VẬN DỤNG
+Em hãy tạo một sản phẩm số theo cách sáng tạo để hướng dẫn các bạn hiểu đúng về việc sử dụng công nghệ kĩ thuật số. Em hãy đảm bảo sản phẩm của mình thể hiện được đạo đức, tính văn hoá và không vi phạm pháp luật nhé.
+20
+
+--- PAGE 22 ---
+CHỦ ĐỀ 4. ỨNG DỤNG TIN HỌC
+BÀI 5 SỬ DỤNG BẢNG TÍNH GIẢI QUYẾT BÀI TOÁN THỰC TẾ
+Sau bài học này em sẽ:
+• Giải thích được sự thay đổi địa chỉ tương đối trong công thức khi sao chép công thức.
+• Giải thích được sự khác nhau giữa địa chỉ tương đối và địa chỉ tuyệt đối của một ô tính.
+• Sử dụng được phần mềm bảng tính trợ giúp giải quyết bài toán thực tế.
+• Sao chép được dữ liệu từ các tệp văn bản, trang trình chiếu sang trang tính.
+Bố của Khoa là giám đốc một công ti sản xuất phần mềm máy tính. Bố là người truyền cho Khoa niềm đam mê tin học. Trong kì nghỉ hè vừa qua, để ôn lại kiến thức và tìm hiểu thêm về phần mềm bảng tính, bố giao cho Khoa tính toán doanh thu một số phần mềm mà công ti của bố sản xuất. Những phần mềm này được đưa lên các chợ ứng dụng trên mạng. Người sử dụng truy cập vào các chợ ứng dụng tìm kiếm phần mềm mà mình cần để mua và cài đặt. Tuỳ theo từng phần mềm, người sử dụng có thể phải trả phí hoặc được miễn phí.
+Để hoàn thành việc bố giao, Khoa đã tạo bảng tính để lưu thông tin về các phần mềm như minh hoạ trong Hình 5.1.
+A, B, C, D, E
+1, , , DANH SÁCH PHẦN MỀM ỨNG DỤNG, ,
+2, , , , ,
+3, TT, Sản phẩm, Đơn giá (đồng), Số lượt mua, Doanh thu
+4, 1, Quản lí thời gian, 39,999, 50,000,
+5, 2, Trò chơi sáng tạo, 109,000, 50,000,
+6, 3, Thiết kế đồ hoạ, 211,000, 10,000,
+7, 4, Từ điển, 0, 20,000,
+8, 5, Quản lí bán hàng cá nhân, 177,000, 5,000,
+9, 6, Sổ sức khoẻ điện tử, 0, 10,000,000,
+Hình 5.1. Danh sách phần mềm của công ti
+Theo em, bảng tính bạn Khoa tạo ra ở Hình 5.1 có cần bổ sung thông tin gì không?
+21
+
+--- PAGE 23 ---
+1. ĐỊA CHỈ TƯƠNG ĐỐI
+Hoạt động 1 Tính doanh thu phần mềm
+Dựa vào thông tin mà bạn Khoa đã lưu trữ trong bảng tính ở Hình 5.1, em hãy thực hiện:
+1. Viết công thức để tính Doanh thu của phần mềm Quản lí thời gian dựa trên Đơn giá và Số lượt mua (đơn giá bằng 0 là phần mềm miễn phí).
+2. Thao tác nào giúp em tính toán doanh thu cho các phần mềm còn lại mà không cần gõ công thức vào từng ô? Khi thực hiện thao tác đó, địa chỉ ô trong công thức sẽ thay đổi như thế nào?
+Một trong những ưu điểm nổi bật của chương trình bảng tính là tính toán tự động. Có ưu điểm này là vì chương trình bảng tính cho phép tính toán theo địa chỉ ô.
+Chương trình bảng tính sử dụng ba loại địa chỉ ô là địa chỉ tương đối, địa chỉ tuyệt đối và địa chỉ hỗn hợp. Trong bài học này, chúng ta sẽ tìm hiểu về địa chỉ tương đối và địa chỉ tuyệt đối.
+Ví dụ, chúng ta tính Doanh thu của mỗi phần mềm ở Hình 5.1 theo công thức: Doanh thu = Đơn giá * Số lượt mua
+A, B, C, D, E
+1, , , DANH SÁCH PHẦN MỀM ỨNG DỤNG, ,
+2, , , , ,
+3, TT, Sản phẩm, Đơn giá (đồng), Số lượt mua, Doanh thu
+4, 1, Quản lí thời gian, 39,999, 50,000, =C4*D4
+5, 2, Trò chơi sáng tạo, 109,000, 50,000,
+6, 3, Thiết kế đồ hoạ, 211,000, 10,000,
+7, 4, Từ điển, 0, 20,000,
+8, 5, Quản lí bán hàng cá nhân, 177,000, 5,000,
+9, 6, Sổ sức khoẻ điện tử, 0, 10,000,000,
+Vì đơn giá và Số lượt mua thay đổi theo từng phần mềm khác nhau nên cần tạo ra công thức tính toán (tại cột E) sao cho địa chỉ ô thay đổi theo từng dòng tương ứng với mỗi phần mềm khác nhau. Trong Hình 5.2, công thức tại ô E4 là =C4*D4. Khi sao chép công thức này đến ô E5 thì các địa chỉ ô trong công thức sẽ tự động thay đổi, do đó công thức tại ô E5 là =C5*D5. Các địa chỉ C4, D4, C5, D5 trong các công thức trên đều là địa chỉ tương đối. Khi nhập địa chỉ ô cho một công thức bằng thao tác nháy chuột vào ô thì chương trình bảng tính mặc định lấy địa chỉ ô đó là địa chỉ tương đối.
+Hình 5.2. Địa chỉ trong công thức tại ô E4 là địa chỉ tương đối
+Địa chỉ tương đối tự động thay đổi khi sao chép công thức.
+Nếu sao chép công thức từ ô E4 đến các ô E6, E7, E8 và E9 (Hình 5.2) thì công thức trong các ô E6, E7, E8, E9 là gì?
+22
+
+--- PAGE 24 ---
+2. ĐỊA CHỈ TUYỆT ĐỐI
+Hoạt động 2 Địa chỉ tuyệt đối
+Bạn Khoa đã tính được Doanh thu của mỗi phần mềm. Tìm hiểu thêm, bạn được biết "Doanh thu là số tiền thu được của đơn vị quản lí chợ ứng dụng khi người sử dụng trả tiền mua phần mềm. Công ti của bố Khoa được trả 70% của số tiền này và gọi là Doanh thu của công ti. Giả sử tỉ lệ phần trăm doanh thu mà công ti phần mềm được hưởng lưu ở ô F2 như minh hoạ trong Hình 5.3.
+A, B, C, D, E, F
+1, , , DANH SÁCH PHẦN MỀM ỨNG DỤNG, ,
+2, , , Tỉ lệ doanh thu của công ti, , 70%
+3, TT, Sản phẩm, Đơn giá (đồng), Số lượt mua, Doanh thu, Doanh thu của công ti
+4, 1, Quản lí thời gian, 39,999, 50,000, 1,999,950,000,
+5, 2, Trò chơi sáng tạo, 109,000, 50,000, 5,450,000,000,
+6, 3, Thiết kế đồ hoạ, 211,000, 10,000, 2,110,000,000,
+7, 4, Từ điển, 0, 20,000, 0,
+8, 5, Quản lí bán hàng cá nhân, 177,000, 5,000, 885,000,000,
+9, 6, Sổ sức khoẻ điện tử, 0, 10,000,000, 0,
+Hình 5.3. Tỉ lệ doanh thu của công ti được lưu ở ô F2
+1. Em hãy nhập công thức để tính Doanh thu của công ti cho phần mềm Quản lí thời gian và Trò chơi sáng tạo vào ô F4 và F5, biết rằng:
+Doanh thu của công ti = Doanh thu * Tỉ lệ (được lưu tại ô F2)
+2. Nếu sao chép công thức từ ô F4 vào ô F5 thì công thức nhận được tại ô F5 có đúng yêu cầu không? Vì sao?
+Các địa chỉ thay đổi trong các công thức
+Tại ô F4 = E4 * $F$2
+Tại ô F5 = E5 * $F$2
+Trong chương trình bảng tính, một địa chỉ ô trong công thức không thay đổi khi sao chép công thức thì địa chỉ đó là địa chỉ tuyệt đối. Phần mềm bảng tính quy định địa chỉ tuyệt đối có dấu $ trước tên cột và tên hàng. Ví dụ, $F$2 là địa chỉ tuyệt đối. Sau khi nhập địa chỉ tương đối, em nhấn phím F4 để chuyển địa chỉ tương đối thành địa chỉ tuyệt đối.
+Với yêu cầu tính Doanh thu của công ti, ta có công thức Doanh thu của công ti = Doanh thu * Tỉ lệ. Trong công thức này, giá trị của Doanh thu thay đổi theo từng phần mềm, còn giá trị của Tỉ lệ luôn cố định là 70% (như minh hoạ trong Hình 5.3).
+Xem xét công thức tính Doanh thu của công ti cho hai phần mềm Quản lí thời gian và Trò chơi sáng tạo, tại ô F4 và F5, ta có công thức như Hình 5.4.
+Địa chỉ F2 không thay đổi trong các công thức
+Hình 5.4. Công thức tại ô F4 và F5
+Như vậy, để công thức thực hiện chính xác yêu cầu của bài toán thì địa chỉ ô chứa giá trị Doanh thu là địa chỉ tương đối, địa chỉ ô F2 chứa Tỉ lệ là địa chỉ tuyệt đối. Vì vậy, công thức đúng tại ô F4 để tính doanh thu của công ti cho phần mềm Quản lí thời gian là =E4*$F$2. Khi đó, việc sao chép công thức từ ô F4 đến các ô còn lại để tính Doanh thu của công ti cho các phần mềm trong danh sách sẽ trả lại kết quả chính xác.
+23
+
+--- PAGE 25 ---
+Địa chỉ tuyệt đối không thay đổi khi sao chép công thức.
+Địa chỉ tuyệt đối có dấu $ trước tên cột và tên hàng.
+Em hãy chọn các đáp án đúng:
+1. Trong Hình 5.3, công thức tại ô F5 là =E5*$F$2. Sao chép công thức này đến ô F6, kết quả sao chép là:
+A. =E6*F3
+B. =E6*$F$2
+C. =$E$6*F3
+D. =$E$6*$F$2
+2. Cách nhập kí hiệu $ cho địa chỉ tuyệt đối là:
+A. Gõ kí hiệu $ từ bàn phím khi nhập địa chỉ ô.
+B. Sau khi nhập địa chỉ tương đối, nhấn phím F4 để chuyển thành địa chỉ tuyệt đối.
+C. Sau khi nhập địa chỉ tương đối, nhấn phím F2 để chuyển thành địa chỉ tuyệt đối.
+D. Thực hiện được theo cả hai cách A và B.
+3. THỰC HÀNH: SỬ DỤNG BẢNG TÍNH GIẢI QUYẾT BÀI TOÁN THỰC TẾ
+Nhiệm vụ
+Tạo bảng tính theo mẫu như Hình 5.1. Lập công thức sử dụng địa chỉ tương đối và địa chỉ tuyệt đối để tính Doanh thu mỗi phần mềm và Doanh thu của công ti.
+Hướng dẫn
+(Hướng dẫn sau đây sử dụng phần mềm bảng tính Microsoft Excel phiên bản 2016 để minh hoạ.)
+a) Tạo bảng dữ liệu trong chương trình bảng tính
+Khởi động phần mềm bảng tính.
+Nhập dữ liệu và định dạng để được bảng tính chứa đầy đủ thông tin như Hình 5.1.
+Lưu tệp.
+b) Tính Doanh thu của mỗi phần mềm
+Tại ô E4, nhập công thức =C4*D4.
+Sao chép công thức tại ô E4 cho các ô từ E5 đến E9.
+Lưu tệp.
+c) Tính Doanh thu của công ti
+Tại ô D2, gõ nội dung “Tỉ lệ doanh thu của công ti”.
+Tại ô F2, gõ tỉ lệ là 70% như minh hoạ trong Hình 5.3.
+Tại ô F3, gõ tiêu đề “Doanh thu của công ti” và định dạng để được bảng dữ liệu như minh hoạ trong Hình 5.3.
+24
+
+--- PAGE 26 ---
+Tại ô F4, nhập công thức =E4*$F$2 bằng cách gõ dấu $ từ bàn phím hoặc sau khi nhập F2 thì nhấn phím F4 trên bàn phím.
+D, E, F
+DANH SÁCH PHẦN MỀM ỨNG DỤNG
+2, Tỉ lệ doanh thu của công ti, 70%
+3, Doanh thu, Doanh thu của công ti
+4, 1,999,950,000, =E4*$F$2
+5, 5,450,000,000,
+6, 2,110,000,000,
+7, 0,
+8, 885,000,000,
+9, 0,
+Hình 5.5. Công thức tính Doanh thu của công ti cho phần mềm Quản lí thời gian
+Sao chép công thức tại ô F4 đến các ô từ F5 đến F9.
+Lưu tệp.
+4. THỰC HÀNH: SAO CHÉP DỮ LIỆU TỪ CÁC TỆP VĂN BẢN, TRANG TRÌNH CHIẾU SANG TRANG TÍNH
+Trong thực tế, có nhiều tình huống bảng dữ liệu được tạo ra trong phần mềm soạn thảo văn bản hoặc phần mềm trình chiếu. Khi cần tính toán trên các bảng dữ liệu này, em có thể sao chép bảng dữ liệu sang phần mềm bảng tính để giúp công việc được giải quyết nhanh chóng và hiệu quả.
+Nhiệm vụ
+Giả sử kết quả số học sinh chọn mỗi nhóm nghề của lĩnh vực Công nghệ thông tin được lưu trữ trong phần mềm soạn thảo văn bản hoặc phần mềm trình chiếu như Bảng 5.1.
+Bảng 5.1. Số liệu thống kê lựa chọn nghề nghiệp của học sinh
+TT, Nhóm nghề, Nghề, Số lượng HS
+1, Lĩnh vực phát triển phần mềm, Lập trình viên, Thiết kế phần mềm, Kiến trúc sư phần mềm, Kiểm thử phần mềm,..., 46
+2, Lĩnh vực mạng máy tính và an toàn thông tin, Quản trị mạng, An toàn thông tin,..., 25
+3, Lĩnh vực đa phương tiện, Thiết kế đồ hoạ, truyền thông đa phương tiện, 78
+4, Lĩnh vực khác của Công nghệ thông tin, Quản trị website, giảng viên Công nghệ thông tin...., 42
+Em hãy sao chép bảng số liệu này sang phần mềm bảng tính.
+Hướng dẫn
+Trong phần mềm soạn thảo văn bản hoặc phần mềm trình chiếu, chọn các hàng, cột của bảng.
+Chọn Home, chọn lệnh Copy hoặc nhấn tổ hợp phím Ctrl+C.
+Trong phần mềm bảng tính, mở bảng tính mới, chọn ô ở góc trên cùng bên trái của vùng muốn dán dữ liệu và chọn lệnh Paste.
+Đóng tệp văn bản hoặc tệp trình chiếu.
+Lưu tệp bảng tính với tên Khaosat.xlsx.
+25
+
+--- PAGE 27 ---
+LUYỆN TẬP
+1. Em hãy chọn phương án đúng.
+Công thức tại ô C1 (Hình 5.6) là =A1*B1. Sao chép công thức trong ô C1 vào ô E2 thì công thức tại ô E2 sau khi sao chép là:
+A. =C1*D2
+B. =C2*D1
+C. =C2*D2
+D. =B2*C2
+Hình 5.6. Sao chép công thức vào ô E2
+2. Nhân dịp khai giảng năm học mới, tại một số cửa hàng, nhà sách,... các mặt hàng đồ dùng học tập được giảm giá. Danh sách một số mặt hàng được giảm giá và tỉ lệ giảm giá được lưu ở ô D2 như trong Hình 5.7.
+a) Hãy nhập dữ liệu và định dạng bảng tính như minh hoạ ở Hình 5.7.
+b) Em hãy tham khảo hoặc tìm thông tin đơn giá của các mặt hàng và nhập dữ liệu cho cột Đơn giá.
+A, B, C, D
+1, , Danh sách các mặt hàng được giảm giá, ,
+2, , Tỉ lệ giảm giá, , 20%
+3, , , ,
+4, TT, Tên mặt hàng, Đơn giá, Đơn giá đã giảm
+5, 1, Vở 80 trang, ,
+6, 2, Vở 120 trang, ,
+7, 3, Bút bi, ,
+8, 4, Bút chì, ,
+9, 5, Balo, ,
+10, 6, Cặp sách, ,
+c) Nhập công thức cho các ô từ D5 đến ô D10 để tính đơn giá mỗi mặt hàng sau khi đã được giảm, biết rằng:
+Đơn giá đã giảm = Đơn giá * Tỉ lệ giảm giá
+d) Bổ sung thêm cột Số lượng vào sau cột Đơn giá đã giảm. Nhập dữ liệu số lượng mỗi loại đồ dùng học tập mà em cần mua để dùng cho năm học lớp 8 vào cột này.
+e) Bổ sung thêm cột Tổng tiền vào sau cột Số lượng. Tính Tổng tiền cần trả của mỗi mặt hàng biết Tổng tiền = Số lượng * Đơn giá đã giảm.
+f) Tại ô F11, hãy nhập công thức tính Tổng tiền phải trả cho tất cả các mặt hàng.
+Hình 5.7. Các mặt hàng được giảm giá
+VẬN DỤNG
+Em hãy truy cập vào một số chợ ứng dụng để tìm thông tin về năm phần mềm ứng dụng mà em quan tâm (đơn giá, số lượt mua,...) và tạo bảng tính lưu lại các thông tin đó theo mẫu như ở Hình 5.5. Hãy lập công thức để tính Doanh thu và Doanh thu của công ti sản xuất phần mềm cho năm phần mềm ứng dụng đó (giả sử số tiền mà công ti sản xuất phần mềm nhận được là 75% Doanh thu).
+26
+
+--- PAGE 28 ---
+BÀI 6 SẮP XẾP VÀ LỌC DỮ LIỆU
+Sau bài học này em sẽ:
+• Sử dụng được phần mềm bảng tính trợ giúp giải quyết bài toán thực tế.
+• Nêu được một số tình huống thực tế cần sử dụng các chức năng sắp xếp và lọc dữ liệu.
+• Thực hiện được các thao tác lọc, sắp xếp dữ liệu của phần mềm bảng tính.
+Chung niềm yêu thích môn Tin học, nhóm các bạn học sinh lớp 8A đã cùng nhau thực hiện dự án Thành lập CLB Tin học. Trước tiên, các bạn thực hiện khảo sát về những nội dung Tin học mà học sinh trong lớp muốn tìm hiểu thêm. Phiếu khảo sát có nội dung như Hình 6.1. Từ dữ liệu khảo sát thu được, sẽ tiến hành xử lí dữ liệu (sắp xếp danh sách, lọc ra các bạn học sinh cùng muốn tìm hiểu mỗi nội dung tin học,...) để thu được các thông tin cần thiết làm căn cứ tổ chức các hoạt động của CLB.
+Hoạt động 1 Phiếu khảo sát
+PHIẾU KHẢO SÁT
+Họ và tên:
+Tổ:
+Bạn mong muốn tìm hiểu thêm nội dung Tin học nào? (Chọn một nội dung)
+1. Ngôn ngữ lập trình
+2. Mạng máy tính
+3. Đồ hoạ máy tính
+4. Bảng tính điện tử
+5. Soạn thảo văn bản
+6. Phần mềm trình chiếu
+Hình 6.1. Phiếu khảo sát
+Phiếu khảo sát được phát cho các bạn trong lớp. Câu trả lời của các bạn cần được lưu trữ trong bảng tính. Theo em, bảng tính gồm các cột nào? Mỗi hàng của bảng lưu trữ dữ liệu gì?
+1. SỬ DỤNG PHẦN MỀM BẢNG TÍNH TRỢ GIÚP GIẢI QUYẾT BÀI TOÁN THỰC TẾ
+Phiếu khảo sát ở Hình 6.1 gồm ba thông tin chính là: Họ và tên học sinh, Tổ và Nội dung. Ba thông tin này là tiêu đề của các cột dữ liệu. Để dễ dàng quan sát tên học sinh, chúng ta sẽ tách họ tên thành hai phần là Họ đệm và Tên. Mỗi phiếu khảo sát được trả lời là một hàng dữ liệu được lưu trong bảng tính. Hình 6.2 mô tả ví dụ một bảng tính lưu trữ kết quả của 10 phiếu khảo sát thu được, trong đó cột thứ tự (TT) được bổ sung để theo dõi số lượng phiếu khảo sát.
+27
+
+--- PAGE 29 ---
+Mục đích của việc khảo sát là thu thập thông tin để quyết định CLB Tin học sẽ được tổ chức như thế nào. Các bạn học sinh của lớp 8A cần thực hiện một số thao tác xử lí dữ liệu. Ví dụ:
+1) Họ và tên học sinh trong bảng kết quả cần được sắp xếp theo thứ tự của bảng chữ cái để dễ tìm kiếm.
+2) Ở mỗi nội dung Tin học, danh sách học sinh muốn tìm hiểu thêm là những ai?
+3) Nội dung Tin học nào có nhiều học sinh lựa chọn nhất? Đó là những học sinh nào?
+A, B, C, D, E
+1, Bảng kết quả khảo sát lớp 8A
+2, TT, Họ đệm, Tên, Tổ, Nội dung
+3, 1, Phạm Hoàng Bảo, An, 1, Mạng máy tính
+4, 2, Trương Thanh, Hà, 2, Soạn thảo văn bản
+5, 3, Vũ Thị Minh, An, 3, Ngôn ngữ lập trình
+6, 4, Đỗ Minh, Giang, 2, Bảng tính điện tử
+7, 5, Trần Minh, Châu, 2, Ngôn ngữ lập trình
+8, 6, Ngô Hà, Trang, 1, Đồ hoạ máy tính
+9, 7, Dương Gia, Khánh, 3, Phần mềm trình chiếu
+10, 8, Đặng Mai, Trang, 1, Ngôn ngữ lập trình
+11, 9, Phùng Khánh, Toàn, 1, Ngôn ngữ lập trình
+12, 10, Phạm Ngọc, Linh, 3, Đồ hoạ máy tính
+Hình 6.2. Bảng kết quả khảo sát
+4) Với mỗi nội dung, học sinh thuộc những tổ nào để có căn cứ chia nhóm học tập?
+Chúng ta có thể sử dụng chức năng sắp xếp và lọc dữ liệu để giải quyết những yêu cầu của bài toán thực tế ở trên.
+Lưu ý: Việc sắp xếp theo thứ tự bảng chữ cái khi sử dụng bảng mã Unicode sẽ không hoàn toàn đúng với thứ tự trong tiếng Việt.
+Em hãy nêu tiêu chí sắp xếp danh sách học sinh theo thứ tự của bảng chữ cái trong bảng kết quả ở Hình 6.2.
+2. THỰC HÀNH: SẮP XẾP DỮ LIỆU
+a) Sắp xếp dữ liệu theo một tiêu chí
+Nhiệm vụ
+Sắp xếp cột Tên của bảng Kết quả khảo sát lớp 8A ở Hình 6.2 theo thứ tự bảng chữ cái.
+Hướng dẫn
+Bước 1. Chọn vùng dữ liệu cần sắp xếp là A2:E12. Trong vùng dữ liệu này, hàng 2 là hàng tiêu đề của bảng, các hàng còn lại là dữ liệu cần sắp xếp.
+Bước 2. Trong thẻ Data, tại nhóm Sort & Filter, chọn lệnh Sort để mở hộp thoại Sort. Các bước tiếp theo thực hiện như minh hoạ trong Hình 6.3. Chọn OK để hoàn thành việc sắp xếp.
+1. Chọn ô này để không sắp xếp dòng tiêu đề
+2. Chọn cột Tên là tiêu chí sắp xếp
+3. Chọn thứ tự sắp xếp
+Sort
+[My data has headers]
+Sort by [Tên]
+Sort On [Cell Values]
+Order [A to Z]
+Hình 6.3. Sắp xếp bảng dữ liệu theo một tiêu chí
+28
+
+--- PAGE 30 ---
+Kết quả: Tên học sinh được sắp xếp theo thứ tự bảng chữ cái như minh hoạ trong Hình 6.4.
+A, B, C, D, E
+1, Bảng kết quả khảo sát lớp 8A
+2, TT, Họ đệm, Tên, Tổ, Nội dung
+3, 1, Phạm Hoàng Bảo, An, 1, Mạng máy tính
+4, 3, Vũ Thị Minh, An, 3, Ngôn ngữ lập trình
+5, 5, Trần Minh, Châu, 2, Ngôn ngữ lập trình
+6, 4, Đỗ Minh, Giang, 2, Bảng tính điện tử
+7, 2, Trương Thanh, Hà, 2, Soạn thảo văn bản
+8, 7, Dương Gia, Khánh, 3, Phần mềm trình chiếu
+9, 10, Phạm Ngọc, Linh, 3, Đồ hoạ máy tính
+10, 9, Phùng Khánh, Toàn, 1, Ngôn ngữ lập trình
+11, 6, Ngô Hà, Trang, 1, Đồ hoạ máy tính
+12, 8, Đặng Mai, Trang, 1, Ngôn ngữ lập trình
+Hình 6.4. Kết quả sắp xếp tên học sinh theo thứ tự bảng chữ cái
+b) Sắp xếp dữ liệu theo nhiều tiêu chí
+Nhiệm vụ
+Trong bảng tính ở Hình 6.4, tên học sinh đã được sắp xếp theo thứ tự bảng chữ cái. Tuy nhiên, có hai học sinh cùng tên là Trang, nhưng bạn Ngô Hà Trang được sắp xếp trước bạn Đặng Mai Trang, trong khi chữ N đứng sau chữ Đ trong bảng chữ cái. Như vậy, để danh sách học sinh hiển thị đúng theo yêu cầu, em cần bổ sung thêm tiêu chí thứ hai là sắp xếp Họ đệm. Khi đó, nếu cùng giá trị trên cột Tên, các hàng của bảng tính sẽ được sắp xếp theo thứ tự chữ cái của cột Họ đệm.
+Hướng dẫn
+Thực hiện các bước như hướng dẫn ở mục a) để mở hộp thoại Sort, các bước tiếp theo thực hiện như hướng dẫn trong Hình 6.5. Chọn OK để hoàn thành việc sắp xếp.
+1. Chọn ô này để không sắp xếp dòng tiêu đề
+2. Chọn Add level để thêm tiêu chí sắp xếp
+3. Chọn cột Tên là tiêu chí sắp xếp thứ nhất
+4. Chọn cột Họ đệm là tiêu chí sắp xếp thứ hai
+Sort
+[My data has headers]
+Sort by [Tên] Order [A to Z]
+Then by [Họ đệm] Order [A to Z]
+Hình 6.5. Sắp xếp theo nhiều tiêu chí
+Lưu ý: Tiếp tục chọn nút lệnh Add level nếu muốn thêm nhiều tiêu chí sắp xếp. Chọn nút lệnh Delete Level nếu muốn xoá bỏ tiêu chí sắp xếp.
+29
+
+--- PAGE 31 ---
+Kết quả được minh hoạ trong Hình 6.6, trong đó Tên và Họ đệm được sắp xếp theo thứ tự bảng chữ cái. Sau khi sắp xếp dữ liệu, em có thể nhập lại giá trị của cột TT cho đúng thứ tự.
+A, B, C, D, E
+1, Bảng kết quả khảo sát lớp 8A
+2, TT, Họ đệm, Tên, Tổ, Nội dung
+3, 1, Phạm Hoàng Bảo, An, 1, Mạng máy tính
+4, 3, Vũ Thị Minh, An, 3, Ngôn ngữ lập trình
+5, 5, Trần Minh, Châu, 2, Ngôn ngữ lập trình
+6, 4, Đỗ Minh, Giang, 2, Bảng tính điện tử
+7, 2, Trương Thanh, Hà, 2, Soạn thảo văn bản
+8, 7, Dương Gia, Khánh, 3, Phần mềm trình chiếu
+9, 10, Phạm Ngọc, Linh, 3, Đồ hoạ máy tính
+10, 9, Phùng Khánh, Toàn, 1, Ngôn ngữ lập trình
+11, 8, Đặng Mai, Trang, 1, Ngôn ngữ lập trình
+12, 6, Ngô Hà, Trang, 1, Đồ hoạ máy tính
+Theo em có thể sắp xếp bảng kết quả khảo sát lớp 8A (Hình 6.2) theo tổ, nếu cùng tổ sắp xếp theo tên, nếu cùng tên sắp xếp theo họ đệm được không? Hãy thực hiện sắp xếp trên bảng tính.
+Hình 6.6. Kết quả sắp xếp theo hai tiêu chí
+3. THỰC HÀNH: LỌC DỮ LIỆU
+Chức năng lọc dữ liệu của phần mềm bảng tính được sử dụng để chọn và chỉ hiển thị các dòng thoả mãn các điều kiện nào đó. Ví dụ: danh sách học sinh muốn tìm hiểu nội dung Ngôn ngữ lập trình, danh sách học sinh Tổ 1 muốn tìm hiểu nội dung Đồ hoạ máy tính,...
+Nhiệm vụ 1 (lọc theo một tiêu chí):
+Lọc danh sách học sinh theo từng nội dung Tin học mà học sinh lựa chọn (sử dụng bộ lọc nhiều tuỳ chọn).
+Hướng dẫn
+Bước 1. Chọn vùng dữ liệu cần lọc là A2:E12.
+Bước 2. Trong thẻ Data, tại nhóm Sort & Filter, chọn lệnh Filter. Khi đó, nút lệnh lọc dữ liệu sẽ xuất hiện ở tất cả các ô thuộc dòng tiêu đề của bảng dữ liệu.
+1. Nháy chuột vào đây để lọc theo cột Nội dung
+2. Nháy chuột vào đây để chọn hoặc bỏ chọn tất cả các ô
+3. Chọn nội dung cần lọc
+A, B, C, D, E
+1, Bảng kết quả khảo sát lớp 8A
+2, TT, Họ đệm, Tên, Tổ, Nội dung
+...
+Kết quả lọc dữ liệu là danh sách học sinh mong muốn tìm hiểu nội dung Ngôn ngữ lập trình.
+Hình 6.8. Kết quả lọc dữ liệu
+Bước 3. Thực hiện lọc dữ liệu theo các bước trong Hình 6.7. Chọn OK để hoàn thành việc lọc.
+Hình 6.8 minh hoạ kết quả lọc dữ liệu là danh sách học sinh mong muốn tìm hiểu nội dung Ngôn ngữ lập trình.
+Bước 4. Để bỏ lọc dữ liệu, chọn Select All ở Bước 2 trong Hình 6.7.
+Lưu ý: Dữ liệu không đúng với điều kiện lọc sẽ bị ẩn đi.
+30
+
+--- PAGE 32 ---
+Nhiệm vụ 2 (lọc theo nhiều tiêu chí): Lọc danh sách học sinh của Tổ 1 muốn tìm hiểu nội dung Đồ hoạ máy tính.
+Hướng dẫn
+Bước 1. Thực hiện Bước 1 và Bước 2 như ở Nhiệm vụ 1.
+Bước 2. Trong cột Nội dung, chọn tiêu chí lọc là Đồ hoạ máy tính.
+Bước 3. Trong cột Tổ, chọn tiêu chí lọc là 1.
+Bước 4. Để bỏ lọc dữ liệu, thực hiện tương tự như Bước 4 ở Nhiệm vụ 1 đối với cột Nội dung và cột Tổ.
+LUYỆN TẬP
+Để phục vụ cho việc thành lập CLB Tin học của trường, các bạn học sinh lớp 8A đã thực hiện một cuộc khảo sát trong khối 8 để tìm hiểu sự ảnh hưởng của công nghệ kĩ thuật số đến cuộc sống của học sinh. Bảng dữ liệu dưới đây thống kê số học sinh của mỗi lớp đã trả lời câu hỏi "Bạn dành khoảng bao nhiêu giờ mỗi ngày sử dụng thiết bị số (điện thoại thông minh, máy tính bảng, máy tính,...) ngoài giờ học ở trường?".
+A, B, C, D, E, F, G
+1, KẾT QUẢ KHẢO SÁT THỜI GIAN SỬ DỤNG THIẾT BỊ SỐ MỖI NGÀY CỦA HỌC SINH KHỐI 8
+2, Ghi chú: không tính giờ học ở trường
+3, TT, Lớp, Không sử dụng, Dưới 1 giờ, 1-2 giờ, 3-4 giờ, Từ 5 giờ trở lên
+4, 1, 8A1, 8, 12, 15, 7, 1
+5, 2, 8A2, 10, 7, 17, 6,
+6, 3, 8A3, 13, 6, 15, 8, 2
+7, 4, 8A4, 11, 8, 10, 9, 3
+8, 5, 8A5, 10, 8, 12, 11,
+9, 6, 8A6, 12, 7, 14, 8,
+10, 7, 8A7, 5, 20, 15, 9,
+11, 8, 8A8, 16, 9, 17, 7,
+12, 9, 8A9, 6, 12, 15, 4, 2
+13, 10, 8A10, 4, 15, 16, 3, 4
+Hình 6.9. Bảng dữ liệu khảo sát thời gian học sinh sử dụng thiết bị số mỗi ngày
+Em hãy thực hiện:
+a) Tạo bảng dữ liệu và định dạng theo mẫu ở Hình 6.9 và lưu tệp với tên TGSDThietbiso.xlsx.
+b) Sắp xếp bảng dữ liệu theo thứ tự giá trị giảm dần của cột Không sử dụng.
+c) Sắp xếp bảng dữ liệu theo hai tiêu chí: giá trị giảm dần của cột Không sử dụng, nếu bằng nhau thì sắp xếp theo giá trị giảm dần của cột Dưới 1 giờ.
+d) Lọc danh sách các lớp không có học sinh sử dụng thiết bị số từ 5 giờ trở lên.
+VẬN DỤNG
+Ngoài các chức năng lọc mà em đã tìm hiểu trong phần thực hành, phần mềm bảng tính còn có chức năng lọc theo điều kiện. Khi nháy chuột vào nút lệnh lọc dữ liệu, em còn thấy tuỳ chọn Number Filters (hoặc Text Filters) nếu phần lớn các ô trong cột đó chứa dữ liệu số (hoặc kí tự). Em hãy mở tệp dữ liệu TGSDThietbiso.xlsx, tìm hiểu chức năng Number Filters để lọc danh sách các lớp có số học sinh sử dụng thiết bị số từ 3 đến 4 giờ lớn hơn hoặc bằng 10 học sinh.
+31
+
+--- PAGE 33 ---
+BÀI 7 TRỰC QUAN HOÁ DỮ LIỆU
+Sau bài học này em sẽ:
+• Nêu được một số tình huống thực tế cần sử dụng các chức năng tạo biểu đồ.
+• Thực hiện được các thao tác tạo biểu đồ của phần mềm bảng tính.
+Hình 7.1 và Hình 7.2 mô tả hai cách trình bày kết quả khảo sát những nội dung Tin học mà các bạn học sinh lớp 8A muốn tìm hiểu thêm. Em hãy nhận xét về hai cách trình bày này.
+A, B, C
+1, Bảng tổng hợp kết quả khảo sát lớp 8A
+2, TT, Nội dung Tin học, Số học sinh quan tâm
+3, 1, Ngôn ngữ lập trình, 8
+4, 2, Mạng máy tính, 7
+5, 3, Đồ hoạ máy tính, 15
+6, 4, Bảng tính điện tử, 4
+7, 5, Soạn thảo văn bản, 2
+8, 6, Phần mềm trình chiếu, 5
+Hình 7.1. Trình bày dữ liệu bằng bảng
+Số học sinh quan tâm
+Ngôn ngữ lập trình: 8
+Mạng máy tính: 7
+Đồ hoạ máy tính: 15
+Bảng tính điện tử: 4
+Soạn thảo văn bản: 2
+Phần mềm trình chiếu: 5
+Hình 7.2. Trình bày dữ liệu bằng biểu đồ
+1. TRỰC QUAN HOÁ DỮ LIỆU BẰNG BIỂU ĐỒ
+Hoạt động 1 Trực quan dữ liệu
+1. Trong hai cách trình bày dữ liệu ở Hình 7.1 và Hình 7.2, cách nào hiệu quả hơn để so sánh trực quan số học sinh quan tâm các nội dung Tin học?
+2. Nếu cần so sánh tỉ lệ phần trăm số học sinh của mỗi nội dung Tin học trên tổng số học sinh được khảo sát, em sẽ dùng cách nào để thể hiện dữ liệu?
+Biểu đồ được sử dụng để minh hoạ dữ liệu một cách trực quan, giúp em dễ so sánh hoặc dự đoán xu hướng tăng hay giảm của dữ liệu. Có nhiều loại biểu đồ, mỗi loại có một ý nghĩa riêng.
+Biểu đồ cột thường được sử dụng để so sánh dữ liệu. Ví dụ, từ biểu đồ hình cột ở Hình 7.2, dễ dàng thấy rằng nội dung Đồ hoạ máy tính thu hút sự quan tâm nhiều nhất, sau đó là nội dung Ngôn ngữ lập trình.
+32
+
+--- PAGE 34 ---
+Nội dung Soạn thảo văn bản ít học sinh quan tâm nhất.
+Biểu đồ đoạn thẳng thường được sử dụng để quan sát xu hướng tăng giảm của dữ liệu theo thời gian hay quá trình nào đó. Ví dụ, biểu đồ đoạn thẳng ở Hình 7.3 cho thấy số lượng ứng dụng được tải về từ các chợ ứng dụng từ năm 2017 đến 2020 có xu hướng tăng dần.
+Số ứng dụng trên điện thoại được tải về từ các chợ ứng dụng
+Hình 7.3. Biểu đồ đoạn thẳng
+• Biểu đồ hình quạt tròn rất hữu ích trong trường hợp cần so sánh các phần với tổng thể. Ví dụ, biểu đồ ở Hình 7.4 so sánh tỉ lệ phần trăm số học sinh muốn tìm hiểu thêm mỗi nội dung Tin học trên tổng số học sinh khảo sát.
+Số học sinh quan tâm
+Ngôn ngữ lập trình: 19%
+Mạng máy tính: 17%
+Đồ hoạ máy tính: 37%
+Bảng tính điện tử: 10%
+Soạn thảo văn bản: 5%
+Phần mềm trình chiếu: 12%
+Hình 7.4. Biểu đồ hình quạt tròn
+Biểu đồ là cách minh hoạ dữ liệu trực quan. Nhờ biểu đồ, em dễ dàng so sánh, nhận định xu hướng thay đổi của dữ liệu.
+Cần sử dụng loại biểu đồ phù hợp với mục đích của việc biểu diễn và thể hiện dữ liệu.
+Em hãy nêu một số tình huống thực tế cần tạo biểu đồ.
+2. THỰC HÀNH: TẠO BIỂU ĐỒ
+a) Tạo biểu đồ cột
+Nhiệm vụ: Tạo biểu đồ cột so sánh trực quan số học sinh quan tâm các nội dung Tin học như Hình 7.2.
+Hướng dẫn
+Hình 7.5. Nhóm lệnh Charts
+Bước 1. Khởi động phần mềm bảng tính và nhập dữ liệu như bảng trong Hình 7.1.
+Bước 2. Chọn vùng dữ liệu B2:C8.
+Bước 3. Trong thẻ Insert, tại nhóm Charts, chọn lệnh Insert Column or Bar Chart (Hình 7.5), danh sách các loại biểu đồ sẽ xuất hiện.
+Bước 4. Trong nhóm biểu đồ 2-D Column, chọn kiểu biểu đồ Clustered Column. Khi đó biểu đồ kết quả sẽ xuất hiện trong bảng tính.
+33
+
+--- PAGE 35 ---
+Bước 5. Bổ sung thông tin cho biểu đồ.
+Nháy chuột chọn biểu đồ, sau đó chọn nút lệnh Chart Elements ở góc trên bên phải của biểu đồ. Nháy chuột chọn các loại thông tin cho biểu đồ như minh hoạ trong Hình 7.6.
+Hình 7.6. Bổ sung thông tin cho biểu đồ
+Lưu ý: Trong danh sách thông tin ở nút lệnh Chart Elements, em hãy chọn thêm các lệnh khác và quan sát sự thay đổi của biểu đồ.
+b) Tạo biểu đồ hình quạt tròn
+Nhiệm vụ: Tạo biểu đồ hình quạt tròn như Hình 7.4 để so sánh trực quan tỉ lệ phần trăm số học sinh của mỗi nội dung Tin học trên tổng số học sinh khảo sát.
+Hướng dẫn
+Bước 1. Chọn vùng dữ liệu B2:C8.
+Bước 2. Trong thẻ Insert, tại nhóm Charts, chọn lệnh Insert Pie or Doughnut Chart. Danh sách các loại biểu đồ hình quạt tròn sẽ xuất hiện.
+Bước 3. Trong nhóm biểu đồ 2-D Pie, chọn kiểu biểu đồ Pie. Biểu đồ kết quả sẽ xuất hiện trong bảng tính.
+Bước 4. Bổ sung thông tin cho biểu đồ.
+Trong Excel, biểu đồ hình tròn thường có thông tin mặc định gồm tiêu đề và chú giải (Legend). Để hiển thị nhãn dữ liệu là tỉ lệ phần trăm, em chọn More Options như minh hoạ trong Hình 7.7. Khi đó các tuỳ chọn định dạng nhãn dữ liệu (Label Option) sẽ xuất hiện ở khung làm việc bên phải. Em đánh dấu chọn Percentage.
+Hình 7.7. Bổ sung thông tin cho biểu đồ hình quạt tròn
+34
+
+--- PAGE 36 ---
+Lưu ý: Trong khung làm việc Format Data Label còn có nhiều tuỳ chọn khác về nhãn dữ liệu, em hãy chọn thêm các lệnh khác và quan sát sự thay đổi của biểu đồ.
+LUYỆN TẬP
+1. Em hãy mở tệp TGSDThietbiso.xlsx đã lưu ở Bài 6. Dùng hàm SUM để tính tổng số học sinh sử dụng thiết bị số trong mỗi khoảng thời gian (kết quả tương tự như Hình 7.8) rồi thực hiện:
+a) Vẽ biểu đồ cột thể hiện số học sinh sử dụng thiết bị số của mỗi khoảng thời gian. Từ biểu đồ kết quả, em có nhận xét gì về tình hình sử dụng thiết bị của học sinh khối 8?
+Thời gian, Số học sinh
+Không sử dụng, 68
+Dưới 1 giờ, 131
+1-2 giờ, 146
+3-4 giờ, 72
+Từ 5 giờ trở lên, 12
+Hình 7.8. Tổng số học sinh sử dụng thiết bị số trong mỗi khoảng thời gian
+b) Vẽ biểu đồ hình quạt tròn thể hiện tỉ lệ phần trăm của số học sinh sử dụng thiết bị số theo mỗi khoảng thời gian.
+2. Cho biểu đồ về doanh thu công nghiệp phần mềm giai đoạn 2016 – 2020 như Hình 7.9.
+Triệu USD
+2016: 3.038
+2017: 3.779
+2018: 4.447
+2019: 4.932
+2020: 5.439
+Hình 7.9. Doanh thu công nghiệp phần mềm giai đoạn 2016 – 2020 (Theo: Sách trắng Công nghệ thông tin năm 2021 – Bộ Thông tin và Truyền thông)
+a) Từ biểu đồ, em có nhận xét gì về doanh thu công nghiệp phần mềm giai đoạn 2016-2020?
+b) Em hãy tạo bảng dữ liệu trong phần mềm bảng tính từ biểu đồ trên.
+c) Em hãy tạo biểu đồ cột từ bảng dữ liệu có được ở câu b.
+VẬN DỤNG
+Từ bảng dữ liệu về doanh thu công nghiệp phần mềm giai đoạn 2016 – 2020 đã tạo ra trên phần mềm bảng tính ở Câu 2, phần Luyện tập, em hãy tạo biểu đồ đường thẳng, từ đó nhận xét xu hướng của dữ liệu.
+35
+
+--- PAGE 37 ---
+a. SOẠN THẢO VĂN BẢN VÀ TRÌNH CHIẾU NÂNG CAO
+BÀI 8a LÀM VIỆC VỚI DANH SÁCH DẠNG LIỆT KÊ VÀ HÌNH ẢNH TRONG VĂN BẢN
+Sau bài học này em sẽ:
+• Thực hiện được các thao tác: tạo danh sách dạng liệt kê; chèn thêm, xoá bỏ, co dãn hình ảnh; vẽ hình đồ hoạ trong văn bản,...
+• Tạo được sản phẩm là văn bản có tính thẩm mĩ phục vụ nhu cầu thực tế.
+Bạn An được giao nhiệm vụ thiết kế Phiếu khảo sát để sử dụng cho dự án Thành lập CLB Tin học theo mẫu như Hình 8a.1. Trong Phiếu khảo sát có một danh sách các nội dung của môn Tin học. Theo em, bạn An có cần nhập từng số thứ tự của danh sách này không? Với danh sách có hàng trăm mục thì làm thế nào để tiết kiệm thời gian nhập và không bị nhầm thứ tự các mục?
+PHIẾU KHẢO SÁT
+Họ và tên:.................................................
+Lớp:...........................................................
+Bạn mong muốn tìm hiểu thêm nội dung nào của môn Tin học? (Chọn một nội dung)
+1. Ngôn ngữ lập trình
+2. Mạng máy tính
+3. Đồ hoạ máy tính
+4. Bảng tính điện tử
+5. Soạn thảo văn bản
+6. Phần mềm trình chiếu
+Hình 8a.1. Phiếu khảo sát
+1. DANH SÁCH DẠNG LIỆT KÊ
+Hoạt động 1 Tác dụng của danh sách dạng liệt kê
+Em hãy quan sát Hình 8a.2, Hình 8a.3 và cho nhận xét về hai cách trình bày nội dung.
+36
+
+--- PAGE 38 ---
+Các công việc cần làm cho dự án Thành lập CLB Tin học
+Khảo sát: Tạo Phiếu khảo sát; Phát Phiếu khảo sát; Thu Phiếu khảo sát.
+Xử lí dữ liệu: Nhập dữ liệu vào phần mềm bảng tính; Lọc, sắp xếp dữ liệu, tạo biểu đồ; Từ kết quả xử lí đưa ra kết luận.
+Quảng cáo và tuyển thành viên: Tạo tờ rơi quảng cáo và tuyển thành viên; Phát tờ rơi đến học sinh trong trường.
+Tổ chức buổi ra mắt CLB Tin học: Tạo bài trình chiếu; Tạo tài liệu CLB.
+Hình 8a.2. Văn bản không sử dụng danh sách dạng liệt kê
+Phần mềm soạn thảo văn bản cung cấp hai kiểu danh sách dạng liệt kê là: danh sách dấu đầu dòng và danh sách có thứ tự. Phiếu khảo sát ở Hình 8a.1 là một ví dụ về danh sách có thứ tự. Nội dung văn bản trong Hình 8a.3 là một ví dụ về danh sách có thứ tự kết hợp với danh sách dấu đầu dòng.
+Mỗi đơn vị trong danh sách dạng liệt kê là một đoạn văn bản, phân tách nhau bởi phím Enter (được người sử dụng nhấn khi soạn thảo văn bản). Trong danh sách dấu đầu dòng, mỗi đoạn văn bản bắt đầu bằng một dấu đầu dòng. Các dấu đầu dòng được tự động tạo ra mỗi khi em thêm đoạn văn bản mới. Trong danh sách có thứ tự, mỗi đoạn văn bản bắt đầu bằng một số hoặc chữ cái và dấu phân tách (thường là dấu chấm hoặc dấu ngoặc đơn). Thứ tự trong danh sách có thứ tự được tạo và cập nhật tự động khi em thêm hoặc bớt các đoạn văn bản trong danh sách.
+Sử dụng danh sách dạng liệt kê giúp cho văn bản trở nên rõ ràng, có tính thẩm mĩ hơn. Nếu được sử dụng đúng cách, các dấu đầu dòng và thứ tự có tác dụng như một điểm truy cập cho người đọc, một hình thức nhấn mạnh hoặc một cách để biểu thị tầm quan trọng của nội dung đoạn văn bản. Danh sách dạng liệt kê chia nhỏ các đoạn văn bản dài, giúp người đọc có khả năng tham khảo thông tin nhanh chóng, dễ dàng.
+Các công việc cần làm cho dự án Thành lập CLB Tin học
+1) Khảo sát
+• Tạo Phiếu khảo sát.
+• Phát Phiếu khảo sát.
+• Thu Phiếu khảo sát.
+2) Xử lí dữ liệu
+• Nhập dữ liệu vào phần mềm bảng tính.
+• Lọc, sắp xếp dữ liệu, tạo biểu đồ.
+• Từ kết quả xử lí đưa ra kết luận.
+3) Quảng cáo và tuyển thành viên
+• Tạo tờ rơi quảng cáo và tuyển thành viên.
+• Phát tờ rơi đến học sinh trong trường.
+4) Tổ chức buổi ra mắt CLB Tin học.
+• Tạo bài trình chiếu.
+• Tạo tài liệu CLB.
+Hình 8a.3. Văn bản sử dụng danh sách dạng liệt kê
+Phần mềm soạn thảo văn bản cung cấp hai kiểu danh sách dạng liệt kê: danh sách dấu đầu dòng, danh sách có thứ tự.
+Dấu đầu dòng và thứ tự trong danh sách dạng liệt kê được tự động tạo và cập nhật mỗi khi thêm hoặc bớt đoạn văn bản mới.
+Danh sách dạng liệt kê giúp trình bày văn bản rõ ràng và có tính thẩm mĩ.
+1. Em hãy chọn những phương án sai trong các phương án sau:
+A. Phần mềm soạn thảo văn bản cung cấp hai kiểu danh sách dạng liệt kê.
+B. Danh sách dạng liệt kê không tự động cập nhật khi thêm hoặc bớt đoạn văn.
+C. Chỉ có thể sử dụng một kiểu danh sách dạng liệt kê cho một văn bản.
+D. Có thể sử dụng kết hợp danh sách dấu đầu dòng và danh sách có thứ tự.
+37
+
+--- PAGE 39 ---
+2. Với danh sách có thứ tự ở Hình 8a.4a, nếu em đặt con trỏ soạn thảo ở cuối dòng thứ hai rồi nhấn phím Enter để thêm một đoạn văn bản mới thì em sẽ thu được kết quả như ở Hình 8a.4b hay Hình 8a.4c?
+a) 1. Ngôn ngữ lập trình, 2. Mạng máy tính, 3. Đồ hoạ máy tính, 4. Bảng tính điện tử
+b) 1. Ngôn ngữ lập trình, 2. Mạng máy tính, 3. , 4. Đồ hoạ máy tính, 5. Bảng tính điện tử
+c) 1. Ngôn ngữ lập trình, 2. Mạng máy tính, 3. Đồ hoạ máy tính, 4. Bảng tính điện tử
+Hình 8a.4. Danh sách có thứ tự
+2. LÀM VIỆC VỚI HÌNH ẢNH MINH HOẠ VÀ VẼ HÌNH ĐỒ HOẠ
+Hoạt động 2. Hiệu quả của hình ảnh minh hoạ
+Em hãy quan sát các Hình 8a.5, Hình 8a.6 và trả lời các câu hỏi sau:
+a) Tờ rơi ở Hình 8a.5 gồm những thông tin dạng nào?
+b) Tờ rơi ở Hình 8a.6 gồm những thông tin dạng nào?
+c) Em ấn tượng với tờ rơi nào hơn?
+d) Dùng phần mềm soạn thảo văn bản có tạo ra sản phẩm như ở Hình 8a.6 được không?
+Câu lạc bộ Tin học
+TUYỂN THÀNH VIÊN
+Hãy đến với chúng tôi để cùng nhân rộng niềm đam mê Tin học
+15h ngày .........
+Tại phòng 305
+Nhà A
+Hình 8a.5. Tờ rơi không có hình minh hoạ
+Câu lạc bộ Tin học
+TUYỂN THÀNH VIÊN
+...
+Hình 8a.6. Tờ rơi có hình minh hoạ
+Bên cạnh các công cụ xử lí văn bản, phần mềm soạn thảo còn cung cấp các công cụ xử lí hình ảnh, giúp em nâng cao hiệu quả sử dụng hình ảnh. Em có thể: chèn thêm, xoá bỏ hình ảnh; thay đổi kích thước, vị trí hình ảnh ... Bên cạnh đó, phần mềm soạn thảo văn bản còn cung cấp một thư viện đa dạng các mẫu hình đồ hoạ, các chức năng để vẽ hình đồ hoạ trong văn bản.
+Với các công cụ mà phần mềm soạn thảo văn bản cung cấp, em có thể tạo được các sản phẩm là văn bản có tính thẩm mĩ phục vụ nhu cầu thực tế.
+38
+
+--- PAGE 40 ---
+• Phần mềm soạn thảo văn bản cung cấp nhiều công cụ nâng cao để làm việc với hình ảnh và hình đồ hoạ.
+• Sử dụng các chức năng nâng cao em có thể tạo được các sản phẩm có tính thẩm mĩ phục vụ nhu cầu thực tế.
+Em hãy chọn phương án sai trong các phương án sau:
+A. Có thể chèn hình ảnh vào văn bản để minh hoạ cho nội dung.
+B. Có thể vẽ hình đồ hoạ trong phần mềm soạn thảo văn bản.
+C. Có thể chèn thêm, xoá bỏ, thay đổi kích thước của hình ảnh và hình đồ hoạ trong văn bản.
+D. Không thể vẽ hình đồ hoạ trong phần mềm soạn thảo văn bản.
+3. THỰC HÀNH: TẠO SẢN PHẨM LÀ VĂN BẢN PHỤC VỤ NHU CẦU THỰC TẾ
+Nhiệm vụ 1
+Sử dụng phần mềm soạn thảo văn bản tạo Phiếu khảo sát theo mẫu như Hình 8a.1.
+Hướng dẫn
+(Hướng dẫn sau đây sử dụng phần mềm soạn thảo văn bản Microsoft Word phiên bản 2016 để minh hoạ.)
+a) Khởi động phần mềm và nhập nội dung
+Nháy đúp chuột vào biểu tượng phần mềm trên màn hình nền.
+Nhập nội dung văn bản theo mẫu ở Hình 8a.1.
+Lưu ý: Em chọn Insert/Symbol để nhập kí hiệu ☐.
+b) Tạo danh sách có thứ tự
+Chọn các đoạn văn bản muốn tạo danh sách có thứ tự.
+Thực hiện các bước như Hình 8a.7.
+1. Chọn Home
+2. Nháy chuột vào hình tam giác nhỏ bên cạnh lệnh Numbering
+3. Chọn kiểu danh sách có thứ tự
+Hình 8a.7. Các bước tạo danh sách có thứ tự
+39
+
+--- PAGE 41 ---
+Kết quả thực hiện từng bước tương tự như Hình 8a.8.
+PHIẾU KHẢO SÁT
+Họ và tên:.................................................
+Lớp:...........................................................
+Bạn mong muốn tìm hiểu thêm nội dung nào của môn Tin học?
+Ngôn ngữ lập trình ☐
+Mạng máy tính ☐
+Đồ hoạ máy tính ☐
+Bảng tính điện tử ☐
+Soạn thảo văn bản ☐
+Phần mềm trình chiếu ☐
+->
+PHIẾU KHẢO SÁT
+...
+[Vùng văn bản được chọn]
+->
+PHIẾU KHẢO SÁT
+...
+1. Ngôn ngữ lập trình ☐
+2. Mạng máy tính ☐
+3. Đồ hoạ máy tính ☐
+4. Bảng tính điện tử ☐
+5. Soạn thảo văn bản ☐
+6. Phần mềm trình chiếu ☐
+Hình 8a.8. Kết quả các bước tạo danh sách có thứ tự
+c) Lưu tệp
+Chọn File/Save để lưu tệp văn bản với tên PhieuKhaoSat.docx.
+Nhiệm vụ 2
+Sử dụng phần mềm soạn thảo tạo tờ rơi quảng cáo và tuyển thành viên cho CLB Tin học của trường theo mẫu ở Hình 8a.6.
+Hướng dẫn
+Quan sát tờ rơi mẫu em thấy có các đối tượng sau: ảnh nền, văn bản, hình đồ hoạ,... Các đối tượng văn bản, hình đồ hoạ nằm bên trên ảnh nền (tức là ảnh nền nằm ở lớp dưới, văn bản và hình đồ hoạ nằm ở lớp trên).
+a) Khởi động phần mềm và nhập nội dung
+Nháy đúp chuột vào biểu tượng phần mềm trên màn hình nền.
+Nhập nội dung văn bản theo mẫu như Hình 8a.5.
+b) Thêm ảnh minh hoạ, thay đổi lớp, thay đổi kích thước ảnh
+Nháy chuột vào đầu đoạn văn bản để đặt vị trí chèn ảnh, chọn Insert/Picture, chọn tệp ảnh nền rồi chọn OK để chèn ảnh.
+Hình 8a.9. Các bước chèn, thay đổi lớp và kích thước ảnh
+Hình ảnh được chèn vào văn bản (ảnh có thể che mất nội dung văn bản hoặc đẩy nội dung văn bản xuống dưới (Hình 8a.9b)).
+Vì ảnh nền cần nằm dưới văn bản, nên em nháy chuột chọn ảnh, chọn Format. Trong nhóm lệnh Arrange, nháy chuột vào mũi tên bên cạnh lệnh Wrap Text rồi chọn Behind Text để ảnh nằm ở lớp dưới, văn bản nằm ở lớp trên. Kết quả là văn bản sẽ được đưa lên trên ảnh nền (Hình 8a.9c).
+Bước tiếp theo cần thay đổi vị trí và kích thước ảnh để ảnh phủ hết nền của tờ rơi. Em di chuyển chuột vào hình vuông nhỏ màu trắng nằm ở góc dưới bên phải của ảnh rồi kéo thả chuột để thay đổi kích thước sao cho ảnh nền phủ kín tờ rơi (Hình 8a.9d).
+40
+
+--- PAGE 42 ---
+c) Thêm, thay đổi màu các đối tượng hình đồ hoạ
+Trong tờ rơi có hai đối tượng đồ hoạ là hai mũi tên cong. Để vẽ, em thực hiện các bước như Hình 8a.10 và Hình 8a.11 rồi kéo thả chuột để tạo hình mũi tên trên tờ rơi.
+1. Chọn Insert
+2. Nháy chuột vào mũi tên bên dưới lệnh Shapes
+3. Chọn mẫu trong nhóm Block Arrows
+Hình 8a.10. Các bước vẽ hình đồ hoạ
+Hình 8a.11. Nhóm Block Arrows
+Thực hiện tương tự để vẽ thêm hình mũi tên ở bên phải.
+Để đổi màu cho đối tượng đồ hoạ, em chọn đối tượng, chọn Format, trong nhóm lệnh Shape Styles, nháy chuột vào mũi tên bên cạnh lệnh Shape Fill. Chọn màu vàng.
+Lưu ý: Nếu muốn thay đổi hình ảnh làm nền cho tờ rơi hay mẫu hình đồ hoạ khác, em nháy chuột chọn hình ảnh, hình đồ hoạ rồi nhấn phím Delete. Tiếp theo, thực hiện lại các bước để chèn thêm hình ảnh, hình đồ hoạ mới.
+d) Chỉnh sửa vị trí và màu sắc các đối tượng
+Em cần chỉnh sửa vị trí dòng chữ "TUYỂN THÀNH VIÊN" vào đúng hình cầu trên hình nền, đổi màu chữ đen thành vàng. Chỉnh sửa màu sắc và vị trí các đối tượng văn bản khác sao cho đúng theo mẫu. Chèn thêm hình ảnh vào góc trên bên phải để hoàn thiện tờ rơi. Để đặt được hình ảnh vào đúng vị trí, sau khi chèn em chọn Format/Arrange/Wrap Text rồi chọn Square.
+e) Lưu tệp
+Chọn File/Save để lưu tệp văn bản với tên TuyenThanhVien.docx.
+LUYỆN TẬP
+Em hãy sử dụng phần mềm soạn thảo văn bản để nhập dữ liệu cho dự án Thành lập CLB Tin học, tạo danh sách dạng liệt kê cho dữ liệu theo mẫu ở Hình 8a.3 và lưu lại tệp với tên CLBTinhoc.docx.
+VẬN DỤNG
+1. Ngoài các mẫu danh sách liệt kê mà phần mềm soạn thảo cung cấp, người sử dụng có thể tự tạo các mẫu dấu đầu dòng, mẫu thứ tự theo ý thích của mình. Em hãy tìm hiểu cách làm và tạo ba mẫu dấu đầu dòng, mẫu thứ tự mới.
+2. Em hãy sử dụng phần mềm soạn thảo văn bản để tạo một tờ rơi quảng cáo cho CLB Tiếng Anh (hoặc CLB Rubik, CLB bóng rổ,... của trường). Trong tờ rơi có sử dụng hình ảnh minh hoạ và hình đồ hoạ, sử dụng mẫu dấu đầu dòng, mẫu thứ tự mà em đã tạo ở Câu 1.
+41
+
+--- PAGE 43 ---
+BÀI 9a TẠO ĐẦU TRANG, CHÂN TRANG CHO VĂN BẢN
+Sau bài học này em sẽ:
+• Thực hiện được các thao tác: đánh số trang, thêm đầu trang và chân trang.
+• Tạo được sản phẩm là văn bản có tính thẩm mĩ phục vụ nhu cầu thực tế.
+Em hãy quan sát Hình 9a.1, Hình 9a.2 và tìm ra những phần khác nhau trong hai trang văn bản. Trong các cuốn sách, truyện em đã đọc có các thành phần văn bản đó không? Tác dụng của chúng là gì?
+DỰ ÁN THÀNH LẬP CLB TIN HỌC
+A. Các công việc cần làm
+...
+B. Phân công thực hiện
+...
+Hình 9a.1. Trang văn bản
+Tài liệu dự án
+DỰ ÁN THÀNH LẬP CLB TIN HỌC
+A. Các công việc cần làm
+...
+B. Phân công thực hiện
+...
+1
+CLB Tin học
+Hình 9a.2. Trang văn bản
+1. ĐẦU TRANG VÀ CHÂN TRANG
+Hoạt động 1 Đầu trang và chân trang cho em biết gì?
+Trong trang văn bản ở Hình 9a.2, phần văn bản màu cam có nội dung "Tài liệu dự án" và "CLB Tin học" cho em biết điều gì?
+Đầu trang (Header) và chân trang (Footer) lần lượt là phần trên cùng (phần lề trên) và dưới cùng (phần lề dưới) của văn bản. Chúng là các phần riêng biệt với văn bản chính (Hình 9a.3) và thường được sử dụng để chứa chú thích, số trang, tên văn bản, tên tác giả,... Đầu trang và chân trang cũng có thể chứa hình ảnh hay hình đồ hoạ.
+ĐẦU TRANG
+NỘI DUNG VĂN BẢN
+CHÂN TRANG
+Hình 9a.3. Vị trí của đầu trang và chân trang
+42
+
+--- PAGE 44 ---
+Các thông tin đặt trong phần đầu trang và chân trang sẽ tự động xuất hiện ở tất cả các trang. Nhờ vậy, em có thể cố định một số thông tin cần xuyên suốt cả văn bản.
+Thông tin ở đầu trang và chân trang cung cấp thông tin ngắn gọn về văn bản giúp phân loại, kiểm soát các trang trong văn bản. Ngoài ra thông tin ở đầu trang và chân trang còn giúp trang văn bản chuyên nghiệp và đẹp hơn nhờ cách sắp xếp thông tin hay các hình ảnh trang trí.
+Ví dụ: Trang văn bản trong Hình 9a.2 có thông tin trong phần đầu trang và chân trang cho người đọc biết tên của văn bản là “Tài liệu dự án", trang hiện tại là trang số "1" và văn bản thuộc về “CLB Tin học".
+Đầu trang và chân trang là phần riêng biệt với văn bản chính; thường chứa thông tin ngắn gọn; được tự động thêm vào tất cả các trang trong văn bản.
+Em hãy chọn những phương án đúng trong các phương án sau:
+A. Đầu trang và chân trang là đoạn văn bản đầu tiên và cuối cùng trong một trang.
+B. Thông tin ở phần đầu trang và chân trang thường ngắn gọn và được tự động thêm vào tất cả các trang trong văn bản.
+C. Đầu trang và chân trang là văn bản hoặc hình ảnh được chèn vào lề trên và lề dưới.
+D. Không thể đưa hình ảnh vào đầu trang và chân trang.
+2. ĐÁNH SỐ TRANG
+Hoạt động 2 Số trang trong văn bản
+Trong các cuốn sách giáo khoa, sách văn học, truyện mà em đọc, em có nhìn thấy số trang của sách không? Số trang sách thường nằm ở đâu?
+Các tài liệu dạng văn bản, nhất là các văn bản dài thường đánh số trang để người đọc dễ theo dõi. Phần mềm soạn thảo văn bản có chức năng đánh số trang tự động cho văn bản. Số trang thường được đặt ở đầu trang hoặc chân trang. Em có thể lựa chọn đặt số trang ở vị trí bên trái, bên phải hoặc giữa.
+SỐ TRANG Ở VỊ TRÍ ĐẦU TRANG, BÊN TRÁI
+SỐ TRANG Ở VỊ TRÍ ĐẦU TRANG, GIỮA
+SỐ TRANG Ở VỊ TRÍ ĐẦU TRANG, BÊN PHẢI
+SỐ TRANG Ở VỊ TRÍ CHÂN TRANG, GIỮA
+Hình 9a.4. Ví dụ cách đặt số trang
+Số trang trong văn bản được đánh tự động và được đặt ở đầu trang hoặc chân trang.
+43
+
+--- PAGE 45 ---
+Em hãy chọn phương án sai trong các phương án sau:
+A. Đánh số trang giúp người đọc biết độ dài của văn bản (nhìn số trang cuối).
+B. Đánh số trang, cùng với mục lục, giúp người đọc dễ dàng tìm thấy các phần cụ thể của văn bản.
+C. Đánh số trang cho phép trích dẫn một trang cụ thể của văn bản.
+D. Phần mềm soạn thảo văn bản không có chức năng đánh số trang tự động.
+3. THỰC HÀNH: ĐÁNH SỐ TRANG, THÊM ĐẦU TRANG VÀ CHÂN TRANG
+Nhiệm vụ
+Em hãy mở tệp CLBTinhoc.docx mà em đã tạo ở Bài 8a (phần Luyện tập), bổ sung thêm nội dung, đánh số trang, thêm đầu trang và chân trang cho văn bản theo mẫu trong Hình 9a.5.
+Tài liệu dự án
+DỰ ÁN THÀNH LẬP CLB TIN HỌC
+...
+1
+CLB Tin học
+Tài liệu dự án
+C. Tài liệu dự án
+PHIẾU KHẢO SÁT
+...
+2
+CLB Tin học
+Hình 9a.5. Văn bản sau khi bổ sung nội dung, đánh số trang, thêm đầu trang và chân trang
+Hướng dẫn
+Mở tệp CLBTinhoc.docx.
+Chọn Insert, trong nhóm lệnh Header & Footer, nháy chuột chọn lệnh tương ứng theo hướng dẫn trong Hình 9a.6.
+Chọn Header để thêm đầu trang
+Chọn Footer để thêm chân trang
+Chọn Page Number để đánh số trang
+Hình 9a.6. Nhóm lệnh Header & Footer
+44
+
+--- PAGE 46 ---
+Sau khi chọn Page Number, em chọn Bottom of Page/Plain Number 2 để đánh số trang vào vị trí giữa, bên dưới trang văn bản.
+Sau khi chọn Header, em chọn Blank rồi nhập nội dung “Tài liệu dự án" vào ô [Type here], căn phải và tạo chữ in nghiêng, màu cam.
+Sau khi chọn Footer, em chọn Blank rồi nhập nội dung “CLB Tin học" vào ô [Type here], căn phải và tạo chữ in nghiêng, màu cam.
+Nháy chuột chọn lệnh Close Header and Footer để hoàn thành việc đánh số trang, thêm đầu trang và chân trang.
+Lưu ý: Em có thể thay đổi vị trí, căn lề, thay đổi cỡ chữ, phông chữ, màu sắc,... cho phần văn bản mà em nhập vào đầu trang và chân trang. Cách làm giống như với văn bản trong phần nội dung.
+Lưu văn bản.
+LUYỆN TẬP
+Em hãy mở tệp CLBTinhoc.docx và thực hiện các yêu cầu sau đây:
+a) Bổ sung thêm tên người hoặc tên nhóm thực hiện dự án vào đầu trang.
+b) Đặt lại số trang vào vị trí bên trái của chân trang.
+VẬN DỤNG
+Em hãy tìm hiểu cách thêm hình ảnh, hình đồ hoạ vào chân trang và đầu trang rồi bổ sung vào đầu trang và chân trang trong tệp CLBTinhoc.docx một đường thẳng theo mẫu như Hình 9a.7.
+Nhóm 1
+Tài liệu dự án
+DỰ ÁN THÀNH LẬP CLB TIN HỌC
+...
+1
+CLB Tin học
+Nhóm 1
+Tài liệu dự án
+C. Tài liệu dự án
+PHIẾU KHẢO SÁT
+...
+2
+CLB Tin học
+Hình 9a.7. Mẫu bổ sung đường thẳng vào đầu trang, chân trang
+45
+
+--- PAGE 47 ---
+BÀI 10a ĐỊNH DẠNG NÂNG CAO CHO TRANG CHIẾU
+Sau bài học này em sẽ:
+• Chọn đặt được màu sắc, cỡ chữ hài hoà và hợp lí với nội dung.
+• Thực hiện được thao tác đánh số trang, thêm đầu trang và chân trang.
+Bạn An được giao nhiệm vụ tạo bài trình chiếu để trình chiếu trong lễ ra mắt CLB Tin học. Với mục tiêu ngắn gọn, ấn tượng, sáng tạo,... theo em bạn An cần chú ý đến những điều gì khi tạo bài trình chiếu?
+1. VĂN BẢN VÀ MÀU SẮC TRÊN TRANG CHIẾU
+Hoạt động 1 Đặc điểm của văn bản trên trang chiếu
+Em hãy quan sát Hình 10a.1 (nội dung tài liệu mô tả dự án Thành lập CLB Tin học), Hình 10a.2 (nội dung trang chiếu) và trả lời các câu hỏi sau:
+1. Văn bản ở hình nào chi tiết, đầy đủ hơn? Văn bản ở hình nào ngắn gọn hơn?
+2. Văn bản trên trang chiếu có cần viết đầy đủ các thành phần của câu không?
+MỤC TIÊU HOẠT ĐỘNG CỦA CLB TIN HỌC
+1) CLB là nơi truyền cảm hứng và chia sẻ niềm đam mê Tin học giữa các thành viên.
+2) CLB phải tạo được môi trường giao lưu, hợp tác giữa các thành viên.
+3) CLB cần xây dựng và thu thập tài liệu về các nội dung tin học để giúp các thành viên củng cố, mở rộng kiến thức, từng bước hội nhập với xã hội số.
+4) CLB giúp các thành viên xây dựng ý thức tự giác, nâng cao khả năng tự học. Từ đó mỗi thành viên cố gắng rèn luyện, nâng cao kĩ năng sống.
+5) CLB tổ chức các dự án, các sự kiện mới lạ để kích thích tính chủ động, sáng tạo của các thành viên.
+Hình 10a.1. Văn bản trong tệp văn bản
+Khác với văn bản trong tài liệu thông thường, văn bản trên trang chiếu có đặc điểm là ngắn gọn, chỉ nêu ý chính, không nêu chi tiết,... Văn bản trên trang chiếu góp phần quan trọng vào việc tạo ấn tượng, thu hút sự quan tâm, giúp người nghe nhanh chóng tiếp nhận được nội dung tóm tắt của trang trình chiếu,...
+Màu sắc đóng vai trò quan trọng trong việc thiết kế một bài trình chiếu. Một bài trình chiếu đẹp, chuyên nghiệp là sự phối hợp hoàn hảo của nội dung, bố cục và màu sắc. Do đó, màu sắc phù hợp sẽ làm cho bài trình chiếu trở nên sinh động, bắt mắt, tác động trực tiếp đến cảm tình của người xem.
+MỤC TIÊU HOẠT ĐỘNG
+• Truyền cảm hứng, chia sẻ niềm đam mê Tin học.
+• Tạo môi trường giao lưu, hợp tác.
+• Củng cố, mở rộng kiến thức Tin học.
+• Xây dựng ý thức tự giác, nâng cao khả năng tự học, rèn luyện, nâng cao kĩ năng sống.
+• Kích thích tính chủ động, sáng tạo.
+Hình 10a.2. Văn bản trên trang chiếu
+Trong Bài 12 sách Tin học 7 em đã được biết cách định dạng phông chữ, cỡ chữ, kiểu chữ,... Để chọn đặt được màu sắc cho bài trình chiếu, ngoài những kiến thức cơ bản về màu sắc, cách phối màu,... em cần chú ý một số điểm sau:
+• Các màu nóng như đỏ, da cam, vàng.... mang lại cảm giác ấm áp, giúp người xem phấn chấn, hoạt bát, năng nổ.
+46
+
+--- PAGE 48 ---
+• Các màu lạnh như xanh, tím,... mang lại cảm giác lạnh, giúp người xem bình tĩnh, hiền hoà, lắng dịu.
+• Các màu trung tính như trắng, đen, be.... mang lại cảm giác lịch sự, nhẹ nhàng.
+• Màu sắc chủ đạo nên đặt sao cho hài hoà với nội dung. Ví dụ, bài trình chiếu về chủ đề giải trí, lễ hội,... nên dùng gam màu nóng; chủ đề giáo dục, học tập nên dùng gam màu trung tính; chủ đề về nghệ thuật, hay các bài trình chiếu muốn mang lại ấn tượng mạnh, các bài trình chiếu trong các sự kiện tri ân có thể dùng gam màu lạnh.
+• Nên kết hợp các màu cùng nhóm với nhau. Ví dụ: màu nóng như đỏ, cam, vàng có thể kết hợp với màu nâu. Màu lạnh như xanh dương, xanh lục có thể đi cùng với màu xám.
+• Không sử dụng quá nhiều màu trên một trang chiếu (bao gồm cả màu nền, màu chữ ...).
+• Nên chọn màu văn bản có độ tương phản cao với màu nền.
+Phần mềm trình chiếu cung cấp các công cụ giúp em chọn đặt được màu sắc, cỡ chữ hài hoà, hợp lí với nội dung. Nhờ các chức năng này, em có thể tạo được các trang chiếu ấn tượng, đem lại hiệu quả cao trong việc truyền đạt nội dung trình chiếu.
+• Văn bản trên trang chiếu cần được định dạng sao cho màu sắc, cỡ chữ hài hoà, hợp lí với nội dung.
+• Văn bản được định dạng phù hợp giúp đem lại hiệu quả cao trong việc truyền đạt nội dung trình chiếu.
+Em hãy chọn phương án đúng:
+A. Văn bản trên trang chiếu cần ngắn gọn, súc tích.
+B. Văn bản trên trang chiếu càng chi tiết, đầy đủ càng tốt.
+C. Sử dụng càng nhiều màu sắc cho văn bản trên trang chiếu càng giúp người nghe tập trung.
+D. Sử dụng nhiều loại phông chữ cho văn bản trên trang chiếu sẽ thu hút được sự chú ý của người nghe.
+2. SỐ TRANG, ĐẦU TRANG VÀ CHÂN TRANG
+Hoạt động 2 Các thông tin cần thiết của bài trình chiếu
+Theo em, các trang chiếu có cần đánh số không? Có cần thêm các thông tin vào đầu trang và chân trang không? Vì sao?
+Giống như phần mềm soạn thảo văn bản, phần mềm trình chiếu cũng cho phép em thêm đầu trang, chân trang và đánh số thứ tự cho các trang trong bài trình chiếu. Đó là thông tin xuất hiện ở đầu và cuối của tất cả các trang chiếu. Thông tin này thường bao gồm tên người trình chiếu, tên công ti, tiêu đề bài trình chiếu, số trang hay thời gian trình chiếu,...
+Có thể đánh số trang, thêm đầu trang, chân trang vào các trang chiếu.
+47
+
+--- PAGE 49 ---
+3. THỰC HÀNH: TẠO BÀI TRÌNH CHIẾU CHO LỄ RA MẮT CLB TIN HỌC
+Nhiệm vụ
+Em hãy tạo một bài trình chiếu mới, nhập nội dung cho bốn trang chiếu theo mẫu trong Hình 10a.3 rồi thực hiện các yêu cầu sau:
+• Định dạng văn bản trên trang chiếu, đặt màu sắc, cỡ chữ hài hoà và hợp lí với nội dung.
+• Đánh số trang, thêm đầu trang và chân trang.
+CHÀO MỪNG CÁC BẠN ĐẾN VỚI CLB TIN HỌC
+Nguyễn Thu An – Lớp 8A - Trường THCS...
+MỤC TIÊU HOẠT ĐỘNG
+- Truyền cảm hứng, chia sẻ niềm đam mê Tin học.
+- Tạo môi trường giao lưu, hợp tác.
+- Củng cố, mở rộng kiến thức Tin học.
+- Xây dựng ý thức tự giác, nâng cao khả năng tự học; rèn luyện, nâng cao kĩ năng sống.
+- Kích thích tính chủ động, sáng tạo.
+NGUYÊN TẮC HOẠT ĐỘNG
+- Chất lượng đặt lên hàng đầu.
+- Thu hút đông đảo thành viên.
+- Thúc đẩy phong trào học tập.
+- Nội dung hoạt động đa dạng.
+- Kết hợp kiến thức và thực tế.
+- Khuyến khích sáng tạo.
+KẾ HOẠCH HOẠT ĐỘNG
+- Tổ chức các chuyên đề thảo luận về phương pháp học tập.
+- Tổ chức các chuyên đề thảo luận về nội dung chuyên sâu.
+- Tổ chức tìm hiểu về nghề nghiệp liên quan đến Tin học.
+- Tổ chức các sự kiện giao lưu, chia sẻ kinh nghiệm.
+Hình 10a.3. Nội dung các trang chiếu
+Hướng dẫn
+(Hướng dẫn sau đây sử dụng phần mềm trình chiếu Microsoft PowerPoint phiên bản 2016 để minh hoạ.)
+a) Khởi động phần mềm và nhập nội dung
+Khởi động phần mềm. Trang chiếu đầu tiên là trang tiêu đề, em chọn mẫu Title Slide. Ba trang tiếp theo chọn mẫu Title and Content. Nhập nội dung văn bản theo mẫu ở Hình 10a.3.
+b) Định dạng văn bản
+Trang 1: Dòng tiêu đề đặt phông Arial, cỡ 60, màu đỏ, in đậm, căn giữa.
+Trang 2, 3, 4: Tiêu đề trang đặt phông Arial, cỡ 54, màu đỏ, in đậm, căn giữa; Nội dung văn bản đặt phông Arial, cỡ 32, màu đen, chữ thường, căn trái, tạo danh sách dấu đầu dòng.
+Thay đổi vị trí các hộp văn bản để bố cục cân đối.
+c) Đánh số trang, thêm đầu trang và chân trang
+Chọn Insert, trong nhóm lệnh Text em chọn lệnh Header & Footer hoặc Slide Number (Hình 10a.4) để mở cửa sổ Header and Footer và thực hiện các bước theo hướng dẫn như Hình 10a.5.
+48
+
+--- PAGE 50 ---
+Hình 10a.4. Nhóm lệnh Text
+Chọn để thêm thông tin về ngày trình bày
+Chọn để tự động cập nhật ngày trình bày
+Chọn để chèn số trang
+Chọn để thêm thông tin vào chân trang
+Header and Footer
+Slide | Notes and Handouts
+Include on slide
+[✓] Date and time
+   [•] Update automatically
+   [○] Fixed
+[✓] Slide number
+[✓] Footer [CLB Tin học - Trường THCS...]
+[✓] Don't show on title slide
+Apply to All | Apply | Cancel
+Nhập thông tin xuất hiện ở chân trang vào ô này
+Chọn để không thêm chân trang vào trang tiêu đề
+Nháy chuột vào đây sau để áp dụng mẫu cho tất cả các trang
+Hình 10a.5. Các bước đánh số trang và thêm đầu trang, chân trang
+Lưu ý:
+Em có thể định dạng cho số trang và thông tin trong phần đầu trang, chân trang giống như định dạng văn bản trên trang chiếu.
+Phần mềm trình chiếu còn hỗ trợ em in nội dung bài trình chiếu ra giấy (Handouts) để phát cho người nghe. Em cũng có thể thêm đầu trang, chân trang vào tài liệu in trên giấy để giúp người nghe dễ dàng theo dõi bằng cách nháy chuột chọn Notes and Handouts trong cửa sổ Header and Footer rồi nhập thông tin tương tự như hướng dẫn ở Hình 10a.5.
+Ở chế độ Slide (Hình 10a.5), em không thêm được đầu trang. Chỉ ở chế độ Notes and Handouts phần mềm PowerPoint mới có chức năng thêm đầu trang.
+49
+
+--- PAGE 51 ---
+Cách tạo danh sách dấu đầu dòng trong phần mềm trình chiếu tương tự như trong phần mềm soạn thảo văn bản.
+d) Hoàn thiện bài trình chiếu và lưu tệp
+Áp dụng một mẫu định dạng cho bài trình chiếu. Ví dụ kết quả như Hình 10a.6.
+CHÀO MỪNG CÁC BẠN ĐẾN VỚI CLB TIN HỌC
+Nguyễn Thu An – Lớp 8A – Trường THCS...
+1
+MỤC TIÊU HOẠT ĐỘNG
+- Truyền cảm hứng, chia sẻ niềm đam mê Tin học.
+...
+2
+NGUYÊN TẮC HOẠT ĐỘNG
+- Chất lượng đặt lên hàng đầu.
+...
+3
+KẾ HOẠCH HOẠT ĐỘNG
+- Tổ chức các chuyên đề thảo luận về phương pháp học tập.
+...
+4
+Hình 10a.6. Các trang chiếu kết quả
+Chọn File/Save để lưu tệp với tên LeRaMatCLBTinhoc.pptx.
+LUYỆN TẬP
+Em hãy chọn phương án sai trong các phương án sau:
+A. Đầu trang và chân trang có thể được định dạng phông chữ, cỡ chữ, màu chữ khác nhau.
+B. Có thể bỏ phần đầu trang và chân trang khỏi trang chiếu tiêu đề.
+C. Có thể tự động cập nhật thời gian vào thông tin ở đầu trang và chân trang.
+D. Những thông tin lựa chọn và nhập vào cửa sổ Header & Footer được tự động áp dụng cho tất cả các trang chiếu trong bài trình chiếu.
+VẬN DỤNG
+Em hãy tạo bài trình chiếu giới thiệu một nội dung Tin học mà em chọn (ví dụ: giới thiệu một ngôn ngữ lập trình, giới thiệu về bảng tính điện tử,...) để trình chiếu trong buổi sinh hoạt CLB Tin học của trường. Hãy vận dụng kiến thức và kĩ năng đã biết để chọn đặt màu sắc, định dạng văn bản, trình bày các trang chiếu hài hoà, hợp lí với nội dung; đánh số trang, thêm đầu trang, chân trang;...
+50
+
+--- PAGE 52 ---
+BÀI 11a SỬ DỤNG BẢN MẪU TẠO BÀI TRÌNH CHIẾU
+Sau bài học này em sẽ:
+• Sử dụng được các bản mẫu (template).
+• Đưa được vào trong trang chiếu đường dẫn đến video hay tài liệu khác.
+• Tạo được các sản phẩm số phục vụ học tập, giao lưu và trao đổi thông tin.
+Em hãy quan sát hai trang chiếu trong Hình 11a.1, so sánh hai trang chiếu này với trang chiếu số 1 em đã tạo ở phần thực hành Bài 10a và đưa ra nhận xét.
+CHÀO MỪNG CÁC BẠN ĐẾN VỚI CLB TIN HỌC
+Nguyễn Thu An - Lớp 8A - Trường THCS...
+CHÀO MỪNG CÁC BẠN ĐẾN VỚI CLB TIN HỌC
+Nguyễn Thu An - Lớp 8A - Trường THCS...
+Hình 11a.1. Các mẫu trang chiếu
+1. BẢN MẪU TRONG PHẦN MỀM TRÌNH CHIẾU
+Hoạt động 1 Làm thế nào để có thể tạo được bài trình chiếu đẹp, chuyên nghiệp?
+Em hãy trả lời các câu hỏi sau:
+1. Sử dụng phần mềm trình chiếu có tạo được các trang chiếu như Hình 11a.1 không?
+2. Để tạo được các trang chiếu đó có cần nhiều thời gian không?
+3. Làm thế nào để tạo được các trang chiếu đó?
+Ở chương trình Tin học lớp 7, em đã biết cách áp dụng các mẫu định dạng (Themes) cho bài trình chiếu của mình. Mẫu định dạng là một tập hợp màu sắc, phông chữ và hiệu ứng hình ảnh được xác định trước giúp bài trình chiếu có một giao diện thống nhất, chuyên nghiệp.
+Nâng cao hơn, phần mềm trình chiếu còn cung cấp các bản mẫu (Template) có sẵn. Bản mẫu là một bản thiết kế của một hoặc một nhóm các trang chiếu được lưu dưới dạng một tệp có phần mở rộng là .potx. Bản mẫu chứa bố cục, màu sắc, phông chữ, hiệu ứng, kiểu nền và cả nội dung. Em có thể sử dụng các bản mẫu có sẵn, có thể tạo các bản mẫu tuỳ chỉnh của riêng mình rồi lưu trữ, tái sử dụng và chia sẻ chúng với những người khác.
+51
+
+--- PAGE 53 ---
+Bản mẫu thường được thiết kế để dùng cho một mục đích, một chủ đề cụ thể (ví dụ như bài trình bày về một chuyến du lịch, một dự án kinh doanh, một bài học trên lớp,...). Vì vậy, ngoài các yếu tố thiết kế về giao diện (màu sắc, phông chữ, hình nền, hiệu ứng) thì các nội dung gợi ý đi kèm trong bản mẫu cũng khá có ích cho em khi tạo bài trình chiếu của mình.
+Hình 11a.2 là ví dụ một bản mẫu về chủ đề du lịch. Bản mẫu đã thiết kế sẵn giao diện các trang chiếu và gợi ý các chủ đề nên có trong bài.
+1. Chọn một trải nghiệm (Du lịch mạo hiểm, nghỉ dưỡng, khám phá)
+2. Thiết kế một chuyến đi
+3. Kinh phí (Giải trí, Du lịch, Sinh hoạt phí, Ăn uống)
+4. Phương tiện di chuyển (Xe đạp, Xe máy, Ô tô, Máy bay, Tàu hoả)
+Hình 11a.2. Một bản mẫu về chủ đề du lịch
+• Bản mẫu chứa bố cục, màu sắc, phông chữ, hiệu ứng, kiểu nền,... và cả nội dung.
+• Bản mẫu giúp bài trình chiếu có giao diện thống nhất, chuyên nghiệp mà không tốn thời gian.
+• Bản mẫu giúp gợi ý các nội dung cần có cho bài trình chiếu.
+• Có thể chỉnh sửa, chia sẻ, tái sử dụng bản mẫu.
+Em hãy cho biết bản mẫu khác với mẫu định dạng thế nào?
+2. THỰC HÀNH: TẠO SẢN PHẨM SỐ PHỤC VỤ HỌC TẬP, GIAO LƯU VÀ TRAO ĐỔI THÔNG TIN
+Nhiệm vụ
+Em hãy tạo một bài trình chiếu về chủ đề An toàn trong phòng thực hành (phòng thực hành Tin học, thực hành Khoa học tự nhiên,...) với các yêu cầu sau:
+a) Sử dụng một bản mẫu có sẵn cho bài trình chiếu.
+b) Chỉnh sửa một vài thông số của bản mẫu để phù hợp hơn với nội dung.
+c) Đưa vào trang tiêu đề đường dẫn đến một video (hay tài liệu khác).
+52
+
+--- PAGE 54 ---
+Hướng dẫn
+a) Sử dụng một bản mẫu có sẵn cho bài trình chiếu
+Chọn File/New để tạo một bài trình chiếu mới. Phần mềm trình chiếu sẽ đưa ra các bản mẫu có sẵn được sắp xếp theo các chủ đề để em lựa chọn. Em chọn Education và chọn bản mẫu có tên Lab Safety (Hình 11a.3).
+1. Chọn New
+2. Chọn Education
+3. Chọn Lab Safety
+Hình 11a.3. Các bước sử dụng một bản mẫu
+Nội dung trong bản mẫu viết bằng tiếng Anh. Em có thể sử dụng các công cụ dịch từ tiếng Anh sang tiếng Việt để hỗ trợ trong việc hiểu nội dung.
+Bản mẫu Lab Safety có nội dung tương tự như Hình 11a.4.
+AN TOÀN PHÒNG THỰC HÀNH
+[Nhập tên của bạn ở đây]
+- An toàn phòng thực hành: Bắt đầu trước khi bạn đi đến phòng thực hành
+- Trang phục khi đến phòng thực hành
+- Thực hành an toàn (Nguyên tắc thứ nhất, hai, ba)
+- Thực hành an toàn (Nguyên tắc thứ tư, năm, sáu)
+- Những việc cần làm trước khi rời phòng thực hành
+- Trong trường hợp xảy ra tai nạn trong phòng thực hành
+- Hãy nhớ... An toàn là trên hết!
+Hình 11a.4. Bản mẫu An toàn phòng thực hành
+53
+
+--- PAGE 55 ---
+Bản mẫu đưa ra các gợi ý rõ ràng về các nội dung cần có cho một bài trình chiếu với chủ đề An toàn phòng thực hành. Bên cạnh đó còn hướng dẫn chi tiết cách nhập nội dung, cách trình bày và sắp xếp. Em nhập nội dung bài trình chiếu theo hướng dẫn để hoàn thành bài trình chiếu.
+b) Chỉnh sửa bản mẫu để phù hợp với nội dung
+Em có thể thay đổi phông chữ, cỡ chữ, màu nền, thêm hoặc bớt trang chiếu để phù hợp với nội dung trình chiếu. Kết quả bài trình chiếu có thể tương tự như Hình 11a.5.
+AN TOÀN PHÒNG THỰC HÀNH
+Nguyễn Thu An - 8A5
+TRƯỚC KHI VÀO PHÒNG THỰC HÀNH
+- Đọc kĩ nội quy phòng thực hành.
+- Chuẩn bị kĩ nội dung thực hành.
+- Hiểu rõ các kí hiệu cảnh báo trong phòng thực hành.
+TRANG PHỤC KHI ĐẾN PHÒNG THỰC HÀNH
+- (Trang phục gọn gàng, Kít buộc tóc dài, gọn gàng, Đeo kính bảo vệ mắt, Đeo các thiết bị bảo vệ khác khi cần)
+THỰC HÀNH AN TOÀN
+- Chỉ thực hành khi có người hướng dẫn
+- Không ăn uống, đùa nghịch khi thực hành
+- Nhận biết các vật liệu nguy hiểm
+THỰC HÀNH AN TOÀN
+- Quan sát kĩ thao tác của người hướng dẫn
+- Tuân thủ chỉ dẫn của người hướng dẫn
+- Thực hiện đúng các bước thực hành
+KHI XẢY RA SỰ CỐ TRONG PHÒNG THỰC HÀNH
+- Báo ngay cho cán bộ phụ trách.
+- Nếu bị dính hoá chất phải rửa sạch bằng nước và liên hệ ngay với cơ quan y tế.
+NHỮNG VIỆC CẦN LÀM TRƯỚC KHI RỜI PHÒNG THỰC HÀNH
+- Thu gom chất thải để đúng nơi quy định.
+- Dọn sạch sẽ chỗ của mình.
+- Sắp xếp dụng cụ gọn gàng, đúng chỗ.
+- Rửa tay bằng xà phòng.
+Hãy nhớ... An toàn là trên hết!
+Hình 11a.5. Bài trình chiếu kết quả
+54
+
+--- PAGE 56 ---
+c) Đưa vào trang tiêu đề đường dẫn đến một video
+Giả sử em muốn giới thiệu một video (có tên NhungSuCoPhongThucHanh.mp4) có nội dung cảnh báo về các tai nạn có thể xảy ra trong phòng thực hành. Em có thể đưa đường dẫn đến tệp video đó vào trang tiêu đề để mở trong khi trình chiếu. Cách làm như sau:
+Chèn vào trang chiếu một hình ảnh minh hoạ để đặt liên kết (hoặc chọn luôn hình ảnh chiếc bình màu vàng có sẵn trên trang chiếu).
+Nháy chuột chọn hình ảnh minh hoạ, chọn Insert/Links/Link. Trong cửa sổ Insert Hyperlink, chọn đường dẫn đến tệp NhungSuCoPhongThucHanh.mp4 (Hình 11a.6).
+Insert Hyperlink
+Link to: [Existing File or Web Page]
+Text to display: [<<Selection in Document>>]
+Look in: [AnToan]
+[NhungSuCoPhongThucHanh]
+Address: [...AnToan\NhungSuCoPhongThucHanh.mp4]
+Hình 11a.6. Chèn đường dẫn đến tệp video
+d) Lưu tệp
+Chọn File/Save để lưu tệp với tên AnToanPhongThucHanh.pptx.
+LUYỆN TẬP
+1. Phương án nào sau đây mô tả các bước sử dụng bản mẫu?
+A. Nháy chuột chọn Design/Themes, chọn bản mẫu.
+B. Nháy chuột chọn Design/Variants, chọn bản mẫu.
+C. Nháy chuột chọn Insert/Text, chọn bản mẫu.
+D. Nháy chuột chọn File/New, chọn bản mẫu.
+2. Em hãy thêm vào trang chiếu tiêu đề của tệp trình chiếu AnToanPhongThucHanh.pptx đường dẫn đến tệp văn bản lưu trữ các kí hiệu cảnh báo trong phòng thực hành để có thể mở ra giới thiệu cho người nghe trong khi trình chiếu.
+VẬN DỤNG
+Em hãy tìm một bản mẫu (có sẵn trong phần mềm trình chiếu hoặc được chia sẻ trên mạng) và sử dụng để tạo lại bài trình chiếu trong tệp LeRaMatCLBTinhoc.pptx. Thực hiện thay đổi các định dạng cần thiết để tạo một bản mẫu phù hợp với bài trình chiếu. Ghi lại tệp trình chiếu dưới dạng bản mẫu, tên tệp có dạng .potx để tái sử dụng và chia sẻ khi cần.
+55
+
+--- PAGE 57 ---
+b. LÀM QUEN VỚI PHẦN MỀM CHỈNH SỬA ẢNH
+BÀI 8b PHẦN MỀM CHỈNH SỬA ẢNH
+Sau bài học này em sẽ:
+• Nêu được một vài chức năng chính của phần mềm chỉnh sửa ảnh.
+• Thực hiện được các thao tác: mở tệp ảnh; đọc thông tin ảnh; phóng to, thu nhỏ, dịch chuyển ảnh; lưu tệp ảnh.
+An: Tớ chụp được nhiều ảnh phong cảnh trường mình, nhưng xem lại thì thấy có ảnh bị lỗi vì ngón tay che ống kính. Liệu có cách nào để cắt bỏ phần lỗi đó đi không?
+Minh: Có chứ! Thậm chí bạn còn có thể làm được nhiều hơn thế. Mình sẽ giới thiệu cho bạn một phần mềm không chỉ làm được việc đó mà còn thay đổi được kích thước, điều chỉnh ánh sáng, hiệu ứng,.... cho ảnh nữa.
+1. PHẦN MỀM CHỈNH SỬA ẢNH
+Hoạt động 1 Phần mềm chỉnh sửa ảnh
+1. Em hãy liệt kê một số yêu cầu mà em muốn làm thay đổi một bức ảnh.
+2. Phần mềm ứng dụng nào có thể giúp em làm việc đó?
+Không phải mọi hình ảnh đều đẹp ngay từ khi nó được tạo ra. Mỗi hình ảnh đều cần được chỉnh sửa để mang được thông điệp tích cực đến người xem.
+Phần mềm chỉnh sửa ảnh là công cụ giúp em tạo ra hoặc thay đổi một hình ảnh để có được hình ảnh mới theo cách mà em mong muốn. Ví dụ: từ bức ảnh phong cảnh trường (Hình 8b.1) mà bạn An chụp bị lỗi (ngón tay che ống kính, ảnh mờ và tối), sau khi chỉnh sửa có thể thu được ảnh kết quả như Hình 8b.2.
+Phần mềm chỉnh sửa ảnh có thể được cài đặt trên máy tính hoặc chạy trực tuyến trên Internet. Những chức năng chính của phần mềm chỉnh sửa ảnh gồm: tạo mới ảnh, chỉnh sửa ảnh, chuyển đổi ảnh sang các định dạng và độ phân giải khác nhau.
+56
+
+--- PAGE 58 ---
+Hình 8b.1. Ảnh gốc bị lỗi
+Hình 8b.2. Ảnh sau khi chỉnh sửa
+Chỉnh sửa ảnh là thay đổi hình ảnh ban đầu để tạo ra hình ảnh mới.
+Phần mềm chỉnh sửa ảnh là công cụ giúp tạo ra hoặc thay đổi một ảnh gốc để có được ảnh mới theo yêu cầu.
+1. Em hãy nêu một vài chức năng chính của phần mềm chỉnh sửa ảnh.
+2. Theo em, để thu được ảnh kết quả như Hình 8b.2 từ Hình 8b.1 thì cần chỉnh sửa những gì?
+2. ĐỐI TƯỢNG VÀ LỚP TRONG ẢNH
+Hoạt động 2 Xác định nội dung và các thành phần trong ảnh
+Em hãy quan sát Hình 8b.3 và trả lời các câu hỏi sau:
+1. Trong bức ảnh có những thành phần nào?
+2. Nội dung của bức ảnh là gì?
+Hình 8b.3.
+Mỗi bức ảnh khi được tạo ra đều mang một nội dung nhất định mà người tạo ra ảnh muốn thể hiện và người xem ảnh có thể thu nhận được. Nội dung đó được thể hiện qua cảnh nền và các thành phần xuất hiện trong ảnh. Xem ảnh trong Hình 8b.3 em có thể thấy trên cảnh nền là mặt nước và cây cỏ có một quả bóng màu trắng, một chiếc thuyền màu vàng và một bạn đang chèo thuyền.
+Khi chỉnh sửa ảnh, em có thể coi các thành phần trong ảnh là các đối tượng để phần mềm chỉnh sửa ảnh tác động, làm thay đổi và tạo ra ảnh mới. Phần mềm xử lí ảnh cung cấp các công cụ chọn (Selection) giúp em chọn đối tượng để có thể thực hiện các thao tác khác nhau cho từng phần ảnh riêng biệt. Khi một đối tượng được chọn thì các thao tác xử lí chỉ áp dụng cho chính đối tượng đó.
+57
+
+--- PAGE 59 ---
+Hoạt động 3 Ảnh nhiều lớp
+Có 3 tấm nhựa trong suốt, mỗi tấm chứa một đối tượng như Hình 8b.4. Em hãy quan sát Hình 8b.4 và trả lời các câu hỏi sau:
+1. Nếu xếp chồng khít 3 tấm nhựa lên nhau em sẽ nhìn thấy kết quả là gì?
+2. Nếu để lớp trên cùng (có dòng chữ "ẢNH NHIỀU LỚP") vào giữa hai lớp còn lại, em sẽ nhìn thấy kết quả là gì?
+3. Theo em, để mỗi đối tượng ở một tấm nhựa như vậy có ưu điểm gì?
+Nếu xếp chồng khít 3 tấm nhựa ở Hình 8b.4 em sẽ thấy kết quả là Hình 8b.5. Hai hình này cho em thấy một minh hoạ trực quan về các lớp trong một bức ảnh.
+Trong xử lí ảnh, người ta sử dụng kĩ thuật phân lớp (layer) để hỗ trợ chỉnh sửa. Mỗi hình ảnh được tạo nên từ nhiều lớp ảnh khác nhau. Lớp nằm dưới cùng là lớp ảnh nền (background), các lớp tiếp theo có nền trong suốt và chứa các đối tượng. Các đối tượng nằm ở lớp dưới sẽ bị che bởi các đối tượng ở lớp trên. Em có thể chọn từng lớp ảnh để chỉnh sửa. Các thao tác chỉnh sửa chỉ có tác dụng với các đối tượng nằm trong lớp ảnh đang được chọn.
+Kĩ thuật làm việc với lớp là một kĩ thuật nâng cao và đặc trưng của các phần mềm xử lí ảnh. Nhờ đó mà người sử dụng dễ dàng thay đổi, chỉnh sửa các đối tượng và phối trộn nhiều mảng hình ảnh khác nhau. Từ đó tạo ra bức ảnh theo mong muốn của mình.
+Hình 8b.4. Ba tấm nhựa chứa các đối tượng
+ẢNH NHIỀU LỚP
+Hình 8b.5. Kết quả thu được khi xếp chồng khít 3 tấm nhựa ở Hình 8b.4
+Ảnh được tạo nên từ nhiều lớp. Lớp dưới cùng là lớp ảnh nền. Mỗi lớp chứa các đối tượng riêng. Đối tượng nằm ở lớp dưới sẽ bị che bởi đối tượng nằm ở lớp trên. Các thao tác chỉnh sửa chỉ có tác dụng với các đối tượng đang được chọn, lớp ảnh đang chọn.
+58
+
+--- PAGE 60 ---
+Có 4 lớp ảnh như sau:
+Lớp 1, Lớp 2, Lớp 3, Lớp ảnh nền
+Em sẽ xếp các lớp ảnh theo thứ tự nào từ dưới lên trên để có kết quả là ảnh ở Hình 8b.6?
+A. Lớp ảnh nền dưới cùng rồi đến lớp 1, lớp 2, lớp 3.
+B. Lớp ảnh nền dưới cùng rồi đến lớp 3, lớp 2, lớp 1.
+C. Lớp ảnh nền dưới cùng rồi đến lớp 2, lớp 1, lớp 3.
+D. Lớp ảnh nền dưới cùng rồi đến lớp 3, lớp 1, lớp 2.
+Hình 8b.6. Ảnh kết quả
+3. ĐỌC THÔNG TIN ẢNH
+Hoạt động 4. Đọc thông tin ảnh
+Em hãy cho biết làm thế nào máy tính lưu một hình ảnh, làm thế nào nó nhớ được màu sắc và hình dạng trong một hình ảnh?
+Màn hình máy tính được tạo thành từ một lưới gồm nhiều điểm ảnh (pixel). Mỗi pixel đều có toạ độ x và y trên màn hình và thông tin về màu sắc mà nó phải hiển thị. Cùng một cỡ ảnh, ảnh có nhiều pixel sẽ sắc nét hơn. Kích thước của ảnh có thể tính theo đơn vị độ dài (inch) hoặc pixel và được biểu diễn dưới dạng tích số của chiều rộng và chiều cao. Ví dụ: Hình ảnh có chiều rộng 1280 pixel và chiều cao 960 pixel có độ phân giải 1280x960 pixel.
+Những định dạng ảnh khác nhau có những yêu cầu khác nhau trong lưu trữ hình ảnh, ví dụ:
+• Định dạng jpg ưu tiên hiệu quả nén ảnh nhưng khó khôi phục nguyên gốc. Định dạng jpg không hỗ trợ ảnh không nền (nền trong suốt). Định dạng jpg thường được dùng trong nhiếp ảnh.
+• Định dạng png có hiệu quả nén ảnh thấp nhưng bù lại, nó không làm mất dữ liệu gốc. Định dạng png phù hợp với ảnh sử dụng trên web, ảnh làm logo, ảnh có nền trong suốt, ảnh đang trong quá trình chỉnh sửa, các hình ảnh phức tạp.
+Phương án nào sau đây đúng khi biểu diễn kích thước ảnh có chiều cao là 1509 pixel và chiều rộng là 1268 pixel?
+A. 1509+1268. B. 1509; 1268. C. 1509x1268. D. 1268x1509.
+59
+--- PAGE 61 ---
+4. THỰC HÀNH: LÀM QUEN VỚI PHẦN MỀM CHỈNH SỬA ẢNH
+Nhiệm vụ
+Khởi động phần mềm xử lí ảnh, mở một tệp ảnh có sẵn trên máy tính, đọc thông tin ảnh.
+Làm quen với công cụ phóng to, thu nhỏ, di chuyển ảnh, chọn đối tượng.
+Lưu tệp ảnh.
+Hướng dẫn
+(Hướng dẫn sau đây sử dụng phần mềm GIMP phiên bản 2.10.32 để minh hoạ.)
+a) Khởi động phần mềm
+Nháy đúp chuột vào biểu tượng trên màn hình nền để mở phần mềm chỉnh sửa ảnh GIMP, giao diện phần mềm với các thành phần chính được mở ra như Hình 8b.7.
+60
+Bảng công cụ
+Hộp tuỳ chọn công cụ
+Vùng làm việc
+Bảng tuỳ chọn cấu hình, điều khiển lớp
+Hình 8b.7. Màn hình làm việc của phần mềm GIMP
+b) Mở tệp ảnh
+Chọn File/Open để mở hộp thoại Open Image, chọn ảnh và nháy chuột chọn Open.
+c) Đọc thông tin ảnh
+Chọn Image/Image Properties, cửa sổ Image Properties xuất hiện. Một phần của cửa sổ Image Properties tương tự Hình 8b.8, cho em biết tên tệp ảnh, kích thước ảnh, độ phân giải ảnh, định dạng tệp ảnh,...
+Image Properties
+Size in pixels: 3776 x 2520 pixels — Kích thước ảnh
+Resolution: 180 x 180 ppi — Độ phân giải ảnh
+File Name: E:\Tailieu-202 Santruong.JPG — Tên tệp ảnh
+File Type: JPEG image — Định dạng ảnh
+Hình 8b.8. Một phần cửa sổ Image Properties
+
+--- PAGE 62 ---
+d) Phóng to, thu nhỏ ảnh
+Trong quá trình chỉnh sửa ảnh, em cần phóng to để nhìn rõ các chi tiết và ngược lại, muốn quan sát được toàn bộ ảnh sau một số thao tác chỉnh sửa, cần thu nhỏ ảnh.
+Cách 1. Nhấn giữ phím Ctrl trong khi lăn nút cuộn chuột để phóng to, thu nhỏ ảnh.
+Cách 2. Chọn công cụ Zoom rồi đưa con trỏ chuột vào ảnh và nháy chuột. Mỗi lần nháy chuột, ảnh sẽ được phóng to hoặc thu nhỏ theo một tỉ lệ thích hợp (chọn Zoom in để phóng to ảnh, Zoom out để thu nhỏ ảnh (Hình 8b.9)).
+e) Di chuyển ảnh
+Để di chuyển ảnh, chọn công cụ Move trong bảng công cụ rồi đưa con trỏ chuột vào ảnh và kéo thả ảnh đến vị trí mới.
+f) Chọn đối tượng
+Zoom
+Auto-resize window
+Direction (Ctrl)
+Zoom in
+Zoom out
+Hình 8b.9. Các tuỳ chọn của công cụ Zoom
+Phần mềm GIMP cung cấp hai loại công cụ chọn là công cụ chọn theo hình dạng (Rectangle select tool, Ellipse select tool) và công cụ chọn tự do (Free select tool).
+Để chọn đối tượng, tuỳ theo hình dạng mà em chọn công cụ hình chữ nhật hoặc hình elip trong bảng công cụ rồi kéo thả chuột để lựa chọn một vùng hoặc di chuyển chuột theo hình em muốn chọn.
+g) Lưu tệp ảnh
+Chọn File/Save hoặc File/Save As để mở hộp thoại Save Image. Lựa chọn thư mục lưu tệp ảnh, nhập tên tệp vào ô Name. Nháy chuột chọn Save để hoàn thành việc lưu tệp.
+Lưu ý:
+Chọn File/Save hoặc File/Save As, tệp ảnh sẽ được lưu với phần mở rộng là .xcf (định dạng tệp của GIMP). Định dạng này phù hợp với các ảnh đang trong quá trình xử lí bằng phần mềm GIMP.
+Nếu em muốn lưu tệp ảnh dưới các dạng tệp khác như jpg, png hoặc gif thì chọn File/Export As. Hộp thoại Export Image xuất hiện. Đặt tên tệp và lựa chọn định dạng tệp tại mục Select File Type. Nháy chuột chọn Export để hoàn thành việc lưu tệp.
+Em có thể đổi giao diện của GIMP từ màu đen sang màu xám hoặc màu ghi sáng (Hình 8b.7) bằng cách chọn Edit/Preferences/Interface rồi chọn màu trong mục Theme và Icon Theme.
+LUYỆN TẬP
+1. Em hãy chụp hoặc sưu tầm các hình ảnh về ngôi trường em đang học và lưu vào các tệp (ví dụ Congtruong.jpg, Santruong.jpg, Thuvien.jpg, Phongthuchanh.jpg,...) trong thư mục HINHANH.
+2. Em hãy sử dụng phần mềm GIMP để mở các tệp ảnh đã lưu, đọc thông tin ảnh, phóng to, thu nhỏ, di chuyển ảnh và ghi lại ảnh với định dạng png.
+VẬN DỤNG
+Em hãy chụp hoặc sưu tầm các hình ảnh về một chủ đề mà em yêu thích (ví dụ một thành phố, một di tích lịch sử, một bãi biển,...). Ghi lại các tệp ảnh vào một thư mục và sử dụng phần mềm chỉnh sửa ảnh để đọc thông tin ảnh.
+61
+
+--- PAGE 63 ---
+BÀI 9b THAY ĐỔI KHUNG HÌNH, KÍCH THƯỚC ẢNH
+Sau bài học này em sẽ:
+• Biết các công cụ cắt, xoay, thay đổi kích thước ảnh.
+• Thực hiện được thao tác: cắt, xoay, thay đổi kích thước ảnh.
+An chụp được một số hình ảnh hoạt động của trường và đang chọn lựa để đăng lên website của trường. Tuy nhiên, An nhận thấy một số bức ảnh cần được chỉnh sửa để có bố cục hợp lí hơn. Ngoài ra, An gặp khó khăn khi tải ảnh lên website do dung lượng tệp ảnh lớn.
+Theo em, có cách nào để giải quyết các vấn đề An gặp phải không?
+1. CÔNG CỤ CẮT, XOAY, THAY ĐỔI KÍCH THƯỚC ẢNH
+Hoạt động 1 Công cụ cắt, xoay, thay đổi kích thước ảnh
+1. Em hãy liệt kê một số trường hợp cần cắt, xoay, thay đổi kích thước ảnh. Công cụ nào của phần mềm chỉnh sửa ảnh giúp em làm điều đó?
+2. Dung lượng của tệp có liên quan như thế nào đến kích thước ảnh?
+a) Cắt hình ảnh
+Khi chụp ảnh, có thể có những đối tượng xuất hiện trong ảnh ngoài ý muốn của người chụp. Trong trường hợp đó, em cần sử dụng công cụ cắt (Crop) để loại bỏ những chi tiết không hợp lí, giúp cho bức ảnh có bố cục chặt hơn, thu hút sự chú ý của người xem vào chủ đề của bức ảnh.
+b) Xoay hình ảnh
+Trong thực tế, khi chụp ảnh, máy ảnh có thể bị nghiêng hoặc xoay không đúng hướng. Kết quả là ảnh chụp có thể bị lỗi hoặc không đúng ý định của người chụp. Công cụ xoay (Rotate) có thể giúp em khắc phục vấn đề bằng cách xoay hình ảnh theo góc xoay và tâm xoay tuỳ ý (Hình 9b.1).
+62
+Hình 9b.1. Một ví dụ về xoay ảnh kết hợp cắt ảnh
+
+--- PAGE 64 ---
+c) Thay đổi kích thước hình ảnh
+Mỗi hình ảnh đều có kích thước cụ thể, tuy nhiên em có thể thay đổi kích thước của chúng (Hình 9b.2). Công cụ thay đổi kích thước (Resize) giúp em tăng hoặc giảm kích thước hình ảnh. Một trong những ứng dụng của việc thay đổi kích thước ảnh là tăng hoặc giảm dung lượng của tệp ảnh khi muốn gửi dưới dạng tệp đính kèm thư điện tử hoặc tải lên mạng xã hội, website, diễn đàn,... Tuy nhiên, với những hình ảnh gốc có kích thước nhỏ thì không nên thay đổi thành kích thước lớn hơn vì sẽ làm giảm chất lượng hình ảnh.
+Hình 9b.2. Một ví dụ về thay đổi kích thước ảnh
+• Công cụ Crop giúp em loại bỏ các phần ảnh không hợp lí.
+• Công cụ Resize giúp em tăng hoặc giảm kích thước ảnh.
+• Công cụ Rotate giúp em xoay ảnh theo góc xoay và tâm xoay tuỳ ý.
+Em hãy quan sát ảnh gốc ở Hình 9b.3 và các hình ảnh kết quả ở Hình 9b.4, Hình 9b.5, Hình 9b.6 và xác định các công cụ tương ứng (Crop, Resize, Rotate) đã dùng để chỉnh sửa.
+Hình 9b.3. Ảnh gốc
+Hình 9b.4
+Hình 9b.5
+Hình 9b.6
+63
+
+--- PAGE 65 ---
+2. THỰC HÀNH: SỬ DỤNG MỘT SỐ CÔNG CỤ CHỈNH SỬA ẢNH
+Nhiệm vụ 1: Em hãy sử dụng phần mềm chỉnh sửa ảnh để cắt phần ảnh bị ngón tay che ở Hình 8b.1 trong Bài 8b.
+Hướng dẫn
+Em thực hiện các bước theo hướng dẫn trong Hình 9b.7. Nhấn phím Enter để hoàn thành. Lưu lại ảnh với tên tệp là Anh_Crop.xcf.
+Lưu ý: Kéo thả chuột để tạo khung hình chữ nhật xác định vùng ảnh được giữ lại. Phần ảnh bị cắt bỏ là phần nằm ngoài khung hình chữ nhật và được làm tối đi. Nhấn phím Esc nếu muốn bỏ qua thao tác chọn.
+1. Chọn công cụ Crop
+2. Chọn vùng cần giữ lại
+Hình 9b.7. Các bước cắt ảnh bằng công cụ Crop
+Nhiệm vụ 2: Sử dụng phần mềm chỉnh sửa ảnh để thực hiện thao tác xoay hình ảnh.
+Hướng dẫn
+Cách 1: Chọn công cụ Rotate trong bảng công cụ rồi nhấn tổ hợp phím Shift + R để mở hộp thoại Rotate (hoặc chọn Tools/Transform Tools/Rotate). Hộp thoại Rotate xuất hiện cho phép em nhập vào góc xoay và tâm xoay của ảnh (Hình 9b.8). Chọn Rotate để hoàn thành việc xoay ảnh.
+Lưu ý: Giá trị trong ô Angle có thể dương hoặc âm, tương ứng để xoay cùng chiều hay ngược chiều kim đồng hồ.
+Cách 2: Xoay trực tiếp trên ảnh bằng cách kéo thả chuột để thay đổi góc xoay (Hình 9b.9), khi đó con trỏ chuột sẽ có dạng mũi tên hai chiều cong.
+64
+
+--- PAGE 66 ---
+Rotate
+Angle: 0.00
+Center X: 80.00
+Center Y: 60.00
+Reset | Readjust | Rotate
+Hình 9b.8. Hộp thoại Rotate
+Hình 9b.9. Sử dụng chuột để xoay ảnh
+Nhiệm vụ 3: Sử dụng phần mềm chỉnh sửa ảnh để thực hiện thao tác thay đổi kích thước hình ảnh với chiều rộng là 500 pixel.
+Hướng dẫn
+Chọn công cụ Scale trong bảng công cụ và nhấn tổ hợp phím Shift + S để mở hộp thoại Scale (hoặc chọn Tools/Transform Tools/Scale). Hộp thoại Scale xuất hiện (Hình 9b.10). Nhập kích thước ảnh mới với các thông số Width (chiều rộng), Height (chiều cao) và chọn Scale.
+Lưu ý:
++ Nếu muốn giữ nguyên tỉ lệ khung hình ban đầu của ảnh thì em chọn biểu tượng chuỗi xích và chỉ cần nhập kích thước chiều rộng, kích thước chiều cao sẽ được tự động điều chỉnh.
++ Nếu muốn điều chỉnh kích thước chiều rộng, chiều cao tuỳ ý, em bỏ chọn biểu tượng chuỗi xích.
++ Em có thể thay đổi kích thước ảnh trực tiếp bằng cách kéo thả các ô vuông xung quanh ảnh (Hình 9b.11).
++ Trong hộp thoại Rotate và Scale, chọn nút Reset khi em muốn đưa ảnh về lại vị trí và kích thước ban đầu.
+Scale
+Width: 160
+Height: 120
+px
+160 x 120 pixels
+72 ppi
+Reset | Readjust | Scale
+Hình 9b.10. Hộp thoại Scale
+Hình 9b.11. Kéo thả ô vuông để thay đổi kích thước
+LUYỆN TẬP
+Em hãy sử dụng phần mềm GIMP để mở các tệp ảnh trong thư mục HINHANH đã lưu ở Bài 8b. Sử dụng các công cụ Crop, Rotate, Scale để chỉnh sửa những điểm em thấy chưa đẹp (loại bỏ các phần không cần thiết, điều chỉnh hướng ảnh,...).
+VẬN DỤNG
+Em hãy sử dụng phần mềm chỉnh sửa ảnh để mở các tệp ảnh về chủ đề yêu thích mà em đã lưu ở phần Vận dụng, Bài 8b. Sử dụng các công cụ Crop, Rotate, Scale để chỉnh sửa những điểm cần thiết để có được các hình ảnh mới đẹp hơn.
+65
+
+--- PAGE 67 ---
+BÀI 10b THÊM VĂN BẢN, TẠO HIỆU ỨNG CHO ẢNH
+Sau bài học này em sẽ:
+• Thực hiện được các thao tác xử lí ảnh: thêm văn bản, điều chỉnh độ sáng, độ tương phản, làm mờ, làm sắc nét.
+An: Minh ơi, cậu xem một vài bức ảnh tớ chụp trường mình này. Tớ muốn chỉnh sửa các ảnh đó và thêm chú thích từng khu vực trong trường vào ảnh để gửi cho bạn học cùng trường tiểu học. Cậu có biết công cụ nào của phần mềm chỉnh sửa ảnh làm được điều đó không?
+Minh: Có chứ. Tớ thấy một số ảnh cậu chụp bị tối, cần tăng độ sáng lên và chỉnh thêm về màu sắc ảnh nữa thì sẽ đẹp đấy.
+Hình 10b.1. Ảnh trường học
+1. THÊM VĂN BẢN
+Hoạt động 1 Thêm văn bản vào ảnh
+1. Em hãy nêu tác dụng của việc chèn thêm văn bản vào ảnh.
+2. Công cụ nào của phần mềm chỉnh sửa ảnh giúp em làm điều đó?
+Chèn thêm văn bản vào ảnh là cách để ghi chú, gửi gắm thông điệp... giúp bức ảnh trở nên độc đáo, sinh động, cuốn hút hơn. Em có thể chèn và đặt văn bản vào vị trí bất kì trong ảnh. Em cũng có thể định dạng cho văn bản như: thay đổi kiểu chữ, cỡ chữ, màu chữ,...
+Sân trường
+a) Ảnh sân trường
+Vườn hồng
+b) Ảnh vườn hồng
+Hình 10b.2. Hình ảnh được chèn thêm văn bản
+66
+
+--- PAGE 68 ---
+2. TẠO HIỆU ỨNG CHO ẢNH
+Hoạt động 2. Độ sáng của hình ảnh
+1. Em hãy quan sát các bức ảnh ở Hình 10b.1 và cho nhận xét về độ sáng của mỗi ảnh.
+2. Theo em có thể thay đổi độ sáng của ảnh không?
+Hình ảnh được chụp từ máy ảnh kĩ thuật số không phải lúc nào cũng hoàn hảo. Đôi khi hình ảnh có thể trông quá sáng hoặc quá tối. Điều này có thể do một số yếu tố gây ra, bao gồm ánh sáng nơi chụp ảnh và cách đặt các thông số của máy ảnh. Em có thể khắc phục vấn đề này bằng cách điều chỉnh độ sáng và độ tương phản của hình ảnh.
+a) Độ sáng của ảnh (Brightness)
+Điều chỉnh độ sáng là thay đổi mức độ sáng và tối tổng thể của ảnh. Nếu ảnh quá tối có thể thử tăng độ sáng. Tuy nhiên, việc tăng độ sáng cho một ảnh quá tối có thể tạo ra nhiễu cho ảnh.
+a) Ảnh gốc
+b) Ảnh sau khi tăng độ sáng
+Hình 10b.3. Điều chỉnh độ sáng cho ảnh
+b) Độ tương phản (Contrast)
+Tăng độ tương phản là thao tác làm cho sự khác biệt giữa vùng sáng và vùng tối của hình ảnh dễ nhận thấy hơn. Nói cách khác là làm cho các phần tối tối hơn và các phần sáng sáng hơn. Tuy nhiên, tăng độ tương phản quá nhiều có thể dẫn đến mất chi tiết hình ảnh.
+a) Ảnh gốc
+b) Ảnh sau khi tăng độ tương phản
+Hình 10b.4. Điều chỉnh độ tương phản cho ảnh
+c) Độ mờ, độ sắc nét (Blur, Sharpen)
+Phần mềm xử lí ảnh cung cấp công cụ làm mờ, làm sắc nét ảnh. Em có thể sử dụng để làm mờ một vùng quá nổi bật trong ảnh, làm sắc nét riêng một đối tượng hoặc làm mờ nền xung quanh ảnh để làm nổi bật chủ thể bức ảnh. Tuy nhiên, việc thêm quá nhiều độ mờ, độ sắc nét có thể làm cho hình ảnh trông xấu hơn hoặc dẫn đến mất chi tiết của ảnh.
+67
+
+--- PAGE 69 ---
+a) Ảnh gốc
+b) Ảnh đã làm mờ phần nền
+Hình 10b.5. Điều chỉnh độ mờ của ảnh
+Phần mềm xử lí ảnh cung cấp các công cụ để chèn thêm văn bản, điều chỉnh độ sáng, tối, độ tương phản, làm mờ, làm sắc nét,... cho ảnh.
+Em hãy chọn các phương án đúng:
+A. Có thể thay đổi phông chữ cho văn bản chèn vào ảnh.
+B. Có thể tăng hoặc giảm độ sáng của ảnh.
+C. Tăng độ tương phản cho ảnh là làm cho phần tối sáng hơn, phần sáng tối hơn.
+D. Có thể làm mờ, làm sắc nét riêng từng đối tượng trong ảnh.
+3. THỰC HÀNH: CHỈNH SỬA ẢNH
+Nhiệm vụ 1: Chèn dòng chữ "Vườn hồng" vào ảnh như Hình 10b.2b.
+Hướng dẫn: Em thực hiện các bước như hướng dẫn trong Hình 10b.6.
+1. Chọn công cụ chèn văn bản
+2. Nháy chuột vào vị trí cần chèn và nhập nội dung
+3. Định dạng văn bản
+Hình 10b.6. Các bước chèn văn bản
+68
+
+--- PAGE 70 ---
+Nhiệm vụ 2: Chỉnh sửa độ sáng, độ tương phản cho ảnh ở Hình 10b.5a.
+Hướng dẫn: Chọn Colors/Brightness-Contrast... để mở hộp thoại Brightness-Contrast... (Hình 10b.7). Trong hộp thoại em kéo thả chuột để điều chỉnh độ sáng, độ tương phản theo ý muốn. Chọn OK để hoàn thành.
+Nhiệm vụ 3: Làm mờ nền xung quanh bông hoa trong Hình 10b.5a.
+Hướng dẫn: Thực hiện theo các bước như Hình 10b.8.
+Brightness-Contrast
+Adjust Brightness and Contrast
+...
+Brightness [thanh trượt]
+Contrast [thanh trượt]
+...
+Help | Reset | OK | Cancel
+Hình 10b.7. Hộp thoại Brightness-Contrast
+1. Chọn công cụ Blur/Sharpen
+2. Chọn Blur để làm mờ / Chọn Sharpen để làm sắc nét
+3. Chọn cọ vẽ Brush
+4. Chọn kích thước cọ vẽ
+5. Chọn tốc độ thay đổi
+6. Nháy chuột vào vùng cần làm mờ hoặc làm sắc nét
+Hình 10b.8. Các bước làm mờ ảnh
+LUYỆN TẬP
+Em hãy sử dụng phần mềm GIMP để mở các tệp ảnh trong thư mục HINHANH đã lưu ở Bài 9b. Sử dụng các công cụ tạo hiệu ứng cho ảnh để điều chỉnh độ sáng, độ tương phản, làm mờ,... bổ sung văn bản vào ảnh (nếu cần) để có được những bức ảnh đẹp giới thiệu về ngôi trường của em.
+VẬN DỤNG
+Em hãy sử dụng phần mềm chỉnh sửa ảnh để mở các tệp ảnh trong thư mục đã lưu ở phần Vận dụng, Bài 9b. Sử dụng các công cụ tạo hiệu ứng cho ảnh để điều chỉnh độ sáng, độ tương phản, làm mờ,... bổ sung văn bản vào ảnh (nếu cần) để có được những bức ảnh đẹp giới thiệu về chủ đề mà em yêu thích.
+69
+
+--- PAGE 71 ---
+BÀI 11b THỰC HÀNH TỔNG HỢP
+NHIỆM VỤ
+Từ các kết quả thực hành trong Bài 8b, Bài 9b, Bài 10b, em hãy tập hợp, bổ sung và chỉnh sửa ảnh để tạo một tờ rơi giới thiệu về trường của các bạn An, Minh, Khoa.
+HƯỚNG DẪN
+Bước 1. Tập hợp nội dung
+Sau các phần thực hành ở các bài học trước, em đã có sản phẩm là các ảnh đã được chỉnh sửa bố cục, màu sắc, hiệu ứng hợp lí. Hãy thu thập khoảng 4 đến 6 ảnh và đưa vào một thư mục.
+Bước 2. Tạo khung viền cho ảnh
+Mở tệp Anh_Crop.xcf mà em đã lưu ở phần thực hành của Bài 9b.
+Tạo một lớp mới bằng cách chọn Layer/New Layer, nhập tên cho lớp này là Khungvien (Hình 11b.1). Chọn OK để hoàn thành. Trên cửa sổ Layer sẽ xuất hiện thêm lớp Khungvien (Hình 11b.2).
+New Layer
+Create a New Layer
+Layer name: [Khungvien]
+...
+OK | Cancel
+Hình 11b.1. Đặt tên cho lớp mới
+Layers
+...
+Khungvien
+Anh_Crop
+Hình 11b.2. Cửa sổ Layer
+Nháy chuột vào biểu tượng con mắt bên cạnh lớp Anh_Crop để ẩn nội dung ảnh. Kết quả như Hình 11b.3.
+Khungvien
+[Biểu tượng con mắt bị tắt] Anh_Crop
+Hình 11b.3. Ẩn lớp Anh_Crop
+70
+
+--- PAGE 72 ---
+Sử dụng công cụ Gradient để đổ màu (chuyển dần giữa màu nền và màu vẽ) cho lớp Khungvien. Thực hiện các bước như hướng dẫn trong Hình 11b.4.
+1. Chọn công cụ Gradient
+2. Nháy chuột vào hai ô vuông để chọn màu nền và màu vẽ
+3. Kéo thả chuột để điều chỉnh vị trí và hướng chuyển giữa hai màu
+Màu vẽ | Màu nền
+Cửa sổ Gradient
+Hình 11b.4. Các bước đổ màu cho lớp Khungvien
+Lưu ý: Em có thể điều chỉnh và chọn các thông số trong cửa sổ Gradient: Chọn chế độ đổ màu (mode), chọn mật độ màu (Opacity), chọn chuyển màu lặp lại nhiều lần hay chỉ một lần (Repeat)....
+Chuyển lớp Khungvien xuống dưới lớp ảnh bằng cách nháy chuột vào lớp Khungvien trong cửa sổ Layers rồi kéo thả xuống vị trí bên dưới lớp Anh_Crop.
+Chọn lớp Anh_Crop, chọn công cụ Scale, giảm kích thước lớp ảnh (nhỏ hơn kích thước lớp Khungvien).
+Trộn các lớp thành một lớp bằng cách chọn lớp trên cùng rồi chọn Layer/Merge Down.
+Hình 11b.5. Trộn các lớp ảnh
+Chọn File/Export As để ghi kết quả vào tệp ảnh với tên Anh1.jpg.
+Thực hiện các bước tương tự để tạo khung viền cho các ảnh còn lại.
+71
+
+--- PAGE 73 ---
+Bước 3. Ghép ảnh vào tờ rơi, thêm văn bản
+Chọn một ảnh làm nền tờ rơi.
+Chèn các ảnh đã tạo khung viền vào ảnh nền bằng cách chọn File/Open as Layers để mở hộp thoại, chọn ảnh và nhấn phím Enter để hoàn thành. Mỗi ảnh được chèn vào sẽ là một lớp.
+Dùng công cụ Move để di chuyển ảnh mới chèn đến vị trí mong muốn trên ảnh nền.
+Dùng công cụ Scale để chỉnh lại kích thước cho từng ảnh.
+Dùng công cụ Text A để thêm văn bản vào tờ rơi.
+Dùng công cụ Rotate để xoay ảnh.
+Bước 4. Hoàn thiện và lưu sản phẩm
+Dùng các công cụ đã học để tăng độ sáng, tối, tương phản,... nếu cần.
+Chọn File/Export As để ghi lại ảnh với tên SchoolTour.jpg.
+Sản phẩm có thể như Hình 11b.6.
+10:30 – 11:00 thứ 7 hàng tuần
+SCHOOL TOUR
+Hình 11b.6. Tờ rơi giới thiệu về trường
+LUYỆN TẬP
+Em hãy sử dụng phần mềm GIMP và những tệp ảnh trong thư mục HINHANH mà em đã chỉnh sửa trong các phần Luyện tập ở các bài trước để tạo thành một tờ rơi giới thiệu về ngôi trường của em.
+VẬN DỤNG
+Từ các hình ảnh về chủ đề mà em yêu thích đã được chỉnh sửa, hãy sử dụng các phần mềm ứng dụng đã biết (phần mềm chỉnh sửa ảnh, phần mềm soạn thảo văn bản, phần mềm trình chiếu, phần mềm sơ đồ tư duy,...) để tạo một sản phẩm số đơn giản (ví dụ một cuốn sách ảnh, một bài trình chiếu....).
+72
+
+--- PAGE 74 ---
+CHỦ ĐỀ 5. GIẢI QUYẾT VẤN ĐỀ VỚI SỰ TRỢ GIÚP CỦA MÁY TÍNH
+BÀI 12 TỪ THUẬT TOÁN ĐẾN CHƯƠNG TRÌNH
+Sau bài học này em sẽ:
+• Mô tả được kịch bản đơn giản dưới dạng thuật toán và tạo được một chương trình đơn giản.
+• Hiểu được chương trình là dãy các lệnh điều khiển máy tính thực hiện một thuật toán.
+Bằng ngôn ngữ lập trình trực quan, bạn Khoa muốn tạo chương trình điều khiển nhân vật di chuyển theo đường đi là các hình như: tam giác đều, vuông....
+1. TỪ THUẬT TOÁN ĐẾN CHƯƠNG TRÌNH
+Hoạt động 1 Mô tả kịch bản dưới dạng thuật toán
+Hình 12.1. Nhân vật di chuyển
+Với trường hợp nhân vật di chuyển theo đường đi là một tam giác đều, em hãy:
+1. Xác định góc quay của nhân vật khi đi hết một cạnh.
+2. Liệt kê lần lượt các bước của thuật toán điều khiển nhân vật (bằng ngôn ngữ tự nhiên).
+Tam giác đều là hình có ba cạnh bằng nhau, ba góc bằng nhau và bằng 60 độ. Để di chuyển theo một hình tam giác đều, nhân vật cần lặp lại ba lần việc thực hiện hai hành động sau đây:
+• Di chuyển về phía trước một số bước bằng độ dài cạnh tam giác. Ví dụ, di chuyển 60 bước.
+• Quay trái 120 độ.
+Hình 12.2. Đường đi của nhân vật
+Thuật toán sử dụng cấu trúc tuần tự và cấu trúc lặp, trong đó số bước lặp bằng 3 (bằng số cạnh của tam giác đều). Khi thực hiện đủ ba lần thì vòng lặp kết thúc. Kịch bản chương trình được mô tả bằng sơ đồ khối của thuật toán như minh hoạ ở Hình 12.3a.
+73
+
+--- PAGE 75 ---
+Em đã biết, để mô tả thuật toán, ngoài cách liệt kê các bước bằng ngôn ngữ tự nhiên hoặc dùng sơ đồ khối, chúng ta có thể viết chương trình để máy tính “hiểu" và thực hiện được thuật toán.
+Để điều khiển nhân vật trên máy tính thực hiện thuật toán được mô tả bằng sơ đồ khối ở Hình 12.3a, em viết chương trình Scratch như Hình 12.3b, trong đó mỗi bước của thuật toán mô tả ở sơ đồ khối đã được thực hiện bằng lệnh tương ứng của ngôn ngữ lập trình Scratch. Như vậy, chương trình là dãy lệnh điều khiển máy tính thực hiện một thuật toán.
+a) Sơ đồ khối
+Bắt đầu -> Lần lặp <- 1 -> (Lần lặp <= 3?)
+-> Đúng -> Di chuyển 60 bước -> Quay trái 120 độ -> Tăng Lần lặp lên 1 đơn vị -> quay lại (Lần lặp <= 3?)
+-> Sai -> Kết thúc
+b) Chương trình Scratch
+Khi bấm vào cờ xanh
+lặp lại 3
+  di chuyển 60 bước
+  xoay trái 120 độ
+Hình 12.3. Sơ đồ khối và chương trình thực hiện thuật toán
+Chương trình là dãy các lệnh điều khiển máy tính thực hiện một thuật toán.
+Bạn An muốn bổ sung lệnh đợi 1 giây để điều khiển nhân vật dừng lại 1 giây sau khi đi hết mỗi cạnh của tam giác. Em hãy bổ sung lệnh này vào sơ đồ khối mô tả thuật toán và nêu vị trí đặt câu lệnh trong chương trình Scratch tương ứng ở Hình 12.3.
+2. THỰC HÀNH: TẠO CHƯƠNG TRÌNH ĐIỀU KHIỂN MÁY TÍNH THỰC HIỆN THUẬT TOÁN
+Nhiệm vụ 1: Tạo chương trình điều khiển nhân vật di chuyển theo đường đi là một tam giác đều như minh hoạ trong Hình 12.3.
+Hướng dẫn
+(Hướng dẫn sau đây sử dụng ngôn ngữ lập trình Scratch 3.0 với giao diện tiếng Việt để minh hoạ.)
+74
+
+--- PAGE 76 ---
+Bước 1. Khởi động phần mềm Scratch, chọn chế độ hiển thị tiếng Việt.
+Bước 2. Xoá nhân vật chú Mèo, thêm nhân vật chú Bọ rùa.
+Bước 3. Kéo thả các lệnh để được chương trình như minh hoạ trong Hình 12.3.
+Bước 4. Nháy chuột vào nút cờ xanh để chạy chương trình và xem kết quả.
+Nhiệm vụ 2: Thêm một số lệnh để nhân vật vừa di chuyển, vừa vẽ tam giác đều.
+Hướng dẫn
+Bước 1. Nháy chuột vào nhóm lệnh Bút vẽ kéo thả các lệnh của nhóm này vào chương trình như minh hoạ trong Hình 12.4.
+Bước 2. Nháy chuột vào nhóm lệnh, kéo thả lệnh đợi 1 giây vào chương trình như minh hoạ trong Hình 12.4.
+Bước 3. Nháy chuột vào nút cờ xanh để chạy chương trình và xem kết quả.
+Bước 4. Lưu tệp với tên VeHinh.sb3 và thoát khỏi chương trình.
+Khi bấm vào cờ xanh
+Xoá tất cả
+đặt bút
+chọn bút màu [màu tím]
+lặp lại 3
+  di chuyển 60 bước
+  xoay trái 120 độ
+  đợi 1 giây
+nhấc bút
+Hình 12.4. Chương trình vẽ hình tam giác đều
+LUYỆN TẬP
+1. Em hãy mô tả thuật toán bằng sơ đồ khối trong trường hợp đường đi của nhân vật là một hình vuông.
+2. Em hãy nâng cấp chương trình VeHinh.sb3 bằng cách bổ sung một nhân vật mới và lập trình để khi nháy chuột vào nhân vật này thì chương trình thực hiện thuật toán vẽ hình vuông.
+3. Bạn Khoa viết kịch bản mô tả hoạt động của xe ô tô chạy trên đường như sau: Khi xe cách hòn đá nhỏ hơn 120 bước, xe sẽ dừng lại (Hình 12.5).
+a) Em hãy hoàn thành sơ đồ khối theo kịch bản trên bằng cách ghép mỗi lệnh dưới đây với một ô phù hợp được đánh số 1 và 2 trong Hình 12.6.
+Di chuyển 5 bước
+Cách hòn đá < 120 bước?
+b) Em hãy viết chương trình Scratch thực hiện thuật toán.
+Hình 12.5. Xe dừng lại khi cách hòn đá nhỏ hơn 120 bước
+Bắt đầu -> (1) -> Sai -> (2) -> quay lại (1)
+(1) -> Đúng -> Kết thúc
+Hình 12.6. Sơ đồ khối mô tả kịch bản
+VẬN DỤNG
+Trong bài học trên, đường đi của nhân vật là hình tam giác đều. Đường đi đó có thể là hình vuông, lục giác đều,... Khi đó các con số nào trong chương trình ở Hình 12.3 cần phải thay đổi?
+75
+
+--- PAGE 77 ---
+BÀI 13 BIỂU DIỄN DỮ LIỆU
+Sau bài học này em sẽ:
+• Nêu được khái niệm hằng, biến, kiểu dữ liệu, biểu thức và sử dụng được các khái niệm này ở các chương trình đơn giản trong môi trường lập trình trực quan.
+Trong chương trình Tin học lớp 7, em đã được học về các kiểu dữ liệu trong phần mềm bảng tính. Em hãy cho biết đó là những kiểu dữ liệu nào.
+1. KIỂU DỮ LIỆU
+Hoạt động 1 Kiểu dữ liệu
+1. Em hãy ghép mỗi dòng ở cột Dữ liệu với một dòng phù hợp ở cột Kiểu dữ liệu trong Hình 13.1.
+Dữ liệu: Tin học, 3.141592
+Kiểu dữ liệu: Số, Văn bản
+Hình 13.1. Dữ liệu và kiểu dữ liệu
+2. Em hãy nhập dữ liệu và công thức theo mẫu trong Hình 13.2 vào phần mềm bảng tính và cho biết kết quả được hiển thị ở các ô tính C1, C2 và C3.
+A, B, C
+1, 3, 5, =A1+B1
+2, , , =A1&B1
+3, , , =A1<B1
+Hình 13.2. Các phép toán
+Trong Hình 13.1, "Tin học" là dữ liệu thuộc kiểu văn bản, 3.141592 là dữ liệu thuộc kiểu số. Các công thức ở các ô tính C1, C2 và C3 trong Hình 13.2 trả lại kết quả như Hình 13.3.
+A, B, C
+1, 3, 5, 8
+2, , , 35
+3, , , TRUE
+Hình 13.3. Kết quả các phép toán
+• Ô C1 thực hiện phép cộng số 3 và số 5, cho kết quả 8 là một giá trị số.
+• Ô C2 thực hiện phép ghép kí tự '3' và kí tự '5', cho kết quả là xâu kí tự "35".
+• Ô C3 kiểm tra xem số 3 có nhỏ hơn số 5 hay không, cho kết quả TRUE (đúng) là giá trị thuộc kiểu lôgic.
+Trong các ngôn ngữ lập trình, dữ liệu được phân loại thành những kiểu khác nhau để có thể lưu trữ và áp dụng những phép toán phù hợp. Số được phân loại thành kiểu số nguyên hoặc số thực, văn bản được phân loại thành kiểu kí tự hoặc xâu kí tự, các điều kiện hay các phép so sánh được phân loại thành kiểu lôgic,....
+Mỗi kiểu dữ liệu bao gồm một tập hợp giá trị và một số phép toán trên những giá trị đó. Ngôn ngữ lập trình Scratch có ba kiểu dữ liệu là kiểu số, kiểu xâu kí tự và kiểu lôgic. Bảng 13.1 mô tả tập hợp giá trị của ba kiểu dữ liệu này.
+76
+
+--- PAGE 78 ---
+Bảng 13.1. Tập hợp giá trị của các kiểu dữ liệu trong ngôn ngữ lập trình Scratch
+Kiểu dữ liệu, Tập hợp giá trị, Ví dụ
+Số, Số nguyên và số thập phân, 15, 3.141592
+Xâu kí tự, Kí tự hoặc xâu kí tự, '@', "Computer"
+Lôgic, Hai giá trị true (đúng) và false (sai), false, true
+Mỗi kiểu dữ liệu được trang bị một số phép toán. Ngược lại, mỗi phép toán đều cho kết quả là giá trị thuộc một kiểu dữ liệu nhất định. Bảng 13.2 mô tả những phép toán cơ bản trên ba kiểu dữ liệu của ngôn ngữ lập trình Scratch.
+Bảng 13.2. Các phép toán cơ bản trong ngôn ngữ lập trình Scratch
+Kiểu dữ liệu, Phép toán, Ví dụ
+Số, Các phép toán cộng, trừ, nhân, chia, chia lấy dư, làm tròn số,..., Phép toán `13 mod 4` trả lại kết quả 1, là số dư trong phép chia số 13 cho số 4.
+Xâu kí tự, Phép toán kết hợp (join) nối các xâu kí tự để tạo ra xâu kí tự mới., Phép toán `join "táo" "chuối"` trả lại kết quả «táo chuối», là xâu kí tự được ghép lại từ hai xâu kí tự “táo" và "chuối".
+Lôgic, Các phép toán so sánh: bằng (=), nhỏ hơn (<) và lớn hơn (>)., Phép toán `70 > 50` trả lại giá trị true là kết quả của việc so sánh hai số 70 và 50.
+Lôgic, Ba phép toán lôgic: và (and), hoặc (or), không phải (not)., Phép toán `(70 > 50) and (80 < 50)` trả lại kết quả false, vì thành phần (80 < 50) của phép toán và mang giá trị false. Phép toán `(50 = 50) or (30 > 80)` trả lại kết quả true, vì thành phần (50 = 50) của phép toán hoặc mang giá trị true. Phép toán `not (50 = 50)` trả lại kết quả là false.
+• Mỗi kiểu dữ liệu là một tập hợp các giá trị mà một biến thuộc kiểu đó có thể nhận.
+• Mỗi kiểu dữ liệu được trang bị một số phép toán.
+• Ba kiểu dữ liệu phổ biến trong ngôn ngữ lập trình trực quan là: kiểu số, kiểu xâu kí tự, kiểu lôgic.
+Em hãy ghép mỗi phép toán với một kiểu dữ liệu kết quả cho phù hợp.
+Phép toán, Kiểu dữ liệu
+`join "Diện tích hình tròn là " r`, Số
+`r > 0`, Xâu kí tự
+`3.14 * r * r`, Lôgic
+77
+
+--- PAGE 79 ---
+2. HẰNG, BIẾN, BIỂU THỨC
+Hoạt động 2 Hằng, biến, biểu thức
+Trong Bài 12, em đã tạo ra chương trình để chú Bọ rùa di chuyển theo đường đi là một tam giác đều. Làm thế nào để tổng quát bài toán với đường đi của nhân vật là một hình đa giác đều có số cạnh bất kì được nhập vào từ bàn phím?
+Trong lập trình, biến được dùng để lưu trữ giá trị có thể thay đổi trong khi thực hiện chương trình. Biến được nhận biết qua tên của nó. Ví dụ: số cạnh của hình mà nhân vật di chuyển trong bài toán tổng quát ở Hoạt động 2 là một biến, nó được đặt tên là `n` và lưu trữ một giá trị số, chẳng hạn số 6.
+Hằng là giá trị không đổi trong quá trình thực hiện chương trình. Chẳng hạn, 3.14 là hằng kiểu số (hằng số); "Xin chào!" là hằng kiểu xâu kí tự; true là hằng kiểu lôgic;... Mỗi hằng thuộc một kiểu dữ liệu nhất định.
+Biểu thức là sự kết hợp của biến, hằng, dấu ngoặc, phép toán và các hàm để trả lại giá trị thuộc một kiểu dữ liệu nhất định. Chẳng hạn, chu vi của đường tròn bán kính r có thể được tính gần đúng bằng biểu thức kiểu số `2 * 3.14 * r`.
+• Biến được dùng để lưu trữ giá trị có thể thay đổi trong quá trình thực hiện chương trình. Biến được nhận biết qua tên của nó và thuộc một kiểu dữ liệu nhất định.
+• Hằng là giá trị không đổi trong quá trình thực hiện chương trình. Mỗi hằng thuộc một kiểu dữ liệu nhất định (hằng kiểu số, hằng kiểu xâu kí tự, hằng kiểu lôgic....).
+• Biểu thức là sự kết hợp của biến, hằng, dấu ngoặc, phép toán và các hàm để trả lại giá trị thuộc một kiểu dữ liệu nhất định.
+Em hãy chỉ ra hằng, biến, biểu thức và kiểu dữ liệu tương ứng được sử dụng trong chương trình ở Hình 13.4.
+3. THỰC HÀNH: SỬ DỤNG HẰNG, BIẾN, BIỂU THỨC TRONG CHƯƠNG TRÌNH
+Nhiệm vụ: Mở tệp chương trình VeHinh.sb3 em đã lưu ở Bài 12, bổ sung câu lệnh để được chương trình nâng cấp điều khiển nhân vật di chuyển theo hình có số cạnh nhập vào từ bàn phím như Hình 13.4.
+Hướng dẫn:
+Bước 1. Mở tệp chương trình VeHinh.sb3 trong Scratch, chọn chế độ hiển thị tiếng Việt. Lưu tệp với tên mới là DuongDi.sb3.
+Bước 2. Nháy chuột vào nhóm lệnh Các biến số, tạo các biến số `n`, `số bước`, `góc quay`.
+78
+
+--- PAGE 80 ---
+Bước 3. Nháy chuột vào nhóm lệnh Cảm biến, Các biến số, Hiển thị và hoàn thành lệnh 1, 2, 3 của chương trình.
+Bước 4. Nháy chuột vào nhóm lệnh Các phép toán để tạo hai biểu thức `900 / n` và `360 / n`.
+Bước 5. Nháy chuột vào nhóm lệnh Các biến số, kéo thả và hoàn thành hai câu lệnh 4, 5.
+Bước 6. Nháy chuột vào nhóm lệnh Các biến số, kéo thả các biến vào vị trí tương ứng trong các câu lệnh 6, 7, 8.
+Bước 7. Nháy chuột vào nút cờ xanh để chạy chương trình và xem kết quả.
+Khi bấm vào cờ xanh
+(1) hỏi [Hãy nhập số cạnh:] và đợi
+(2) đặt [n] thành [trả lời]
+(3) nói (join [Đường đi là hình có ] (join [n] [ cạnh bằng nhau]))
+...
+(4) đặt [số bước] thành (900 / n)
+(5) đặt [góc quay] thành (360 / n)
+(6) lặp lại (n)
+(7)   di chuyển (số bước) bước
+(8)   xoay trái (góc quay) độ
+...
+Hình 13.4. Chương trình điều khiển nhân vật di chuyển theo hình có số cạnh được nhập vào từ bàn phím
+LUYỆN TẬP
+1. Giả sử `r` là biến lưu giá trị của bán kính hình tròn. Em hãy cho biết giá trị trả lại của các biểu thức sau và kiểu dữ liệu của chúng trong ngôn ngữ lập trình Scratch với trường hợp r = 5.
+a) `r > 0`
+b) `2 * 3.14 * r`
+c) `join "Chu vi đường tròn là " (2 * 3.14 * r)`
+2. Em hãy sử dụng ngôn ngữ lập trình trực quan để viết chương trình tính chu vi đường tròn, diện tích hình tròn với giá trị của bán kính được nhập vào từ bàn phím, thông báo kết quả ra màn hình.
+VẬN DỤNG
+Em hãy viết chương trình Scratch của riêng mình để giải quyết một bài toán cụ thể trong một môn học như Khoa học tự nhiên, Toán học,... trong đó có sử dụng hằng, biến và biểu thức để thực hiện thuật toán.
+79
+
+--- PAGE 81 ---
+BÀI 14 CẤU TRÚC ĐIỀU KHIỂN
+Sau bài học này em sẽ:
+• Thể hiện được cấu trúc tuần tự, rẽ nhánh và lặp ở chương trình trong môi trường lập trình trực quan.
+An: Ở lớp 6, chúng ta đã biết cách biểu diễn thuật toán bằng cách sử dụng các cấu trúc điều khiển cơ bản. Trong ngôn ngữ lập trình Scratch, có cách nào để biểu diễn các cấu trúc đó không?
+Khoa: Giống như hầu hết các ngôn ngữ lập trình, ngôn ngữ lập trình trực quan như Scratch cũng có các khối lệnh tương ứng với các cấu trúc điều khiển cơ bản.
+An: Bạn có thể giới thiệu cho tớ cách biểu diễn các cấu trúc tuần tự, rẽ nhánh và lặp trong Scratch không?
+1. CẤU TRÚC ĐIỀU KHIỂN CƠ BẢN
+Hoạt động 1 Trò chơi Đoán số
+Giả sử em cần xây dựng một trò chơi trên máy tính. Trong trò chơi, em cần tìm một số bí mật mà máy tính đã lấy ngẫu nhiên trong khoảng từ 1 đến 100. Em được đoán nhiều lần cho đến khi đoán đúng số bí mật đó. Mỗi lần em đoán sai, máy tính sẽ cho em biết số em đoán là nhỏ hơn hay lớn hơn số bí mật. Em hãy mô tả kịch bản của trò chơi đó dưới dạng một thuật toán.
+a) Cấu trúc tuần tự
+Dựa trên kịch bản đã xây dựng, em sẽ từng bước lập chương trình của trò chơi này bằng ngôn ngữ lập trình trực quan. Nhận xét rằng, trong trò chơi, chỉ cần sử dụng hai biến số: số thứ nhất do máy tính lấy ngẫu nhiên, được đặt tên là `số bí mật` và số thứ hai do người chơi đoán và nhập vào máy tính là `trả lời`. Biến này có sẵn trong Scratch.
+Để đảm bảo các lệnh đọc, ghi và gán giá trị với hai biến trên hoạt động bình thường, em có thể yêu cầu máy tính gán cho `số bí mật` một giá trị ngẫu nhiên, sau đó hỏi để nhận vào `trả lời` một giá trị số từ người chơi, rồi hiển thị hai giá trị đó ra. Kịch bản của trò chơi được mô tả bằng cấu trúc tuần tự dưới dạng liệt kê bằng ngôn ngữ tự nhiên như Hình 14.1a.
+1) Bắt đầu
+2) Gán cho `số bí mật` một giá trị ngẫu nhiên trong khoảng từ 1 đến 100.
+3) Hỏi và nhận giá trị từ bàn phím, lưu vào biến `trả lời`.
+4) Hiển thị `số bí mật` trong 2 giây.
+5) Hiển thị `trả lời` trong 2 giây.
+6) Kết thúc.
+a) Mô tả thuật toán đọc và hiển thị dữ liệu
+b) Chương trình viết bằng ngôn ngữ lập trình Scratch
+Khi bấm vào cờ xanh
+đặt [số bí mật] thành (lấy ngẫu nhiên từ 1 đến 100)
+hỏi [Hãy cho biết bạn đoán số nào?] và đợi
+nói [số bí mật] trong 2 giây
+nói [trả lời] trong 2 giây
+dừng lại [tất cả]
+Hình 14.1. Thuật toán sử dụng cấu trúc tuần tự
+80
+
+--- PAGE 82 ---
+[cite_start]Trong ngôn ngữ lập trình trực quan, cấu trúc tuần tự được thể hiện bằng cách lắp ghép các khối lệnh thành phần theo đúng trình tự của các hoạt động, từ trên xuống dưới, như Hình 14.1b[cite: 2853].
+b) Cấu trúc rẽ nhánh
+[cite_start]Sau khi đảm bảo các biến đã hoạt động đúng, em có thể thay thế các thao tác hiển thị trong kịch bản trên bằng thao tác so sánh hai số và cho biết giá trị của biến `trả lời` bằng, thấp hơn hay cao hơn giá trị của biến `số bí mật`[cite: 2854].
+[cite_start]• Nếu `trả lời` bằng `số bí mật` thì thông báo: "HOAN HÔ!"[cite: 2855].
+[cite_start]• Nếu `trả lời` nhỏ hơn `số bí mật` thì thông báo: "Quá thấp"[cite: 2856].
+[cite_start]• Nếu `trả lời` lớn hơn `số bí mật` thì thông báo: "Quá cao"[cite: 2862].
+[cite_start]Nhận xét rằng ba trường hợp “bằng", "nhỏ hơn" và "lớn hơn" loại trừ lẫn nhau nên không cần kiểm tra cả ba trường hợp đó mà chỉ cần kiểm tra hai lần[cite: 2863]. [cite_start]Thuật toán so sánh hai giá trị `trả lời` và `số bí mật` có thể được mô tả dưới dạng cấu trúc rẽ nhánh như trong Hình 14.2a bằng ngôn ngữ tự nhiên[cite: 2864]. [cite_start]Khoảng cách lề trong bản mô tả nhằm xác định hướng thực hiện mệnh lệnh sau mỗi lần kiểm tra[cite: 2865]. [cite_start]Sơ đồ của thuật toán này được cho trong Hình 14.2b[cite: 2866].
+Nếu trả lời = số bí mật thì
+  hiển thị "HOAN HÔ!"
+nếu không, tiếp tục kiểm tra:
+  nếu trả lời < số bí mật thì
+    hiển thị: "Quá thấp",
+  nếu không
+    hiển thị: "Quá cao".
+a) Mô tả thuật toán so sánh hai giá trị bằng cấu trúc rẽ nhánh
+b) Sơ đồ thuật toán so sánh hai giá trị
+Hình 14.2. Thuật toán sử dụng cấu trúc rẽ nhánh
+[cite_start]Trong ngôn ngữ lập trình trực quan, cấu trúc rẽ nhánh được thể hiện bằng khối lệnh chứa một điều kiện hay một biểu thức lôgic[cite: 2882]. [cite_start]Tuỳ tình huống, điều kiện này nhận giá trị đúng hay sai, chương trình sẽ định hướng đến khối lệnh tiếp theo để máy tính thực hiện[cite: 2883]. [cite_start]Hình 14.3c mô tả đoạn chương trình Scratch so sánh giá trị hai biến `trả lời` và `số bí mật` để hiển thị thông báo tương ứng[cite: 2884]. [cite_start]Cấu trúc rẽ nhánh có hai dạng, dạng khuyết và dạng đầy đủ[cite: 2886]. [cite_start]Các hình 14.3a và 14.3b lần lượt thể hiện khối lệnh rẽ nhánh khuyết và rẽ nhánh đầy đủ trong ngôn ngữ lập trình Scratch[cite: 2887, 2888].
+a) Cấu trúc rẽ nhánh khuyết: nếu ... thì ...
+b) Cấu trúc rẽ nhánh đầy đủ: nếu ... thì ... nếu không thì ...
+c) So sánh và trả lời:
+nếu <(trả lời) = (số bí mật)> thì
+  nói [HOAN HÔ!]
+nếu không thì
+  nếu <(trả lời) < (số bí mật)> thì
+    nói [Quá thấp]
+  nếu không thì
+    nói [Quá cao]
+Hình 14.3. Các cấu trúc rẽ nhánh và đoạn chương trình trong Scratch
+81
+
+--- PAGE 83 ---
+c) Cấu trúc lặp
+[cite_start]Trong trò chơi, việc đoán số không chỉ được thực hiện một lần mà được người chơi thực hiện lặp lại cho đến khi đoán đúng số bí mật[cite: 2901]. [cite_start]Mỗi khi người chơi đoán sai, máy tính hỏi lại và câu trả lời mới lại được đem ra so sánh với số bí mật[cite: 2902]. [cite_start]Lưu ý rằng việc lặp lại chỉ thực hiện khi người chơi đoán sai[cite: 2903]. [cite_start]Điều đó cũng có nghĩa rằng người chơi đoán đúng là điều kiện kết thúc vòng lặp[cite: 2904, 2905].
+[cite_start]Trong ngôn ngữ lập trình Scratch, có ba khối lệnh lặp, bao gồm: lặp với số lần định trước (Hình 14.4b), lặp vô hạn (Hình 14.4c), và lặp có điều kiện kết thúc (Hình 14.4d)[cite: 2906].
+[cite_start]Thuật toán được mô tả bằng cấu trúc lặp như trong Hình 14.4a và được thể hiện trong ngôn ngữ lập trình trực quan bằng khối lệnh "lặp cho đến khi" (Hình 14.4d)[cite: 2907].
+a) Sơ đồ cấu trúc lặp có điều kiện
+(trả lời = số bí mật?) -> sai -> So sánh và nhận xét, Máy hỏi lại -> quay lại
+(trả lời = số bí mật?) -> đúng -> "HOAN HÔ!"
+b) Khối lệnh lặp 10 lần
+c) Khối lệnh lặp vô hạn
+d) Lặp đến khi trả lời = số bí mật
+Hình 14.4. Cấu trúc lặp
+Cấu trúc điều khiển trong ngôn ngữ lập trình trực quan:
+[cite_start]• Cấu trúc tuần tự được thể hiện bằng cách lắp ghép các khối lệnh theo trình tự của các hoạt động, từ trên xuống dưới[cite: 2926].
+[cite_start]• Cấu trúc rẽ nhánh có hai dạng, dạng khuyết và dạng đầy đủ[cite: 2927].
+[cite_start]• Cấu trúc lặp có ba dạng: lặp với số lần định trước, lặp vô hạn và lặp có điều kiện kết thúc[cite: 2928, 2929].
+Cấu trúc lặp nào sau đây không được cho trước trong các nhóm lệnh của Scratch?
+A. Lặp một khối lệnh với số lần định trước.
+B. Lặp một khối lệnh vô hạn lần.
+C. Lặp với điều kiện được kiểm tra trước khi thực hiện khối lệnh.
+D. Lặp với điều kiện được kiểm tra sau khi thực hiện khối lệnh.
+82
+
+--- PAGE 84 ---
+2. THỰC HÀNH: XÂY DỰNG TRÒ CHƠI ĐOÁN SỐ
+Nhiệm vụ
+[cite_start]Lập chương trình trò chơi đoán số như đã được mô tả trong Hoạt động 1[cite: 2937].
+Hướng dẫn
+Bước 1. Tạo các biến
+Tạo biến `số bí mật`. [cite_start]Em có thể tạo biến mới hoặc đổi tên biến có sẵn "my variable" thành "số bí mật"[cite: 2940, 2941]. [cite_start]Biến `trả lời` đã có sẵn trong nhóm lệnh “Cảm biến"[cite: 2942].
+Bước 2. Tạo khung chương trình
+[cite_start]Tạo khung chương trình gồm 6 khối lệnh lắp ghép với nhau theo cấu trúc tuần tự, từ trên xuống dưới[cite: 2954]. [cite_start]Mỗi khối lệnh được kéo từ các nhóm tương ứng như được chỉ dẫn trong Hình 14.5, thả vào vùng kịch bản[cite: 2955].
+Khi bấm vào cờ xanh
+đặt [số bí mật] thành [0]
+hỏi [Hãy cho biết bạn đoán số nào?] và đợi
+lặp lại cho đến khi [...]
+  ...
+nói [HOAN HÔ!]
+dừng lại [tất cả]
+Hình 14.5. Khung chương trình
+Bước 3. Tạo các biểu thức
+[cite_start]Chọn phép toán và điền các giá trị tương ứng để có biểu thức "lấy ngẫu nhiên từ 1 đến 100"[cite: 2960]. [cite_start]Chọn phép so sánh "=" và lắp các biến vào chỗ trống để có biểu thức lôgic “trả lời = số bí mật"[cite: 2961]. [cite_start]Lắp ghép các biểu thức trên vào vị trí phù hợp trong khung chương trình (Hình 14.6a)[cite: 2962].
+a) Biểu thức trong khối lệnh
+b) Khối lệnh rẽ nhánh
+nếu <(trả lời) < (số bí mật)> thì
+  hỏi [Quá thấp] và đợi
+nếu không thì
+  hỏi [Quá cao] và đợi
+Hình 14.6. Tạo các biểu thức trong khối lệnh
+83
+
+--- PAGE 85 ---
+Bước 4. Tạo khối lệnh rẽ nhánh
+[cite_start]Tương tự như bước 2 và bước 3 để tạo khối lệnh rẽ nhánh với điều kiện “trả lời < số bí mật"[cite: 2986]. [cite_start]Chọn từ nhóm “Cảm biến" các khối lệnh “hỏi" và lắp vào vị trí phù hợp như Hình 14.6b[cite: 2987].
+Bước 5. Hoàn thành chương trình
+[cite_start]Lắp khối lệnh rẽ nhánh vào khung chương trình để được chương trình hoàn chỉnh[cite: 2989]. [cite_start]Đối sánh thuật toán được mô tả dưới dạng sơ đồ với chương trình hoàn chỉnh ở Hình 14.7[cite: 2990].
+Sơ đồ khối và chương trình hoàn chỉnh
+Hình 14.7. Chương trình hoàn chỉnh
+LUYỆN TẬP
+Em hãy ghép mỗi đoạn lệnh ở hàng trên với kết quả tương ứng mà đoạn lệnh đó vẽ ở hàng dưới trong Bảng 14.1.
+Bảng 14.1. Các đoạn lệnh và kết quả thực hiện
+Đoạn lệnh:
+1) đặt bút, lặp lại 5, di chuyển 100 bước, xoay 72 độ
+2) đặt bút, lặp lại 4, di chuyển 100 bước, xoay 90 độ
+3) đặt bút, lặp lại 6, di chuyển 100 bước, xoay 60 độ
+4) đặt bút, lặp lại 3, di chuyển 100 bước, xoay 120 độ
+Kết quả:
+a) Hình vuông
+b) Hình tam giác
+c) Hình lục giác
+d) Hình ngũ giác
+1) Hình ba cạnh 2) Hình bốn cạnh 3) Hình năm cạnh 4) Hình sáu cạnh
+84
+
+--- PAGE 86 ---
+VẬN DỤNG
+1. [cite_start]Em hãy ghép các khối lệnh a, b, c, d vào các vị trí tương ứng 1, 2, 3, 4 ở Hình 14.8 để được thuật toán giải phương trình ax + b = 0 trong ngôn ngữ lập trình Scratch với các giá trị a, b nhập từ bàn phím[cite: 3051].
+Hình 14.8. Các khối lệnh
+2. [cite_start]Ước chung lớn nhất của hai số không thay đổi nếu thay số lớn bằng phần dư trong phép chia của nó cho số bé[cite: 3083]. [cite_start]Dựa trên nhận xét đó, ước chung lớn nhất của hai số không âm có thể được tính theo thuật toán được biểu diễn bằng sơ đồ khối trong Hình 14.9[cite: 3084]. [cite_start]Em hãy ghép các khối lệnh Scratch trong Hình 14.10 thành chương trình tính ước chung lớn nhất của hai số nguyên không âm[cite: 3085].
+Hình 14.9. Sơ đồ khối
+Hình 14.10. Các khối lệnh
+85
+
+--- PAGE 87 ---
+BÀI 15 GỠ LỖI
+Sau bài học này em sẽ:
+[cite_start]• Chạy thử, tìm lỗi và sửa được lỗi cho chương trình[cite: 3119].
+[cite_start]An: Chúng ta đã tạo ra một chương trình máy tính trong Bài 14 và thế là tớ đã biết lập trình[cite: 3120].
+[cite_start]Khoa: Chưa xong đâu, chúng ta cần phải thực hiện một việc nữa, đó là gỡ lỗi[cite: 3121].
+An: Gỡ lỗi là làm những gì? [cite_start]Bạn hãy hướng dẫn cụ thể hơn cho tớ nhé[cite: 3122].
+1. KIỂM THỬ VÀ PHÂN LOẠI LỖI
+Hoạt động 1 Đếm số lần đoán
+[cite_start]Trong trò chơi Đoán số ở Bài 14, ai đoán đúng số bí mật với ít lần đoán hơn sẽ là người thắng cuộc[cite: 3133]. [cite_start]Ở chương trình trong Hình 15.1, biến `số lần đoán` được bổ sung để đếm số lần người chơi đoán và thông báo giá trị này khi người chơi đoán đúng số bí mật[cite: 3134].
+[cite_start]Trước khi chia sẻ trò chơi của mình, em quyết định kiểm tra xem trò chơi có hoạt động tốt không[cite: 3146]. [cite_start]Hãy cho biết kết quả của việc kiểm tra đó bằng cách mô tả tình huống chương trình chạy không đúng kịch bản (nếu có)[cite: 3147].
+a) Kiểm thử
+[cite_start]Theo kịch bản, trò chơi sẽ thông báo số lần đoán khi người chơi đoán đúng số bí mật[cite: 3149]. [cite_start]Tuy nhiên, khi chạy thử chương trình, em sẽ thấy số lần đoán mà máy tính hiển thị luôn kém số lần thực tế mà người chơi đã đoán một đơn vị[cite: 3150].
+Hình 15.1. Chương trình mới được tạo
+[cite_start]Việc chạy thử chương trình để kiểm tra (còn gọi là kiểm thử) nhằm phát hiện những tình huống bất thường (được gọi là lỗi) khi thực hiện chương trình[cite: 3157]. [cite_start]Các lỗi cần được loại bỏ trước khi chương trình được coi là sản phẩm hoàn chỉnh và có thể chia sẻ với người khác[cite: 3158].
+Hoạt động 2 Không làm việc hay làm việc sai?
+[cite_start]Em hãy cho biết, chương trình đã cho trong Hình 15.1 không hoạt động được hay nó có hoạt động nhưng đã thực hiện không đúng kịch bản? [cite: 3160]
+86
+
+--- PAGE 88 ---
+b) Phân loại lỗi
+[cite_start]Khi chạy thử, em nhận ra rằng chương trình vẫn hoạt động vì máy tính vẫn hỏi và trả lời theo sự điều khiển của các khối lệnh[cite: 3162]. [cite_start]Tuy nhiên nó thực hiện không đúng kịch bản vì số lần đoán được hiển thị không đúng với số lần thực tế mà người chơi đã đoán[cite: 3163].
+Có hai loại lỗi: 1) **Lỗi cú pháp** xảy ra khi lệnh viết sai so với quy tắc của ngôn ngữ lập trình, làm cho chương trình không hoạt động; [cite_start]2) **Lỗi lôgic** (hay lỗi ngữ nghĩa) xảy ra khi các câu lệnh trong chương trình tuy được viết đúng cú pháp nhưng thực hiện không đúng kịch bản như trong chương trình của trò chơi Đoán số[cite: 3164, 3165].
+[cite_start]• Cần phải chạy thử chương trình để phát hiện và loại bỏ lỗi[cite: 3166].
+[cite_start]• Có hai loại lỗi: lỗi cú pháp và lỗi lôgic[cite: 3167].
+[cite_start]• Lỗi cú pháp là lỗi viết câu lệnh sai quy tắc, làm cho chương trình không hoạt động[cite: 3168].
+[cite_start]• Lỗi lôgic là lỗi câu lệnh, tuy được viết đúng quy tắc nhưng thực hiện sai so với kịch bản[cite: 3169].
+Chọn phát biểu đúng nhất về hoạt động gỡ lỗi.
+A. Gỡ lỗi là phát hiện và loại bỏ lỗi. Trong lập trình, không nhất thiết phải gỡ lỗi.
+B. Gỡ lỗi là chạy thử chương trình để phát hiện lỗi. Trong lập trình, không nhất thiết phải gỡ lỗi.
+C. Gỡ lỗi là chạy thử chương trình để phát hiện lỗi. Gỡ lỗi là một phần quan trọng của lập trình.
+D. Gỡ lỗi là phát hiện và loại bỏ lỗi. Gỡ lỗi là một phần quan trọng của lập trình.
+2. PHÁT HIỆN LỖI VÀ SỬA LỖI LÔGIC
+Hoạt động 3. Gỡ lỗi
+Xét tình huống máy tính hiển thị số lần đoán không đúng với số lần đoán thực tế của người chơi. Em hãy trả lời các câu hỏi:
+1. Theo kịch bản, biến `số lần đoán` sẽ thay đổi trong tình huống nào?
+2. Những khối lệnh nào làm thay đổi biến `số lần đoán`?
+3. Có điều gì khác nhau giữa kịch bản và những khối lệnh tương ứng?
+[cite_start]Hầu hết các ngôn ngữ lập trình đều có chức năng chỉ rõ lỗi cú pháp[cite: 3185]. [cite_start]Ngôn ngữ lập trình trực quan, thậm chí còn hạn chế những tình huống xảy ra lỗi cú pháp[cite: 3186]. [cite_start]Vì vậy lỗi cú pháp dễ dàng được phát hiện và sửa chữa[cite: 3187]. [cite_start]Tuy nhiên, với lỗi lôgic, việc xác định lệnh nào gây ra lỗi và nó đã hoạt động thế nào để tạo ra lỗi ấy không phải lúc nào cũng đơn giản[cite: 3188].
+87
+
+--- PAGE 89 ---
+a) Phát hiện lỗi lôgic
+[cite_start]Có hai cách thường được sử dụng để phát hiện lỗi lôgic[cite: 3191].
+[cite_start]**Cách thứ nhất: Dựa vào phân tích lôgic để tìm lỗi**[cite: 3192]. [cite_start]Tập trung vào những khối lệnh liên quan đến lỗi và so sánh với kịch bản xem chúng có được thực hiện đúng yêu cầu hay không[cite: 3193]. [cite_start]Chẳng hạn, trong chương trình của trò chơi Đoán số, lỗi được thể hiện ở việc chương trình hiển thị sai giá trị của `số lần đoán`[cite: 3194]. [cite_start]Các khối lệnh liên quan đến biến này là khởi tạo giá trị (2), thay đổi giá trị (9) và hiển thị giá trị (11)[cite: 3195]. [cite_start]Theo kịch bản, `số lần đoán` cần phải tăng 1 đơn vị mỗi khi người chơi nhập một giá trị số (đoán)[cite: 3196]. [cite_start]Điều này xảy ra ở các câu lệnh (4), (7) và (8)[cite: 3197]. [cite_start]Tuy nhiên, có thể thấy rằng, mặc dù (9) tăng giá trị của `số lần đoán` sau khi (7) hoặc (8) được thực hiện, nhưng không có lệnh nào như thế sau khối lệnh (4) cả[cite: 3198]. [cite_start]Theo cách này, việc phát hiện vị trí xuất hiện lỗi trong chương trình được tìm kiếm bằng cách suy luận lôgic, bắt đầu từ những khối lệnh thực hiện không đúng kịch bản[cite: 3199]. [cite_start]Hạn chế việc tìm lỗi theo cách dò dòng lệnh[cite: 3200].
+[cite_start]**Cách thứ hai: Chạy thử với dữ liệu mẫu để dò lỗi**[cite: 3201]. [cite_start]Vì là người lập trình, em có thể cho hiện giá trị các biến `số bí mật` và `số lần đoán` bằng cách đánh dấu vào ô bên cạnh các biến đó trong nhóm “Các biến số" (Hình 15.2a)[cite: 3202, 3204, 3205]. [cite_start]Chạy chương trình với một số đầu vào dự kiến[cite: 3206]. [cite_start]Chẳng hạn, em có thể nhập số bí mật ngay trong lần đoán đầu tiên[cite: 3207]. [cite_start]Khi đó, lẽ ra `số lần đoán` cần nhận giá trị 1 thì nó vẫn chỉ mang giá trị 0[cite: 3208]. [cite_start]Từ đó, em nhận thấy rằng lỗi xảy ra do không tăng giá trị của `số lần đoán` sau lần nhập giá trị đầu tiên của người chơi ở lệnh (4)[cite: 3209].
+[cite_start]Lưu ý: Chương trình có thể chạy theo từng bước bằng cách chèn lệnh "đợi... giây" (Hình 15.2b) vào những vị trí cần quan sát dữ liệu[cite: 3210].
+[cite_start]Theo cách này, người lập trình có thể kết hợp chạy chương trình từng bước với việc theo dõi giá trị của các biến, so sánh chúng với các giá trị tương ứng được tính theo cách thủ công để phát hiện câu lệnh nào gây ra lỗi và cách nó hoạt động để gây ra lỗi đó[cite: 3216].
+a) Hiện giá trị của biến
+b) Lệnh dừng tạm thời để theo dõi
+Hình 15.2. Công cụ phát hiện lỗi lôgic
+b) Sửa lỗi
+[cite_start]Khi đã biết vị trí câu lệnh xảy ra lỗi trong chương trình và cách thức câu lệnh đó tạo ra lỗi, em có thể đưa ra những cách sửa lỗi phù hợp với yêu cầu[cite: 3217]. [cite_start]Chẳng hạn, tăng giá trị `số lần đoán` lên 1 đơn vị sau lần đoán đầu tiên bằng cách bổ sung lệnh (4a) “thay đổi số lần đoán một lượng 1" giống như lệnh (9) vào sau lệnh (4)[cite: 3218].
+Hai phương pháp phổ biến để phát hiện lỗi lôgic trong chương trình:
+[cite_start]• Tập trung vào những khối lệnh trực tiếp gây ra lỗi và những khối lệnh liên quan lôgic đến nó theo các cấu trúc điều khiển[cite: 3220].
+[cite_start]• Chạy chương trình từng bước, kết hợp theo dõi sự thay đổi của các biến, các giá trị đầu ra và so sánh với các giá trị tính được theo cách thủ công[cite: 3221].
+88
+
+--- PAGE 90 ---
+Em hãy gỡ lỗi đoạn chương trình xác định một số n được nhập từ bàn phím là số chẵn hay số lẻ được cho trong Hình 15.3.
+Hình 15.3. Chương trình xác định một số là chẵn hay lẻ
+3. THỰC HÀNH: GỠ LỖI
+Nhiệm vụ
+[cite_start]Giả sử trong trò chơi Đoán số, không ai được đoán quá 7 lần[cite: 3232]. [cite_start]Em hãy gỡ lỗi chương trình trò chơi Đoán số trong Hình 15.4 (đã được bổ sung chức năng thông báo người chơi thua cuộc nếu vẫn đoán sai ở lần thứ 7)[cite: 3233].
+Hướng dẫn
+a) Kiểm thử và phát hiện lỗi
+Bước 1. Chạy thử chương trình
+[cite_start]Với tình huống đoán đúng số bí mật sau không quá 7 lần đoán, thông báo hiển thị số lần đoán không xuất hiện cụm từ "Số lần đoán:" như trong chương trình[cite: 3262].
+[cite_start]Với tình huống đoán sai, chương trình không kết thúc và báo thua ngay sau khi đoán sai lần thứ 7 mà vẫn cho đoán thêm một lần nữa[cite: 3263, 3276].
+Hình 15.4. Chương trình cần được gỡ lỗi
+89
+
+--- PAGE 91 ---
+Bước 2. Phát hiện lỗi
+Gợi ý:
+[cite_start]Trong tình huống thứ nhất, lỗi xảy ra ở câu lệnh hiển thị[cite: 3284]. [cite_start]Phép toán ghép nối các chữ là “kết hợp..." chứ không phải dấu "+"[cite: 3285].
+[cite_start]Trong tình huống thứ hai, lỗi xảy ra ở biểu thức điều kiện[cite: 3286]. [cite_start]Vì mỗi người không đoán quá 7 lần, nên vòng lặp (6) – (10) sẽ kết thúc khi số lần đoán bằng 7[cite: 3287]. [cite_start]Ngoài ra, sau 7 lần đoán, vẫn có thể xảy ra cả hai khả năng đoán đúng hoặc đoán sai[cite: 3288]. [cite_start]Vì vậy, số lần đoán không cho biết kết quả đoán đúng hay sai[cite: 3289].
+b) Sửa các lỗi phát hiện được
+[cite_start]Điều kiện trong câu lệnh (6) cần đổi thành: `(trả lời) = (số bí mật) hoặc (số lần đoán) > 6`[cite: 3291, 3292, 3293, 3294, 3295].
+[cite_start]Điều kiện rẽ nhánh ở lệnh (11) cần được chỉnh sửa thành `(trả lời) = (số bí mật)`[cite: 3296, 3297].
+Sửa biểu thức trong lệnh hiển thị (14). [cite_start]Khi đó, các lệnh (11) đến (14) như Hình 15.5[cite: 3300].
+nếu <(trả lời) = (số bí mật)> thì
+  nói [HOAN HÔ!] trong 2 giây
+  nói (kết hợp [Số lần đoán: ] (số lần đoán)) trong 5 giây
+nếu không thì
+  nói [Bạn đã thua!] trong 5 giây
+Hình 15.5. Các lệnh (11) đến (14) sau khi sửa
+LUYỆN TẬP
+Em hãy chọn một cách khác với cách đã nêu trong phần b) Sửa lỗi của mục 2 để sửa lỗi của chương trình được cho trong Hình 15.1.
+VẬN DỤNG
+Đổi vai trò máy tính và người chơi trong trò chơi Đoán số. [cite_start]Em chọn một số nguyên trong khoảng từ 1 đến 120 và viết số đó ra giấy[cite: 3316]. [cite_start]Máy tính sẽ hiển thị một số mà em phải trả lời bằng các phím "d", "c" hoặc "t" tương ứng với tình huống số máy tính hiển thị đúng, cao hơn hay thấp hơn số em đã chọn[cite: 3317]. [cite_start]Hãy viết chương trình để sau một số bước, càng ít càng tốt, máy tính tìm ra số em đã chọn[cite: 3318]. [cite_start]Chạy thử, phát hiện và sửa các lỗi của chương trình đó[cite: 3319].
+90
+
+--- PAGE 92 ---
+CHỦ ĐỀ 6. HƯỚNG NGHIỆP VỚI TIN HỌC
+BÀI 16 TIN HỌC VỚI NGHỀ NGHIỆP
+Sau bài học này em sẽ:
+[cite_start]• Nêu được một số nghề nghiệp mà ứng dụng tin học sẽ làm tăng hiệu quả công việc[cite: 3325].
+[cite_start]• Nêu được tên một số nghề thuộc lĩnh vực tin học và một số nghề liên quan đến ứng dụng tin học[cite: 3326].
+[cite_start]• Nhận thức và trình bày được vấn đề bình đẳng giới trong việc sử dụng máy tính và trong ứng dụng tin học, nêu được ví dụ minh hoạ[cite: 3327].
+[cite_start]An, Minh, Khoa sôi nổi trò chuyện về chủ đề mà ba bạn đang tìm hiểu: Những nghề nghiệp mà ứng dụng tin học giúp tăng hiệu quả công việc rõ ràng nhất[cite: 3328].
+An: Tớ được nghe mẹ kể nhiều về nghề kế toán của mẹ. [cite_start]Ứng dụng tin học giúp mẹ làm việc hiệu quả hơn nhiều, như việc theo dõi các giao dịch tài chính, tạo ra các báo cáo tổng hợp phức tạp[cite: 3329, 3330].
+Khoa: Tớ nghĩ chắc chắn ứng dụng tin học giúp tăng hiệu quả công việc cho nghề giáo viên. [cite_start]Thầy cô có thể dạy học trực tuyến và nhất là tớ thấy những tiết học trên lớp có ứng dụng tin học thì lôi cuốn và dễ hiểu hơn nhiều[cite: 3331, 3332].
+Minh: Tớ thì tìm hiểu về nghề hoạ sĩ. Bây giờ các bức tranh không chỉ được tạo ra bằng bút lông và màu nước nữa mà còn được tạo ra trên máy tính. [cite_start]Sau này tớ muốn trở thành nhà thiết kế đồ hoạ máy tính[cite: 3333, 3334].
+Còn ý kiến của em thì sao?
+1. TIN HỌC GIÚP NÂNG CAO HIỆU QUẢ CÔNG VIỆC
+Hoạt động 1 Ứng dụng tin học trong nghề nghiệp
+[cite_start]Em hãy cùng các bạn lựa chọn một vài nghề nghiệp mà các em biết để thảo luận và chỉ ra những ví dụ mà tin học được ứng dụng trong các nghề nghiệp đó[cite: 3338].
+[cite_start]Trong suốt chiều dài lịch sử, công nghệ đã liên tục thay đổi cách người lao động trong mọi ngành nghề thực hiện công việc của họ để tăng năng suất[cite: 3339]. [cite_start]Cùng với sự phát triển của công nghệ thông tin, tin học ngày càng được ứng dụng rộng rãi trong mọi ngành nghề khác nhau[cite: 3340]. [cite_start]Theo các chuyên gia, việc ứng dụng tin học sẽ mang lại lợi ích cho hầu hết ngành nghề nhờ tăng hiệu quả công việc[cite: 3341]. [cite_start]Có được kết quả đó là nhờ vào một số điểm sau[cite: 3342]:
+91
+
+--- PAGE 93 ---
+[cite_start]• Ứng dụng tin học giúp tăng tốc độ xử lí, tiết kiệm thời gian của người lao động[cite: 3344]. [cite_start]Ví dụ với nghề kế toán, những yêu cầu mất hàng giờ tính toán thủ công có thể thực hiện trong vài phút nhờ các phần mềm ứng dụng[cite: 3345]. [cite_start]Các khoản thanh toán, giao dịch, chuyển tiền được thực hiện gần như ngay lập tức qua mạng[cite: 3346].
+[cite_start]• Ứng dụng tin học giúp liên lạc và trao đổi thông tin dễ dàng[cite: 3347]. [cite_start]Các tài liệu cần trao đổi, tin nhắn công việc được gửi ngay lập tức đến đồng nghiệp hoặc khách hàng trên toàn thế giới[cite: 3348].
+[cite_start]• Ứng dụng tin học hỗ trợ làm việc nhóm và mở rộng phạm vi làm việc[cite: 3349]. [cite_start]Ví dụ với nghề phát triển phần mềm, nhờ các công cụ giao tiếp trực tuyến, các lập trình viên có thể làm việc xuyên biên giới, trao đổi với đồng nghiệp ở các nước khác nhau[cite: 3350]. [cite_start]Các nhóm có thể tổ chức họp từ xa và làm việc trên cùng một tài liệu được chia sẻ dựa trên công nghệ đám mây[cite: 3351].
+[cite_start]• Ứng dụng tin học giúp nâng cao tay nghề, bổ sung kiến thức, hỗ trợ thông tin cho người lao động[cite: 3352, 3361]. [cite_start]Ví dụ nghề lái xe taxi, các ứng dụng đặt xe, bản đồ, thông báo tình trạng giao thông giúp lái xe dễ dàng nhận khách, tìm đường, tránh các cung đường bị tắc để tiết kiệm thời gian, nhiên liệu[cite: 3361].
+[cite_start]Thông qua sự phát triển của tin học, hàng loạt các lĩnh vực nghề nghiệp được hỗ trợ hiệu quả, nâng cao chất lượng công việc[cite: 3362]. [cite_start]Sự phát triển của tin học cũng đã tạo ra những nghề nghiệp đa dạng của lĩnh vực này như: phát triển phần mềm, lập trình ứng dụng điện thoại, quản trị mạng, phát triển và thiết kế website....[cite: 3363]. [cite_start]Bên cạnh đó, một số nghề liên quan đến ứng dụng tin học cũng rất phát triển như: bán hàng online, streamer (phát sóng trực tiếp cho người xem thông qua một nền tảng online), vlogger (tạo dựng nội dung trên nền tảng video và đăng trên các mạng xã hội)[cite: 3363].
+[cite_start]Hình 16.1 cho em thấy những ví dụ cụ thể về việc ứng dụng tin học trong một số nghề nghiệp đã giúp tăng chất lượng, hiệu quả công việc[cite: 3364].
+[cite_start]BÁC SĨ: Hồ sơ sức khoẻ điện tử, Khám bệnh từ xa[cite: 3353, 3354, 3360].
+[cite_start]NHÀ BÁO: Đăng bài nhanh chóng trên báo điện tử, Chỉnh sửa ảnh, video dễ dàng[cite: 3365, 3372, 3373].
+[cite_start]QUẢN LÍ DU LỊCH: Quảng cáo sản phẩm du lịch, Đặt chỗ khách sạn trên website[cite: 3355, 3356, 3357, 3366].
+[cite_start]NHÂN VIÊN VĂN PHÒNG: Phần mềm soạn thảo văn bản, Phần mềm lưu trữ hồ sơ[cite: 3368, 3374, 3375, 3376].
+[cite_start]KIẾN TRÚC SƯ: Phần mềm thiết kế bản vẽ, In 3D tạo mẫu[cite: 3358, 3359, 3369].
+[cite_start]KĨ SƯ NÔNG NGHIỆP: Tự động điều tiết nước tưới, Nghiên cứu tiến bộ nông nghiệp: Ví dụ Internet vạn vật (IoT)[cite: 3370, 3377, 3378, 3379].
+Hình 16.1. Ví dụ về ứng dụng tin học trong một số nghề nghiệp
+[cite_start]• Ứng dụng tin học phù hợp trong các ngành nghề sẽ giúp tăng hiệu quả công việc[cite: 3380].
+[cite_start]• Một số nghề thuộc lĩnh vực tin học và liên quan đến ứng dụng tin học ra đời và phát triển để đáp ứng yêu cầu cuộc sống và công việc[cite: 3381].
+92
+
+--- PAGE 94 ---
+1. Hãy ghép mỗi ứng dụng ở cột B với một nghề phù hợp nhất ở cột A để chứng minh cho việc ứng dụng của tin học có thể tăng hiệu quả công việc.
+A, B
+1) Bác sĩ, a) Tạo bản vẽ 3D để khách hàng có thể hình dung rõ về căn nhà định xây dựng.
+2) Giáo viên, b) Nhận hình ảnh tức thì từ sân vận động được chụp bởi một đồng nghiệp khác để biên tập thành một bài báo.
+3) Kiến trúc sư, c) Tạo một báo cáo tài chính bằng phần mềm bảng tính.
+4) Kế toán, d) Theo dõi sức khoẻ, quá trình điều trị của bệnh nhân qua hồ sơ sức khoẻ điện tử.
+5) Nhà báo, e) Tạo khoá học trực tuyến để học sinh có thể học bất cứ lúc nào, ở bất cứ đâu.
+2. [cite_start]Em hãy kể ra những ứng dụng tin học mà các thầy cô giáo đã sử dụng để giúp các em nâng cao hiệu quả của việc học tập[cite: 3385].
+2. BÌNH ĐẲNG GIỚI TRONG SỬ DỤNG MÁY TÍNH VÀ ỨNG DỤNG TIN HỌC
+Hoạt động 2 Bình đẳng giới trong lĩnh vực tin học
+1. Nếu có bạn nào đó nói với em “Nghề nghiệp trong lĩnh vực tin học chỉ nên dành cho nam giới", em sẽ trả lời bạn như thế nào? [cite_start]Tại sao? [cite: 3388, 3389]
+2. [cite_start]Em biết những ngành nghề nào thuộc lĩnh vực tin học đang có nhiều phụ nữ làm việc? [cite: 3390]
+[cite_start]Tin học đang thúc đẩy sự phát triển của mọi ngành nghề, thu hút một số lượng lớn lao động của xã hội tham gia[cite: 3391]. [cite_start]Trong thực tế, nhiều số liệu nghiên cứu cho thấy tỉ lệ nữ giới làm việc trong các ngành nghề tin học so với nam giới còn khá thấp, mặc dù môi trường, điều kiện công việc vẫn phù hợp cho phụ nữ phát huy khả năng về sức khoẻ, trí tuệ, phẩm chất của mình trong lĩnh vực này[cite: 3392]. [cite_start]Chính vì vậy, nhiều tổ chức trên thế giới cũng đang tích cực tổ chức nhiều hoạt động thúc đẩy phụ nữ và trẻ em gái tham gia nhiều hơn vào lĩnh vực tin học[cite: 3393].
+[cite_start]• **Ngày Quốc tế trẻ em gái với công nghệ thông tin** (International Girls in ICT Day) được tổ chức hàng năm bởi Liên minh Viễn thông Quốc tế của Liên Hợp Quốc (viết tắt là ITU) (Hình 16.2)[cite: 3394, 3395]. [cite_start]Các hoạt động trong ngày này nhằm tuyên truyền và nhấn mạnh sự cần thiết phải thúc đẩy các cơ hội nghề nghiệp công nghệ cho phụ nữ và trẻ em gái trong lĩnh vực được xem là phát triển nhanh nhất thế giới này[cite: 3395].
+Happy International Girls in ICT Day! 22 April 2021 - 10th Anniversary #GirlsInICT
+Hình 16.2. Chủ đề Ngày Quốc tế trẻ em gái với công nghệ thông tin năm 2021 là "Internet tốt hơn cho trẻ em"
+93
+
+--- PAGE 95 ---
+[cite_start]• **DigiGirlZ** là chiến dịch toàn cầu do tập đoàn Microsoft khởi xướng nhằm truyền cảm hứng cho các học sinh nữ Trung học cơ sở và Trung học phổ thông theo đuổi các ngành nghề khoa học – công nghệ, trong đó có lĩnh vực tin học[cite: 3402].
+[cite_start]Khi chưa tìm hiểu thì nhiều người có thể nghĩ lập trình viên đầu tiên trên thế giới là nam giới, nhưng không, người được coi là lập trình viên đầu tiên trên thế giới lại là một phụ nữ - Bà **Ada Lovelace** (người Anh, sinh năm 1815)[cite: 3403]. [cite_start]Em có thể tìm hiểu câu chuyện cuộc đời của bà bằng cách tìm kiếm thông tin trên Internet[cite: 3404].
+[cite_start]Nghề nghiệp trong lĩnh vực tin học, cũng như cơ hội ứng dụng tin học để nâng cao hiệu quả công việc của các nghề nghiệp khác, là bình đẳng cho tất cả mọi người[cite: 3405].
+Phương án nào dưới đây không đúng khi nói về việc sử dụng máy tính và ứng dụng tin học?
+A. Giúp việc thông tin liên lạc giữa mọi người hiệu quả hơn.
+B. Mọi người được tham gia vào môi trường học tập tốt hơn.
+C. Phụ nữ và trẻ em gái không cần đến máy tính vì không giúp ích nhiều cho họ.
+D. Mọi người đều có cơ hội học hỏi kiến thức để giúp nâng cao chất lượng cuộc sống và chăm sóc sức khoẻ tốt hơn.
+LUYỆN TẬP
+1. [cite_start]Em hãy phỏng vấn một vài người (có thể là bố mẹ, người quen của bố mẹ, thầy cô,...) để tìm hiểu về những ứng dụng tin học giúp họ nâng cao hiệu quả công việc[cite: 3412].
+2. Em hãy chọn phương án trả lời đúng nhất.
+Bất bình đẳng giới trong sử dụng máy tính và ứng dụng tin học có thể dẫn tới hậu quả gì?
+A. Phụ nữ và trẻ em gái không có cơ hội phát triển nghề nghiệp trong lĩnh vực công nghệ.
+B. Phụ nữ và trẻ em gái không có cơ hội sử dụng công nghệ để nâng cao hiệu quả công việc và chất lượng cuộc sống.
+C. Phụ nữ và trẻ em gái không theo kịp sự phát triển của xã hội.
+D. Cả ba hậu quả trên.
+VẬN DỤNG
+1. [cite_start]Em hãy đề xuất với thầy cô giáo và các bạn tổ chức một cuộc thi thuyết trình về ứng dụng tin học trong các nghề nghiệp tại Việt Nam[cite: 3421]. [cite_start]Em hãy tìm hiểu và tạo ra bài thuyết trình của mình nhé[cite: 3422]. [cite_start]Hãy chia sẻ với bạn bè về bài thuyết trình của em[cite: 3423].
+2. [cite_start]Trong vai trò một học sinh lớp 8, em có thể làm gì để thúc đẩy bình đẳng giới ở lứa tuổi của em, ở khía cạnh sử dụng máy tính và ứng dụng tin học trong học tập? [cite: 3424]
+94
+
+--- PAGE 96 ---
+BẢNG GIẢI THÍCH THUẬT NGỮ
+Thuật ngữ, Giải thích, Trang
+Bình đẳng giới, Nam, nữ có vị trí, vai trò ngang nhau, được tạo điều kiện và cơ hội phát huy năng lực của mình cho sự phát triển của cộng đồng, của gia đình và thụ hưởng như nhau về thành quả của sự phát triển đó., 91
+Bóng bán dẫn, Linh kiện được làm từ vật liệu bán dẫn (có thể vừa dẫn điện vừa cách điện như germani và silicon) được dùng để chuyển đổi và điều chế dòng điện., 7
+Đèn điện tử chân không, Linh kiện được sử dụng để tạo ra, khuếch đại và biến đổi tín hiệu điện bằng cách điều khiển chuyển động của các điện tử trong một khoảng không áp suất thấp., 7
+Livestream, Truyền trực tuyến (hay phát sóng trực tiếp) qua Internet những gì đang xảy ra. Nghĩa là, thông tin số được ghi lại và phát đồng thời trong thời gian thực qua Internet cho người xem ở khắp mọi nơi trên thế giới., 18
+Mạch tích hợp cỡ rất lớn (VLSI - Very Large Scale Integrated), Vi mạch với mật độ tích hợp rất cao, từ vài chục nghìn đến vài trăm nghìn linh kiện bán dẫn trên một chip., 8
+Mạch tích hợp cỡ siêu lớn hay quy mô cực lớn (ULSI - Ultra Large Scale Integration), Vi mạch với mật độ tích hợp cao hơn VLSI, có thể tới hàng chục triệu linh kiện bán dẫn trên một chip., 8
+Sản phẩm số, Sản phẩm hay dịch vụ tồn tại dưới dạng kĩ thuật số như một trang web, một cuốn sách điện tử, một chương trình máy tính,..., 18
+Thông tin đáng tin cậy, Thông tin dựa trên chứng cứ khách quan, không bị tác động bởi ý kiến cá nhân hay thành kiến., 10
+Thông tin số, Thông tin được mã hoá thành dãy bit, được chuyển vào máy tính, điện thoại thông minh, máy tính bảng,... để có thể lan truyền, trao đổi trong môi trường kĩ thuật số, 10
+Tờ rơi, Tờ giấy rời để giới thiệu, quảng cáo, tuyên truyền về một sự kiện, dịch vụ, sản phẩm,... nào đó., 38
+Trống từ, Thiết bị kim loại hình trụ, có nhiều rãnh, được phủ lớp vật liệu từ tính ở mặt ngoài, được đọc, ghi bằng những đầu chạy dọc theo chiều dài của trống, mỗi đầu một rãnh., 7
+95
+
+--- PAGE 97 ---
+[cite_start]Nhà xuất bản Giáo dục Việt Nam xin trân trọng cảm ơn các tác giả có tác phẩm, tư liệu được sử dụng, trích dẫn trong cuốn sách này[cite: 3429].
+Chịu trách nhiệm xuất bản:
+Chủ tịch Hội đồng Thành viên NGUYỄN ĐỨC THÁI
+Tổng Giám đốc HOÀNG LÊ BÁCH
+Chịu trách nhiệm nội dung:
+Tổng biên tập PHẠM VĨNH THÁI
+Biên tập nội dung: PHẠM THỊ THANH NAM – NGUYỄN THỊ NGUYÊN THỦY
+Biên tập mĩ thuật: NGUYỄN BÍCH LA
+Thiết kế sách: THÁI THANH VÂN
+Trình bày bìa: NGUYỄN BÍCH LA
+Minh hoạ: NGUYỄN HỒNG QUÂN
+Sửa bản in: PHẠM THỊ TÌNH
+Chế bản: CÔNG TY CỔ PHẦN MĨ THUẬT VÀ TRUYỀN THÔNG
+Bản quyền © (2022) thuộc Nhà xuất bản Giáo dục Việt Nam.
+Xuất bản phẩm đã đăng kí quyền tác giả. Tất cả các phần của nội dung cuốn sách này đều không được sao chép, lưu trữ, chuyển thể dưới bất kì hình thức nào khi chưa có sự cho phép bằng văn bản của Nhà xuất bản Giáo dục Việt Nam.
+TIN HỌC 8
+Mã số:
+In ... bản, (QĐ ...) khổ 19 x 26,5 cm.
+Đơn vị in:
+Địa chỉ: ...
+SỐ ĐKXB: /CXBIPH//GD
+SỐ QĐXB:.../QĐ-GD-HN ngày ... tháng ... năm
+In xong và nộp lưu chiểu tháng ... năm 20...
+Mã số ISBN:
+
+--- PAGE 98 ---
+BỘ SÁCH GIÁO KHOA LỚP 8 - KẾT NỐI TRI THỨC VỚI CUỘC SỐNG
+1. Ngữ văn 8, tập một
+2. Ngữ văn 8, tập hai
+3. Toán 8, tập một
+4. Toán 8, tập hai
+5. Khoa học tự nhiên 8
+6. Công nghệ 8
+7. Lịch sử và Địa lí 8
+8. Mĩ thuật 8
+9. Âm nhạc 8
+10. Giáo dục công dân 8
+11. Tin học 8
+12. Hoạt động trải nghiệm, hướng nghiệp 8
+13. Giáo dục thể chất 8
+14. Tiếng Anh 8 - Global Success - SHS
+Các đơn vị đầu mối phát hành
+• Miền Bắc:
+CTCP Đầu tư và Phát triển Giáo dục Hà Nội
+CTCP Sách và Thiết bị Giáo dục miền Bắc
+• Miền Trung:
+CTCP Đầu tư và Phát triển Giáo dục Đà Nẵng
+CTCP Sách và Thiết bị Giáo dục miền Trung
+• Miền Nam:
+CTCP Đầu tư và Phát triển Giáo dục Phương Nam
+CTCP Sách và Thiết bị Giáo dục miền Nam
+CTCP Sách và Thiết bị Giáo dục Cửu Long
+Sách điện tử: http://hanhtrangso.nxbgd.vn
+Kích hoạt để mở học liệu điện tử: Cào lớp nhũ trên tem để nhận mã số.
+Truy cập http://hanhtrangso.nxbgd.vn và nhập mã số tại biểu tượng chìa khoá.
+Giá: ...đ
+
+--- PAGE 99 ---
