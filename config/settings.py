@@ -138,11 +138,11 @@ class Settings(BaseSettings):
     # Embedding Settings
     EMBEDDING_MODEL: Literal["openai", "multilingual", "vietnamese"] = "multilingual"
     EMBEDDING_BATCH_SIZE: int = 50
-    EMBEDDING_DEVICE: str = "cpu"
+    EMBEDDING_DEVICE: str = "cuda"  # "cpu" or "cuda" - Dùng GPU để tăng tốc
 
     # Vector Store
     VECTOR_STORE_TYPE: Literal["chroma", "faiss"] = "chroma"
-    COLLECTION_NAME_PREFIX: str = "sgk"  # Will be sgk_tin_hoc_lop_10
+    COLLECTION_NAME_PREFIX: str = "sgk_tin"  # Collection tất cả lớp 3-12
 
     # API Keys
     OPENAI_API_KEY: Optional[str] = None

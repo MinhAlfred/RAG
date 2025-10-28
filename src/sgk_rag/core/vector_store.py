@@ -162,6 +162,7 @@ class VectorStoreManager:
                 vectorstore.add_documents(batch)
 
             # Persist after each batch
+            # lưu data xuống disk sau mỗi batch để tránh mất mát dữ liệu
             if hasattr(vectorstore, 'persist'):
                 vectorstore.persist()
 

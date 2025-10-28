@@ -1,0 +1,12 @@
+{
+  "model_name": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+  "embedding_dim": 384,
+  "total_chunks": 986,
+  "index_type": "IndexFlatIP",
+  "created_at": "F:\\Ky 8\\Capstone\\RAG",
+  "files": {
+    "index": "data\\vector_store\\faiss_index.bin",
+    "metadata": "data\\vector_store\\chunks_metadata.json",
+    "embeddings": "data\\vector_store\\embeddings.npy"
+  }
+}

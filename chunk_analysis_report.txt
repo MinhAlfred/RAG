@@ -1,0 +1,91 @@
+================================================================================
+📊 CHUNK ANALYSIS REPORT
+================================================================================
+
+🎯 Overall Statistics:
+   Total chunks: 986
+   Total tokens: 942,597
+   Average tokens per chunk: 955.98
+
+📚 Analysis by Grade:
+Grade  Chunks   Avg      Med      Std      Min    Max    Eff   
+------------------------------------------------------------
+3      36       970.44   975.0    24.11    895    1000   0.97  
+4      50       956.26   971.5    43.17    748    999    0.956 
+5      57       951.47   971      80.3     387    998    0.951 
+6      54       954.93   976.5    77.98    474    999    0.955 
+7      83       962.69   971      34.58    815    1000   0.963 
+8      105      956.69   973      45.84    703    998    0.957 
+9      86       953.95   968.0    40.83    804    998    0.954 
+10     167      953.75   970      60.79    457    999    0.954 
+11     152      946.72   968.0    68.71    541    1000   0.947 
+12     196      961.61   968.5    38.29    625    1000   0.962 
+
+🎯 Optimization Suggestions:
+
+   Grade 3 (Tiểu học):
+      Current avg: 970.44 tokens
+      Suggested chunk_size: 800
+      Suggested overlap: 150
+      Reason: Tiểu học: Nội dung đơn giản hơn, chunk nhỏ hơn (800 tokens) để tăng độ chính xác retrieval
+
+   Grade 4 (Tiểu học):
+      Current avg: 956.26 tokens
+      Suggested chunk_size: 800
+      Suggested overlap: 150
+      Reason: Tiểu học: Nội dung đơn giản hơn, chunk nhỏ hơn (800 tokens) để tăng độ chính xác retrieval
+
+   Grade 5 (Tiểu học):
+      Current avg: 951.47 tokens
+      Suggested chunk_size: 800
+      Suggested overlap: 150
+      Reason: Tiểu học: Nội dung đơn giản hơn, chunk nhỏ hơn (800 tokens) để tăng độ chính xác retrieval
+
+   Grade 6 (THCS):
+      Current avg: 954.93 tokens
+      Suggested chunk_size: 1000
+      Suggested overlap: 200
+      Reason: THCS: Nội dung cân bằng, chunk size tiêu chuẩn (1000 tokens)
+
+   Grade 7 (THCS):
+      Current avg: 962.69 tokens
+      Suggested chunk_size: 1000
+      Suggested overlap: 200
+      Reason: THCS: Nội dung cân bằng, chunk size tiêu chuẩn (1000 tokens)
+
+   Grade 8 (THCS):
+      Current avg: 956.69 tokens
+      Suggested chunk_size: 1000
+      Suggested overlap: 200
+      Reason: THCS: Nội dung cân bằng, chunk size tiêu chuẩn (1000 tokens)
+
+   Grade 9 (THCS):
+      Current avg: 953.95 tokens
+      Suggested chunk_size: 1000
+      Suggested overlap: 200
+      Reason: THCS: Nội dung cân bằng, chunk size tiêu chuẩn (1000 tokens)
+
+   Grade 10 (THPT):
+      Current avg: 953.75 tokens
+      Suggested chunk_size: 1200
+      Suggested overlap: 250
+      Reason: THPT: Nội dung phức tạp hơn, chunk lớn hơn (1200 tokens) để giữ ngữ cảnh
+
+   Grade 11 (THPT):
+      Current avg: 946.72 tokens
+      Suggested chunk_size: 1200
+      Suggested overlap: 250
+      Reason: THPT: Nội dung phức tạp hơn, chunk lớn hơn (1200 tokens) để giữ ngữ cảnh
+
+   Grade 12 (THPT):
+      Current avg: 961.61 tokens
+      Suggested chunk_size: 1200
+      Suggested overlap: 250
+      Reason: THPT: Nội dung phức tạp hơn, chunk lớn hơn (1200 tokens) để giữ ngữ cảnh
+
+💡 Recommendations:
+   1. Sử dụng chunk size khác nhau cho từng cấp học
+   2. Tiểu học (3-5): 800 tokens, overlap 150
+   3. THCS (6-9): 1000 tokens, overlap 200
+   4. THPT (10-12): 1200 tokens, overlap 250
+   5. Điều chỉnh dựa trên độ phức tạp nội dung
