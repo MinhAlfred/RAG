@@ -15,7 +15,8 @@ from ..core.rag_pipeline import RAGPipeline
 from ..models.dto import (
     QuestionRequest, QuestionResponse, SlideRequest, SlideResponse,
     HealthResponse, ErrorResponse, BatchQuestionRequest, BatchQuestionResponse,
-    SourceInfo, SlideContent, QuestionType, SlideFormat
+    SourceInfo, SlideContent, QuestionType, SlideFormat,
+    JsonSlideResponse  # Import JSON response model
 )
 from .slide_generator import SlideGenerator
 
@@ -269,12 +270,22 @@ async def ask_batch_questions(request: BatchQuestionRequest):
 
 @app.post("/slides/generate", response_model=SlideResponse)
 async def generate_slides(request: SlideRequest):
-    """Endpoint để tạo slides"""
+    """Endpoint để tạo slides (legacy - trả về SlideResponse)"""
     start_time = time.time()
     
     try:
         if slide_generator is None:
             raise HTTPException(status_code=503, detail="Slide Generator chưa sẵn sàng")
+        
+        # Nếu format là JSON, redirect tới JSON endpoint
+        if request.format == SlideFormat.JSON:
+            return JSONResponse(
+                content={
+                    "error": "Use /slides/generate/json endpoint for JSON format",
+                    "redirect": "/slides/generate/json"
+                },
+                status_code=400
+            )
         
         # Tạo slides
         slides = slide_generator.generate_slides(request)
@@ -323,6 +334,36 @@ async def generate_slides(request: SlideRequest):
         )
 
 
+@app.post("/slides/generate/json", response_model=JsonSlideResponse)
+async def generate_slides_json(request: SlideRequest):
+    """
+    Endpoint để tạo slides với JSON structure - dành cho Spring Boot integration
+    
+    Trả về structured JSON với:
+    - Typed slides (title, content, code, image, exercise)
+    - Flexible content (string, list, dict)
+    - Metadata (duration, sources, timestamp)
+    - Type-safe với Pydantic models
+    """
+    try:
+        if slide_generator is None:
+            raise HTTPException(status_code=503, detail="Slide Generator chưa sẵn sàng")
+        
+        # Tạo slides với JSON structure
+        json_response = slide_generator.generate_slides_json(request)
+        
+        return json_response
+        
+    except Exception as e:
+        print(f"Lỗi khi tạo JSON slides: {e}")
+        print(traceback.format_exc())
+        
+        raise HTTPException(
+            status_code=500,
+            detail=f"Failed to generate JSON slides: {str(e)}"
+        )
+
+
 @app.get("/slides/formats")
 async def get_slide_formats():
     """Lấy danh sách các format slide hỗ trợ"""
@@ -331,7 +372,12 @@ async def get_slide_formats():
             {"value": "markdown", "label": "Markdown", "description": "Format Markdown chuẩn"},
             {"value": "html", "label": "HTML", "description": "HTML với CSS styling"},
             {"value": "powerpoint", "label": "PowerPoint Guide", "description": "Hướng dẫn tạo PowerPoint"},
-            {"value": "text", "label": "Plain Text", "description": "Text thuần không format"}
+            {"value": "text", "label": "Plain Text", "description": "Text thuần không format"},
+            {
+                "value": "json",
+                "label": "JSON Structure",
+                "description": "Structured JSON cho Spring Boot integration (use /slides/generate/json endpoint)"
+            }
         ]
     }
 

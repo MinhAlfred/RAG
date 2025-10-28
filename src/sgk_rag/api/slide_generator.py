@@ -2,11 +2,15 @@
 
 import json
 import time
-from typing import List, Dict, Optional, Any
+from typing import List, Dict, Optional, Any, Union
 from pathlib import Path
+from datetime import datetime
 
 from ..core.rag_pipeline import RAGPipeline
-from ..models.dto import SlideContent, SlideRequest, SlideFormat
+from ..models.dto import (
+    SlideContent, SlideRequest, SlideFormat, SlideType,
+    JsonSlideContent, JsonSlideResponse, JsonSlideMetadata
+)
 
 
 class SlideGenerator:
@@ -371,6 +375,9 @@ Nội dung về {section} trong {topic}.
             return self._format_html(slides)
         elif format_type == SlideFormat.POWERPOINT:
             return self._format_powerpoint(slides)
+        elif format_type == SlideFormat.JSON:
+            # JSON format không dùng method này, sử dụng generate_slides_json()
+            return json.dumps({"error": "Use generate_slides_json() for JSON format"}, ensure_ascii=False, indent=2)
         else:  # TEXT
             return self._format_text(slides)
     
@@ -459,3 +466,339 @@ Nội dung về {section} trong {topic}.
             content.append("\n" + "-"*50 + "\n")
         
         return "\n".join(content)
+    
+    # ========== JSON STRUCTURE METHODS FOR SPRING BOOT ==========
+    
+    def generate_slides_json(self, request: SlideRequest) -> JsonSlideResponse:
+        """
+        Tạo slides với JSON structure cho Spring Boot
+        
+        Args:
+            request: SlideRequest chứa thông tin yêu cầu
+            
+        Returns:
+            JsonSlideResponse: Structured JSON response
+        """
+        start_time = time.time()
+        
+        try:
+            json_slides = []
+            all_sources = []
+            
+            # Slide 1: Title slide
+            title_slide = self._create_json_title_slide(request.topic, request.grade)
+            json_slides.append(title_slide)
+            
+            # Tạo outline cho các slide content
+            outline = self._generate_outline(request.topic, request.slide_count - 1, request.grade)
+            
+            # Tạo content slides
+            for i, section in enumerate(outline, 2):
+                slide_data = self._create_json_content_slide(
+                    slide_number=i,
+                    section=section,
+                    topic=request.topic,
+                    grade=request.grade,
+                    include_examples=request.include_examples
+                )
+                json_slides.append(slide_data['slide'])
+                all_sources.extend(slide_data.get('sources', []))
+            
+            # Thêm slide bài tập nếu được yêu cầu
+            if request.include_exercises and len(json_slides) < request.slide_count:
+                exercise_slide = self._create_json_exercise_slide(
+                    slide_number=len(json_slides) + 1,
+                    topic=request.topic,
+                    grade=request.grade
+                )
+                json_slides.append(exercise_slide)
+            
+            # Limit slides to requested count
+            json_slides = json_slides[:request.slide_count]
+            
+            # Tạo metadata
+            processing_time = time.time() - start_time
+            metadata = JsonSlideMetadata(
+                total_slides=len(json_slides),
+                estimated_duration=f"{len(json_slides) * 3} phút",
+                sources=list(set(all_sources))[:5],  # Top 5 unique sources
+                generated_at=datetime.now().isoformat(),
+                grade_level=f"Lớp {request.grade}" if request.grade else "Trung học"
+            )
+            
+            # Tạo response
+            response = JsonSlideResponse(
+                title=request.topic,
+                topic=request.topic,
+                grade=request.grade,
+                slides=json_slides,
+                metadata=metadata,
+                status="success",
+                processing_time=round(processing_time, 2)
+            )
+            
+            return response
+            
+        except Exception as e:
+            processing_time = time.time() - start_time
+            print(f"Lỗi khi tạo JSON slides: {e}")
+            
+            # Return error response
+            return JsonSlideResponse(
+                title=request.topic,
+                topic=request.topic,
+                grade=request.grade,
+                slides=[],
+                metadata=JsonSlideMetadata(
+                    total_slides=0,
+                    estimated_duration="0 phút",
+                    sources=[],
+                    generated_at=datetime.now().isoformat(),
+                    grade_level=f"Lớp {request.grade}" if request.grade else "Trung học"
+                ),
+                status="error",
+                processing_time=round(processing_time, 2),
+                error=str(e)
+            )
+    
+    def _create_json_title_slide(self, topic: str, grade: Optional[int]) -> JsonSlideContent:
+        """Tạo title slide với JSON structure"""
+        grade_text = f"Lớp {grade}" if grade else "Tin học"
+        
+        return JsonSlideContent(
+            slide_number=1,
+            type=SlideType.TITLE,
+            title=topic,
+            subtitle=grade_text,
+            notes=f"Slide giới thiệu về chủ đề {topic}",
+            key_points=[
+                f"Hiểu được khái niệm cơ bản về {topic.lower()}",
+                "Nắm được các thành phần và chức năng chính",
+                "Áp dụng kiến thức vào thực tế"
+            ]
+        )
+    
+    def _create_json_content_slide(self, slide_number: int, section: str, topic: str,
+                                  grade: Optional[int], include_examples: bool) -> Dict[str, Any]:
+        """Tạo content slide với JSON structure"""
+        
+        # Tạo câu hỏi chi tiết cho section
+        content_question = f"""
+        Hãy giải thích chi tiết về "{section}" trong chủ đề "{topic}" 
+        cho học sinh lớp {grade if grade else 'trung học'}.
+        
+        Yêu cầu:
+        - Giải thích rõ ràng, dễ hiểu
+        - Liệt kê các điểm chính dưới dạng danh sách ngắn gọn
+        - Sử dụng thuật ngữ phù hợp với trình độ học sinh
+        - Cung cấp thông tin chính xác từ sách giáo khoa
+        
+        Trả về dưới dạng các điểm chính (bullet points).
+        """
+        
+        try:
+            content_response = self.rag_pipeline.query(
+                content_question,
+                grade_filter=grade,
+                return_sources=True
+            )
+            
+            # Parse response
+            if isinstance(content_response, dict):
+                content_text = content_response.get('answer', str(content_response))
+                response_sources = content_response.get('sources', [])
+            else:
+                content_text = str(content_response)
+                response_sources = []
+            
+            # Parse content thành list of bullet points
+            content_bullets = self._parse_content_to_bullets(content_text)
+            
+            # Tạo code example nếu là về lập trình
+            code_data = None
+            if include_examples and any(keyword in topic.lower() + section.lower() 
+                                       for keyword in ['python', 'lập trình', 'code', 'hàm', 'biến', 'kiểu dữ liệu']):
+                code_data = self._generate_code_example(section, topic, grade)
+            
+            # Nếu có code example, tạo code slide
+            if code_data:
+                slide = JsonSlideContent(
+                    slide_number=slide_number,
+                    type=SlideType.CODE,
+                    title=section,
+                    code=code_data['code'],
+                    language=code_data.get('language', 'python'),
+                    explanation=code_data.get('explanation', ''),
+                    notes=f"Slide code về {section} trong chủ đề {topic}",
+                    key_points=content_bullets[:3]  # Top 3 key points
+                )
+            else:
+                # Content slide thông thường
+                slide = JsonSlideContent(
+                    slide_number=slide_number,
+                    type=SlideType.CONTENT,
+                    title=section,
+                    content=content_bullets,  # List of strings
+                    notes=f"Slide về {section} trong chủ đề {topic}",
+                    key_points=content_bullets[:3] if len(content_bullets) > 3 else content_bullets
+                )
+            
+            # Collect sources
+            sources = []
+            for source in response_sources:
+                if isinstance(source, dict):
+                    metadata = source.get('metadata', {})
+                    lesson_title = metadata.get('lesson_title', 'Chưa xác định')
+                    grade_info = metadata.get('grade', 'N/A')
+                    sources.append(f"SGK Tin học Lớp {grade_info} - {lesson_title}")
+            
+            return {
+                'slide': slide,
+                'sources': sources
+            }
+            
+        except Exception as e:
+            print(f"Lỗi khi tạo JSON content slide: {e}")
+            
+            # Fallback slide
+            fallback_slide = JsonSlideContent(
+                slide_number=slide_number,
+                type=SlideType.CONTENT,
+                title=section,
+                content=[f"Nội dung về {section} trong {topic}"],
+                notes=f"Slide về {section}",
+                key_points=[section]
+            )
+            
+            return {
+                'slide': fallback_slide,
+                'sources': []
+            }
+    
+    def _create_json_exercise_slide(self, slide_number: int, topic: str, grade: Optional[int]) -> JsonSlideContent:
+        """Tạo exercise slide với JSON structure"""
+        
+        exercise_question = f"""
+        Tạo 3-5 câu hỏi bài tập về "{topic}" phù hợp với học sinh lớp {grade if grade else 'trung học'}.
+        
+        Yêu cầu:
+        - Câu hỏi từ dễ đến khó
+        - Bao gồm cả lý thuyết và thực hành
+        - Phù hợp với nội dung sách giáo khoa
+        
+        Chỉ liệt kê các câu hỏi, mỗi câu trên một dòng.
+        """
+        
+        try:
+            exercise_response = self.rag_pipeline.query(
+                exercise_question,
+                grade_filter=grade,
+                return_sources=False
+            )
+            
+            if isinstance(exercise_response, dict):
+                exercise_text = exercise_response.get('answer', str(exercise_response))
+            else:
+                exercise_text = str(exercise_response)
+            
+            # Parse exercises thành list
+            exercises = self._parse_content_to_bullets(exercise_text)
+            
+            return JsonSlideContent(
+                slide_number=slide_number,
+                type=SlideType.EXERCISE,
+                title="Bài tập thực hành",
+                content=exercises,
+                notes="Thảo luận nhóm 5 phút, sau đó trình bày kết quả",
+                key_points=[
+                    "Thảo luận nhóm",
+                    "Trình bày kết quả",
+                    "Giáo viên nhận xét"
+                ]
+            )
+            
+        except Exception as e:
+            print(f"Lỗi khi tạo JSON exercise slide: {e}")
+            
+            # Fallback exercises
+            return JsonSlideContent(
+                slide_number=slide_number,
+                type=SlideType.EXERCISE,
+                title="Bài tập thực hành",
+                content=[
+                    f"Nêu khái niệm cơ bản về {topic}?",
+                    f"Liệt kê các thành phần chính của {topic}?",
+                    f"Cho ví dụ ứng dụng của {topic} trong thực tế?"
+                ],
+                notes="Thảo luận nhóm và trình bày",
+                key_points=["Thảo luận", "Trình bày", "Nhận xét"]
+            )
+    
+    def _parse_content_to_bullets(self, text: str) -> List[str]:
+        """Parse text thành list of bullet points"""
+        bullets = []
+        lines = text.split('\n')
+        
+        for line in lines:
+            line = line.strip()
+            # Bỏ qua dòng trống và header
+            if not line or line.startswith('#'):
+                continue
+            
+            # Loại bỏ số thứ tự, dấu đầu dòng
+            clean_line = line.lstrip('0123456789.-*• ').strip()
+            
+            # Chỉ lấy dòng có nội dung
+            if clean_line and len(clean_line) > 3:
+                bullets.append(clean_line)
+        
+        # Nếu không parse được, trả về toàn bộ text
+        if not bullets:
+            bullets = [text.strip()]
+        
+        return bullets
+    
+    def _generate_code_example(self, section: str, topic: str, grade: Optional[int]) -> Optional[Dict[str, str]]:
+        """Tạo code example nếu phù hợp"""
+        
+        code_question = f"""
+        Cho một ví dụ code Python ngắn gọn (3-5 dòng) về {section} trong {topic}.
+        Chỉ trả về code, không giải thích.
+        """
+        
+        try:
+            code_response = self.rag_pipeline.query(
+                code_question,
+                grade_filter=grade,
+                return_sources=False
+            )
+            
+            if isinstance(code_response, dict):
+                code_text = code_response.get('answer', '')
+            else:
+                code_text = str(code_response)
+            
+            # Extract code block nếu có
+            code_text = code_text.strip()
+            if '```' in code_text:
+                # Extract code từ markdown code block
+                parts = code_text.split('```')
+                if len(parts) >= 2:
+                    code_text = parts[1]
+                    # Remove language identifier
+                    if '\n' in code_text:
+                        code_text = '\n'.join(code_text.split('\n')[1:])
+            
+            # Validate có phải code không
+            if len(code_text) > 10 and len(code_text) < 500:
+                return {
+                    'code': code_text.strip(),
+                    'language': 'python',
+                    'explanation': f"Ví dụ về {section}"
+                }
+            
+            return None
+            
+        except Exception as e:
+            print(f"Không thể tạo code example: {e}")
+            return None
