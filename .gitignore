@@ -16,7 +16,7 @@ logs/
 
 # Environment
 .env
-
+.env.example
 # IDE
 .vscode/
 .idea/

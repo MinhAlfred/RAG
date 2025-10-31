@@ -7,6 +7,7 @@ import json
 
 from langchain_openai import ChatOpenAI
 from langchain_community.llms import Ollama
+from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.output_parsers import StrOutputParser
 from langchain_core.runnables import RunnablePassthrough
@@ -104,21 +105,33 @@ class RAGPipeline:
         if self.llm_type == "openai":
             if not settings.OPENAI_API_KEY:
                 raise ValueError("OPENAI_API_KEY not set for OpenAI")
-            
+
             model = model_name or "gpt-3.5-turbo"
             return ChatOpenAI(
                 model=model,
                 temperature=self.temperature,
                 openai_api_key=settings.OPENAI_API_KEY
             )
-        
+
         elif self.llm_type == "ollama":
             model = model_name or "llama3.2:3b"
             return Ollama(
                 model=model,
                 temperature=self.temperature
             )
-        
+
+        elif self.llm_type == "gemini":
+            if not settings.GOOGLE_API_KEY:
+                raise ValueError("GOOGLE_API_KEY not set for Gemini")
+
+            model = model_name or "gemini-2.0-flash-exp"  # Gemini 2.0 Flash (free)
+            logger.info(f"🤖 Initializing Gemini: {model}")
+            return ChatGoogleGenerativeAI(
+                model=model,
+                temperature=self.temperature,
+                google_api_key=settings.GOOGLE_API_KEY
+            )
+
         else:
             raise ValueError(f"Unsupported LLM type: {self.llm_type}")
     
@@ -203,24 +216,47 @@ Trả lời:
             
             return CustomRetriever(self.vectorstore)
     
+    def switch_collection(self, collection_name: str):
+        """
+        Switch to a different collection
+
+        Args:
+            collection_name: Name of the collection to switch to
+        """
+        try:
+            logger.info(f"🔄 Switching to collection: {collection_name}")
+            self.collection_name = collection_name
+            self.vector_manager.collection_name = collection_name
+            self.vectorstore = self.vector_manager.load_vectorstore(collection_name)
+            logger.info(f"✅ Successfully switched to collection: {collection_name}")
+        except Exception as e:
+            logger.error(f"❌ Failed to switch collection: {e}")
+            raise
+
     def query(
-        self, 
-        question: str, 
+        self,
+        question: str,
         grade_filter: Optional[int] = None,
-        return_sources: bool = False
+        return_sources: bool = False,
+        collection_name: Optional[str] = None
     ) -> Dict[str, Any]:
         """
         Query the RAG system
-        
+
         Args:
             question: User question
             grade_filter: Filter by specific grade
             return_sources: Whether to return source documents
-            
+            collection_name: Optional collection name to query from
+
         Returns:
             Dictionary with answer and optional sources
         """
         try:
+            # Switch collection if specified and different from current
+            if collection_name and collection_name != self.collection_name:
+                self.switch_collection(collection_name)
+
             # Get retriever and apply grade filter if specified
             retriever = self._get_retriever()
             retrieved_docs = retriever.invoke(question)

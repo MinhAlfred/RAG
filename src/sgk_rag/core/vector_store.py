@@ -6,10 +6,12 @@ from typing import List, Optional, Dict, Any
 import json
 
 from langchain_community.vectorstores import Chroma, FAISS
+from langchain_qdrant import QdrantVectorStore
+from qdrant_client import QdrantClient
+from qdrant_client.models import Distance, VectorParams
 from langchain_core.documents import Document as LangChainDocument
 from langchain_community.vectorstores.utils import filter_complex_metadata
 from tqdm import tqdm
-
 from ..models.document import Chunk
 from .embedding_manager import EmbeddingManager
 from config.settings import settings
@@ -124,6 +126,8 @@ class VectorStoreManager:
             vectorstore = self._create_chroma(documents, collection_name, batch_size)
         elif self.store_type == "faiss":
             vectorstore = self._create_faiss(documents, batch_size)
+        elif self.store_type == "qdrant":
+            vectorstore = self._create_qdrant(documents, collection_name, batch_size)
         else:
             raise ValueError(f"Unknown vector store type: {self.store_type}")
 
@@ -192,6 +196,49 @@ class VectorStoreManager:
 
         return vectorstore
 
+    def _create_qdrant(
+            self,
+            documents: List[LangChainDocument],
+            collection_name: str,
+            batch_size: int
+    ):
+        """Create Qdrant vector store"""
+        logger.info(f"🚀 Creating Qdrant vector store...")
+
+        # Initialize Qdrant client
+        # Create vector store with LangChain-Qdrant integration
+        # Pass connection parameters directly - langchain-qdrant will create client
+        if settings.QDRANT_URL:
+            # Cloud deployment
+            logger.info(f"   Connecting to Qdrant Cloud: {settings.QDRANT_URL}")
+            vectorstore = QdrantVectorStore.from_documents(
+                documents=documents,
+                embedding=self.embedding_manager.embeddings,
+                collection_name=collection_name,
+                url=settings.QDRANT_URL,
+                api_key=settings.QDRANT_API_KEY,
+                prefer_grpc=settings.QDRANT_PREFER_GRPC,
+                force_recreate=False
+            )
+        else:
+            # Local deployment
+            logger.info(f"   Connecting to Qdrant: {settings.QDRANT_HOST}:{settings.QDRANT_PORT}")
+            vectorstore = QdrantVectorStore.from_documents(
+                documents=documents,
+                embedding=self.embedding_manager.embeddings,
+                collection_name=collection_name,
+                host=settings.QDRANT_HOST,
+                port=settings.QDRANT_PORT,
+                grpc_port=settings.QDRANT_GRPC_PORT,
+                prefer_grpc=settings.QDRANT_PREFER_GRPC,
+                force_recreate=False
+            )
+
+        logger.info(f"   ✓ Collection '{collection_name}' created/updated in Qdrant")
+        logger.info(f"   ✓ Total documents: {len(documents)}")
+
+        return vectorstore
+
     def load_vectorstore(
             self,
             collection_name: Optional[str] = None
@@ -223,6 +270,40 @@ class VectorStoreManager:
                 str(faiss_path),
                 self.embedding_manager.embeddings,
                 allow_dangerous_deserialization=True
+            )
+
+        elif self.store_type == "qdrant":
+            # Initialize Qdrant client
+            if settings.QDRANT_URL:
+                # Cloud deployment
+                logger.info(f"   Connecting to Qdrant Cloud: {settings.QDRANT_URL}")
+                client = QdrantClient(
+                    url=settings.QDRANT_URL,
+                    api_key=settings.QDRANT_API_KEY,
+                    prefer_grpc=settings.QDRANT_PREFER_GRPC
+                )
+            else:
+                # Local deployment
+                logger.info(f"   Connecting to Qdrant: {settings.QDRANT_HOST}:{settings.QDRANT_PORT}")
+                client = QdrantClient(
+                    host=settings.QDRANT_HOST,
+                    port=settings.QDRANT_PORT,
+                    grpc_port=settings.QDRANT_GRPC_PORT,
+                    prefer_grpc=settings.QDRANT_PREFER_GRPC
+                )
+
+            # Check if collection exists
+            collections = client.get_collections().collections
+            collection_names = [col.name for col in collections]
+
+            if collection_name not in collection_names:
+                raise FileNotFoundError(f"Qdrant collection not found: {collection_name}")
+
+            # Load vector store
+            vectorstore = QdrantVectorStore(
+                client=client,
+                collection_name=collection_name,
+                embedding=self.embedding_manager.embeddings
             )
 
         else:
@@ -270,5 +351,41 @@ class VectorStoreManager:
             index = vectorstore.index
             stats['total_vectors'] = index.ntotal
             stats['dimension'] = index.d
+
+        elif self.store_type == "qdrant":
+            client = vectorstore.client
+            collection_name = vectorstore.collection_name
+
+            # Get collection info
+            collection_info = client.get_collection(collection_name)
+            stats['total_documents'] = collection_info.points_count
+            stats['collection_name'] = collection_name
+            
+            # Handle vectors config (can be dict or object depending on version)
+            vectors_config = collection_info.config.params.vectors
+            if isinstance(vectors_config, dict):
+                # Dict format (newer versions or named vectors)
+                if 'size' in vectors_config:
+                    stats['dimension'] = vectors_config['size']
+                elif '' in vectors_config:  # Default vector name is empty string
+                    stats['dimension'] = vectors_config[''].size
+                else:
+                    # Named vectors - get first one
+                    first_vector = next(iter(vectors_config.values()))
+                    stats['dimension'] = first_vector.size if hasattr(first_vector, 'size') else first_vector['size']
+                
+                if 'distance' in vectors_config:
+                    stats['distance'] = vectors_config['distance']
+                elif '' in vectors_config:
+                    dist = vectors_config[''].distance
+                    stats['distance'] = dist.name if hasattr(dist, 'name') else str(dist)
+                else:
+                    first_vector = next(iter(vectors_config.values()))
+                    dist = first_vector.distance if hasattr(first_vector, 'distance') else first_vector['distance']
+                    stats['distance'] = dist.name if hasattr(dist, 'name') else str(dist)
+            else:
+                # Object format (older versions)
+                stats['dimension'] = vectors_config.size
+                stats['distance'] = vectors_config.distance.name
 
         return stats

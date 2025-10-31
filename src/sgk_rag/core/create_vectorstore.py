@@ -211,9 +211,9 @@ Examples:
     parser.add_argument(
         "--store-type",
         type=str,
-        choices=["chroma", "faiss"],
-        default="chroma",
-        help="Vector store type (default: chroma)"
+        choices=["chroma", "faiss", "qdrant"],
+        default="qdrant",
+        help="Vector store type (default: qdrant)"
     )
     parser.add_argument(
         "--test-search",

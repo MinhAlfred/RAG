@@ -40,6 +40,7 @@ class QuestionRequest(BaseModel):
     grade_filter: Optional[int] = Field(None, description="Lọc theo lớp (3-12)", ge=3, le=12)
     return_sources: bool = Field(default=True, description="Có trả về nguồn tham khảo không")
     max_sources: int = Field(default=5, description="Số lượng nguồn tối đa", ge=1, le=10)
+    collection_name: Optional[str] = Field(None, description="Tên collection trong Qdrant (mặc định: sgk_tin_kntt)")
 
 
 class SlideRequest(BaseModel):
@@ -50,6 +51,7 @@ class SlideRequest(BaseModel):
     format: SlideFormat = Field(default=SlideFormat.MARKDOWN, description="Định dạng output")
     include_examples: bool = Field(default=True, description="Có bao gồm ví dụ không")
     include_exercises: bool = Field(default=False, description="Có bao gồm bài tập không")
+    collection_name: Optional[str] = Field(None, description="Tên collection trong Qdrant (mặc định: sgk_tin_kntt)")
 
 
 class SourceInfo(BaseModel):
@@ -161,6 +163,7 @@ class BatchQuestionRequest(BaseModel):
     question_type: QuestionType = Field(default=QuestionType.GENERAL, description="Loại câu hỏi")
     grade_filter: Optional[int] = Field(None, description="Lọc theo lớp (3-12)", ge=3, le=12)
     return_sources: bool = Field(default=False, description="Có trả về nguồn tham khảo không")
+    collection_name: Optional[str] = Field(None, description="Tên collection trong Qdrant (mặc định: sgk_tin_kntt)")
 
 
 class BatchQuestionResponse(BaseModel):
@@ -178,7 +181,8 @@ EXAMPLE_QUESTION_REQUEST = {
     "question_type": "general",
     "grade_filter": None,
     "return_sources": True,
-    "max_sources": 3
+    "max_sources": 3,
+    "collection_name": "sgk_tin_kntt"  # Optional: specify collection
 }
 
 EXAMPLE_SLIDE_REQUEST = {

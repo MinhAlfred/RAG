@@ -135,14 +135,31 @@ class Settings(BaseSettings):
         # Có thể thêm môn khác...
     }
 
+    # LLM Settings
+    LLM_TYPE: Literal["ollama", "openai", "anthropic", "gemini"] = "ollama"
+    MODEL_NAME: str = "llama3.2:3b"
+
+    # Google Gemini Settings
+    GOOGLE_API_KEY: Optional[str] = None
+    
     # Embedding Settings
     EMBEDDING_MODEL: Literal["openai", "multilingual", "vietnamese"] = "multilingual"
     EMBEDDING_BATCH_SIZE: int = 50
     EMBEDDING_DEVICE: str = "cuda"  # "cpu" or "cuda" - Dùng GPU để tăng tốc
 
     # Vector Store
-    VECTOR_STORE_TYPE: Literal["chroma", "faiss"] = "chroma"
+    VECTOR_STORE_TYPE: Literal["chroma", "faiss", "qdrant"] = "qdrant"
     COLLECTION_NAME_PREFIX: str = "sgk_tin"  # Collection tất cả lớp 3-12
+    COLLECTION_NAME: str = "sgk_tin"  # Alias for backward compatibility
+    VECTOR_STORE_PATH: str = "data/vectorstores"
+
+    # Qdrant Settings
+    QDRANT_HOST: str = "localhost"
+    QDRANT_PORT: int = 6333
+    QDRANT_GRPC_PORT: int = 6334
+    QDRANT_API_KEY: Optional[str] = None
+    QDRANT_URL: Optional[str] = None  # For cloud: "https://xxx.qdrant.io"
+    QDRANT_PREFER_GRPC: bool = False  # Use gRPC for better performance
 
     # API Keys
     OPENAI_API_KEY: Optional[str] = None

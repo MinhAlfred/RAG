@@ -28,10 +28,22 @@ class EmbeddingManager:
             device: "cpu" or "cuda"
         """
         self.model_name = model_name or settings.EMBEDDING_MODEL
-        self.device = device or settings.EMBEDDING_DEVICE
+        
+        # Auto-detect CUDA availability
+        device_config = device or settings.EMBEDDING_DEVICE
+        if device_config == "cuda":
+            import torch
+            if torch.cuda.is_available():
+                self.device = "cuda"
+                logger.info(f"✅ CUDA available - using GPU acceleration")
+            else:
+                self.device = "cpu"
+                logger.warning(f"⚠️ CUDA not available - falling back to CPU")
+        else:
+            self.device = device_config
 
         self.embeddings = self._initialize_embeddings()
-        logger.info(f"EmbeddingManager initialized (model={self.model_name})")
+        logger.info(f"EmbeddingManager initialized (model={self.model_name}, device={self.device})")
 
     def _initialize_embeddings(self):
         """Initialize embedding model"""
@@ -46,17 +58,27 @@ class EmbeddingManager:
 
         elif self.model_name == "multilingual":
             logger.info("Loading multilingual model (may take 30-60s)...")
+            # Ensure device is properly set for sentence-transformers
+            import torch
+            device = self.device if torch.cuda.is_available() and self.device == "cuda" else "cpu"
+            logger.info(f"   Using device: {device}")
+            
             return HuggingFaceEmbeddings(
                 model_name="sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
-                model_kwargs={'device': self.device},
+                model_kwargs={'device': device},
                 encode_kwargs={'normalize_embeddings': True}
             )
 
         elif self.model_name == "vietnamese":
             logger.info("Loading Vietnamese model (may take 30-60s)...")
+            # Ensure device is properly set for sentence-transformers
+            import torch
+            device = self.device if torch.cuda.is_available() and self.device == "cuda" else "cpu"
+            logger.info(f"   Using device: {device}")
+            
             return HuggingFaceEmbeddings(
                 model_name="bkai-foundation-models/vietnamese-bi-encoder",
-                model_kwargs={'device': self.device},
+                model_kwargs={'device': device},
                 encode_kwargs={'normalize_embeddings': True}
             )
 

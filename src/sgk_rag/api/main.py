@@ -51,28 +51,45 @@ async def startup_event():
     global rag_pipeline, slide_generator
     
     try:
-        print("🚀 Đang khởi tạo RAG Pipeline...")
-        
-        # Khởi tạo RAG pipeline với Ollama llama3.2:3b
-        # Sử dụng collection sgk_tin (tất cả lớp 3-12)
+        print("\n" + "="*70)
+        print("🚀 ĐANG KHỞI TẠO RAG PIPELINE")
+        print("="*70)
+
+        # Khởi tạo RAG pipeline với LLM từ settings
+        # Sử dụng collection từ settings
+        from config.settings import settings
+
+        print(f"\n📊 Configuration:")
+        print(f"   🤖 LLM Type: {settings.LLM_TYPE.upper()}")
+        print(f"   🧠 Model: {settings.MODEL_NAME}")
+        print(f"   📦 Collection: {settings.COLLECTION_NAME_PREFIX}")
+        print(f"   🔢 Embedding: {settings.EMBEDDING_MODEL}")
+        print(f"   💾 Vector Store: {settings.VECTOR_STORE_TYPE.upper()}")
+        if settings.QDRANT_URL:
+            print(f"   ☁️  Qdrant Cloud: Connected")
+        print()
+
         rag_pipeline = RAGPipeline(
             vector_store_path="data/vectorstores",
-            llm_type="ollama",
-            model_name="llama3.2:3b",
-            collection_name="sgk_tin"
+            llm_type=settings.LLM_TYPE,
+            model_name=settings.MODEL_NAME,
+            collection_name=settings.COLLECTION_NAME_PREFIX
         )
-        
+
         # Khởi tạo slide generator
         slide_generator = SlideGenerator(rag_pipeline)
-        
-        print("✅ RAG Pipeline đã sẵn sàng!")
+
+        print("\n✅ RAG Pipeline đã sẵn sàng!")
+        print("="*70)
         
         # Test pipeline
+        print("\n🧪 Testing pipeline...")
         test_response = rag_pipeline.query("Máy tính là gì?")
-        if isinstance(test_response, str):
-            print(f"🧪 Test query thành công: {test_response[:100]}...")
+        if isinstance(test_response, dict) and test_response.get('status') == 'success':
+            answer = test_response.get('answer', '')
+            print(f"✅ Test successful: {answer[:80]}...")
         else:
-            print(f"🧪 Test query thành công: {str(test_response)[:100]}...")
+            print(f"⚠️  Test response: {str(test_response)[:80]}...")
         
         # Register with Eureka (if configured)
         try:
@@ -145,10 +162,11 @@ async def health_check():
             vector_store_info = {"status": "unavailable"}
         
         # Thông tin model
+        from config.settings import settings
         model_info = {
-            "llm_type": "ollama",
-            "model_name": "llama3.2:3b",
-            "embedding_model": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
+            "llm_type": settings.LLM_TYPE,
+            "model_name": settings.MODEL_NAME,
+            "embedding_model": settings.EMBEDDING_MODEL
         }
         
         return HealthResponse(
@@ -172,11 +190,12 @@ async def ask_question(request: QuestionRequest):
         if rag_pipeline is None:
             raise HTTPException(status_code=503, detail="RAG Pipeline chưa sẵn sàng")
         
-        # Query RAG pipeline với return_sources
+        # Query RAG pipeline với return_sources và collection_name
         response = rag_pipeline.query(
             request.question,
             grade_filter=request.grade_filter,
-            return_sources=request.return_sources
+            return_sources=request.return_sources,
+            collection_name=request.collection_name  # Use collection from request
         )
         
         # Extract answer và sources từ response
@@ -252,7 +271,8 @@ async def ask_batch_questions(request: BatchQuestionRequest):
                     question_type=request.question_type,
                     grade_filter=request.grade_filter,
                     return_sources=request.return_sources,
-                    max_sources=3  # Giới hạn sources cho batch
+                    max_sources=3,  # Giới hạn sources cho batch
+                    collection_name=request.collection_name  # Pass collection name
                 )
                 
                 # Gọi ask_question
@@ -415,41 +435,96 @@ async def get_question_types():
     }
 
 
+@app.get("/collections")
+async def get_available_collections():
+    """Lấy danh sách collections có sẵn trong Qdrant"""
+    try:
+        from config.settings import settings
+        from qdrant_client import QdrantClient
+
+        # Connect to Qdrant
+        if settings.QDRANT_URL:
+            client = QdrantClient(
+                url=settings.QDRANT_URL,
+                api_key=settings.QDRANT_API_KEY
+            )
+        else:
+            client = QdrantClient(
+                host=settings.QDRANT_HOST,
+                port=settings.QDRANT_PORT
+            )
+
+        # Get all collections
+        collections = client.get_collections().collections
+
+        collection_list = []
+        for col in collections:
+            try:
+                info = client.get_collection(col.name)
+                collection_list.append({
+                    "name": col.name,
+                    "points_count": info.points_count,
+                    "vectors_count": info.vectors_count if hasattr(info, 'vectors_count') else info.points_count
+                })
+            except Exception as e:
+                collection_list.append({
+                    "name": col.name,
+                    "points_count": 0,
+                    "error": str(e)
+                })
+
+        return {
+            "collections": collection_list,
+            "total_collections": len(collection_list),
+            "default_collection": settings.COLLECTION_NAME_PREFIX,
+            "current_collection": rag_pipeline.collection_name if rag_pipeline else None
+        }
+
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Failed to get collections: {str(e)}")
+
+
 @app.get("/stats")
 async def get_system_stats():
     """Lấy thống kê hệ thống"""
     try:
         if rag_pipeline is None:
             raise HTTPException(status_code=503, detail="RAG Pipeline chưa sẵn sàng")
-        
-        stats = rag_pipeline.get_stats()
-        
+
+        stats = rag_pipeline.get_statistics()
+
         return {
             "rag_pipeline": stats,
             "api_info": {
                 "version": "1.0.0",
                 "endpoints": [
-                    "/ask", "/ask/batch", "/slides/generate", 
-                    "/health", "/stats", "/question/types", "/slides/formats"
+                    "/ask", "/ask/batch", "/slides/generate",
+                    "/health", "/stats", "/question/types", "/slides/formats", "/collections"
                 ],
                 "models": {
-                    "llm": "ollama/llama3.2:3b",
-                    "embedding": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
+                    "llm": f"{settings.LLM_TYPE}/{settings.MODEL_NAME}",
+                    "embedding": settings.EMBEDDING_MODEL
                 }
             }
         }
-        
+
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Failed to get stats: {str(e)}")
 
 
 if __name__ == "__main__":
     import uvicorn
-    
-    print("🚀 Starting SGK Informatics RAG API...")
-    print("📚 Sử dụng Ollama llama3.2:3b")
-    print("🔗 API docs: http://localhost:8000/docs")
-    
+    from config.settings import settings
+
+    print("\n" + "="*70)
+    print("🚀 STARTING SGK INFORMATICS RAG API")
+    print("="*70)
+    print(f"🤖 LLM: {settings.LLM_TYPE.upper()} - {settings.MODEL_NAME}")
+    print(f"📦 Collection: {settings.COLLECTION_NAME_PREFIX}")
+    print(f"🔗 API Docs: http://localhost:8000/docs")
+    print(f"❤️  Health Check: http://localhost:8000/health")
+    print("="*70 + "\n")
+
     uvicorn.run(
         "main:app",
         host="0.0.0.0",
