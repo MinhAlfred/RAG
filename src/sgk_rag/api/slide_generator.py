@@ -584,16 +584,23 @@ Nội dung về {section} trong {topic}.
         
         # Tạo câu hỏi chi tiết cho section
         content_question = f"""
-        Hãy giải thích chi tiết về "{section}" trong chủ đề "{topic}" 
-        cho học sinh lớp {grade if grade else 'trung học'}.
+        Giải thích chi tiết về "{section}" trong chủ đề "{topic}" cho học sinh lớp {grade if grade else 'trung học'}.
         
-        Yêu cầu:
-        - Giải thích rõ ràng, dễ hiểu
-        - Liệt kê các điểm chính dưới dạng danh sách ngắn gọn
-        - Sử dụng thuật ngữ phù hợp với trình độ học sinh
-        - Cung cấp thông tin chính xác từ sách giáo khoa
+        YÊU CẦU BẮT BUỘC:
+        1. Giải thích khái niệm cơ bản
+        2. Liệt kê 3-5 điểm chính (mỗi điểm 1-2 câu)
+        3. Sử dụng ngôn ngữ đơn giản, dễ hiểu
+        4. Cung cấp thông tin chính xác từ SGK
         
-        Trả về dưới dạng các điểm chính (bullet points).
+        FORMAT:
+        - Mỗi điểm bắt đầu bằng số hoặc dấu đầu dòng
+        - Mỗi điểm là 1 câu hoàn chỉnh (có dấu chấm cuối)
+        - Không dùng heading (##)
+        
+        Ví dụ format:
+        1. Định nghĩa: ...
+        2. Đặc điểm chính: ...
+        3. Ứng dụng: ...
         """
         
         try:
@@ -614,26 +621,45 @@ Nội dung về {section} trong {topic}.
             # Parse content thành list of bullet points
             content_bullets = self._parse_content_to_bullets(content_text)
             
-            # Tạo code example nếu là về lập trình
+            # Chỉ tạo code example khi section yêu cầu ví dụ code
             code_data = None
-            if include_examples and any(keyword in topic.lower() + section.lower() 
-                                       for keyword in ['python', 'lập trình', 'code', 'hàm', 'biến', 'kiểu dữ liệu']):
-                code_data = self._generate_code_example(section, topic, grade)
+            if include_examples:
+                # Chỉ tạo code nếu section rõ ràng về code/ví dụ
+                needs_code = any(keyword in section.lower() 
+                               for keyword in ['ví dụ', 'example', 'minh họa code', 'viết code', 
+                                              'cú pháp', 'syntax', 'cách viết'])
+                # VÀ topic là về lập trình
+                is_programming = any(keyword in topic.lower() 
+                                   for keyword in ['python', 'lập trình', 'code', 'hàm', 'function',
+                                                  'biến', 'variable', 'kiểu dữ liệu', 'data type'])
+                
+                if needs_code and is_programming:
+                    code_data = self._generate_code_example(section, topic, grade)
             
-            # Nếu có code example, tạo code slide
-            if code_data:
+            # Ưu tiên tạo content slide với explanation đầy đủ
+            # Chỉ tạo code slide nếu topic rõ ràng về code
+            should_create_code_slide = (
+                code_data and 
+                include_examples and
+                any(keyword in section.lower() 
+                    for keyword in ['ví dụ', 'example', 'minh họa', 'code', 'lập trình'])
+            )
+            
+            if should_create_code_slide:
+                # Code slide với content explanation
                 slide = JsonSlideContent(
                     slide_number=slide_number,
                     type=SlideType.CODE,
                     title=section,
+                    content=content_bullets,  # Giải thích đầy đủ
                     code=code_data['code'],
                     language=code_data.get('language', 'python'),
-                    explanation=code_data.get('explanation', ''),
+                    explanation=code_data.get('explanation', f"Ví dụ về {section}"),
                     notes=f"Slide code về {section} trong chủ đề {topic}",
                     key_points=content_bullets[:3]  # Top 3 key points
                 )
             else:
-                # Content slide thông thường
+                # Content slide thông thường (PRIORITIZE THIS)
                 slide = JsonSlideContent(
                     slide_number=slide_number,
                     type=SlideType.CONTENT,
@@ -739,24 +765,75 @@ Nội dung về {section} trong {topic}.
         bullets = []
         lines = text.split('\n')
         
+        current_paragraph = []
+        
         for line in lines:
             line = line.strip()
-            # Bỏ qua dòng trống và header
-            if not line or line.startswith('#'):
+            
+            # Bỏ qua dòng trống và header markdown
+            if not line or line.startswith('##'):
+                # Nếu có paragraph đang xây dựng, thêm vào bullets
+                if current_paragraph:
+                    bullets.append(' '.join(current_paragraph))
+                    current_paragraph = []
                 continue
             
             # Loại bỏ số thứ tự, dấu đầu dòng
-            clean_line = line.lstrip('0123456789.-*• ').strip()
+            clean_line = line.lstrip('0123456789.-*•:) ').strip()
             
-            # Chỉ lấy dòng có nội dung
-            if clean_line and len(clean_line) > 3:
-                bullets.append(clean_line)
+            # Bỏ qua dòng quá ngắn (< 10 ký tự)
+            if len(clean_line) < 10:
+                continue
+            
+            # Nếu là câu hoàn chỉnh (kết thúc bằng . ! ?) -> add bullet
+            if clean_line.endswith(('.', '!', '?', ':', '；')):
+                if current_paragraph:
+                    current_paragraph.append(clean_line)
+                    bullets.append(' '.join(current_paragraph))
+                    current_paragraph = []
+                else:
+                    bullets.append(clean_line)
+            else:
+                # Câu chưa kết thúc, thêm vào paragraph
+                current_paragraph.append(clean_line)
         
-        # Nếu không parse được, trả về toàn bộ text
+        # Thêm paragraph cuối cùng nếu có
+        if current_paragraph:
+            bullets.append(' '.join(current_paragraph))
+        
+        # Nếu không parse được gì, chia text thành các đoạn dài hơn
         if not bullets:
-            bullets = [text.strip()]
+            # Chia theo câu (dựa vào dấu chấm)
+            sentences = [s.strip() for s in text.split('.') if len(s.strip()) > 15]
+            if sentences:
+                bullets = [s + '.' for s in sentences[:5]]  # Top 5 sentences
+            else:
+                # Last resort: trả về text gốc (split by space nếu quá dài)
+                if len(text) > 200:
+                    # Chia thành các phần 150-200 ký tự
+                    words = text.split()
+                    current_chunk = []
+                    current_length = 0
+                    
+                    for word in words:
+                        if current_length + len(word) > 200:
+                            bullets.append(' '.join(current_chunk))
+                            current_chunk = [word]
+                            current_length = len(word)
+                        else:
+                            current_chunk.append(word)
+                            current_length += len(word) + 1
+                    
+                    if current_chunk:
+                        bullets.append(' '.join(current_chunk))
+                else:
+                    bullets = [text.strip()]
         
-        return bullets
+        # Giới hạn độ dài mỗi bullet (max 300 chars)
+        bullets = [b[:300] + '...' if len(b) > 300 else b for b in bullets]
+        
+        # Limit total bullets (5-7 bullets tối đa cho mỗi slide)
+        return bullets[:7]
     
     def _generate_code_example(self, section: str, topic: str, grade: Optional[int]) -> Optional[Dict[str, str]]:
         """Tạo code example nếu phù hợp"""

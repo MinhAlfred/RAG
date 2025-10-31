@@ -19,6 +19,7 @@ from ..models.dto import (
     JsonSlideResponse  # Import JSON response model
 )
 from .slide_generator import SlideGenerator
+from .eureka_config import EurekaConfig, register_with_eureka_async, stop_eureka_async
 
 
 # Khởi tạo FastAPI app
@@ -73,10 +74,29 @@ async def startup_event():
         else:
             print(f"🧪 Test query thành công: {str(test_response)[:100]}...")
         
+        # Register with Eureka (if configured)
+        try:
+            eureka_config = EurekaConfig.from_env()
+            await register_with_eureka_async(eureka_config, health_check_url="/health")
+        except Exception as e:
+            print(f"⚠️ Eureka registration skipped: {e}")
+            print("   Service will run without service discovery")
+        
     except Exception as e:
         print(f"❌ Lỗi khởi tạo RAG Pipeline: {e}")
         print(traceback.format_exc())
         raise
+
+
+@app.on_event("shutdown")
+async def shutdown_event():
+    """Cleanup khi shutdown server"""
+    try:
+        print("🛑 Shutting down...")
+        await stop_eureka_async()
+        print("✅ Cleanup completed")
+    except Exception as e:
+        print(f"⚠️ Error during shutdown: {e}")
 
 
 @app.exception_handler(Exception)

@@ -47,6 +47,7 @@ tiktoken>=0.8.0
 tqdm>=4.67.1
 numpy>=2.2.6
 protobuf>=5.26.1
+py-eureka-client>=0.13.2
 
 # ===========================================
 # Testing
