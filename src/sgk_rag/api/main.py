@@ -183,36 +183,42 @@ async def health_check():
 
 @app.post("/ask", response_model=QuestionResponse)
 async def ask_question(request: QuestionRequest):
-    """Endpoint để hỏi câu hỏi"""
+    """
+    Endpoint để hỏi câu hỏi
+
+    Luôn kết hợp thông tin từ cả sách giáo khoa (knowledge base) và tìm kiếm web để đưa ra câu trả lời toàn diện
+    """
     start_time = time.time()
-    
+
     try:
         if rag_pipeline is None:
             raise HTTPException(status_code=503, detail="RAG Pipeline chưa sẵn sàng")
-        
-        # Query RAG pipeline với return_sources và collection_name
+
+        # Query RAG pipeline - fallback automatically enabled
         response = rag_pipeline.query(
             request.question,
             grade_filter=request.grade_filter,
             return_sources=request.return_sources,
-            collection_name=request.collection_name  # Use collection from request
+            collection_name=request.collection_name
         )
-        
+
         # Extract answer và sources từ response
         if isinstance(response, dict):
             answer = response.get('answer', str(response))
-            # Sources đã được trả về từ query() nếu return_sources=True
             sources_data = response.get('sources', [])
-            
+
             # Convert sources sang SourceInfo format
             sources = []
             if request.return_sources and sources_data:
                 for src in sources_data:
+                    # Handle web search sources differently
+                    if src.get('type') == 'web_search':
+                        continue  # Skip web search metadata sources
+
                     metadata = src.get('metadata', {})
-                    # Convert grade to string (metadata có thể chứa int hoặc str)
                     grade_value = metadata.get("grade", "Không xác định")
                     grade_str = str(grade_value) if grade_value is not None else "Không xác định"
-                    
+
                     sources.append(
                         SourceInfo(
                             content=src.get('content', ''),
@@ -225,21 +231,26 @@ async def ask_question(request: QuestionRequest):
         else:
             answer = str(response)
             sources = []
-        
+            response = {}
+
         processing_time = time.time() - start_time
-        
+
         return QuestionResponse(
             question=request.question,
             answer=answer,
             status="success",
             sources=sources if request.return_sources else None,
-            processing_time=processing_time
+            processing_time=processing_time,
+            retrieval_mode=response.get('retrieval_mode'),
+            docs_retrieved=response.get('docs_retrieved'),
+            fallback_used=response.get('fallback_used'),
+            web_search_used=response.get('web_search_used')
         )
-        
+
     except Exception as e:
         processing_time = time.time() - start_time
         print(f"Lỗi khi xử lý câu hỏi: {e}")
-        
+
         return QuestionResponse(
             question=request.question,
             answer="",

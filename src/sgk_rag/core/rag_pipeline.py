@@ -2,7 +2,7 @@
 
 import logging
 from pathlib import Path
-from typing import List, Dict, Optional, Any
+from typing import List, Dict, Optional, Any, Literal
 import json
 
 from langchain_openai import ChatOpenAI
@@ -14,6 +14,7 @@ from langchain_core.runnables import RunnablePassthrough
 
 from .vector_store import VectorStoreManager
 from .embedding_manager import EmbeddingManager
+from .web_search import WebSearchManager
 from ..models.document import Chunk
 from config.settings import settings
 
@@ -36,7 +37,7 @@ class RAGPipeline:
     ):
         """
         Initialize RAG Pipeline
-        
+
         Args:
             vector_store_path: Path to existing vector store
             llm_type: "openai" or "ollama"
@@ -49,7 +50,7 @@ class RAGPipeline:
         self.llm_type = llm_type
         self.temperature = temperature
         self.collection_name = collection_name
-        
+
         # Initialize components
         self.embedding_manager = EmbeddingManager(model_name=embedding_model)
         self.vector_manager = VectorStoreManager(
@@ -57,17 +58,24 @@ class RAGPipeline:
             collection_name=collection_name,
             persist_directory=Path(self.vector_store_path) if self.vector_store_path else None
         )
-        
+
         # Load vector store
         self.vectorstore = self._load_vector_store()
-        
+
         # Initialize LLM
         self.llm = self._initialize_llm(model_name)
-        
-        # Create RAG chain
+
+        # Initialize web search (always enabled)
+        self.web_search = WebSearchManager(
+            max_results=settings.WEB_SEARCH_MAX_RESULTS,
+            region=settings.WEB_SEARCH_REGION
+        )
+        logger.info("🌐 Web search enabled - always combining knowledge base + web search")
+
+        # Create RAG chain (combines both sources)
         self.rag_chain = self._create_rag_chain()
-        
-        logger.info(f"RAG Pipeline initialized (LLM: {llm_type}, Vector store loaded)")
+
+        logger.info(f"RAG Pipeline initialized (LLM: {llm_type}, Mode: Knowledge Base + Web Search)")
     
     def _load_vector_store(self):
         """
@@ -136,52 +144,36 @@ class RAGPipeline:
             raise ValueError(f"Unsupported LLM type: {self.llm_type}")
     
     def _create_rag_chain(self):
-        """Create RAG chain with prompt template"""
-        
-        # Vietnamese prompt template for SGK Tin học
+        """Create RAG chain that combines knowledge base and web search"""
+
+        # Vietnamese prompt template combining both sources
         prompt_template = ChatPromptTemplate.from_template("""
 Bạn là một trợ lý AI chuyên về Tin học, được đào tạo trên nội dung sách giáo khoa Tin học từ lớp 3 đến 12.
 
-Nhiệm vụ: Trả lời câu hỏi dựa trên thông tin từ sách giáo khoa được cung cấp.
+Nhiệm vụ: Trả lời câu hỏi dựa trên thông tin từ sách giáo khoa VÀ thông tin bổ sung từ tìm kiếm web.
 
-Ngữ cảnh từ sách giáo khoa:
 {context}
 
 Câu hỏi: {question}
 
 Hướng dẫn trả lời:
-1. Sử dụng thông tin từ ngữ cảnh để trả lời
-2. Nếu thông tin không đủ, hãy nói rõ
-3. Trả lời bằng tiếng Việt, dễ hiểu
-4. Có thể tham khảo lớp/bài học cụ thể nếu có
-5. Đưa ra ví dụ thực tế nếu phù hợp
+1. Kết hợp thông tin từ cả sách giáo khoa và tìm kiếm web để đưa ra câu trả lời đầy đủ
+2. Ưu tiên thông tin từ sách giáo khoa khi có sẵn
+3. Bổ sung thêm thông tin từ web để làm rõ hoặc cập nhật kiến thức
+4. Trả lời bằng tiếng Việt, dễ hiểu và chính xác
+5. Có thể tham khảo lớp/bài học cụ thể nếu có
+6. Đưa ra ví dụ thực tế nếu phù hợp
 
 Trả lời:
 """)
-        
-        # Create retrieval function
-        def format_docs(docs):
-            """Format retrieved documents"""
-            formatted = []
-            for doc in docs:
-                content = doc.page_content if hasattr(doc, 'page_content') else doc.get('content', '')
-                metadata = doc.metadata if hasattr(doc, 'metadata') else doc
-                
-                # Add metadata info if available
-                grade = metadata.get('grade', 'N/A')
-                lesson = metadata.get('lesson_title', 'N/A')
-                
-                formatted.append(f"[Lớp {grade} - {lesson}]\n{content}")
-            
-            return "\n\n---\n\n".join(formatted)
-        
-        # Create RAG chain (simplified since we handle retrieval manually in query)
+
+        # Create RAG chain
         rag_chain = (
             prompt_template
             | self.llm
             | StrOutputParser()
         )
-        
+
         return rag_chain
     
     def _get_retriever(self):
@@ -241,7 +233,7 @@ Trả lời:
         collection_name: Optional[str] = None
     ) -> Dict[str, Any]:
         """
-        Query the RAG system
+        Query the RAG system - always combines knowledge base + web search
 
         Args:
             question: User question
@@ -257,70 +249,101 @@ Trả lời:
             if collection_name and collection_name != self.collection_name:
                 self.switch_collection(collection_name)
 
-            # Get retriever and apply grade filter if specified
+            # Get retriever and retrieve documents from knowledge base
             retriever = self._get_retriever()
             retrieved_docs = retriever.invoke(question)
-            
-            logger.info(f"📊 Retrieved {len(retrieved_docs)} documents for query: '{question[:50]}...'")
-            
+
+            logger.info(f"📊 Retrieved {len(retrieved_docs)} documents from knowledge base for query: '{question[:50]}...'")
+
             # Filter by grade if specified
             if grade_filter is not None:
                 original_count = len(retrieved_docs)
                 retrieved_docs = [
-                    doc for doc in retrieved_docs 
+                    doc for doc in retrieved_docs
                     if str(doc.metadata.get('grade', '')).strip() == str(grade_filter)
                 ]
                 logger.info(f"   Filtered by grade {grade_filter}: {original_count} → {len(retrieved_docs)} docs")
-            
-            # Format documents for context
+
+            # Format documents from knowledge base
             def format_docs(docs):
                 """Format retrieved documents"""
                 formatted = []
                 for doc in docs:
                     content = doc.page_content if hasattr(doc, 'page_content') else doc.get('content', '')
                     metadata = doc.metadata if hasattr(doc, 'metadata') else doc
-                    
+
                     # Add metadata info if available
                     grade = metadata.get('grade', 'N/A')
                     lesson = metadata.get('lesson_title', 'N/A')
-                    
+
                     formatted.append(f"[Lớp {grade} - {lesson}]\n{content}")
-                
+
                 return "\n\n---\n\n".join(formatted)
-            
-            # Create context from filtered documents
-            context = format_docs(retrieved_docs)
-            
-            # Get answer from LLM with context
+
+            # Get web search results (always)
+            logger.info("🌐 Performing web search...")
+            web_results = self.web_search.search_and_format(question)
+            web_search_used = web_results and "Không tìm thấy" not in web_results
+
+            # Combine contexts from both sources
+            context_parts = []
+
+            if retrieved_docs:
+                kb_context = format_docs(retrieved_docs)
+                context_parts.append(f"Thông tin từ sách giáo khoa:\n{kb_context}")
+                logger.info(f"✅ Using {len(retrieved_docs)} documents from knowledge base")
+
+            if web_search_used:
+                context_parts.append(f"Thông tin bổ sung từ tìm kiếm web:\n{web_results}")
+                logger.info("✅ Using web search results")
+
+            # Combine all contexts
+            if context_parts:
+                context = "\n\n=== === ===\n\n".join(context_parts)
+            else:
+                context = "Không tìm thấy thông tin từ sách giáo khoa và web. Sử dụng kiến thức tổng quát để trả lời."
+                logger.warning("⚠️  No information found from both sources")
+
+            # Generate answer using combined context
             prompt_input = {
                 "context": context,
                 "question": question
             }
-            
             answer = self.rag_chain.invoke(prompt_input)
-            
+
+            # Build result
             result = {
                 "question": question,
                 "answer": answer,
-                "status": "success"
+                "status": "success",
+                "retrieval_mode": "combined",  # Always combined mode
+                "docs_retrieved": len(retrieved_docs),
+                "fallback_used": False,  # No longer using fallback concept
+                "web_search_used": web_search_used
             }
-            
+
             # Add sources if requested
             if return_sources:
-                logger.info(f"   📎 Adding {len(retrieved_docs)} sources to response")
-                result["sources"] = [
-                    {
-                        "content": doc.page_content[:200] + "..." if len(doc.page_content) > 200 else doc.page_content,
-                        "metadata": doc.metadata,
-                        "score": doc.metadata.get('score', 0)
-                    }
-                    for doc in retrieved_docs
-                ]
-            else:
-                logger.info("   ℹ️  return_sources=False, skipping sources")
-            
+                sources = []
+
+                # Add knowledge base sources
+                if retrieved_docs:
+                    logger.info(f"   📎 Adding {len(retrieved_docs)} knowledge base sources to response")
+                    for doc in retrieved_docs:
+                        sources.append({
+                            "content": doc.page_content[:200] + "..." if len(doc.page_content) > 200 else doc.page_content,
+                            "metadata": doc.metadata,
+                            "score": doc.metadata.get('score', 0)
+                        })
+
+                # Add web search indicator
+                if web_search_used:
+                    sources.append({"type": "web_search", "note": "Thông tin bổ sung từ tìm kiếm web"})
+
+                result["sources"] = sources
+
             return result
-            
+
         except Exception as e:
             logger.error(f"Error in RAG query: {e}")
             return {

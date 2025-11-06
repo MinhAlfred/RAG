@@ -71,6 +71,10 @@ class QuestionResponse(BaseModel):
     sources: Optional[List[SourceInfo]] = Field(None, description="Danh sách nguồn tham khảo")
     processing_time: Optional[float] = Field(None, description="Thời gian xử lý (giây)")
     error: Optional[str] = Field(None, description="Thông báo lỗi nếu có")
+    retrieval_mode: Optional[str] = Field(None, description="Chế độ trả lời (retrieval/fallback)")
+    docs_retrieved: Optional[int] = Field(None, description="Số lượng tài liệu được tìm thấy")
+    fallback_used: Optional[bool] = Field(None, description="Có sử dụng fallback không")
+    web_search_used: Optional[bool] = Field(None, description="Có sử dụng tìm kiếm web không")
 
 
 class SlideContent(BaseModel):

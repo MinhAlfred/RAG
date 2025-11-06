@@ -141,6 +141,10 @@ class Settings(BaseSettings):
 
     # Google Gemini Settings
     GOOGLE_API_KEY: Optional[str] = None
+
+    # RAG Combined Search Settings (always combine knowledge base + web search)
+    WEB_SEARCH_MAX_RESULTS: int = 3  # Number of web search results
+    WEB_SEARCH_REGION: str = "vn-vi"  # Vietnam/Vietnamese region
     
     # Embedding Settings
     EMBEDDING_MODEL: Literal["openai", "multilingual", "vietnamese"] = "multilingual"
