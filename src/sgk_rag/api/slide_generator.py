@@ -9,7 +9,9 @@ from datetime import datetime
 from ..core.rag_pipeline import RAGPipeline
 from ..models.dto import (
     SlideContent, SlideRequest, SlideFormat, SlideType,
-    JsonSlideContent, JsonSlideResponse, JsonSlideMetadata
+    JsonSlideContent, JsonSlideResponse, JsonSlideMetadata,
+    PowerPointLayout, PlaceholderType, PlaceholderContent, BulletPoint,
+    TextAlignment, Position, CodeBlock, ImagePlaceholder
 )
 
 
@@ -562,12 +564,28 @@ Nội dung về {section} trong {topic}.
             )
     
     def _create_json_title_slide(self, topic: str, grade: Optional[int]) -> JsonSlideContent:
-        """Tạo title slide với JSON structure"""
+        """Tạo title slide với JSON structure cho Apache POI"""
         grade_text = f"Lớp {grade}" if grade else "Tin học"
-        
+
+        # Create placeholder content for Apache POI
+        placeholders = [
+            PlaceholderContent(
+                placeholder_type=PlaceholderType.TITLE,
+                text_content=topic,
+                alignment=TextAlignment.CENTER
+            ),
+            PlaceholderContent(
+                placeholder_type=PlaceholderType.SUBTITLE,
+                text_content=grade_text,
+                alignment=TextAlignment.CENTER
+            )
+        ]
+
         return JsonSlideContent(
             slide_number=1,
             type=SlideType.TITLE,
+            layout=PowerPointLayout.TITLE,
+            placeholders=placeholders,
             title=topic,
             subtitle=grade_text,
             notes=f"Slide giới thiệu về chủ đề {topic}",
@@ -636,35 +654,74 @@ Nội dung về {section} trong {topic}.
                 if needs_code and is_programming:
                     code_data = self._generate_code_example(section, topic, grade)
             
-            # Ưu tiên tạo content slide với explanation đầy đủ
-            # Chỉ tạo code slide nếu topic rõ ràng về code
+            # Convert content bullets to BulletPoint objects with formatting
+            formatted_bullets = []
+            for i, bullet_text in enumerate(content_bullets):
+                # First bullet is main point (level 0), rest are sub-points (level 1)
+                level = 0 if i == 0 else 1
+                formatted_bullets.append(BulletPoint(
+                    text=bullet_text,
+                    level=level,
+                    bold=(i == 0),  # First bullet is bold
+                    font_size=18 if level == 0 else 16
+                ))
+
+            # Create placeholder content for Apache POI
+            placeholders = [
+                PlaceholderContent(
+                    placeholder_type=PlaceholderType.TITLE,
+                    text_content=section,
+                    alignment=TextAlignment.LEFT
+                ),
+                PlaceholderContent(
+                    placeholder_type=PlaceholderType.BODY,
+                    bullet_points=formatted_bullets,
+                    alignment=TextAlignment.LEFT
+                )
+            ]
+
+            # Determine if we should create a code slide
             should_create_code_slide = (
-                code_data and 
+                code_data and
                 include_examples and
-                any(keyword in section.lower() 
+                any(keyword in section.lower()
                     for keyword in ['ví dụ', 'example', 'minh họa', 'code', 'lập trình'])
             )
-            
+
             if should_create_code_slide:
-                # Code slide với content explanation
+                # Code slide with structured code block
+                code_block = CodeBlock(
+                    code=code_data['code'],
+                    language=code_data.get('language', 'python'),
+                    font_family="Courier New",
+                    font_size=10,
+                    position=Position(x=1.0, y=2.5, width=8.5, height=4.0)
+                )
+
                 slide = JsonSlideContent(
                     slide_number=slide_number,
                     type=SlideType.CODE,
+                    layout=PowerPointLayout.TITLE_AND_CONTENT,
+                    placeholders=placeholders,
                     title=section,
-                    content=content_bullets,  # Giải thích đầy đủ
+                    content=content_bullets,
+                    code_block=code_block,
+                    notes=f"Slide code về {section} trong chủ đề {topic}",
+                    key_points=content_bullets[:3],
+                    # Deprecated fields for backward compatibility
                     code=code_data['code'],
                     language=code_data.get('language', 'python'),
-                    explanation=code_data.get('explanation', f"Ví dụ về {section}"),
-                    notes=f"Slide code về {section} trong chủ đề {topic}",
-                    key_points=content_bullets[:3]  # Top 3 key points
+                    explanation=code_data.get('explanation', f"Ví dụ về {section}")
                 )
             else:
-                # Content slide thông thường (PRIORITIZE THIS)
+                # Content slide with structured bullet points
                 slide = JsonSlideContent(
                     slide_number=slide_number,
                     type=SlideType.CONTENT,
+                    layout=PowerPointLayout.TITLE_AND_CONTENT,
+                    placeholders=placeholders,
                     title=section,
-                    content=content_bullets,  # List of strings
+                    content=content_bullets,
                     notes=f"Slide về {section} trong chủ đề {topic}",
                     key_points=content_bullets[:3] if len(content_bullets) > 3 else content_bullets
                 )
@@ -702,37 +759,59 @@ Nội dung về {section} trong {topic}.
             }
     
     def _create_json_exercise_slide(self, slide_number: int, topic: str, grade: Optional[int]) -> JsonSlideContent:
-        """Tạo exercise slide với JSON structure"""
-        
+        """Tạo exercise slide với JSON structure cho Apache POI"""
+
         exercise_question = f"""
         Tạo 3-5 câu hỏi bài tập về "{topic}" phù hợp với học sinh lớp {grade if grade else 'trung học'}.
-        
+
         Yêu cầu:
         - Câu hỏi từ dễ đến khó
         - Bao gồm cả lý thuyết và thực hành
         - Phù hợp với nội dung sách giáo khoa
-        
+
         Chỉ liệt kê các câu hỏi, mỗi câu trên một dòng.
         """
-        
+
         try:
             exercise_response = self.rag_pipeline.query(
                 exercise_question,
                 grade_filter=grade,
                 return_sources=False
             )
-            
+
             if isinstance(exercise_response, dict):
                 exercise_text = exercise_response.get('answer', str(exercise_response))
             else:
                 exercise_text = str(exercise_response)
-            
+
             # Parse exercises thành list
             exercises = self._parse_content_to_bullets(exercise_text)
-            
+
+            # Convert to formatted bullet points
+            exercise_bullets = [
+                BulletPoint(text=ex, level=0, font_size=16)
+                for ex in exercises
+            ]
+
+            # Create placeholders for Apache POI
+            placeholders = [
+                PlaceholderContent(
+                    placeholder_type=PlaceholderType.TITLE,
+                    text_content="Bài tập thực hành",
+                    alignment=TextAlignment.LEFT
+                ),
+                PlaceholderContent(
+                    placeholder_type=PlaceholderType.BODY,
+                    bullet_points=exercise_bullets,
+                    alignment=TextAlignment.LEFT
+                )
+            ]
+
             return JsonSlideContent(
                 slide_number=slide_number,
                 type=SlideType.EXERCISE,
+                layout=PowerPointLayout.TITLE_AND_CONTENT,
+                placeholders=placeholders,
                 title="Bài tập thực hành",
                 content=exercises,
                 notes="Thảo luận nhóm 5 phút, sau đó trình bày kết quả",
@@ -742,20 +821,42 @@ Nội dung về {section} trong {topic}.
                     "Giáo viên nhận xét"
                 ]
             )
-            
+
         except Exception as e:
             print(f"Lỗi khi tạo JSON exercise slide: {e}")
-            
+
             # Fallback exercises
+            fallback_exercises = [
+                f"Nêu khái niệm cơ bản về {topic}?",
+                f"Liệt kê các thành phần chính của {topic}?",
+                f"Cho ví dụ ứng dụng của {topic} trong thực tế?"
+            ]
+
+            fallback_bullets = [
+                BulletPoint(text=ex, level=0, font_size=16)
+                for ex in fallback_exercises
+            ]
+
+            placeholders = [
+                PlaceholderContent(
+                    placeholder_type=PlaceholderType.TITLE,
+                    text_content="Bài tập thực hành",
+                    alignment=TextAlignment.LEFT
+                ),
+                PlaceholderContent(
+                    placeholder_type=PlaceholderType.BODY,
+                    bullet_points=fallback_bullets,
+                    alignment=TextAlignment.LEFT
+                )
+            ]
+
             return JsonSlideContent(
                 slide_number=slide_number,
                 type=SlideType.EXERCISE,
+                layout=PowerPointLayout.TITLE_AND_CONTENT,
+                placeholders=placeholders,
                 title="Bài tập thực hành",
-                content=[
-                    f"Nêu khái niệm cơ bản về {topic}?",
-                    f"Liệt kê các thành phần chính của {topic}?",
-                    f"Cho ví dụ ứng dụng của {topic} trong thực tế?"
-                ],
+                content=fallback_exercises,
                 notes="Thảo luận nhóm và trình bày",
                 key_points=["Thảo luận", "Trình bày", "Nhận xét"]
             )

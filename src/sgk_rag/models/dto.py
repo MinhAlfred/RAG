@@ -33,6 +33,47 @@ class SlideType(str, Enum):
     SUMMARY = "summary_slide"
 
 
+class PowerPointLayout(str, Enum):
+    """PowerPoint slide layout types - matches Apache POI XSLFSlideLayout"""
+    TITLE = "TITLE"  # Title slide
+    TITLE_AND_CONTENT = "TITLE_AND_CONTENT"  # Title + body content
+    SECTION_HEADER = "SECTION_HEADER"  # Section header
+    TWO_CONTENT = "TWO_CONTENT"  # Title + two columns
+    COMPARISON = "COMPARISON"  # Side by side comparison
+    TITLE_ONLY = "TITLE_ONLY"  # Title only
+    BLANK = "BLANK"  # Blank slide
+    CONTENT_WITH_CAPTION = "CONTENT_WITH_CAPTION"  # Content with caption
+    PICTURE_WITH_CAPTION = "PICTURE_WITH_CAPTION"  # Picture with caption
+
+
+class PlaceholderType(str, Enum):
+    """PowerPoint placeholder types - matches Apache POI Placeholder enum"""
+    TITLE = "TITLE"  # Main title
+    BODY = "BODY"  # Body text/content
+    CENTERED_TITLE = "CENTERED_TITLE"  # Centered title
+    SUBTITLE = "SUBTITLE"  # Subtitle
+    DATE = "DATE"  # Date placeholder
+    FOOTER = "FOOTER"  # Footer
+    SLIDE_NUMBER = "SLIDE_NUMBER"  # Slide number
+    CONTENT = "CONTENT"  # Generic content
+
+
+class TextAlignment(str, Enum):
+    """Text alignment for Apache POI"""
+    LEFT = "LEFT"
+    CENTER = "CENTER"
+    RIGHT = "RIGHT"
+    JUSTIFY = "JUSTIFY"
+
+
+class Position(BaseModel):
+    """Position and size for elements (images, shapes, tables)"""
+    x: float = Field(..., description="X coordinate in inches")
+    y: float = Field(..., description="Y coordinate in inches")
+    width: float = Field(..., description="Width in inches")
+    height: float = Field(..., description="Height in inches")
+
+
 class QuestionRequest(BaseModel):
     """Request model cho câu hỏi"""
     question: str = Field(..., description="Câu hỏi của người dùng", min_length=1)
@@ -96,28 +137,87 @@ class JsonSlideMetadata(BaseModel):
     grade_level: Optional[str] = Field(None, description="Lớp học")
 
 
+class BulletPoint(BaseModel):
+    """Bullet point with formatting for Apache POI"""
+    text: str = Field(..., description="Nội dung text")
+    level: int = Field(default=0, description="Bullet level (0=main, 1=sub, 2=subsub)", ge=0, le=4)
+    bold: bool = Field(default=False, description="In đậm")
+    italic: bool = Field(default=False, description="In nghiêng")
+    font_size: Optional[int] = Field(None, description="Font size in points", ge=8, le=72)
+
+
+class TableCell(BaseModel):
+    """Table cell data for Apache POI"""
+    text: str = Field(..., description="Cell text content")
+    bold: bool = Field(default=False, description="Bold text")
+    background_color: Optional[str] = Field(None, description="Background color (hex: #RRGGBB)")
+    align: TextAlignment = Field(default=TextAlignment.LEFT, description="Text alignment")
+
+
+class TableData(BaseModel):
+    """Table structure for Apache POI"""
+    headers: List[str] = Field(..., description="Column headers")
+    rows: List[List[TableCell]] = Field(..., description="Table rows with cell data")
+    position: Optional[Position] = Field(None, description="Table position and size")
+    has_header_row: bool = Field(default=True, description="First row is header")
+
+
+class ImagePlaceholder(BaseModel):
+    """Image placeholder for Apache POI"""
+    placeholder_id: str = Field(..., description="Image placeholder identifier (e.g., {image1})")
+    description: str = Field(..., description="Image description for context")
+    suggested_search: Optional[str] = Field(None, description="Suggested search query for image")
+    position: Position = Field(..., description="Image position and size")
+    alt_text: Optional[str] = Field(None, description="Alternative text for accessibility")
+
+
+class CodeBlock(BaseModel):
+    """Code block with formatting for Apache POI"""
+    code: str = Field(..., description="Code snippet")
+    language: str = Field(default="python", description="Programming language")
+    highlight_lines: Optional[List[int]] = Field(None, description="Line numbers to highlight")
+    font_family: str = Field(default="Courier New", description="Monospace font")
+    font_size: int = Field(default=10, description="Font size", ge=8, le=24)
+    position: Optional[Position] = Field(None, description="Code block position")
+
+
+class PlaceholderContent(BaseModel):
+    """Content mapped to specific PowerPoint placeholder"""
+    placeholder_type: PlaceholderType = Field(..., description="PowerPoint placeholder type")
+    text_content: Optional[str] = Field(None, description="Plain text content")
+    bullet_points: Optional[List[BulletPoint]] = Field(None, description="Formatted bullet points")
+    alignment: TextAlignment = Field(default=TextAlignment.LEFT, description="Text alignment")
+
+
 class JsonSlideContent(BaseModel):
-    """Nội dung slide cho JSON format - flexible content type"""
+    """Enhanced slide content for Apache POI PPTX generation"""
     slide_number: int = Field(..., description="Số thứ tự slide", ge=1)
     type: SlideType = Field(..., description="Loại slide")
+    layout: PowerPointLayout = Field(..., description="PowerPoint layout type")
+
+    # Placeholder-based content (PRIMARY - for Apache POI)
+    placeholders: List[PlaceholderContent] = Field(default_factory=list, description="Content mapped to placeholders")
+
+    # Legacy fields (for backward compatibility)
     title: str = Field(..., description="Tiêu đề slide")
-    
-    # Flexible content - can be string, list, or dict
-    content: Optional[Any] = Field(None, description="Nội dung chính - có thể là string, list bullets, hoặc structured data")
     subtitle: Optional[str] = Field(None, description="Phụ đề (cho title slide)")
-    
-    # Code-specific fields
-    code: Optional[str] = Field(None, description="Code snippet (cho code slide)")
-    language: Optional[str] = Field(None, description="Ngôn ngữ lập trình")
-    
-    # Image-specific fields
-    image_placeholder: Optional[str] = Field(None, description="Placeholder cho hình ảnh (vd: {image1})")
-    caption: Optional[str] = Field(None, description="Chú thích hình ảnh")
-    
-    # Common fields
-    explanation: Optional[str] = Field(None, description="Giải thích chi tiết")
+    content: Optional[Any] = Field(None, description="Nội dung chính - simple list of strings for backward compatibility")
+
+    # Structured content (for complex slides)
+    code_block: Optional[CodeBlock] = Field(None, description="Code block with formatting")
+    table: Optional[TableData] = Field(None, description="Table data")
+    images: Optional[List[ImagePlaceholder]] = Field(None, description="Image placeholders")
+
+    # Metadata
     notes: Optional[str] = Field(None, description="Ghi chú cho giáo viên")
     key_points: Optional[List[str]] = Field(None, description="Các điểm chính")
+
+    # Deprecated fields (kept for backward compatibility - DO NOT USE)
+    code: Optional[str] = Field(None, description="[Deprecated] Use code_block.code instead")
+    language: Optional[str] = Field(None, description="[Deprecated] Use code_block.language instead")
+    explanation: Optional[str] = Field(None, description="[Deprecated] Use notes instead")
+    image_placeholder: Optional[str] = Field(None, description="[Deprecated] Use images[] instead")
+    caption: Optional[str] = Field(None, description="[Deprecated] Use images[].description instead")
 
 
 class JsonSlideResponse(BaseModel):
@@ -206,28 +306,66 @@ EXAMPLE_JSON_SLIDE_RESPONSE = {
         {
             "slide_number": 1,
             "type": "title_slide",
+            "layout": "TITLE",
+            "placeholders": [
+                {
+                    "placeholder_type": "TITLE",
+                    "text_content": "Kiểu dữ liệu trong Python",
+                    "alignment": "CENTER"
+                },
+                {
+                    "placeholder_type": "SUBTITLE",
+                    "text_content": "Lớp 10 - Tin học",
+                    "alignment": "CENTER"
+                }
+            ],
             "title": "Kiểu dữ liệu trong Python",
             "subtitle": "Lớp 10 - Tin học"
         },
         {
             "slide_number": 2,
             "type": "content_slide",
-            "title": "Các kiểu dữ liệu cơ bản",
-            "content": [
-                "int (số nguyên)",
-                "float (số thực)",
-                "str (xâu ký tự)",
-                "bool (logic)"
+            "layout": "TITLE_AND_CONTENT",
+            "placeholders": [
+                {
+                    "placeholder_type": "TITLE",
+                    "text_content": "Các kiểu dữ liệu cơ bản",
+                    "alignment": "LEFT"
+                },
+                {
+                    "placeholder_type": "BODY",
+                    "bullet_points": [
+                        {"text": "int: Kiểu số nguyên, dùng để lưu trữ các số không có phần thập phân.", "level": 0, "bold": True, "font_size": 18},
+                        {"text": "float: Kiểu số thực, cho phép lưu trữ số có phần thập phân.", "level": 1, "bold": False, "font_size": 16},
+                        {"text": "str: Kiểu xâu ký tự, dùng để lưu trữ văn bản.", "level": 1, "bold": False, "font_size": 16},
+                        {"text": "bool: Kiểu logic, chỉ có hai giá trị True hoặc False.", "level": 1, "bold": False, "font_size": 16}
+                    ],
+                    "alignment": "LEFT"
+                }
             ],
+            "title": "Các kiểu dữ liệu cơ bản",
+            "content": ["int (số nguyên)", "float (số thực)", "str (xâu ký tự)", "bool (logic)"],
             "notes": "Giải thích chi tiết cho giáo viên"
         },
         {
             "slide_number": 3,
             "type": "code_slide",
+            "layout": "TITLE_AND_CONTENT",
+            "placeholders": [
+                {
+                    "placeholder_type": "TITLE",
+                    "text_content": "Ví dụ minh họa",
+                    "alignment": "LEFT"
+                }
+            ],
             "title": "Ví dụ minh họa",
-            "code": "x = 10  # int\ny = 3.14  # float\nname = 'Python'  # str\nis_valid = True  # bool",
-            "language": "python",
-            "explanation": "Khai báo biến với các kiểu khác nhau"
+            "code_block": {
+                "code": "x = 10  # int\ny = 3.14  # float\nname = 'Python'  # str\nis_valid = True  # bool",
+                "language": "python",
+                "font_family": "Courier New",
+                "font_size": 10,
+                "position": {"x": 1.0, "y": 2.5, "width": 8.5, "height": 4.0}
+            }
         }
     ],
     "metadata": {
