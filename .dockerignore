@@ -1,0 +1,89 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+.venv
+.env
+venv/
+ENV/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+.claude/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+*.cover
+.hypothesis/
+.tox/
+
+# Data directories (exclude large files)
+data/raw/*.pdf
+data/processed/
+data/vectorstores/
+logs/
+debug_output/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Documentation
+docs/_build/
+*.md
+!README.md
+
+# Git
+.git/
+.gitignore
+.gitattributes
+
+# Docker
+Dockerfile*
+docker-compose*
+.dockerignore
+
+# CI/CD
+.github/
+.gitlab-ci.yml
+
+# Other
+*.log
+*.sqlite
+*.db
+chunk_analysis_report.txt
+.pytest_cache
+notebooks/
+tests/

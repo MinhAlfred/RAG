@@ -1,0 +1,38 @@
+version: '3.8'
+
+# Development-specific docker-compose configuration
+# Usage: docker-compose -f docker-compose.yml -f docker-compose.dev.yml up
+
+services:
+  # ============================================
+  # RAG API Service (Development)
+  # ============================================
+  rag-api:
+    build:
+      target: development  # Use development stage
+    volumes:
+      # Mount source code for hot-reload
+      - ./src:/app/src
+      - ./config:/app/config
+      - ./scripts:/app/scripts
+      - ./data:/app/data
+      - ./logs:/app/logs
+      - ./.env:/app/.env
+    environment:
+      - DEBUG=true
+      - LOG_LEVEL=DEBUG
+    command: >
+      uvicorn src.sgk_rag.api.main:app
+      --host 0.0.0.0
+      --port 8000
+      --reload
+      --log-level debug
+    ports:
+      - "8000:8000"
+
+  # ============================================
+  # Qdrant with development settings
+  # ============================================
+  qdrant:
+    environment:
+      - QDRANT__LOG_LEVEL=DEBUG

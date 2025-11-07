@@ -377,10 +377,75 @@ Supports Apache POI-compatible layouts:
 
 ## 🐳 Docker Deployment
 
-### Local Qdrant with Docker
+### Quick Start with Docker
+
 ```bash
-docker run -p 6333:6333 qdrant/qdrant
+# Quick setup (one command)
+make setup
+
+# Or manually
+cp .env.example .env
+# Edit .env with your settings
+docker-compose up -d
 ```
+
+Access the services:
+- **API**: http://localhost:8000
+- **API Docs**: http://localhost:8000/docs
+- **Qdrant Dashboard**: http://localhost:6333/dashboard
+
+### Deployment Options
+
+#### Development Mode (with hot-reload)
+```bash
+make up-dev
+# or
+docker-compose -f docker-compose.yml -f docker-compose.dev.yml up
+```
+
+#### Production Mode (optimized + Nginx)
+```bash
+make up-prod
+# or
+docker-compose -f docker-compose.yml -f docker-compose.prod.yml up -d
+```
+
+#### Full Stack (with Ollama + Eureka)
+```bash
+make up-full
+# or
+docker-compose --profile with-ollama --profile with-eureka up -d
+```
+
+### Available Make Commands
+
+```bash
+make help          # Show all commands
+make build         # Build images
+make up            # Start services
+make down          # Stop services
+make logs          # View logs
+make shell         # Open shell in container
+make test          # Run tests
+make clean         # Clean up containers
+make health        # Check API health
+```
+
+### Docker Architecture
+
+**Services:**
+- **rag-api**: FastAPI application (multi-stage Dockerfile)
+- **qdrant**: Vector database for embeddings
+- **nginx**: Reverse proxy with rate limiting (production)
+- **ollama**: Local LLM server (optional)
+- **eureka**: Service discovery (optional)
+
+**Volumes:**
+- `qdrant_storage`: Persistent vector database
+- `ollama_data`: Local LLM models
+- `./data`: Application data (mounted)
+
+For detailed deployment instructions, see [DEPLOYMENT.md](DEPLOYMENT.md).
 
 ## 📝 Example Usage
 
