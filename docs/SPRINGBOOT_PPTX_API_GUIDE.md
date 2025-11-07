@@ -187,7 +187,7 @@ Each slide in the `slides` array has the following structure:
 ### BulletPoint Object
 ```typescript
 {
-  text: string;        // Bullet point text
+  text: string;        // Bullet point text (max 80 chars for readability)
   level: number;       // Indent level (0-4)
                        // 0 = main bullet
                        // 1 = sub-bullet
@@ -196,6 +196,26 @@ Each slide in the `slides` array has the following structure:
   italic: boolean;     // Italic formatting
   font_size?: number;  // Font size (8-72pt)
 }
+```
+
+**Presentation Best Practices Applied:**
+- ✅ Bullet points are **concise** (max 80 characters)
+- ✅ Maximum **5-6 bullets per slide**
+- ✅ Each bullet contains **one key idea**
+- ✅ Uses **simple, clear language**
+- ✅ Detailed explanations go in **`notes`** field (for speaker notes)
+
+**Example - Good vs Bad:**
+
+✅ **GOOD** (Concise):
+```json
+{"text": "int - Số nguyên (vd: 1, 2, -5)", "level": 0}
+{"text": "float - Số thực (vd: 3.14, -0.5)", "level": 0}
+```
+
+❌ **BAD** (Too verbose):
+```json
+{"text": "int là kiểu dữ liệu số nguyên dùng để lưu trữ các số không có phần thập phân và có thể là số dương hoặc số âm", "level": 0}
 ```
 
 ### CodeBlock Object
@@ -491,6 +511,61 @@ public class PowerPointService {
 
         return out;
     }
+}
+```
+
+---
+
+## Presentation Design Best Practices
+
+### Slide Content Guidelines
+
+The API automatically follows presentation best practices:
+
+**1. Concise Bullet Points (5-10 words max)**
+- Slides are designed for visual impact, not reading
+- Bullet points are limited to 80 characters
+- Maximum 5-6 bullets per slide
+- One key idea per bullet
+
+**2. Separation of Visual vs. Detailed Content**
+```json
+{
+  "placeholders": [
+    {
+      "placeholder_type": "BODY",
+      "bullet_points": [
+        {"text": "int - Số nguyên (vd: 1, 2, -5)", "level": 0}  // VISUAL: Short & punchy
+      ]
+    }
+  ],
+  "notes": "Giải thích chi tiết: int dùng cho số không có phần thập phân..."  // DETAILS: For speaker
+}
+```
+
+**What goes WHERE:**
+- **`bullet_points`** → Visual content on slide (concise, 5-10 words)
+- **`notes`** → Speaker notes / detailed explanations (can be longer)
+- **`key_points`** → Summary for quick reference
+
+**3. Visual Hierarchy**
+```json
+{
+  "bullet_points": [
+    {"text": "Main concept", "level": 0, "bold": true, "font_size": 18},
+    {"text": "Supporting detail", "level": 1, "bold": false, "font_size": 16}
+  ]
+}
+```
+
+**4. Use Code Slides for Examples**
+Instead of text-heavy explanations, use dedicated code slides:
+```json
+{
+  "type": "code_slide",
+  "code_block": {
+    "code": "x = 10  # int\ny = 3.14  # float"
+  }
 }
 ```
 

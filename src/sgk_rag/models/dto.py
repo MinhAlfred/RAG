@@ -335,17 +335,17 @@ EXAMPLE_JSON_SLIDE_RESPONSE = {
                 {
                     "placeholder_type": "BODY",
                     "bullet_points": [
-                        {"text": "int: Kiểu số nguyên, dùng để lưu trữ các số không có phần thập phân.", "level": 0, "bold": True, "font_size": 18},
-                        {"text": "float: Kiểu số thực, cho phép lưu trữ số có phần thập phân.", "level": 1, "bold": False, "font_size": 16},
-                        {"text": "str: Kiểu xâu ký tự, dùng để lưu trữ văn bản.", "level": 1, "bold": False, "font_size": 16},
-                        {"text": "bool: Kiểu logic, chỉ có hai giá trị True hoặc False.", "level": 1, "bold": False, "font_size": 16}
+                        {"text": "int - Số nguyên (vd: 1, 2, -5)", "level": 0, "bold": True, "font_size": 18},
+                        {"text": "float - Số thực (vd: 3.14, -0.5)", "level": 0, "bold": False, "font_size": 18},
+                        {"text": "str - Chuỗi ký tự (vd: 'Hello')", "level": 0, "bold": False, "font_size": 18},
+                        {"text": "bool - Giá trị logic (True/False)", "level": 0, "bold": False, "font_size": 18}
                     ],
                     "alignment": "LEFT"
                 }
             ],
             "title": "Các kiểu dữ liệu cơ bản",
-            "content": ["int (số nguyên)", "float (số thực)", "str (xâu ký tự)", "bool (logic)"],
-            "notes": "Giải thích chi tiết cho giáo viên"
+            "content": ["int - Số nguyên", "float - Số thực", "str - Chuỗi ký tự", "bool - Logic"],
+            "notes": "Giải thích chi tiết: int dùng cho số không có phần thập phân, float cho số có phần thập phân, str cho văn bản, bool cho điều kiện đúng/sai"
         },
         {
             "slide_number": 3,

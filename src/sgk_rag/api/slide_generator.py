@@ -602,23 +602,29 @@ Nội dung về {section} trong {topic}.
         
         # Tạo câu hỏi chi tiết cho section
         content_question = f"""
-        Giải thích chi tiết về "{section}" trong chủ đề "{topic}" cho học sinh lớp {grade if grade else 'trung học'}.
-        
+        Tạo slide về "{section}" trong chủ đề "{topic}" cho học sinh lớp {grade if grade else 'trung học'}.
+
         YÊU CẦU BẮT BUỘC:
-        1. Giải thích khái niệm cơ bản
-        2. Liệt kê 3-5 điểm chính (mỗi điểm 1-2 câu)
-        3. Sử dụng ngôn ngữ đơn giản, dễ hiểu
-        4. Cung cấp thông tin chính xác từ SGK
-        
-        FORMAT:
-        - Mỗi điểm bắt đầu bằng số hoặc dấu đầu dòng
-        - Mỗi điểm là 1 câu hoàn chỉnh (có dấu chấm cuối)
-        - Không dùng heading (##)
-        
-        Ví dụ format:
-        1. Định nghĩa: ...
-        2. Đặc điểm chính: ...
-        3. Ứng dụng: ...
+        1. Tạo 4-6 bullet points NGẮN GỌN (tối đa 8-10 từ mỗi điểm)
+        2. Mỗi điểm phải súc tích, dễ nhớ, dễ đọc
+        3. Không giải thích dài dòng - chỉ nêu ý chính
+        4. Sử dụng từ khóa, tránh câu văn dài
+
+        FORMAT SLIDE HIỆU QUẢ:
+        - Bullet points: 8-10 từ tối đa
+        - Một ý chính mỗi bullet
+        - Không dùng câu phức tạp
+        - Dùng động từ mạnh
+
+        VÍ DỤ TỐT:
+        • int - Số nguyên không có phần thập phân
+        • float - Số thực với phần thập phân
+        • str - Xâu ký tự, văn bản
+
+        VÍ DỤ XẤU (quá dài):
+        • int là kiểu dữ liệu số nguyên dùng để lưu trữ các số không có phần thập phân và có thể dương hoặc âm
+
+        CHỈ TRẢ VỀ BULLET POINTS, không giải thích thêm.
         """
         
         try:
@@ -861,80 +867,69 @@ Nội dung về {section} trong {topic}.
                 key_points=["Thảo luận", "Trình bày", "Nhận xét"]
             )
     
+    def _make_bullet_concise(self, text: str, max_chars: int = 80) -> str:
+        """Make bullet point concise for better presentation"""
+        # Remove extra whitespace
+        text = ' '.join(text.split())
+
+        # If already short, return as is
+        if len(text) <= max_chars:
+            return text
+
+        # Try to truncate at word boundary
+        if len(text) > max_chars:
+            truncated = text[:max_chars].rsplit(' ', 1)[0]
+            # Only add ellipsis if we cut off significant content
+            if len(text) - len(truncated) > 10:
+                return truncated + '...'
+            return truncated
+
+        return text
+
     def _parse_content_to_bullets(self, text: str) -> List[str]:
-        """Parse text thành list of bullet points"""
+        """Parse text thành list of concise bullet points (good for presentations)"""
         bullets = []
         lines = text.split('\n')
-        
-        current_paragraph = []
-        
+
         for line in lines:
             line = line.strip()
-            
-            # Bỏ qua dòng trống và header markdown
-            if not line or line.startswith('##'):
-                # Nếu có paragraph đang xây dựng, thêm vào bullets
-                if current_paragraph:
-                    bullets.append(' '.join(current_paragraph))
-                    current_paragraph = []
+
+            # Skip empty lines and markdown headers
+            if not line or line.startswith('##') or line.startswith('#'):
                 continue
-            
-            # Loại bỏ số thứ tự, dấu đầu dòng
-            clean_line = line.lstrip('0123456789.-*•:) ').strip()
-            
-            # Bỏ qua dòng quá ngắn (< 10 ký tự)
-            if len(clean_line) < 10:
+
+            # Remove bullet markers and numbering
+            clean_line = line.lstrip('0123456789.-*•:)→ ').strip()
+
+            # Skip very short lines (likely not real content)
+            if len(clean_line) < 5:
                 continue
-            
-            # Nếu là câu hoàn chỉnh (kết thúc bằng . ! ?) -> add bullet
-            if clean_line.endswith(('.', '!', '?', ':', '；')):
-                if current_paragraph:
-                    current_paragraph.append(clean_line)
-                    bullets.append(' '.join(current_paragraph))
-                    current_paragraph = []
-                else:
-                    bullets.append(clean_line)
-            else:
-                # Câu chưa kết thúc, thêm vào paragraph
-                current_paragraph.append(clean_line)
-        
-        # Thêm paragraph cuối cùng nếu có
-        if current_paragraph:
-            bullets.append(' '.join(current_paragraph))
-        
-        # Nếu không parse được gì, chia text thành các đoạn dài hơn
+
+            # Skip lines that look like instructions or meta-content
+            if any(keyword in clean_line.lower() for keyword in ['ví dụ tốt', 'ví dụ xấu', 'yêu cầu', 'format']):
+                continue
+
+            # Make bullet concise (max 80 chars)
+            concise_bullet = self._make_bullet_concise(clean_line, max_chars=80)
+
+            # Add to bullets list
+            if concise_bullet and len(concise_bullet) >= 5:
+                bullets.append(concise_bullet)
+
+        # If no bullets found, try to split by sentences
         if not bullets:
-            # Chia theo câu (dựa vào dấu chấm)
-            sentences = [s.strip() for s in text.split('.') if len(s.strip()) > 15]
-            if sentences:
-                bullets = [s + '.' for s in sentences[:5]]  # Top 5 sentences
-            else:
-                # Last resort: trả về text gốc (split by space nếu quá dài)
-                if len(text) > 200:
-                    # Chia thành các phần 150-200 ký tự
-                    words = text.split()
-                    current_chunk = []
-                    current_length = 0
-                    
-                    for word in words:
-                        if current_length + len(word) > 200:
-                            bullets.append(' '.join(current_chunk))
-                            current_chunk = [word]
-                            current_length = len(word)
-                        else:
-                            current_chunk.append(word)
-                            current_length += len(word) + 1
-                    
-                    if current_chunk:
-                        bullets.append(' '.join(current_chunk))
-                else:
-                    bullets = [text.strip()]
-        
-        # Giới hạn độ dài mỗi bullet (max 300 chars)
-        bullets = [b[:300] + '...' if len(b) > 300 else b for b in bullets]
-        
-        # Limit total bullets (5-7 bullets tối đa cho mỗi slide)
-        return bullets[:7]
+            sentences = [s.strip() for s in text.split('.') if len(s.strip()) > 10]
+            for sentence in sentences[:6]:
+                concise = self._make_bullet_concise(sentence, max_chars=80)
+                if concise:
+                    bullets.append(concise)
+
+        # Fallback: use first 80 chars of text
+        if not bullets and text.strip():
+            bullets.append(self._make_bullet_concise(text, max_chars=80))
+
+        # Limit to 5-6 bullets per slide (presentation best practice)
+        return bullets[:6]
     
     def _generate_code_example(self, section: str, topic: str, grade: Optional[int]) -> Optional[Dict[str, str]]:
         """Tạo code example nếu phù hợp"""
