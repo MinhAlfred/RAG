@@ -16,7 +16,7 @@ logs/
 
 # Environment
 .env
-.env.example
+# Note: .env.example is NOT ignored - it should be committed as a template
 # IDE
 .vscode/
 .idea/

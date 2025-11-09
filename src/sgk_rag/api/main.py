@@ -7,7 +7,7 @@ from datetime import datetime
 from typing import List, Dict, Any
 from pathlib import Path
 
-from fastapi import FastAPI, HTTPException, BackgroundTasks
+from fastapi import FastAPI, HTTPException, BackgroundTasks, Depends
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import JSONResponse
 
@@ -22,6 +22,7 @@ from ..models.dto import (
 from .slide_generator import SlideGenerator
 from .mindmap_generator import MindmapGenerator
 from .eureka_config import EurekaConfig, register_with_eureka_async, stop_eureka_async
+from .auth import verify_api_key
 
 
 # Khởi tạo FastAPI app
@@ -188,11 +189,16 @@ async def health_check():
 
 
 @app.post("/ask", response_model=QuestionResponse)
-async def ask_question(request: QuestionRequest):
+async def ask_question(
+    request: QuestionRequest,
+    api_key: str = Depends(verify_api_key)
+):
     """
     Endpoint để hỏi câu hỏi
 
     Luôn kết hợp thông tin từ cả sách giáo khoa (knowledge base) và tìm kiếm web để đưa ra câu trả lời toàn diện
+
+    Requires: X-API-Key header
     """
     start_time = time.time()
 
@@ -268,8 +274,15 @@ async def ask_question(request: QuestionRequest):
 
 
 @app.post("/ask/batch", response_model=BatchQuestionResponse)
-async def ask_batch_questions(request: BatchQuestionRequest):
-    """Endpoint để hỏi nhiều câu hỏi cùng lúc"""
+async def ask_batch_questions(
+    request: BatchQuestionRequest,
+    api_key: str = Depends(verify_api_key)
+):
+    """
+    Endpoint để hỏi nhiều câu hỏi cùng lúc
+
+    Requires: X-API-Key header
+    """
     start_time = time.time()
     
     try:
@@ -326,8 +339,15 @@ async def ask_batch_questions(request: BatchQuestionRequest):
 
 
 @app.post("/slides/generate", response_model=SlideResponse)
-async def generate_slides(request: SlideRequest):
-    """Endpoint để tạo slides (legacy - trả về SlideResponse)"""
+async def generate_slides(
+    request: SlideRequest,
+    api_key: str = Depends(verify_api_key)
+):
+    """
+    Endpoint để tạo slides (legacy - trả về SlideResponse)
+
+    Requires: X-API-Key header
+    """
     start_time = time.time()
     
     try:
@@ -392,15 +412,20 @@ async def generate_slides(request: SlideRequest):
 
 
 @app.post("/slides/generate/json", response_model=JsonSlideResponse)
-async def generate_slides_json(request: SlideRequest):
+async def generate_slides_json(
+    request: SlideRequest,
+    api_key: str = Depends(verify_api_key)
+):
     """
     Endpoint để tạo slides với JSON structure - dành cho Spring Boot integration
-    
+
     Trả về structured JSON với:
     - Typed slides (title, content, code, image, exercise)
     - Flexible content (string, list, dict)
     - Metadata (duration, sources, timestamp)
     - Type-safe với Pydantic models
+
+    Requires: X-API-Key header
     """
     try:
         if slide_generator is None:
@@ -440,7 +465,10 @@ async def get_slide_formats():
 
 
 @app.post("/mindmap/generate", response_model=MindmapResponse)
-async def generate_mindmap(request: MindmapRequest):
+async def generate_mindmap(
+    request: MindmapRequest,
+    api_key: str = Depends(verify_api_key)
+):
     """
     Endpoint để tạo mindmap (sơ đồ tư duy) từ topic
 
@@ -458,6 +486,8 @@ async def generate_mindmap(request: MindmapRequest):
             "max_branches": 6,
             "include_examples": true
         }
+
+    Requires: X-API-Key header
     """
     try:
         if mindmap_generator is None:

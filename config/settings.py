@@ -167,6 +167,7 @@ class Settings(BaseSettings):
 
     # API Keys
     OPENAI_API_KEY: Optional[str] = None
+    RAG_API_KEY: Optional[str] = None  # API key for securing RAG endpoints
 
     class Config:
         env_file = ".env"
