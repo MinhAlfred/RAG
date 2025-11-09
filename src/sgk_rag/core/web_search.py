@@ -2,7 +2,7 @@
 
 import logging
 from typing import List, Dict, Optional
-from duckduckgo_search import DDGS
+from ddgs import DDGS
 
 logger = logging.getLogger(__name__)
 
