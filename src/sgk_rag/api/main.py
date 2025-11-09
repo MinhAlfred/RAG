@@ -16,9 +16,11 @@ from ..models.dto import (
     QuestionRequest, QuestionResponse, SlideRequest, SlideResponse,
     HealthResponse, ErrorResponse, BatchQuestionRequest, BatchQuestionResponse,
     SourceInfo, SlideContent, QuestionType, SlideFormat,
-    JsonSlideResponse  # Import JSON response model
+    JsonSlideResponse,  # Import JSON response model
+    MindmapRequest, MindmapResponse  # Import mindmap models
 )
 from .slide_generator import SlideGenerator
+from .mindmap_generator import MindmapGenerator
 from .eureka_config import EurekaConfig, register_with_eureka_async, stop_eureka_async
 
 
@@ -43,13 +45,14 @@ app.add_middleware(
 # Global variables
 rag_pipeline: RAGPipeline = None
 slide_generator: SlideGenerator = None
+mindmap_generator: MindmapGenerator = None
 
 
 @app.on_event("startup")
 async def startup_event():
     """Khởi tạo RAG pipeline khi start server"""
-    global rag_pipeline, slide_generator
-    
+    global rag_pipeline, slide_generator, mindmap_generator
+
     try:
         print("\n" + "="*70)
         print("🚀 ĐANG KHỞI TẠO RAG PIPELINE")
@@ -78,6 +81,9 @@ async def startup_event():
 
         # Khởi tạo slide generator
         slide_generator = SlideGenerator(rag_pipeline)
+
+        # Khởi tạo mindmap generator
+        mindmap_generator = MindmapGenerator(rag_pipeline)
 
         print("\n✅ RAG Pipeline đã sẵn sàng!")
         print("="*70)
@@ -433,6 +439,47 @@ async def get_slide_formats():
     }
 
 
+@app.post("/mindmap/generate", response_model=MindmapResponse)
+async def generate_mindmap(request: MindmapRequest):
+    """
+    Endpoint để tạo mindmap (sơ đồ tư duy) từ topic
+
+    Args:
+        request: MindmapRequest chứa topic và các tùy chọn
+
+    Returns:
+        MindmapResponse: Cấu trúc mindmap với centerNode, nodes, connections
+
+    Example request:
+        {
+            "topic": "Cấu trúc dữ liệu",
+            "grade": 10,
+            "max_depth": 3,
+            "max_branches": 6,
+            "include_examples": true
+        }
+    """
+    try:
+        if mindmap_generator is None:
+            raise HTTPException(status_code=503, detail="Mindmap generator chưa sẵn sàng")
+
+        # Generate mindmap
+        response = mindmap_generator.generate_mindmap(request)
+
+        return response
+
+    except HTTPException:
+        raise
+    except Exception as e:
+        print(f"\n❌ Error generating mindmap: {str(e)}")
+        print(traceback.format_exc())
+
+        raise HTTPException(
+            status_code=500,
+            detail=f"Failed to generate mindmap: {str(e)}"
+        )
+
+
 @app.get("/question/types")
 async def get_question_types():
     """Lấy danh sách các loại câu hỏi hỗ trợ"""
@@ -509,8 +556,9 @@ async def get_system_stats():
             "api_info": {
                 "version": "1.0.0",
                 "endpoints": [
-                    "/ask", "/ask/batch", "/slides/generate",
-                    "/health", "/stats", "/question/types", "/slides/formats", "/collections"
+                    "/ask", "/ask/batch", "/slides/generate", "/slides/generate/json",
+                    "/mindmap/generate", "/health", "/stats", "/question/types",
+                    "/slides/formats", "/collections"
                 ],
                 "models": {
                     "llm": f"{settings.LLM_TYPE}/{settings.MODEL_NAME}",
