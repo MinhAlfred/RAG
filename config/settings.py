@@ -169,6 +169,17 @@ class Settings(BaseSettings):
     OPENAI_API_KEY: Optional[str] = None
     RAG_API_KEY: Optional[str] = None  # API key for securing RAG endpoints
 
+    # Database Settings (Supabase PostgreSQL)
+    # Option 1: Single connection string
+    DATABASE_URL: Optional[str] = None  # postgresql://postgres:[PASSWORD]@db.xxx.supabase.co:5432/postgres
+
+    # Option 2: Separate connection parameters (will be used if DATABASE_URL is not set)
+    user: Optional[str] = None
+    password: Optional[str] = None
+    host: Optional[str] = None
+    port: Optional[str] = "5432"
+    dbname: Optional[str] = None
+
     class Config:
         env_file = ".env"
         env_file_encoding = "utf-8"

@@ -137,9 +137,11 @@ class SlideGenerator:
         """
         
         try:
+            # Note: grade_filter is used to adjust prompt complexity, not filter documents
+            # This allows using the most relevant content from all grades
             response = self.rag_pipeline.query(
-                outline_question, 
-                grade_filter=grade, 
+                outline_question,
+                grade_filter=grade,
                 return_sources=True
             )
             
@@ -206,8 +208,10 @@ class SlideGenerator:
         
         Chỉ trả về nội dung giải thích, không cần tiêu đề.
         """
-        
+
         try:
+            # Grade is passed to adjust language complexity in prompts
+            # Documents from all grades will be considered for best relevance
             content_response = self.rag_pipeline.query(
                 content_question,
                 grade_filter=grade,
@@ -626,8 +630,9 @@ Nội dung về {section} trong {topic}.
 
         CHỈ TRẢ VỀ BULLET POINTS, không giải thích thêm.
         """
-        
+
         try:
+            # Grade adjusts explanation level; all grades' documents are searched
             content_response = self.rag_pipeline.query(
                 content_question,
                 grade_filter=grade,

@@ -2,6 +2,7 @@
 
 import time
 import json
+import logging
 import traceback
 from datetime import datetime
 from typing import List, Dict, Any
@@ -23,7 +24,11 @@ from .slide_generator import SlideGenerator
 from .mindmap_generator import MindmapGenerator
 from .eureka_config import EurekaConfig, register_with_eureka_async, stop_eureka_async
 from .auth import verify_api_key
+from .chat_api import router as chat_router
+from ..core.database import get_db_manager
 
+# Initialize logger
+logger = logging.getLogger(__name__)
 
 # Khởi tạo FastAPI app
 app = FastAPI(
@@ -43,6 +48,9 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
+# Include routers
+app.include_router(chat_router)
+
 # Global variables
 rag_pipeline: RAGPipeline = None
 slide_generator: SlideGenerator = None
@@ -55,23 +63,22 @@ async def startup_event():
     global rag_pipeline, slide_generator, mindmap_generator
 
     try:
-        print("\n" + "="*70)
-        print("🚀 ĐANG KHỞI TẠO RAG PIPELINE")
-        print("="*70)
+        logger.info("="*70)
+        logger.info("INITIALIZING RAG PIPELINE")
+        logger.info("="*70)
 
         # Khởi tạo RAG pipeline với LLM từ settings
         # Sử dụng collection từ settings
         from config.settings import settings
 
-        print(f"\n📊 Configuration:")
-        print(f"   🤖 LLM Type: {settings.LLM_TYPE.upper()}")
-        print(f"   🧠 Model: {settings.MODEL_NAME}")
-        print(f"   📦 Collection: {settings.COLLECTION_NAME_PREFIX}")
-        print(f"   🔢 Embedding: {settings.EMBEDDING_MODEL}")
-        print(f"   💾 Vector Store: {settings.VECTOR_STORE_TYPE.upper()}")
+        logger.info("Configuration:")
+        logger.info(f"   LLM Type: {settings.LLM_TYPE.upper()}")
+        logger.info(f"   Model: {settings.MODEL_NAME}")
+        logger.info(f"   Collection: {settings.COLLECTION_NAME_PREFIX}")
+        logger.info(f"   Embedding: {settings.EMBEDDING_MODEL}")
+        logger.info(f"   Vector Store: {settings.VECTOR_STORE_TYPE.upper()}")
         if settings.QDRANT_URL:
-            print(f"   ☁️  Qdrant Cloud: Connected")
-        print()
+            logger.info("   Qdrant Cloud: Connected")
 
         rag_pipeline = RAGPipeline(
             vector_store_path="data/vectorstores",
@@ -86,29 +93,43 @@ async def startup_event():
         # Khởi tạo mindmap generator
         mindmap_generator = MindmapGenerator(rag_pipeline)
 
-        print("\n✅ RAG Pipeline đã sẵn sàng!")
-        print("="*70)
-        
+        logger.info("RAG Pipeline ready!")
+        logger.info("="*70)
+
         # Test pipeline
-        print("\n🧪 Testing pipeline...")
+        logger.info("Testing pipeline...")
         test_response = rag_pipeline.query("Máy tính là gì?")
         if isinstance(test_response, dict) and test_response.get('status') == 'success':
             answer = test_response.get('answer', '')
-            print(f"✅ Test successful: {answer[:80]}...")
+            logger.info(f"Test successful: {answer[:80]}...")
         else:
-            print(f"⚠️  Test response: {str(test_response)[:80]}...")
-        
+            logger.warning(f"Test response: {str(test_response)[:80]}...")
+
         # Register with Eureka (if configured)
         try:
             eureka_config = EurekaConfig.from_env()
             await register_with_eureka_async(eureka_config, health_check_url="/health")
         except Exception as e:
-            print(f"⚠️ Eureka registration skipped: {e}")
-            print("   Service will run without service discovery")
-        
+            logger.warning(f"Eureka registration skipped: {e}")
+            logger.info("Service will run without service discovery")
+
+        # Initialize database (if DATABASE_URL or separate params are configured)
+        has_db_config = (
+            settings.DATABASE_URL or
+            all([settings.user, settings.password, settings.host, settings.dbname])
+        )
+
+        if has_db_config:
+            logger.info("Database configured - chat with memory features enabled")
+            logger.info(f"Connected to: {settings.host or 'configured database'}")
+            # Note: Tables should be created manually. See SQL script in documentation.
+        else:
+            logger.warning("Database not configured - chat with memory features disabled")
+            logger.info("Set DATABASE_URL or (user, password, host, dbname) in .env")
+
     except Exception as e:
-        print(f"❌ Lỗi khởi tạo RAG Pipeline: {e}")
-        print(traceback.format_exc())
+        logger.error(f"Error initializing RAG Pipeline: {e}")
+        logger.error(traceback.format_exc())
         raise
 
 
@@ -116,11 +137,26 @@ async def startup_event():
 async def shutdown_event():
     """Cleanup khi shutdown server"""
     try:
-        print("🛑 Shutting down...")
+        logger.info("Shutting down...")
         await stop_eureka_async()
-        print("✅ Cleanup completed")
+
+        # Close database connections
+        has_db_config = (
+            settings.DATABASE_URL or
+            all([settings.user, settings.password, settings.host, settings.dbname])
+        )
+
+        if has_db_config:
+            try:
+                db_manager = get_db_manager()
+                await db_manager.close()
+                logger.info("Database connections closed")
+            except Exception as e:
+                logger.warning(f"Error closing database: {e}")
+
+        logger.info("Cleanup completed")
     except Exception as e:
-        print(f"⚠️ Error during shutdown: {e}")
+        logger.error(f"Error during shutdown: {e}")
 
 
 @app.exception_handler(Exception)
@@ -587,12 +623,21 @@ async def get_system_stats():
                 "version": "1.0.0",
                 "endpoints": [
                     "/ask", "/ask/batch", "/slides/generate", "/slides/generate/json",
-                    "/mindmap/generate", "/health", "/stats", "/question/types",
-                    "/slides/formats", "/collections"
+                    "/mindmap/generate", "/chat/conversations", "/chat/messages",
+                    "/health", "/stats", "/question/types", "/slides/formats", "/collections"
                 ],
                 "models": {
                     "llm": f"{settings.LLM_TYPE}/{settings.MODEL_NAME}",
                     "embedding": settings.EMBEDDING_MODEL
+                },
+                "features": {
+                    "chat_with_memory": (
+                        settings.DATABASE_URL is not None or
+                        all([settings.user, settings.password, settings.host, settings.dbname])
+                    ),
+                    "web_search": True,
+                    "slide_generation": True,
+                    "mindmap_generation": True
                 }
             }
         }

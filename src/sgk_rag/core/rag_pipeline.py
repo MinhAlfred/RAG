@@ -237,7 +237,9 @@ Trả lời:
 
         Args:
             question: User question
-            grade_filter: Filter by specific grade
+            grade_filter: Grade level for adjusting explanation complexity (not used to filter documents)
+                         The most relevant documents from all grades will be retrieved,
+                         but prompts will adjust language to the specified grade level
             return_sources: Whether to return source documents
             collection_name: Optional collection name to query from
 
@@ -255,14 +257,11 @@ Trả lời:
 
             logger.info(f"📊 Retrieved {len(retrieved_docs)} documents from knowledge base for query: '{question[:50]}...'")
 
-            # Filter by grade if specified
+            # Note: grade_filter is NOT used for filtering documents
+            # Instead, grade is used in prompts to adjust language complexity and explanation level
+            # This allows the LLM to use the most relevant content from all grades
             if grade_filter is not None:
-                original_count = len(retrieved_docs)
-                retrieved_docs = [
-                    doc for doc in retrieved_docs
-                    if str(doc.metadata.get('grade', '')).strip() == str(grade_filter)
-                ]
-                logger.info(f"   Filtered by grade {grade_filter}: {original_count} → {len(retrieved_docs)} docs")
+                logger.info(f"   📚 Grade {grade_filter} will be used to adjust explanation level in prompts")
 
             # Format documents from knowledge base
             def format_docs(docs):
