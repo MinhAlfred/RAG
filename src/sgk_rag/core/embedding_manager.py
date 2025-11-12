@@ -5,7 +5,6 @@ from typing import List, Optional
 from pathlib import Path
 from tqdm import tqdm
 
-from langchain_openai import OpenAIEmbeddings
 from langchain_community.embeddings import HuggingFaceEmbeddings
 
 from ..models.document import Chunk
@@ -48,6 +47,12 @@ class EmbeddingManager:
     def _initialize_embeddings(self):
         """Initialize embedding model"""
         if self.model_name == "openai":
+            # Lazy import - only import if needed
+            try:
+                from langchain_openai import OpenAIEmbeddings
+            except ImportError:
+                raise ImportError("langchain-openai not installed. Install with: pip install langchain-openai")
+
             if not settings.OPENAI_API_KEY:
                 raise ValueError("OPENAI_API_KEY not set")
 

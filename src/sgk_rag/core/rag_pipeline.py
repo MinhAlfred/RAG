@@ -5,8 +5,6 @@ from pathlib import Path
 from typing import List, Dict, Optional, Any, Literal
 import json
 
-from langchain_openai import ChatOpenAI
-from langchain_community.llms import Ollama
 from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.output_parsers import StrOutputParser
@@ -111,6 +109,12 @@ class RAGPipeline:
     def _initialize_llm(self, model_name: Optional[str]):
         """Initialize Language Model"""
         if self.llm_type == "openai":
+            # Lazy import - only import if needed
+            try:
+                from langchain_openai import ChatOpenAI
+            except ImportError:
+                raise ImportError("langchain-openai not installed. Install with: pip install langchain-openai")
+
             if not settings.OPENAI_API_KEY:
                 raise ValueError("OPENAI_API_KEY not set for OpenAI")
 
@@ -122,6 +126,12 @@ class RAGPipeline:
             )
 
         elif self.llm_type == "ollama":
+            # Lazy import - only import if needed
+            try:
+                from langchain_community.llms import Ollama
+            except ImportError:
+                raise ImportError("Ollama support requires langchain-community. Ensure it's installed.")
+
             model = model_name or "llama3.2:3b"
             return Ollama(
                 model=model,

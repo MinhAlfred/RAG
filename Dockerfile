@@ -3,7 +3,7 @@
 # ============================================
 
 # Stage 1: Base image with dependencies
-FROM python:3.11-slim as base
+FROM python:3.11-slim AS base
 
 # Set environment variables
 ENV PYTHONUNBUFFERED=1 \
@@ -20,7 +20,7 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
     tesseract-ocr-vie \
     tesseract-ocr-eng \
     poppler-utils \
-    libgl1-mesa-glx \
+    libgl1 \
     libglib2.0-0 \
     && rm -rf /var/lib/apt/lists/*
 
@@ -33,7 +33,7 @@ COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 
 # Stage 2: Development image
-FROM base as development
+FROM base AS development
 
 # Copy application code
 COPY . .
@@ -52,7 +52,7 @@ HEALTHCHECK --interval=30s --timeout=10s --start-period=40s --retries=3 \
 CMD ["python", "scripts/run_api.py"]
 
 # Stage 3: Production image (optimized)
-FROM base as production
+FROM base AS production
 
 # Copy only necessary files
 COPY src ./src

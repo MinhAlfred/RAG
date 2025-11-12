@@ -5,7 +5,6 @@ from pathlib import Path
 from typing import List, Optional, Dict, Any
 import json
 
-from langchain_community.vectorstores import Chroma, FAISS
 from langchain_qdrant import QdrantVectorStore
 from qdrant_client import QdrantClient
 from qdrant_client.models import Distance, VectorParams
@@ -141,6 +140,12 @@ class VectorStoreManager:
             batch_size: int
     ):
         """Create ChromaDB vector store"""
+        # Lazy import - only import if needed
+        try:
+            from langchain_community.vectorstores import Chroma
+        except ImportError:
+            raise ImportError("chromadb not installed. Install with: pip install chromadb")
+
         persist_path = self.persist_directory / "chroma_db" / collection_name
         persist_path.parent.mkdir(parents=True, exist_ok=True)
 
@@ -179,6 +184,12 @@ class VectorStoreManager:
             batch_size: int
     ):
         """Create FAISS vector store"""
+        # Lazy import - only import if needed
+        try:
+            from langchain_community.vectorstores import FAISS
+        except ImportError:
+            raise ImportError("faiss not installed. Install with: pip install faiss-cpu")
+
         logger.info(f"⚡ Creating FAISS index...")
 
         # Create index
@@ -249,6 +260,12 @@ class VectorStoreManager:
         logger.info(f"📂 Loading vector store: {collection_name}")
 
         if self.store_type == "chroma":
+            # Lazy import
+            try:
+                from langchain_community.vectorstores import Chroma
+            except ImportError:
+                raise ImportError("chromadb not installed. Install with: pip install chromadb")
+
             persist_path = self.persist_directory / "chroma_db" / collection_name
 
             if not persist_path.exists():
@@ -261,6 +278,12 @@ class VectorStoreManager:
             )
 
         elif self.store_type == "faiss":
+            # Lazy import
+            try:
+                from langchain_community.vectorstores import FAISS
+            except ImportError:
+                raise ImportError("faiss not installed. Install with: pip install faiss-cpu")
+
             faiss_path = self.persist_directory / "faiss_index" / collection_name
 
             if not faiss_path.exists():

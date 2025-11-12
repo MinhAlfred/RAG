@@ -7,11 +7,22 @@
 # Default target
 help:
 	@echo "RAG System Docker Commands:"
+	@echo ""
+	@echo "Local Development (with local Qdrant):"
 	@echo "  make build          - Build Docker images"
 	@echo "  make up             - Start all services"
 	@echo "  make up-dev         - Start in development mode"
 	@echo "  make up-prod        - Start in production mode"
 	@echo "  make up-full        - Start with Ollama + Eureka"
+	@echo ""
+	@echo "Cloud Deployment (Supabase + Qdrant Cloud):"
+	@echo "  make cloud-build    - Build for cloud deployment"
+	@echo "  make cloud-up       - Start cloud deployment"
+	@echo "  make cloud-down     - Stop cloud deployment"
+	@echo "  make cloud-logs     - View cloud deployment logs"
+	@echo "  make cloud-restart  - Restart cloud deployment"
+	@echo ""
+	@echo "General Commands:"
 	@echo "  make down           - Stop all services"
 	@echo "  make logs           - View logs"
 	@echo "  make logs-api       - View API logs only"
@@ -115,3 +126,67 @@ setup:
 	@echo "Setup complete! API is running at http://localhost:8000"
 	@echo "API Docs: http://localhost:8000/docs"
 	@echo "Qdrant UI: http://localhost:6333/dashboard"
+
+# ============================================
+# Cloud Deployment Commands
+# ============================================
+
+cloud-build:
+	docker-compose -f docker-compose.cloud.yml build
+
+cloud-build-no-cache:
+	docker-compose -f docker-compose.cloud.yml build --no-cache
+
+cloud-up:
+	docker-compose -f docker-compose.cloud.yml up -d
+
+cloud-up-with-nginx:
+	docker-compose -f docker-compose.cloud.yml --profile with-nginx up -d
+
+cloud-down:
+	docker-compose -f docker-compose.cloud.yml down
+
+cloud-logs:
+	docker-compose -f docker-compose.cloud.yml logs -f
+
+cloud-logs-api:
+	docker-compose -f docker-compose.cloud.yml logs -f rag-api
+
+cloud-restart:
+	docker-compose -f docker-compose.cloud.yml restart
+
+cloud-restart-api:
+	docker-compose -f docker-compose.cloud.yml restart rag-api
+
+cloud-shell:
+	docker-compose -f docker-compose.cloud.yml exec rag-api /bin/bash
+
+cloud-ps:
+	docker-compose -f docker-compose.cloud.yml ps
+
+cloud-health:
+	curl http://localhost:8000/health | jq
+
+cloud-stats:
+	curl http://localhost:8000/stats | jq
+
+cloud-setup:
+	@echo "==================================================="
+	@echo "Cloud Deployment Setup"
+	@echo "==================================================="
+	@echo ""
+	@echo "Step 1: Configure environment variables"
+	@cp -n .env.docker .env 2>/dev/null || echo ".env already exists"
+	@echo "  -> Edit .env with your cloud credentials:"
+	@echo "     - GOOGLE_API_KEY"
+	@echo "     - QDRANT_URL and QDRANT_API_KEY"
+	@echo "     - Supabase credentials (user, password, host, dbname)"
+	@echo "     - RAG_API_KEY"
+	@echo ""
+	@echo "Step 2: Build and start services"
+	@echo "  -> Run: make cloud-build && make cloud-up"
+	@echo ""
+	@echo "Step 3: Check health"
+	@echo "  -> Run: make cloud-health"
+	@echo ""
+	@echo "==================================================="

@@ -1,0 +1,94 @@
+services:
+  # ============================================
+  # RAG API Service (Cloud Mode)
+  # ============================================
+  rag-api:
+    build:
+      context: .
+      dockerfile: Dockerfile.cloud  # Use optimized cloud Dockerfile
+    container_name: rag-api-cloud
+    restart: unless-stopped
+    ports:
+      - "8000:8000"
+    volumes:
+      # Mount data directory for any local caching
+      - ./data:/app/data
+      # Mount logs directory
+      - ./logs:/app/logs
+      # Mount .env file
+      - ./.env:/app/.env:ro
+    environment:
+      - PYTHONUNBUFFERED=1
+
+      # LLM Settings
+      - LLM_TYPE=${LLM_TYPE:-gemini}
+      - MODEL_NAME=${MODEL_NAME:-gemini-2.5-flash}
+      - GOOGLE_API_KEY=${GOOGLE_API_KEY}
+
+      # Embedding Settings
+      - EMBEDDING_MODEL=${EMBEDDING_MODEL:-multilingual}
+      - EMBEDDING_DEVICE=${EMBEDDING_DEVICE:-cpu}
+
+      # Qdrant Cloud Settings
+      - QDRANT_URL=${QDRANT_URL}
+      - QDRANT_API_KEY=${QDRANT_API_KEY}
+      - QDRANT_PREFER_GRPC=${QDRANT_PREFER_GRPC:-false}
+      - COLLECTION_NAME_PREFIX=${COLLECTION_NAME_PREFIX:-sgk_tin}
+
+      # Supabase PostgreSQL Settings
+      # - DATABASE_URL=${DATABASE_URL}
+      # OR use separate parameters:
+      - user=${user}
+      - password=${password}
+      - host=${host}
+      - port=${port:-5432}
+      - dbname=${dbname:-postgres}
+
+      # API Security
+      - RAG_API_KEY=${RAG_API_KEY}
+      - CORS_ORIGINS=${CORS_ORIGINS:-*}
+
+      # Logging
+      - LOG_LEVEL=${LOG_LEVEL:-INFO}
+      - DEBUG=${DEBUG:-false}
+
+      # Optional: Eureka Service Discovery
+      - EUREKA_SERVER=${EUREKA_SERVER:-}
+      - APP_NAME=${APP_NAME:-python-rag-service}
+      - APP_PORT=8000
+
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 60s
+
+    # No networks needed for single service
+
+  # ============================================
+  # Optional: Nginx Reverse Proxy
+  # ============================================
+  nginx:
+    image: nginx:alpine
+    container_name: rag-nginx
+    restart: unless-stopped
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - ./nginx.conf:/etc/nginx/nginx.conf:ro
+      - ./ssl:/etc/nginx/ssl:ro
+    depends_on:
+      - rag-api
+    profiles:
+      - with-nginx  # Start with: docker-compose -f docker-compose.cloud.yml --profile with-nginx up
+
+# ============================================
+# Volumes
+# ============================================
+volumes:
+  data:
+    name: rag-cloud-data
+  logs:
+    name: rag-cloud-logs

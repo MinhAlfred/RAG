@@ -4,7 +4,9 @@
       "Bash(python:*)",
       "Bash(timeout 5 echo:*)",
       "Bash(curl:*)",
-      "Bash(timeout 10 echo:*)"
+      "Bash(timeout 10 echo:*)",
+      "Bash(docker-compose:*)",
+      "Bash(timeout 60 bash:*)"
     ],
     "deny": [],
     "ask": []
