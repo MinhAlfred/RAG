@@ -3,9 +3,10 @@ services:
   # RAG API Service (Cloud Mode)
   # ============================================
   rag-api:
-    build:
-      context: .
-      dockerfile: Dockerfile.cloud  # Use optimized cloud Dockerfile
+    image: alfred0324/rag-api:latest  # Pull from Docker Hub
+    # build:
+    #   context: .
+    #   dockerfile: Dockerfile.cloud  # Use optimized cloud Dockerfile
     container_name: rag-api-cloud
     restart: unless-stopped
     ports:
@@ -16,7 +17,7 @@ services:
       # Mount logs directory
       - ./logs:/app/logs
       # Mount .env file
-      - ./.env:/app/.env:ro
+      # - ./.env:/app/.env:ro
     environment:
       - PYTHONUNBUFFERED=1
 
@@ -46,16 +47,9 @@ services:
 
       # API Security
       - RAG_API_KEY=${RAG_API_KEY}
-      - CORS_ORIGINS=${CORS_ORIGINS:-*}
 
       # Logging
-      - LOG_LEVEL=${LOG_LEVEL:-INFO}
       - DEBUG=${DEBUG:-false}
-
-      # Optional: Eureka Service Discovery
-      - EUREKA_SERVER=${EUREKA_SERVER:-}
-      - APP_NAME=${APP_NAME:-python-rag-service}
-      - APP_PORT=8000
 
     healthcheck:
       test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
