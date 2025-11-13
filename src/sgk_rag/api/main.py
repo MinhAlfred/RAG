@@ -22,7 +22,6 @@ from ..models.dto import (
 )
 from .slide_generator import SlideGenerator
 from .mindmap_generator import MindmapGenerator
-from .eureka_config import EurekaConfig, register_with_eureka_async, stop_eureka_async
 from .auth import verify_api_key
 from .chat_api import router as chat_router
 from ..core.database import get_db_manager
@@ -105,14 +104,6 @@ async def startup_event():
         else:
             logger.warning(f"Test response: {str(test_response)[:80]}...")
 
-        # Register with Eureka (if configured)
-        try:
-            eureka_config = EurekaConfig.from_env()
-            await register_with_eureka_async(eureka_config, health_check_url="/health")
-        except Exception as e:
-            logger.warning(f"Eureka registration skipped: {e}")
-            logger.info("Service will run without service discovery")
-
         # Initialize database (if DATABASE_URL or separate params are configured)
         has_db_config = (
             settings.DATABASE_URL or
@@ -138,7 +129,6 @@ async def shutdown_event():
     """Cleanup khi shutdown server"""
     try:
         logger.info("Shutting down...")
-        await stop_eureka_async()
 
         # Close database connections
         has_db_config = (

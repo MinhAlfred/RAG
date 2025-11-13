@@ -61,11 +61,6 @@ services:
       # Embedding Settings
       - EMBEDDING_MODEL=${EMBEDDING_MODEL:-multilingual}
       - EMBEDDING_DEVICE=${EMBEDDING_DEVICE:-cpu}
-
-      # Service Discovery
-      - EUREKA_SERVER=${EUREKA_SERVER:-http://eureka:8761/eureka/}
-      - APP_NAME=${APP_NAME:-python-rag-service}
-      - APP_PORT=8000
     depends_on:
       qdrant:
         condition: service_healthy
@@ -95,24 +90,6 @@ services:
       - rag-network
     profiles:
       - with-ollama  # Only start with: docker-compose --profile with-ollama up
-
-  # ============================================
-  # Optional: Eureka Server (for microservices)
-  # ============================================
-  eureka:
-    image: steeltoeoss/eureka-server:latest
-    container_name: rag-eureka
-    restart: unless-stopped
-    ports:
-      - "8761:8761"
-    environment:
-      - SPRING_APPLICATION_NAME=eureka-server
-      - EUREKA_CLIENT_REGISTER_WITH_EUREKA=false
-      - EUREKA_CLIENT_FETCH_REGISTRY=false
-    networks:
-      - rag-network
-    profiles:
-      - with-eureka  # Only start with: docker-compose --profile with-eureka up
 
 # ============================================
 # Networks

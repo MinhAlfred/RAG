@@ -44,7 +44,6 @@ google-generativeai>=0.8.3,<1.0.0
 tqdm>=4.67.1,<5.0.0
 numpy>=2.0.0,<2.3.0
 protobuf>=5.0.0,<6.0.0
-py-eureka-client>=0.13.2,<1.0.0  # Optional: for service discovery
 urllib3>=1.26.0,<2.4.0
 ddgs>=9.0.0,<10.0.0  # For web search
 
