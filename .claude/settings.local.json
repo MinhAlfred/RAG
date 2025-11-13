@@ -6,7 +6,9 @@
       "Bash(curl:*)",
       "Bash(timeout 10 echo:*)",
       "Bash(docker-compose:*)",
-      "Bash(timeout 60 bash:*)"
+      "Bash(timeout 60 bash:*)",
+      "Bash(find:*)",
+      "Bash(nul)"
     ],
     "deny": [],
     "ask": []

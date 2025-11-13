@@ -32,11 +32,10 @@ class MindmapRequest(BaseModel):
     """Request model cho tạo mindmap"""
     topic: str = Field(..., description="Chủ đề chính của mindmap", min_length=1)
     grade: Optional[int] = Field(None, description="Lớp học (3-12)", ge=3, le=12)
-    max_depth: int = Field(default=3, description="Độ sâu tối đa của cây (1-5)", ge=1, le=5)
-    max_branches: int = Field(default=6, description="Số nhánh chính tối đa", ge=3, le=10)
-    include_examples: bool = Field(default=False, description="Có bao gồm ví dụ cụ thể không")
-    collection_name: Optional[str] = Field(None, description="Tên collection trong Qdrant")
-
+    maxDepth: int = Field(default=3, description="Độ sâu tối đa của cây (1-5)", ge=1, le=5)
+    maxBranches: int = Field(default=6, description="Số nhánh chính tối đa", ge=3, le=10)
+    includeExamples: bool = Field(default=False, description="Có bao gồm ví dụ cụ thể không")
+    collectionName: Optional[str] = Field(None, description="Tên collection trong Qdrant")
 
 class MindmapResponse(BaseModel):
     """Response model cho tạo mindmap"""
@@ -45,10 +44,10 @@ class MindmapResponse(BaseModel):
     connections: List[MindmapConnection] = Field(..., description="Danh sách kết nối giữa các nodes")
     topic: str = Field(..., description="Chủ đề mindmap")
     grade: Optional[int] = Field(None, description="Lớp học")
-    total_nodes: int = Field(..., description="Tổng số nodes (bao gồm center)")
-    max_depth: int = Field(..., description="Độ sâu thực tế của cây")
+    totalNodes: int = Field(..., description="Tổng số nodes (bao gồm center)")
+    maxDepth: int = Field(..., description="Độ sâu thực tế của cây")
     status: str = Field(default="success", description="Trạng thái (success/error)")
-    processing_time: Optional[float] = Field(None, description="Thời gian xử lý (giây)")
+    processingTime: Optional[float] = Field(None, description="Thời gian xử lý (giây)")
     error: Optional[str] = Field(None, description="Thông báo lỗi nếu có")
     sources: Optional[List[str]] = Field(None, description="Nguồn tham khảo")
 

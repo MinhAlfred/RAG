@@ -44,7 +44,7 @@ class MindmapGenerator:
             # 2. Tạo primary branches (level 1)
             primary_nodes = self._generate_primary_branches(
                 request.topic,
-                request.max_branches,
+                request.maxBranches,
                 request.grade
             )
 
@@ -58,14 +58,14 @@ class MindmapGenerator:
 
             # 4. Tạo secondary và tertiary branches (level 2, 3)
             all_nodes = list(primary_nodes)
-            if request.max_depth >= 2:
+            if request.maxDepth >= 2:
                 secondary_result = self._generate_child_branches(
                     primary_nodes,
                     request.topic,
                     request.grade,
                     level=2,
-                    max_depth=request.max_depth,
-                    include_examples=request.include_examples
+                    max_depth=request.maxDepth,
+                    include_examples=request.includeExamples
                 )
                 all_nodes.extend(secondary_result['nodes'])
                 connections.extend(secondary_result['connections'])
@@ -84,8 +84,8 @@ class MindmapGenerator:
                 connections=connections,
                 topic=request.topic,
                 grade=request.grade,
-                total_nodes=len(all_nodes) + 1,  # +1 for center
-                max_depth=actual_depth,
+                totalNodes=len(all_nodes) + 1,  # +1 for center
+                maxDepth=actual_depth,
                 status="success",
                 processing_time=processing_time,
                 sources=sources
@@ -99,8 +99,8 @@ class MindmapGenerator:
                 connections=[],
                 topic=request.topic,
                 grade=request.grade,
-                total_nodes=1,
-                max_depth=0,
+                totalNodes=1,
+                maxDepth=0,
                 status="error",
                 processing_time=processing_time,
                 error=str(e)
@@ -329,21 +329,41 @@ Khái niệm con 2"""
         return branches
 
     def _create_node_id(self, label: str, parent_id: str = None) -> str:
-        """Tạo ID cho node từ label"""
-        # Convert to lowercase and remove special chars
-        node_id = label.lower()
-        node_id = re.sub(r'[^a-z0-9\s]', '', node_id)
-        node_id = re.sub(r'\s+', '_', node_id.strip())
+        """Tạo ID cho node từ label theo chuẩn camelCase"""
+        import unicodedata
+
+        # Normalize Vietnamese characters to ASCII
+        node_id = label
+        # Remove Vietnamese tone marks
+        node_id = unicodedata.normalize('NFD', node_id)
+        node_id = ''.join(char for char in node_id if unicodedata.category(char) != 'Mn')
+
+        # Remove special chars, keep only alphanumeric and spaces
+        node_id = re.sub(r'[^a-zA-Z0-9\s]', '', node_id)
+
+        # Split into words and convert to camelCase
+        words = node_id.strip().split()
+        if not words:
+            return "node"
+
+        # First word lowercase, rest capitalize first letter
+        camel_case = words[0].lower() + ''.join(word.capitalize() for word in words[1:])
 
         # Truncate if too long
-        if len(node_id) > 30:
-            node_id = node_id[:30]
+        if len(camel_case) > 30:
+            camel_case = camel_case[:30]
 
         # Add parent prefix if provided (to ensure uniqueness)
         if parent_id and parent_id != "center":
-            node_id = f"{parent_id[:10]}_{node_id}"
+            # Get first 10 chars of parent_id as prefix
+            prefix = parent_id[:10]
+            camel_case = prefix + camel_case.capitalize()
 
-        return node_id or "node"
+            # Re-check length after adding prefix
+            if len(camel_case) > 40:
+                camel_case = camel_case[:40]
+
+        return camel_case or "node"
 
     def _create_fallback_primary_branches(
         self,
