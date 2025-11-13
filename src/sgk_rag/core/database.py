@@ -32,10 +32,15 @@ class DatabaseManager:
             "postgresql://", "postgresql+asyncpg://"
         )
 
+        # Tối ưu cho Supabase Session Pooler (giới hạn 1-3 connections)
         self.async_engine = create_async_engine(
             self.async_database_url,
             echo=settings.DEBUG,
             pool_pre_ping=True,
+            pool_size=1,              # CHỈ 1 connection trong pool
+            max_overflow=1,           # Tối đa 2 connections đồng thời
+            pool_timeout=30,          # Wait 30s nếu pool đầy
+            pool_recycle=300,         # Recycle connection sau 5 phút
         )
 
         self.async_session_factory = async_sessionmaker(
