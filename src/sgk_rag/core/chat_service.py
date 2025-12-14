@@ -90,7 +90,7 @@ class ChatService:
 
         logger.info(f"✅ Created conversation {conversation.id} for user {request.user_id}")
 
-        return ConversationResponse.model_validate(self._conversation_to_mapping(conversation))
+        return ConversationResponse.model_validate(conversation)
 
     async def get_conversation(
         self,

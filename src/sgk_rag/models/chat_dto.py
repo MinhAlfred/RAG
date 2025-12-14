@@ -4,7 +4,7 @@ from pydantic import BaseModel, Field
 from typing import List, Optional, Dict, Any
 from datetime import datetime
 from enum import Enum
-
+from uuid import UUID
 
 class MessageRole(str, Enum):
     """Message role enum"""
@@ -44,8 +44,8 @@ class ConversationUpdateRequest(BaseModel):
 
 class ChatMessageResponse(BaseModel):
     """Single chat message"""
-    id: str
-    conversation_id: str
+    id: UUID
+    conversation_id: UUID
     role: MessageRole
     content: str
     sources: Optional[List[Dict[str, Any]]] = None
@@ -62,7 +62,7 @@ class ChatMessageResponse(BaseModel):
 
 class ConversationResponse(BaseModel):
     """Conversation details"""
-    id: str
+    id: UUID
     user_id: str
     title: Optional[str]
     grade: Optional[int]
@@ -70,11 +70,16 @@ class ConversationResponse(BaseModel):
     created_at: datetime
     updated_at: datetime
     is_archived: bool
-    metadata: Optional[Dict[str, Any]]
+    metadata: Optional[Dict[str, Any]] = Field(
+        default=None,
+        alias="metadata_json"
+    )
+
     message_count: Optional[int] = None
 
     class Config:
         from_attributes = True
+        populate_by_name = True
 
 
 class ConversationWithMessagesResponse(BaseModel):
@@ -86,8 +91,8 @@ class ConversationWithMessagesResponse(BaseModel):
 
 class ChatResponse(BaseModel):
     """Response after sending a chat message"""
-    conversation_id: str
-    message_id: str
+    conversation_id: UUID
+    message_id: UUID
     user_message: ChatMessageResponse
     assistant_message: ChatMessageResponse
     status: str = "success"
@@ -106,4 +111,4 @@ class DeleteResponse(BaseModel):
     """Response after deleting a resource"""
     success: bool
     message: str
-    deleted_id: str
+    deleted_id: UUID

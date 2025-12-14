@@ -1,6 +1,7 @@
 """Slide Generator - Tạo nội dung slide từ SGK Informatics"""
 
 import json
+import re
 import time
 from typing import List, Dict, Optional, Any, Union
 from pathlib import Path
@@ -872,8 +873,50 @@ Nội dung về {section} trong {topic}.
                 key_points=["Thảo luận", "Trình bày", "Nhận xét"]
             )
     
+    def _remove_markdown_formatting(self, text: str) -> str:
+        """Remove all markdown formatting from text"""
+        # Remove code blocks (```code```)
+        text = re.sub(r'```[\s\S]*?```', '', text)
+
+        # Remove inline code with backticks (`code`)
+        text = re.sub(r'`([^`]+)`', r'\1', text)
+        # Remove any remaining backticks
+        text = text.replace('`', '')
+
+        # Remove bold (**text** or __text__)
+        text = re.sub(r'\*\*([^\*]+)\*\*', r'\1', text)
+        text = re.sub(r'__([^_]+)__', r'\1', text)
+
+        # Remove italic (*text* or _text_)
+        text = re.sub(r'\*([^\*]+)\*', r'\1', text)
+        text = re.sub(r'_([^_]+)_', r'\1', text)
+
+        # Remove any remaining ** or * (bold/italic markers that don't wrap text)
+        text = text.replace('**', '')
+        text = text.replace('*', '')
+
+        # Remove links [text](url)
+        text = re.sub(r'\[([^\]]+)\]\([^\)]+\)', r'\1', text)
+
+        # Remove heading markers (###, ##, #)
+        text = re.sub(r'^#{1,6}\s+', '', text, flags=re.MULTILINE)
+
+        # Remove strikethrough (~~text~~)
+        text = re.sub(r'~~([^~]+)~~', r'\1', text)
+
+        # Remove horizontal rules (---, ___, ***)
+        text = re.sub(r'^[\-_\*]{3,}$', '', text, flags=re.MULTILINE)
+
+        # Remove remaining underscores (from __text__)
+        text = text.replace('__', '')
+
+        return text.strip()
+
     def _make_bullet_concise(self, text: str, max_chars: int = 80) -> str:
         """Make bullet point concise for better presentation"""
+        # First remove markdown formatting
+        text = self._remove_markdown_formatting(text)
+
         # Remove extra whitespace
         text = ' '.join(text.split())
 

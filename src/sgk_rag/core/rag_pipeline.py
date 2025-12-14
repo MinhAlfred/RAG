@@ -63,17 +63,22 @@ class RAGPipeline:
         # Initialize LLM
         self.llm = self._initialize_llm(model_name)
 
-        # Initialize web search (always enabled)
-        self.web_search = WebSearchManager(
-            max_results=settings.WEB_SEARCH_MAX_RESULTS,
-            region=settings.WEB_SEARCH_REGION
-        )
-        logger.info("🌐 Web search enabled - always combining knowledge base + web search")
+        # Initialize web search (conditional based on settings)
+        if settings.WEB_SEARCH_ENABLED:
+            self.web_search = WebSearchManager(
+                max_results=settings.WEB_SEARCH_MAX_RESULTS,
+                region=settings.WEB_SEARCH_REGION
+            )
+            logger.info("🌐 Web search enabled - combining knowledge base + web search")
+        else:
+            self.web_search = None
+            logger.info("📚 Web search disabled - using knowledge base only")
 
-        # Create RAG chain (combines both sources)
+        # Create RAG chain
         self.rag_chain = self._create_rag_chain()
 
-        logger.info(f"RAG Pipeline initialized (LLM: {llm_type}, Mode: Knowledge Base + Web Search)")
+        mode = "Knowledge Base + Web Search" if settings.WEB_SEARCH_ENABLED else "Knowledge Base Only"
+        logger.info(f"RAG Pipeline initialized (LLM: {llm_type}, Mode: {mode})")
     
     def _load_vector_store(self):
         """
@@ -289,10 +294,14 @@ Trả lời:
 
                 return "\n\n---\n\n".join(formatted)
 
-            # Get web search results (always)
-            logger.info("🌐 Performing web search...")
-            web_results = self.web_search.search_and_format(question)
-            web_search_used = web_results and "Không tìm thấy" not in web_results
+            # Get web search results (conditional)
+            web_search_used = False
+            if self.web_search is not None:
+                logger.info("🌐 Performing web search...")
+                web_results = self.web_search.search_and_format(question)
+                web_search_used = web_results and "Không tìm thấy" not in web_results
+            else:
+                web_results = None
 
             # Combine contexts from both sources
             context_parts = []
@@ -302,7 +311,7 @@ Trả lời:
                 context_parts.append(f"Thông tin từ sách giáo khoa:\n{kb_context}")
                 logger.info(f"✅ Using {len(retrieved_docs)} documents from knowledge base")
 
-            if web_search_used:
+            if web_search_used and web_results:
                 context_parts.append(f"Thông tin bổ sung từ tìm kiếm web:\n{web_results}")
                 logger.info("✅ Using web search results")
 

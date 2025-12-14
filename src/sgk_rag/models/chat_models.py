@@ -4,8 +4,9 @@ from datetime import datetime
 from typing import Optional
 from sqlalchemy import Column, String, Text, DateTime, Integer, Boolean, JSON, ForeignKey
 from sqlalchemy.orm import declarative_base, relationship
+from sqlalchemy.dialects.postgresql import UUID
 from sqlalchemy.sql import func
-import uuid
+import uuid 
 
 Base = declarative_base()
 
@@ -14,7 +15,11 @@ class Conversation(Base):
     """Conversation/Session model - represents a chat session"""
     __tablename__ = "conversations"
 
-    id = Column(String(36), primary_key=True, default=lambda: str(uuid.uuid4()))
+    id = Column(
+        UUID(as_uuid=True),
+        primary_key=True,
+        default=uuid.uuid4
+    )
     user_id = Column(String(255), nullable=False, index=True)  # User identifier
     title = Column(String(500), nullable=True)  # Conversation title (auto-generated or user-set)
     grade = Column(Integer, nullable=True)  # Grade level for context
@@ -43,8 +48,17 @@ class ChatMessage(Base):
     """Chat message model - represents a single message in a conversation"""
     __tablename__ = "chat_messages"
 
-    id = Column(String(36), primary_key=True, default=lambda: str(uuid.uuid4()))
-    conversation_id = Column(String(36), ForeignKey("conversations.id", ondelete="CASCADE"), nullable=False, index=True)
+    id = Column(
+        UUID(as_uuid=True),
+        primary_key=True,
+        default=uuid.uuid4
+    )
+    conversation_id = Column(
+    UUID(as_uuid=True),
+    ForeignKey("conversations.id", ondelete="CASCADE"),
+    nullable=False,
+    index=True
+)
 
     # Message content
     role = Column(String(50), nullable=False)  # 'user', 'assistant', 'system'
