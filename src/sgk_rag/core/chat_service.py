@@ -428,6 +428,6 @@ class ChatService:
 
 Câu hỏi hiện tại: {current_message}
 
-Hãy trả lời câu hỏi hiện tại với sự liên kết đến ngữ cảnh cuộc trò chuyện."""
+Hãy trả lời câu hỏi hiện tại với sự liên kết đến ngữ cảnh cuộc trò chuyện. Nếu câu hỏi hiện tại không liên quan gì đến ngữ cảnh hiện tại hay tin học thì hãy từ chối trả lời."""
 
         return enhanced
